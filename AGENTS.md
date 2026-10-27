@@ -5,7 +5,7 @@ everything they need to add resources to GoldList correctly. **Read it fully bef
 
 ## 1. What GoldList is
 
-GoldList (<https://github.com/UsmanGhias/goldlist>) is a curated "best of the best" list of **free and
+GoldList (<https://github.com/UsmanGhias/goldlist>, website <https://usmanghias.github.io/goldlist/>) is a curated "best of the best" list of **free and
 open-source** resources: jobs, career, scholarships, learning, dev tools, AI, design, media,
 productivity, research, startups and privacy. Its value is **curation, not size**. Every entry must
 be clearly among the best at what it does. When in doubt, leave it out.
@@ -17,6 +17,8 @@ be clearly among the best at what it does. When in doubt, leave it out.
 | `data/<slug>.yaml` | One file per category. **The single source of truth.** | ✅ Yes, this is where you work |
 | `scripts/add_entry.py` | CLI that adds one entry safely (cleans, dedupes, validates) | Only to improve tooling |
 | `scripts/build.py` | Validates data and generates the files below | Only to improve tooling |
+| `scripts/fetch_stars.py` | Fetches live GitHub stars for the website (CI only) | Only to improve tooling |
+| `site/` | Website (GitHub Pages) that reads `goldlist.json` | For website changes |
 | `templates/README.md.tpl` | README layout with `{{PLACEHOLDERS}}` | For layout changes |
 | `README.md` | **Generated** | ❌ Never |
 | `api/goldlist.json` | **Generated** JSON API for apps and websites | ❌ Never |
@@ -36,7 +38,9 @@ be clearly among the best at what it does. When in doubt, leave it out.
 | `students` | Students & Programs |
 | `dev-tools` | Developer Tools & Free Tiers |
 | `ai-tools` | AI Tools & Models |
-| `ai-coding` | AI Coding Agents & Skills |
+| `ai-coding` | AI Coding Agents & Tools |
+| `agent-skills` | Claude & Agent Skills |
+| `mcp` | MCP Servers |
 | `design` | Design & UI |
 | `media` | Video, Audio & Media |
 | `productivity` | Productivity & Everyday Apps |
@@ -131,7 +135,7 @@ Several related entries can go in one PR (e.g. "add 5 design tools"), but keep a
    title: Open-Source Alternatives      # full section title
    short: Alternatives                  # short label for the nav bar
    emoji: 🔁
-   order: 15                            # position in the README (existing: 1-14)
+   order: 17                            # position in the README (existing: 1-16)
    description: One line saying what's inside and who it's for.
    items:
      - name: ...
@@ -152,6 +156,7 @@ Several related entries can go in one PR (e.g. "add 5 design tools"), but keep a
 | `automerge.yml` | CodeRabbit approval (owner PRs) or `approved` label | Waits for checks, squash-merges, deletes the branch, rebuilds the README. |
 | `build.yml` | push to main, daily, manual | Regenerates README.md, api/goldlist.json and the suggestion form, then commits them. |
 | `accept-suggestion.yml` | `accepted` label on a suggestion issue | Parses the issue form, adds the entry, rebuilds, closes the issue. |
+| `pages.yml` | push to main, daily, after bot merges | Builds and deploys the website at <https://usmanghias.github.io/goldlist/> with fresh star counts. |
 | `links.yml` | weekly (Monday) | Checks every link and opens a `broken-link` issue if any are dead. |
 | Dependabot | monthly | Opens PRs to update GitHub Actions versions. |
 

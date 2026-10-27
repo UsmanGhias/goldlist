@@ -67,3 +67,8 @@ items:
     url: https://www.workingnomads.com
     desc: Curated remote jobs by category, delivered as an email digest.
     type: free
+  - name: career-ops
+    url: https://github.com/career-ops-hq/career-ops
+    desc: AI job-search agent that scores jobs against your CV and tailors your resume and cover letter.
+    type: open-source
+    added: 2026-10-27

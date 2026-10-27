@@ -1,0 +1,63 @@
+title: MCP Servers
+short: MCP
+emoji: 🔌
+order: 10
+description: Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases.
+items:
+  - name: MCP Reference Servers
+    url: https://github.com/modelcontextprotocol/servers
+    desc: Reference Model Context Protocol servers that connect AI agents to tools and data.
+    type: open-source
+    gold: true
+  - name: Context7
+    url: https://github.com/upstash/context7
+    desc: Feeds your agent up-to-date, version-specific library docs so it stops guessing APIs.
+    type: open-source
+    gold: true
+    added: 2026-10-27
+  - name: Playwright MCP
+    url: https://github.com/microsoft/playwright-mcp
+    desc: Lets agents drive a real browser to test, click through and read web pages.
+    type: open-source
+    gold: true
+    added: 2026-10-27
+  - name: GitHub MCP Server
+    url: https://github.com/github/github-mcp-server
+    desc: GitHub's official MCP server for issues, pull requests, code and Actions.
+    type: open-source
+    added: 2026-10-27
+  - name: Serena
+    url: https://github.com/oraios/serena
+    desc: Semantic code search and editing tools that work like an IDE for your agent.
+    type: open-source
+    added: 2026-10-27
+  - name: Figma Context MCP
+    url: https://github.com/GLips/Figma-Context-MCP
+    desc: Gives coding agents Figma layout data so they implement designs accurately.
+    type: open-source
+    added: 2026-10-27
+  - name: MCP Toolbox for Databases
+    url: https://github.com/googleapis/mcp-toolbox
+    desc: Google's open-source MCP server for connecting agents to your databases.
+    type: open-source
+    added: 2026-10-27
+  - name: FastMCP
+    url: https://github.com/PrefectHQ/fastmcp
+    desc: The fast, Pythonic way to build MCP servers and clients.
+    type: open-source
+    added: 2026-10-27
+  - name: MCP Inspector
+    url: https://github.com/modelcontextprotocol/inspector
+    desc: Visual tool for testing and debugging MCP servers.
+    type: open-source
+    added: 2026-10-27
+  - name: MCP for Beginners
+    url: https://github.com/microsoft/mcp-for-beginners
+    desc: Microsoft's free MCP curriculum with examples in Python, TypeScript, .NET, Java and Rust.
+    type: open-source
+    added: 2026-10-27
+  - name: awesome-mcp-servers
+    url: https://github.com/punkpeye/awesome-mcp-servers
+    desc: Large community directory of MCP servers, sorted by category.
+    type: open-source
+    added: 2026-10-27

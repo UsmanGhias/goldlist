@@ -48,6 +48,8 @@ jobs:
           gh pr checks "$PR" --watch --fail-fast --interval 15
       - name: Squash-merge
         run: gh pr merge "$PR" --squash --delete-branch --match-head-commit "$HEAD_SHA"
-      - name: Rebuild README on main
+      - name: Rebuild README and website
         # Merges made with GITHUB_TOKEN don't trigger push workflows, so start the build explicitly.
-        run: gh workflow run build.yml --ref main
+        run: |
+          gh workflow run build.yml --ref main
+          gh workflow run pages.yml --ref main

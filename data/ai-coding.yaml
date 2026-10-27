@@ -1,23 +1,14 @@
-title: AI Coding Agents & Skills
+title: AI Coding Agents & Tools
 short: AI Coding
 emoji: 🧠
 order: 8
-description: Coding agents and the skills, servers and plugins that make them far better.
+description: Terminal coding agents, spec-driven workflows and the tools that make Claude Code better.
 items:
-  - name: UI UX Pro Max Skill
-    url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
-    desc: Design-intelligence skill that helps AI coding agents build polished, professional UI.
-    type: open-source
-    gold: true
-  - name: MCP Servers
-    url: https://github.com/modelcontextprotocol/servers
-    desc: Reference Model Context Protocol servers that connect AI agents to tools and data.
-    type: open-source
-    gold: true
   - name: Gemini CLI
     url: https://github.com/google-gemini/gemini-cli
     desc: Google's open-source AI agent for the terminal, with a generous free tier.
     type: open-source
+    gold: true
   - name: Codex CLI
     url: https://github.com/openai/codex
     desc: OpenAI's open-source coding agent that runs in your terminal.
@@ -34,11 +25,59 @@ items:
     url: https://github.com/OpenHands/OpenHands
     desc: Open-source autonomous software engineering agent.
     type: open-source
-  - name: Anthropic Agent Skills
-    url: https://github.com/anthropics/skills
-    desc: Official example skills for Claude covering documents, design and development.
+  - name: Spec Kit
+    url: https://github.com/github/spec-kit
+    desc: GitHub's toolkit for spec-driven development that turns specs into plans and tasks for agents.
     type: open-source
-  - name: awesome-agent-skills
-    url: https://github.com/VoltAgent/awesome-agent-skills
-    desc: 1,000+ agent skills for Claude Code, Codex, Cursor and other agents.
+    gold: true
+    added: 2026-10-27
+  - name: BMAD Method
+    url: https://github.com/bmad-code-org/BMAD-METHOD
+    desc: Agile AI-driven development method with specialized agents for planning, architecture and delivery.
     type: open-source
+    added: 2026-10-27
+  - name: Claude Code Templates
+    url: https://github.com/davila7/claude-code-templates
+    desc: CLI for configuring and monitoring Claude Code, with ready-made agents, commands and hooks.
+    type: open-source
+    added: 2026-10-27
+  - name: Claude HUD
+    url: https://github.com/jarrodwatts/claude-hud
+    desc: Claude Code plugin showing context usage, active tools, running agents and todo progress.
+    type: open-source
+    added: 2026-10-27
+  - name: ccusage
+    url: https://github.com/ccusage/ccusage
+    desc: Analyze Claude Code token usage and costs from your local logs.
+    type: open-source
+    added: 2026-10-27
+  - name: Vibe Kanban
+    url: https://github.com/BloopAI/vibe-kanban
+    desc: Kanban board for planning and running Claude Code, Codex and other coding agents.
+    type: open-source
+    added: 2026-10-27
+  - name: CC Switch
+    url: https://github.com/farion1231/cc-switch
+    desc: Desktop app to manage providers and settings for Claude Code, Codex and other CLI agents.
+    type: open-source
+    added: 2026-10-27
+  - name: Claude Code Router
+    url: https://github.com/musistudio/claude-code-router
+    desc: Route Claude Code requests to the models and providers you choose.
+    type: open-source
+    added: 2026-10-27
+  - name: Claude How-To
+    url: https://github.com/luongnv89/claude-howto
+    desc: Visual, example-driven guide to Claude Code with copy-paste templates.
+    type: open-source
+    added: 2026-10-27
+  - name: Learn Claude Code
+    url: https://github.com/shareAI-lab/learn-claude-code
+    desc: Build a nano Claude Code-style agent harness from scratch to learn how it works.
+    type: open-source
+    added: 2026-10-27
+  - name: awesome-claude-code
+    url: https://github.com/hesreallyhim/awesome-claude-code
+    desc: Hand-picked skills, agents, hooks, status lines and tooling for Claude Code.
+    type: open-source
+    added: 2026-10-27

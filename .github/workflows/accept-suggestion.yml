@@ -10,6 +10,7 @@ on:
 permissions:
   contents: write
   issues: write
+  actions: write
 
 concurrency:
   group: build-main
@@ -50,6 +51,7 @@ jobs:
         run: |
           gh issue close "$ISSUE" --reason completed \
             --comment "🏆 **$NAME** is now on GoldList: https://github.com/$GH_REPO#$SLUG. Thank you!"
+          gh workflow run pages.yml --ref main
       - name: Report failure
         if: failure()
         run: |

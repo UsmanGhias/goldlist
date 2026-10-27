@@ -6,12 +6,13 @@
 
 <h3>Only the gold. Everything else is noise.</h3>
 
-<p><b>196 hand-picked free &amp; open-source resources</b> for finding jobs, winning scholarships, learning,<br>
-building, designing and staying safe, sorted into 14 categories and link-checked every week.</p>
+<p><b>244 hand-picked free &amp; open-source resources</b> for finding jobs, winning scholarships, learning,<br>
+building, designing and staying safe, sorted into 16 categories and link-checked every week.</p>
 
-[![Entries](https://img.shields.io/badge/entries-196-d4af37?style=for-the-badge&labelColor=1f2328)](#contents)
-[![Gold picks](https://img.shields.io/badge/gold_picks-32-d4af37?style=for-the-badge&labelColor=1f2328)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-101-2ea44f?style=for-the-badge&labelColor=1f2328)](#contents)
+[![Entries](https://img.shields.io/badge/entries-244-d4af37?style=for-the-badge&labelColor=1f2328)](#contents)
+[![Gold picks](https://img.shields.io/badge/gold_picks-38-d4af37?style=for-the-badge&labelColor=1f2328)](#gold-picks)
+[![Open source](https://img.shields.io/badge/open_source-146-2ea44f?style=for-the-badge&labelColor=1f2328)](#contents)
+[![Website](https://img.shields.io/badge/search-the_website-d4af37?style=for-the-badge&labelColor=1f2328)](https://usmanghias.github.io/goldlist/)
 <br>
 [![Links](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
 [![Last commit](https://img.shields.io/github/last-commit/UsmanGhias/goldlist?style=flat-square)](https://github.com/UsmanGhias/goldlist/commits/main)
@@ -19,7 +20,9 @@ building, designing and staying safe, sorted into 14 categories and link-checked
 [![AI reviewed](https://img.shields.io/badge/PRs_reviewed_by-CodeRabbit-ff570a?style=flat-square)](#how-it-works)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey?style=flat-square)](LICENSE)
 
-[💼 Jobs](#jobs) · [🧭 Career](#career) · [🎓 Scholarships](#scholarships) · [📚 Learning](#learning) · [🧑‍🎓 Students](#students) · [🛠️ Dev Tools](#dev-tools) · [🤖 AI Tools](#ai-tools) · [🧠 AI Coding](#ai-coding) · [🎨 Design](#design) · [🎬 Media](#media) · [⚡ Productivity](#productivity) · [🔬 Research](#research) · [🚀 Startups](#startups) · [🔒 Privacy](#privacy-security)
+[💼 Jobs](#jobs) · [🧭 Career](#career) · [🎓 Scholarships](#scholarships) · [📚 Learning](#learning) · [🧑‍🎓 Students](#students) · [🛠️ Dev Tools](#dev-tools) · [🤖 AI Tools](#ai-tools) · [🧠 AI Coding](#ai-coding) · [🧩 Skills](#agent-skills) · [🔌 MCP](#mcp) · [🎨 Design](#design) · [🎬 Media](#media) · [⚡ Productivity](#productivity) · [🔬 Research](#research) · [🚀 Startups](#startups) · [🔒 Privacy](#privacy-security)
+
+**[🔎 Search &amp; filter all 244 on the website →](https://usmanghias.github.io/goldlist/)**
 
 <sub>⭐ <b>Star this repo</b> to keep it one click away. New gold is added every week.</sub>
 
@@ -34,7 +37,7 @@ You've bookmarked hundreds of "useful tools" and can't find any of them when you
 <table>
 <tr>
 <td width="25%" valign="top"><b>🏆 Curated, not collected</b><br><sub>Every entry earns its place. Categories stay short, so you only see what's worth your time.</sub></td>
-<td width="25%" valign="top"><b>🧭 One place for everything</b><br><sub>Jobs, scholarships, courses, dev tools, AI, design, media, research and privacy, all in one list.</sub></td>
+<td width="25%" valign="top"><b>🧭 One place for everything</b><br><sub>Jobs, scholarships, courses, dev tools, Claude skills, MCP servers, design, media and privacy, all in one list.</sub></td>
 <td width="25%" valign="top"><b>✅ Always alive</b><br><sub>A bot checks every link weekly. Every change is reviewed by AI and validated before it merges.</sub></td>
 <td width="25%" valign="top"><b>🏷️ Honest labels</b><br><sub>Open source, fully free, or free tier, plus live GitHub stars, so you know exactly what you're getting.</sub></td>
 </tr>
@@ -51,6 +54,7 @@ You've bookmarked hundreds of "useful tools" and can't find any of them when you
 | 🌍 **Planning a funded master's or PhD** | [Scholarships](#scholarships) → [Research & Writing](#research) |
 | 💻 **Learning to code** | [Learning](#learning) → [Dev Tools](#dev-tools) → [AI Coding](#ai-coding) |
 | 🏗️ **Building a product** | [Dev Tools](#dev-tools) → [Startups](#startups) → [Design](#design) |
+| 🧩 **Supercharging Claude Code or any AI agent** | [Skills](#agent-skills) → [MCP Servers](#mcp) → [AI Coding](#ai-coding) |
 | 🤖 **Into AI** | [AI Tools](#ai-tools) → [AI Coding](#ai-coding) → [Learning](#learning) |
 | 🎨 **A creator** | [Design](#design) → [Media](#media) → [Productivity](#productivity) |
 | 🔐 **Privacy-conscious** | [Privacy & Security](#privacy-security) → [Productivity](#productivity) |
@@ -166,14 +170,48 @@ The best of the best. If you only open a few links today, make it these.
 </tr>
 <tr>
 <td width="33%" valign="top">
-<img src="https://github.com/nextlevelbuilder.png?size=64" width="16" height="16"> <b><a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill">UI UX Pro Max Skill</a></b><br>
-<sub>Design-intelligence skill that helps AI coding agents build polished, professional UI.</sub><br>
+<img src="https://github.com/google-gemini.png?size=64" width="16" height="16"> <b><a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a></b><br>
+<sub>Google's open-source AI agent for the terminal, with a generous free tier.</sub><br>
 <sub><a href="#ai-coding">🧠 AI Coding</a></sub>
 </td>
 <td width="33%" valign="top">
-<img src="https://github.com/modelcontextprotocol.png?size=64" width="16" height="16"> <b><a href="https://github.com/modelcontextprotocol/servers">MCP Servers</a></b><br>
-<sub>Reference Model Context Protocol servers that connect AI agents to tools and data.</sub><br>
+<img src="https://github.com/github.png?size=64" width="16" height="16"> <b><a href="https://github.com/github/spec-kit">Spec Kit</a></b><br>
+<sub>GitHub's toolkit for spec-driven development that turns specs into plans and tasks for agents.</sub><br>
 <sub><a href="#ai-coding">🧠 AI Coding</a></sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://github.com/DietrichGebert.png?size=64" width="16" height="16"> <b><a href="https://github.com/DietrichGebert/ponytail">Ponytail</a></b><br>
+<sub>Makes your coding agent favor the simplest working solution and write less, leaner code.</sub><br>
+<sub><a href="#agent-skills">🧩 Skills</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<img src="https://github.com/obra.png?size=64" width="16" height="16"> <b><a href="https://github.com/obra/superpowers">Superpowers</a></b><br>
+<sub>Skills framework that gives agents a disciplined workflow of brainstorming, planning, TDD and review.</sub><br>
+<sub><a href="#agent-skills">🧩 Skills</a></sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://github.com/nextlevelbuilder.png?size=64" width="16" height="16"> <b><a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill">UI UX Pro Max Skill</a></b><br>
+<sub>Design-intelligence skill that helps AI coding agents build polished, professional UI.</sub><br>
+<sub><a href="#agent-skills">🧩 Skills</a></sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://github.com/modelcontextprotocol.png?size=64" width="16" height="16"> <b><a href="https://github.com/modelcontextprotocol/servers">MCP Reference Servers</a></b><br>
+<sub>Reference Model Context Protocol servers that connect AI agents to tools and data.</sub><br>
+<sub><a href="#mcp">🔌 MCP</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<img src="https://github.com/upstash.png?size=64" width="16" height="16"> <b><a href="https://github.com/upstash/context7">Context7</a></b><br>
+<sub>Feeds your agent up-to-date, version-specific library docs so it stops guessing APIs.</sub><br>
+<sub><a href="#mcp">🔌 MCP</a></sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://github.com/microsoft.png?size=64" width="16" height="16"> <b><a href="https://github.com/microsoft/playwright-mcp">Playwright MCP</a></b><br>
+<sub>Lets agents drive a real browser to test, click through and read web pages.</sub><br>
+<sub><a href="#mcp">🔌 MCP</a></sub>
 </td>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=penpot.app&sz=64" width="16" height="16"> <b><a href="https://penpot.app">Penpot</a></b><br>
@@ -246,6 +284,20 @@ The best of the best. If you only open a few links today, make it these.
 </tr>
 </table>
 
+<a id="recently-added"></a>
+
+## 🆕 Recently Added
+
+- **[career-ops](https://github.com/career-ops-hq/career-ops)**: AI job-search agent that scores jobs against your CV and tailors your resume and cover letter. <sub>[💼 Jobs](#jobs) · 2026-10-27</sub>
+- **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)**: 100+ open-source AI agent, RAG and LLM app examples you can run and learn from. <sub>[🤖 AI Tools](#ai-tools) · 2026-10-27</sub>
+- **[Spec Kit](https://github.com/github/spec-kit)**: GitHub's toolkit for spec-driven development that turns specs into plans and tasks for agents. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
+- **[BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD)**: Agile AI-driven development method with specialized agents for planning, architecture and delivery. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
+- **[Claude Code Templates](https://github.com/davila7/claude-code-templates)**: CLI for configuring and monitoring Claude Code, with ready-made agents, commands and hooks. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
+- **[Claude HUD](https://github.com/jarrodwatts/claude-hud)**: Claude Code plugin showing context usage, active tools, running agents and todo progress. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
+- **[ccusage](https://github.com/ccusage/ccusage)**: Analyze Claude Code token usage and costs from your local logs. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
+- **[Vibe Kanban](https://github.com/BloopAI/vibe-kanban)**: Kanban board for planning and running Claude Code, Codex and other coding agents. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
+- **[CC Switch](https://github.com/farion1231/cc-switch)**: Desktop app to manage providers and settings for Claude Code, Codex and other CLI agents. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
+- **[Claude Code Router](https://github.com/musistudio/claude-code-router)**: Route Claude Code requests to the models and providers you choose. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
 
 <a id="contents"></a>
 
@@ -253,14 +305,16 @@ The best of the best. If you only open a few links today, make it these.
 
 | | Category | What's inside | Picks |
 | :-: | :--- | :--- | :-: |
-| 💼 | **[Jobs & Freelancing](#jobs)** | Where real openings get posted first, from remote boards to curated GitHub lists. | 15 |
+| 💼 | **[Jobs & Freelancing](#jobs)** | Where real openings get posted first, from remote boards to curated GitHub lists. | 16 |
 | 🧭 | **[Career & Interviews](#career)** | Resumes, interview prep and salary data to land the offer and negotiate it. | 12 |
 | 🎓 | **[Scholarships & Research Funding](#scholarships)** | Funded master's, PhDs and fellowships, so you can study without paying for it. | 15 |
 | 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 19 |
 | 🧑‍🎓 | **[Students & Programs](#students)** | Free licenses, credits and paid programs available only while you're a student or newcomer. | 11 |
 | 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 19 |
-| 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 14 |
-| 🧠 | **[AI Coding Agents & Skills](#ai-coding)** | Coding agents and the skills, servers and plugins that make them far better. | 9 |
+| 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 15 |
+| 🧠 | **[AI Coding Agents & Tools](#ai-coding)** | Terminal coding agents, spec-driven workflows and the tools that make Claude Code better. | 16 |
+| 🧩 | **[Claude & Agent Skills](#agent-skills)** | Drop-in skills and plugins that give Claude Code, Codex, Gemini CLI and Antigravity new abilities. | 28 |
+| 🔌 | **[MCP Servers](#mcp)** | Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases. | 11 |
 | 🎨 | **[Design & UI](#design)** | Icons, fonts, photos and design tools that look premium and cost nothing. | 18 |
 | 🎬 | **[Video, Audio & Media](#media)** | Studio-grade editing, recording and stock media at zero cost. | 12 |
 | ⚡ | **[Productivity & Everyday Apps](#productivity)** | Notes, office apps and utilities, mostly open-source alternatives to paid apps. | 15 |
@@ -277,7 +331,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 💼 Jobs & Freelancing
 
 > Where real openings get posted first, from remote boards to curated GitHub lists.<br>
-> <sub>15 picks · 3 gold</sub>
+> <sub>16 picks · 3 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -296,6 +350,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=wellfound.com&sz=64" width="20" height="20"> | **[Wellfound](https://wellfound.com)** | Startup jobs (formerly AngelList Talent) with salary and equity shown upfront. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=contra.com&sz=64" width="20" height="20"> | **[Contra](https://contra.com)** | Commission-free platform where freelancers get hired and paid. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=www.workingnomads.com&sz=64" width="20" height="20"> | **[Working Nomads](https://www.workingnomads.com)** | Curated remote jobs by category, delivered as an email digest. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://github.com/career-ops-hq.png?size=64" width="20" height="20"> | **[career-ops](https://github.com/career-ops-hq/career-ops)** | AI job-search agent that scores jobs against your CV and tailors your resume and cover letter. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/career-ops-hq/career-ops?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/career-ops-hq/career-ops) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -440,7 +495,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🤖 AI Tools & Models
 
 > Run models locally, build AI apps and automate your work.<br>
-> <sub>14 picks · 2 gold</sub>
+> <sub>15 picks · 2 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -458,27 +513,98 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/n8n-io.png?size=64" width="20" height="20"> | **[n8n](https://github.com/n8n-io/n8n)** | Fair-code workflow automation with AI agents, free to self-host as the Community Edition. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/n8n-io/n8n) |
 | <img src="https://github.com/Comfy-Org.png?size=64" width="20" height="20"> | **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** | Node-based interface for image and video generation models. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/Comfy-Org/ComfyUI) |
 | <img src="https://github.com/openai.png?size=64" width="20" height="20"> | **[Whisper](https://github.com/openai/whisper)** | OpenAI's open-source multilingual speech-to-text model. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/openai/whisper?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/openai/whisper) |
+| <img src="https://github.com/Shubhamsaboo.png?size=64" width="20" height="20"> | **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** | 100+ open-source AI agent, RAG and LLM app examples you can run and learn from. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/Shubhamsaboo/awesome-llm-apps) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
 <a id="ai-coding"></a>
 
-## 🧠 AI Coding Agents & Skills
+## 🧠 AI Coding Agents & Tools
 
-> Coding agents and the skills, servers and plugins that make them far better.<br>
-> <sub>9 picks · 2 gold</sub>
+> Terminal coding agents, spec-driven workflows and the tools that make Claude Code better.<br>
+> <sub>16 picks · 2 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
-| <img src="https://github.com/nextlevelbuilder.png?size=64" width="20" height="20"> | **[UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** 🏆 | Design-intelligence skill that helps AI coding agents build polished, professional UI. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |
-| <img src="https://github.com/modelcontextprotocol.png?size=64" width="20" height="20"> | **[MCP Servers](https://github.com/modelcontextprotocol/servers)** 🏆 | Reference Model Context Protocol servers that connect AI agents to tools and data. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/modelcontextprotocol/servers) |
-| <img src="https://github.com/google-gemini.png?size=64" width="20" height="20"> | **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** | Google's open-source AI agent for the terminal, with a generous free tier. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/google-gemini/gemini-cli) |
+| <img src="https://github.com/google-gemini.png?size=64" width="20" height="20"> | **[Gemini CLI](https://github.com/google-gemini/gemini-cli)** 🏆 | Google's open-source AI agent for the terminal, with a generous free tier. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/google-gemini/gemini-cli) |
 | <img src="https://github.com/openai.png?size=64" width="20" height="20"> | **[Codex CLI](https://github.com/openai/codex)** | OpenAI's open-source coding agent that runs in your terminal. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/openai/codex?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/openai/codex) |
 | <img src="https://github.com/Aider-AI.png?size=64" width="20" height="20"> | **[Aider](https://github.com/Aider-AI/aider)** | AI pair programming in your terminal that edits your Git repo directly. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/Aider-AI/aider?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/Aider-AI/aider) |
 | <img src="https://github.com/continuedev.png?size=64" width="20" height="20"> | **[Continue](https://github.com/continuedev/continue)** | Open-source AI code assistant for VS Code and JetBrains, using any model. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/continuedev/continue?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/continuedev/continue) |
 | <img src="https://github.com/OpenHands.png?size=64" width="20" height="20"> | **[OpenHands](https://github.com/OpenHands/OpenHands)** | Open-source autonomous software engineering agent. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/OpenHands/OpenHands?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/OpenHands/OpenHands) |
-| <img src="https://github.com/anthropics.png?size=64" width="20" height="20"> | **[Anthropic Agent Skills](https://github.com/anthropics/skills)** | Official example skills for Claude covering documents, design and development. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/anthropics/skills?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/anthropics/skills) |
+| <img src="https://github.com/github.png?size=64" width="20" height="20"> | **[Spec Kit](https://github.com/github/spec-kit)** 🏆 | GitHub's toolkit for spec-driven development that turns specs into plans and tasks for agents. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/github/spec-kit?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/github/spec-kit) |
+| <img src="https://github.com/bmad-code-org.png?size=64" width="20" height="20"> | **[BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD)** | Agile AI-driven development method with specialized agents for planning, architecture and delivery. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/bmad-code-org/BMAD-METHOD) |
+| <img src="https://github.com/davila7.png?size=64" width="20" height="20"> | **[Claude Code Templates](https://github.com/davila7/claude-code-templates)** | CLI for configuring and monitoring Claude Code, with ready-made agents, commands and hooks. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/davila7/claude-code-templates?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/davila7/claude-code-templates) |
+| <img src="https://github.com/jarrodwatts.png?size=64" width="20" height="20"> | **[Claude HUD](https://github.com/jarrodwatts/claude-hud)** | Claude Code plugin showing context usage, active tools, running agents and todo progress. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/jarrodwatts/claude-hud?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/jarrodwatts/claude-hud) |
+| <img src="https://github.com/ccusage.png?size=64" width="20" height="20"> | **[ccusage](https://github.com/ccusage/ccusage)** | Analyze Claude Code token usage and costs from your local logs. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ccusage/ccusage?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ccusage/ccusage) |
+| <img src="https://github.com/BloopAI.png?size=64" width="20" height="20"> | **[Vibe Kanban](https://github.com/BloopAI/vibe-kanban)** | Kanban board for planning and running Claude Code, Codex and other coding agents. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/BloopAI/vibe-kanban?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/BloopAI/vibe-kanban) |
+| <img src="https://github.com/farion1231.png?size=64" width="20" height="20"> | **[CC Switch](https://github.com/farion1231/cc-switch)** | Desktop app to manage providers and settings for Claude Code, Codex and other CLI agents. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/farion1231/cc-switch?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/farion1231/cc-switch) |
+| <img src="https://github.com/musistudio.png?size=64" width="20" height="20"> | **[Claude Code Router](https://github.com/musistudio/claude-code-router)** | Route Claude Code requests to the models and providers you choose. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/musistudio/claude-code-router?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/musistudio/claude-code-router) |
+| <img src="https://github.com/luongnv89.png?size=64" width="20" height="20"> | **[Claude How-To](https://github.com/luongnv89/claude-howto)** | Visual, example-driven guide to Claude Code with copy-paste templates. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/luongnv89/claude-howto) |
+| <img src="https://github.com/shareAI-lab.png?size=64" width="20" height="20"> | **[Learn Claude Code](https://github.com/shareAI-lab/learn-claude-code)** | Build a nano Claude Code-style agent harness from scratch to learn how it works. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/shareAI-lab/learn-claude-code) |
+| <img src="https://github.com/hesreallyhim.png?size=64" width="20" height="20"> | **[awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** | Hand-picked skills, agents, hooks, status lines and tooling for Claude Code. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/hesreallyhim/awesome-claude-code) |
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+<a id="agent-skills"></a>
+
+## 🧩 Claude & Agent Skills
+
+> Drop-in skills and plugins that give Claude Code, Codex, Gemini CLI and Antigravity new abilities.<br>
+> <sub>28 picks · 3 gold</sub>
+
+| | Resource | Why it's gold | Type | GitHub |
+| :-: | :--- | :--- | :-- | :-- |
+| <img src="https://github.com/DietrichGebert.png?size=64" width="20" height="20"> | **[Ponytail](https://github.com/DietrichGebert/ponytail)** 🏆 | Makes your coding agent favor the simplest working solution and write less, leaner code. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/DietrichGebert/ponytail?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/DietrichGebert/ponytail) |
+| <img src="https://github.com/obra.png?size=64" width="20" height="20"> | **[Superpowers](https://github.com/obra/superpowers)** 🏆 | Skills framework that gives agents a disciplined workflow of brainstorming, planning, TDD and review. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/obra/superpowers?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/obra/superpowers) |
+| <img src="https://github.com/nextlevelbuilder.png?size=64" width="20" height="20"> | **[UI UX Pro Max Skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** 🏆 | Design-intelligence skill that helps AI coding agents build polished, professional UI. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/nextlevelbuilder/ui-ux-pro-max-skill?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) |
+| <img src="https://github.com/anthropics.png?size=64" width="20" height="20"> | **[Anthropic Agent Skills](https://github.com/anthropics/skills)** | Official example skills for Claude covering documents, design and development. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/anthropics/skills?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/anthropics/skills) |
 | <img src="https://github.com/VoltAgent.png?size=64" width="20" height="20"> | **[awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** | 1,000+ agent skills for Claude Code, Codex, Cursor and other agents. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-agent-skills?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/VoltAgent/awesome-agent-skills) |
+| <img src="https://github.com/affaan-m.png?size=64" width="20" height="20"> | **[ECC](https://github.com/affaan-m/ECC)** | Agent harness optimization system with skills, memory, security checks and research-first workflows. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/affaan-m/ECC?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/affaan-m/ECC) |
+| <img src="https://github.com/garrytan.png?size=64" width="20" height="20"> | **[gstack](https://github.com/garrytan/gstack)** | Garry Tan's Claude Code setup, with opinionated tools that act as CEO, designer, eng manager and QA. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/garrytan/gstack) |
+| <img src="https://github.com/addyosmani.png?size=64" width="20" height="20"> | **[Agent Skills by Addy Osmani](https://github.com/addyosmani/agent-skills)** | Production-grade engineering skills for AI coding agents. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/addyosmani/agent-skills?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/addyosmani/agent-skills) |
+| <img src="https://github.com/anthropics.png?size=64" width="20" height="20"> | **[Claude Code Plugins (Official)](https://github.com/anthropics/claude-plugins-official)** | Anthropic-managed directory of high-quality Claude Code plugins. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-plugins-official?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/anthropics/claude-plugins-official) |
+| <img src="https://github.com/Leonxlnx.png?size=64" width="20" height="20"> | **[Taste Skill](https://github.com/Leonxlnx/taste-skill)** | Gives coding agents design taste through art direction, reference images and a browser check. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/Leonxlnx/taste-skill) |
+| <img src="https://github.com/Nutlope.png?size=64" width="20" height="20"> | **[Hallmark](https://github.com/Nutlope/hallmark)** | Anti-AI-slop design skill for Claude Code, Cursor and Codex. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/Nutlope/hallmark?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/Nutlope/hallmark) |
+| <img src="https://github.com/thedotmack.png?size=64" width="20" height="20"> | **[claude-mem](https://github.com/thedotmack/claude-mem)** | Captures what your agent does and feeds the relevant context back into future sessions. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/thedotmack/claude-mem) |
+| <img src="https://github.com/OthmanAdi.png?size=64" width="20" height="20"> | **[Planning with Files](https://github.com/OthmanAdi/planning-with-files)** | Persistent markdown plans that survive /clear and compaction during long-running agent tasks. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/OthmanAdi/planning-with-files?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/OthmanAdi/planning-with-files) |
+| <img src="https://github.com/EveryInc.png?size=64" width="20" height="20"> | **[Compound Engineering](https://github.com/EveryInc/compound-engineering-plugin)** | Every's plan, build and review plugin, where each finished task makes the next one easier. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/EveryInc/compound-engineering-plugin?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/EveryInc/compound-engineering-plugin) |
+| <img src="https://github.com/tt-a1i.png?size=64" width="20" height="20"> | **[Archify](https://github.com/tt-a1i/archify)** | Turns any idea, plan or codebase into an interactive diagram. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/tt-a1i/archify?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/tt-a1i/archify) |
+| <img src="https://github.com/mvanhorn.png?size=64" width="20" height="20"> | **[last30days](https://github.com/mvanhorn/last30days-skill)** | Researches any topic across Reddit, X, YouTube, HN and the web, then writes a grounded summary. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/mvanhorn/last30days-skill) |
+| <img src="https://github.com/blader.png?size=64" width="20" height="20"> | **[Humanizer](https://github.com/blader/humanizer)** | Removes the telltale signs of AI-generated writing from text. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/blader/humanizer?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/blader/humanizer) |
+| <img src="https://github.com/coreyhaines31.png?size=64" width="20" height="20"> | **[Marketing Skills](https://github.com/coreyhaines31/marketingskills)** | Skills for CRO, copywriting, SEO, analytics and growth engineering. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/coreyhaines31/marketingskills?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/coreyhaines31/marketingskills) |
+| <img src="https://github.com/K-Dense-AI.png?size=64" width="20" height="20"> | **[Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills)** | Ready-to-use skills and scientific databases for biology, chemistry, medicine and drug discovery. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/K-Dense-AI/scientific-agent-skills) |
+| <img src="https://github.com/kepano.png?size=64" width="20" height="20"> | **[Obsidian Skills](https://github.com/kepano/obsidian-skills)** | Skills from Obsidian's CEO that teach agents the Obsidian CLI and formats like Bases and JSON Canvas. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/kepano/obsidian-skills) |
+| <img src="https://github.com/cloudflare.png?size=64" width="20" height="20"> | **[Security Audit Skill](https://github.com/cloudflare/security-audit-skill)** | Cloudflare's multi-phase security audit skill with independently verified, machine-readable findings. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/cloudflare/security-audit-skill?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/cloudflare/security-audit-skill) |
+| <img src="https://github.com/vercel-labs.png?size=64" width="20" height="20"> | **[Vercel Agent Skills](https://github.com/vercel-labs/agent-skills)** | Vercel's official collection of agent skills. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/vercel-labs/agent-skills?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/vercel-labs/agent-skills) |
+| <img src="https://github.com/google.png?size=64" width="20" height="20"> | **[Google Skills](https://github.com/google/skills)** | Official agent skills for Google products and technologies. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/google/skills?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/google/skills) |
+| <img src="https://github.com/wshobson.png?size=64" width="20" height="20"> | **[Agents Plugin Marketplace](https://github.com/wshobson/agents)** | Plugin marketplace of agents and skills for Claude Code, Codex, Cursor, Copilot and Antigravity. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/wshobson/agents?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/wshobson/agents) |
+| <img src="https://github.com/VoltAgent.png?size=64" width="20" height="20"> | **[Claude Code Subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)** | 100+ specialized subagents for Claude Code across many development use cases. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/VoltAgent/awesome-claude-code-subagents) |
+| <img src="https://github.com/vercel-labs.png?size=64" width="20" height="20"> | **[skills CLI](https://github.com/vercel-labs/skills)** | Install and manage agent skills from the open ecosystem with npx skills. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/vercel-labs/skills?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/vercel-labs/skills) |
+| <img src="https://github.com/NVIDIA.png?size=64" width="20" height="20"> | **[SkillSpector](https://github.com/NVIDIA/SkillSpector)** | Scans agent skills for prompt injection, data exfiltration and supply-chain risks before you install. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/NVIDIA/SkillSpector?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/NVIDIA/SkillSpector) |
+| <img src="https://github.com/ComposioHQ.png?size=64" width="20" height="20"> | **[awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills)** | Curated list of Claude Skills, resources and tools. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ComposioHQ/awesome-claude-skills) |
+
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
+<a id="mcp"></a>
+
+## 🔌 MCP Servers
+
+> Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases.<br>
+> <sub>11 picks · 3 gold</sub>
+
+| | Resource | Why it's gold | Type | GitHub |
+| :-: | :--- | :--- | :-- | :-- |
+| <img src="https://github.com/modelcontextprotocol.png?size=64" width="20" height="20"> | **[MCP Reference Servers](https://github.com/modelcontextprotocol/servers)** 🏆 | Reference Model Context Protocol servers that connect AI agents to tools and data. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/modelcontextprotocol/servers) |
+| <img src="https://github.com/upstash.png?size=64" width="20" height="20"> | **[Context7](https://github.com/upstash/context7)** 🏆 | Feeds your agent up-to-date, version-specific library docs so it stops guessing APIs. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/upstash/context7?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/upstash/context7) |
+| <img src="https://github.com/microsoft.png?size=64" width="20" height="20"> | **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** 🏆 | Lets agents drive a real browser to test, click through and read web pages. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/microsoft/playwright-mcp) |
+| <img src="https://github.com/github.png?size=64" width="20" height="20"> | **[GitHub MCP Server](https://github.com/github/github-mcp-server)** | GitHub's official MCP server for issues, pull requests, code and Actions. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/github/github-mcp-server?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/github/github-mcp-server) |
+| <img src="https://github.com/oraios.png?size=64" width="20" height="20"> | **[Serena](https://github.com/oraios/serena)** | Semantic code search and editing tools that work like an IDE for your agent. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/oraios/serena?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/oraios/serena) |
+| <img src="https://github.com/GLips.png?size=64" width="20" height="20"> | **[Figma Context MCP](https://github.com/GLips/Figma-Context-MCP)** | Gives coding agents Figma layout data so they implement designs accurately. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/GLips/Figma-Context-MCP?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/GLips/Figma-Context-MCP) |
+| <img src="https://github.com/googleapis.png?size=64" width="20" height="20"> | **[MCP Toolbox for Databases](https://github.com/googleapis/mcp-toolbox)** | Google's open-source MCP server for connecting agents to your databases. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/googleapis/mcp-toolbox?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/googleapis/mcp-toolbox) |
+| <img src="https://github.com/PrefectHQ.png?size=64" width="20" height="20"> | **[FastMCP](https://github.com/PrefectHQ/fastmcp)** | The fast, Pythonic way to build MCP servers and clients. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/PrefectHQ/fastmcp?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/PrefectHQ/fastmcp) |
+| <img src="https://github.com/modelcontextprotocol.png?size=64" width="20" height="20"> | **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** | Visual tool for testing and debugging MCP servers. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/modelcontextprotocol/inspector) |
+| <img src="https://github.com/microsoft.png?size=64" width="20" height="20"> | **[MCP for Beginners](https://github.com/microsoft/mcp-for-beginners)** | Microsoft's free MCP curriculum with examples in Python, TypeScript, .NET, Java and Rust. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/mcp-for-beginners?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/microsoft/mcp-for-beginners) |
+| <img src="https://github.com/punkpeye.png?size=64" width="20" height="20"> | **[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** | Large community directory of MCP servers, sorted by category. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/punkpeye/awesome-mcp-servers) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -659,6 +785,7 @@ flowchart LR
 - **AI review:** [CodeRabbit](https://coderabbit.ai) reviews every pull request against the [quality bar](CONTRIBUTING.md#the-bar).
 - **Strict validation:** CI rejects duplicates, broken links, missing fields and over-long descriptions.
 - **Self-cleaning:** a weekly job checks every link and opens an issue if anything breaks.
+- **Website:** [usmanghias.github.io/goldlist](https://usmanghias.github.io/goldlist/) is rebuilt from the same data on every change, with live GitHub star counts refreshed daily.
 
 ### 📦 Use the data
 

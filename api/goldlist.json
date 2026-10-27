@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 196,
+  "total": 244,
   "categories": [
     {
       "slug": "jobs",
@@ -144,6 +144,15 @@
           "gold": false,
           "github": null,
           "added": null
+        },
+        {
+          "name": "career-ops",
+          "url": "https://github.com/career-ops-hq/career-ops",
+          "description": "AI job-search agent that scores jobs against your CV and tailors your resume and cover letter.",
+          "type": "open-source",
+          "gold": false,
+          "github": "career-ops-hq/career-ops",
+          "added": "2026-10-27"
         }
       ]
     },
@@ -1008,40 +1017,31 @@
           "gold": false,
           "github": "openai/whisper",
           "added": null
+        },
+        {
+          "name": "awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "description": "100+ open-source AI agent, RAG and LLM app examples you can run and learn from.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Shubhamsaboo/awesome-llm-apps",
+          "added": "2026-10-27"
         }
       ]
     },
     {
       "slug": "ai-coding",
-      "title": "AI Coding Agents & Skills",
+      "title": "AI Coding Agents & Tools",
       "short": "AI Coding",
       "emoji": "🧠",
-      "description": "Coding agents and the skills, servers and plugins that make them far better.",
+      "description": "Terminal coding agents, spec-driven workflows and the tools that make Claude Code better.",
       "items": [
-        {
-          "name": "UI UX Pro Max Skill",
-          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-          "description": "Design-intelligence skill that helps AI coding agents build polished, professional UI.",
-          "type": "open-source",
-          "gold": true,
-          "github": "nextlevelbuilder/ui-ux-pro-max-skill",
-          "added": null
-        },
-        {
-          "name": "MCP Servers",
-          "url": "https://github.com/modelcontextprotocol/servers",
-          "description": "Reference Model Context Protocol servers that connect AI agents to tools and data.",
-          "type": "open-source",
-          "gold": true,
-          "github": "modelcontextprotocol/servers",
-          "added": null
-        },
         {
           "name": "Gemini CLI",
           "url": "https://github.com/google-gemini/gemini-cli",
           "description": "Google's open-source AI agent for the terminal, with a generous free tier.",
           "type": "open-source",
-          "gold": false,
+          "gold": true,
           "github": "google-gemini/gemini-cli",
           "added": null
         },
@@ -1082,10 +1082,145 @@
           "added": null
         },
         {
+          "name": "Spec Kit",
+          "url": "https://github.com/github/spec-kit",
+          "description": "GitHub's toolkit for spec-driven development that turns specs into plans and tasks for agents.",
+          "type": "open-source",
+          "gold": true,
+          "github": "github/spec-kit",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "BMAD Method",
+          "url": "https://github.com/bmad-code-org/BMAD-METHOD",
+          "description": "Agile AI-driven development method with specialized agents for planning, architecture and delivery.",
+          "type": "open-source",
+          "gold": false,
+          "github": "bmad-code-org/BMAD-METHOD",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Claude Code Templates",
+          "url": "https://github.com/davila7/claude-code-templates",
+          "description": "CLI for configuring and monitoring Claude Code, with ready-made agents, commands and hooks.",
+          "type": "open-source",
+          "gold": false,
+          "github": "davila7/claude-code-templates",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Claude HUD",
+          "url": "https://github.com/jarrodwatts/claude-hud",
+          "description": "Claude Code plugin showing context usage, active tools, running agents and todo progress.",
+          "type": "open-source",
+          "gold": false,
+          "github": "jarrodwatts/claude-hud",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "ccusage",
+          "url": "https://github.com/ccusage/ccusage",
+          "description": "Analyze Claude Code token usage and costs from your local logs.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ccusage/ccusage",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Vibe Kanban",
+          "url": "https://github.com/BloopAI/vibe-kanban",
+          "description": "Kanban board for planning and running Claude Code, Codex and other coding agents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "BloopAI/vibe-kanban",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "CC Switch",
+          "url": "https://github.com/farion1231/cc-switch",
+          "description": "Desktop app to manage providers and settings for Claude Code, Codex and other CLI agents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "farion1231/cc-switch",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Claude Code Router",
+          "url": "https://github.com/musistudio/claude-code-router",
+          "description": "Route Claude Code requests to the models and providers you choose.",
+          "type": "open-source",
+          "gold": false,
+          "github": "musistudio/claude-code-router",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Claude How-To",
+          "url": "https://github.com/luongnv89/claude-howto",
+          "description": "Visual, example-driven guide to Claude Code with copy-paste templates.",
+          "type": "open-source",
+          "gold": false,
+          "github": "luongnv89/claude-howto",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Learn Claude Code",
+          "url": "https://github.com/shareAI-lab/learn-claude-code",
+          "description": "Build a nano Claude Code-style agent harness from scratch to learn how it works.",
+          "type": "open-source",
+          "gold": false,
+          "github": "shareAI-lab/learn-claude-code",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "awesome-claude-code",
+          "url": "https://github.com/hesreallyhim/awesome-claude-code",
+          "description": "Hand-picked skills, agents, hooks, status lines and tooling for Claude Code.",
+          "type": "open-source",
+          "gold": false,
+          "github": "hesreallyhim/awesome-claude-code",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "slug": "agent-skills",
+      "title": "Claude & Agent Skills",
+      "short": "Skills",
+      "emoji": "🧩",
+      "description": "Drop-in skills and plugins that give Claude Code, Codex, Gemini CLI and Antigravity new abilities.",
+      "items": [
+        {
+          "name": "Ponytail",
+          "url": "https://github.com/DietrichGebert/ponytail",
+          "description": "Makes your coding agent favor the simplest working solution and write less, leaner code.",
+          "type": "open-source",
+          "gold": true,
+          "github": "DietrichGebert/ponytail",
+          "added": null
+        },
+        {
+          "name": "Superpowers",
+          "url": "https://github.com/obra/superpowers",
+          "description": "Skills framework that gives agents a disciplined workflow of brainstorming, planning, TDD and review.",
+          "type": "open-source",
+          "gold": true,
+          "github": "obra/superpowers",
+          "added": null
+        },
+        {
+          "name": "UI UX Pro Max Skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "Design-intelligence skill that helps AI coding agents build polished, professional UI.",
+          "type": "open-source",
+          "gold": true,
+          "github": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "added": null
+        },
+        {
           "name": "Anthropic Agent Skills",
           "url": "https://github.com/anthropics/skills",
           "description": "Official example skills for Claude covering documents, design and development.",
-          "type": "open-source",
+          "type": "free",
           "gold": false,
           "github": "anthropics/skills",
           "added": null
@@ -1098,6 +1233,321 @@
           "gold": false,
           "github": "VoltAgent/awesome-agent-skills",
           "added": null
+        },
+        {
+          "name": "ECC",
+          "url": "https://github.com/affaan-m/ECC",
+          "description": "Agent harness optimization system with skills, memory, security checks and research-first workflows.",
+          "type": "open-source",
+          "gold": false,
+          "github": "affaan-m/ECC",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "gstack",
+          "url": "https://github.com/garrytan/gstack",
+          "description": "Garry Tan's Claude Code setup, with opinionated tools that act as CEO, designer, eng manager and QA.",
+          "type": "open-source",
+          "gold": false,
+          "github": "garrytan/gstack",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Agent Skills by Addy Osmani",
+          "url": "https://github.com/addyosmani/agent-skills",
+          "description": "Production-grade engineering skills for AI coding agents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "addyosmani/agent-skills",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Claude Code Plugins (Official)",
+          "url": "https://github.com/anthropics/claude-plugins-official",
+          "description": "Anthropic-managed directory of high-quality Claude Code plugins.",
+          "type": "open-source",
+          "gold": false,
+          "github": "anthropics/claude-plugins-official",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Taste Skill",
+          "url": "https://github.com/Leonxlnx/taste-skill",
+          "description": "Gives coding agents design taste through art direction, reference images and a browser check.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Leonxlnx/taste-skill",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "description": "Anti-AI-slop design skill for Claude Code, Cursor and Codex.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Nutlope/hallmark",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "claude-mem",
+          "url": "https://github.com/thedotmack/claude-mem",
+          "description": "Captures what your agent does and feeds the relevant context back into future sessions.",
+          "type": "open-source",
+          "gold": false,
+          "github": "thedotmack/claude-mem",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Planning with Files",
+          "url": "https://github.com/OthmanAdi/planning-with-files",
+          "description": "Persistent markdown plans that survive /clear and compaction during long-running agent tasks.",
+          "type": "open-source",
+          "gold": false,
+          "github": "OthmanAdi/planning-with-files",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Compound Engineering",
+          "url": "https://github.com/EveryInc/compound-engineering-plugin",
+          "description": "Every's plan, build and review plugin, where each finished task makes the next one easier.",
+          "type": "open-source",
+          "gold": false,
+          "github": "EveryInc/compound-engineering-plugin",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Archify",
+          "url": "https://github.com/tt-a1i/archify",
+          "description": "Turns any idea, plan or codebase into an interactive diagram.",
+          "type": "open-source",
+          "gold": false,
+          "github": "tt-a1i/archify",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "last30days",
+          "url": "https://github.com/mvanhorn/last30days-skill",
+          "description": "Researches any topic across Reddit, X, YouTube, HN and the web, then writes a grounded summary.",
+          "type": "open-source",
+          "gold": false,
+          "github": "mvanhorn/last30days-skill",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Humanizer",
+          "url": "https://github.com/blader/humanizer",
+          "description": "Removes the telltale signs of AI-generated writing from text.",
+          "type": "open-source",
+          "gold": false,
+          "github": "blader/humanizer",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Marketing Skills",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "description": "Skills for CRO, copywriting, SEO, analytics and growth engineering.",
+          "type": "open-source",
+          "gold": false,
+          "github": "coreyhaines31/marketingskills",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Scientific Agent Skills",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "description": "Ready-to-use skills and scientific databases for biology, chemistry, medicine and drug discovery.",
+          "type": "open-source",
+          "gold": false,
+          "github": "K-Dense-AI/scientific-agent-skills",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Obsidian Skills",
+          "url": "https://github.com/kepano/obsidian-skills",
+          "description": "Skills from Obsidian's CEO that teach agents the Obsidian CLI and formats like Bases and JSON Canvas.",
+          "type": "open-source",
+          "gold": false,
+          "github": "kepano/obsidian-skills",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Security Audit Skill",
+          "url": "https://github.com/cloudflare/security-audit-skill",
+          "description": "Cloudflare's multi-phase security audit skill with independently verified, machine-readable findings.",
+          "type": "open-source",
+          "gold": false,
+          "github": "cloudflare/security-audit-skill",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Vercel Agent Skills",
+          "url": "https://github.com/vercel-labs/agent-skills",
+          "description": "Vercel's official collection of agent skills.",
+          "type": "free",
+          "gold": false,
+          "github": "vercel-labs/agent-skills",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Google Skills",
+          "url": "https://github.com/google/skills",
+          "description": "Official agent skills for Google products and technologies.",
+          "type": "open-source",
+          "gold": false,
+          "github": "google/skills",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Agents Plugin Marketplace",
+          "url": "https://github.com/wshobson/agents",
+          "description": "Plugin marketplace of agents and skills for Claude Code, Codex, Cursor, Copilot and Antigravity.",
+          "type": "open-source",
+          "gold": false,
+          "github": "wshobson/agents",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Claude Code Subagents",
+          "url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+          "description": "100+ specialized subagents for Claude Code across many development use cases.",
+          "type": "open-source",
+          "gold": false,
+          "github": "VoltAgent/awesome-claude-code-subagents",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "skills CLI",
+          "url": "https://github.com/vercel-labs/skills",
+          "description": "Install and manage agent skills from the open ecosystem with npx skills.",
+          "type": "open-source",
+          "gold": false,
+          "github": "vercel-labs/skills",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "SkillSpector",
+          "url": "https://github.com/NVIDIA/SkillSpector",
+          "description": "Scans agent skills for prompt injection, data exfiltration and supply-chain risks before you install.",
+          "type": "open-source",
+          "gold": false,
+          "github": "NVIDIA/SkillSpector",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "description": "Curated list of Claude Skills, resources and tools.",
+          "type": "free",
+          "gold": false,
+          "github": "ComposioHQ/awesome-claude-skills",
+          "added": "2026-10-27"
+        }
+      ]
+    },
+    {
+      "slug": "mcp",
+      "title": "MCP Servers",
+      "short": "MCP",
+      "emoji": "🔌",
+      "description": "Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases.",
+      "items": [
+        {
+          "name": "MCP Reference Servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Reference Model Context Protocol servers that connect AI agents to tools and data.",
+          "type": "open-source",
+          "gold": true,
+          "github": "modelcontextprotocol/servers",
+          "added": null
+        },
+        {
+          "name": "Context7",
+          "url": "https://github.com/upstash/context7",
+          "description": "Feeds your agent up-to-date, version-specific library docs so it stops guessing APIs.",
+          "type": "open-source",
+          "gold": true,
+          "github": "upstash/context7",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Playwright MCP",
+          "url": "https://github.com/microsoft/playwright-mcp",
+          "description": "Lets agents drive a real browser to test, click through and read web pages.",
+          "type": "open-source",
+          "gold": true,
+          "github": "microsoft/playwright-mcp",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "GitHub MCP Server",
+          "url": "https://github.com/github/github-mcp-server",
+          "description": "GitHub's official MCP server for issues, pull requests, code and Actions.",
+          "type": "open-source",
+          "gold": false,
+          "github": "github/github-mcp-server",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Serena",
+          "url": "https://github.com/oraios/serena",
+          "description": "Semantic code search and editing tools that work like an IDE for your agent.",
+          "type": "open-source",
+          "gold": false,
+          "github": "oraios/serena",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "Figma Context MCP",
+          "url": "https://github.com/GLips/Figma-Context-MCP",
+          "description": "Gives coding agents Figma layout data so they implement designs accurately.",
+          "type": "open-source",
+          "gold": false,
+          "github": "GLips/Figma-Context-MCP",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "MCP Toolbox for Databases",
+          "url": "https://github.com/googleapis/mcp-toolbox",
+          "description": "Google's open-source MCP server for connecting agents to your databases.",
+          "type": "open-source",
+          "gold": false,
+          "github": "googleapis/mcp-toolbox",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "FastMCP",
+          "url": "https://github.com/PrefectHQ/fastmcp",
+          "description": "The fast, Pythonic way to build MCP servers and clients.",
+          "type": "open-source",
+          "gold": false,
+          "github": "PrefectHQ/fastmcp",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "MCP Inspector",
+          "url": "https://github.com/modelcontextprotocol/inspector",
+          "description": "Visual tool for testing and debugging MCP servers.",
+          "type": "open-source",
+          "gold": false,
+          "github": "modelcontextprotocol/inspector",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "MCP for Beginners",
+          "url": "https://github.com/microsoft/mcp-for-beginners",
+          "description": "Microsoft's free MCP curriculum with examples in Python, TypeScript, .NET, Java and Rust.",
+          "type": "open-source",
+          "gold": false,
+          "github": "microsoft/mcp-for-beginners",
+          "added": "2026-10-27"
+        },
+        {
+          "name": "awesome-mcp-servers",
+          "url": "https://github.com/punkpeye/awesome-mcp-servers",
+          "description": "Large community directory of MCP servers, sorted by category.",
+          "type": "open-source",
+          "gold": false,
+          "github": "punkpeye/awesome-mcp-servers",
+          "added": "2026-10-27"
         }
       ]
     },

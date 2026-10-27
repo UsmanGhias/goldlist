@@ -1,0 +1,144 @@
+title: Claude & Agent Skills
+short: Skills
+emoji: 🧩
+order: 9
+description: Drop-in skills and plugins that give Claude Code, Codex, Gemini CLI and Antigravity new abilities.
+items:
+  - name: Ponytail
+    url: https://github.com/DietrichGebert/ponytail
+    desc: Makes your coding agent favor the simplest working solution and write less, leaner code.
+    type: open-source
+    gold: true
+  - name: Superpowers
+    url: https://github.com/obra/superpowers
+    desc: Skills framework that gives agents a disciplined workflow of brainstorming, planning, TDD and review.
+    type: open-source
+    gold: true
+  - name: UI UX Pro Max Skill
+    url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+    desc: Design-intelligence skill that helps AI coding agents build polished, professional UI.
+    type: open-source
+    gold: true
+  - name: Anthropic Agent Skills
+    url: https://github.com/anthropics/skills
+    desc: Official example skills for Claude covering documents, design and development.
+    type: free
+  - name: awesome-agent-skills
+    url: https://github.com/VoltAgent/awesome-agent-skills
+    desc: 1,000+ agent skills for Claude Code, Codex, Cursor and other agents.
+    type: open-source
+  - name: ECC
+    url: https://github.com/affaan-m/ECC
+    desc: Agent harness optimization system with skills, memory, security checks and research-first workflows.
+    type: open-source
+    added: 2026-10-27
+  - name: gstack
+    url: https://github.com/garrytan/gstack
+    desc: Garry Tan's Claude Code setup, with opinionated tools that act as CEO, designer, eng manager and QA.
+    type: open-source
+    added: 2026-10-27
+  - name: Agent Skills by Addy Osmani
+    url: https://github.com/addyosmani/agent-skills
+    desc: Production-grade engineering skills for AI coding agents.
+    type: open-source
+    added: 2026-10-27
+  - name: Claude Code Plugins (Official)
+    url: https://github.com/anthropics/claude-plugins-official
+    desc: Anthropic-managed directory of high-quality Claude Code plugins.
+    type: open-source
+    added: 2026-10-27
+  - name: Taste Skill
+    url: https://github.com/Leonxlnx/taste-skill
+    desc: Gives coding agents design taste through art direction, reference images and a browser check.
+    type: open-source
+    added: 2026-10-27
+  - name: Hallmark
+    url: https://github.com/Nutlope/hallmark
+    desc: Anti-AI-slop design skill for Claude Code, Cursor and Codex.
+    type: open-source
+    added: 2026-10-27
+  - name: claude-mem
+    url: https://github.com/thedotmack/claude-mem
+    desc: Captures what your agent does and feeds the relevant context back into future sessions.
+    type: open-source
+    added: 2026-10-27
+  - name: Planning with Files
+    url: https://github.com/OthmanAdi/planning-with-files
+    desc: Persistent markdown plans that survive /clear and compaction during long-running agent tasks.
+    type: open-source
+    added: 2026-10-27
+  - name: Compound Engineering
+    url: https://github.com/EveryInc/compound-engineering-plugin
+    desc: Every's plan, build and review plugin, where each finished task makes the next one easier.
+    type: open-source
+    added: 2026-10-27
+  - name: Archify
+    url: https://github.com/tt-a1i/archify
+    desc: Turns any idea, plan or codebase into an interactive diagram.
+    type: open-source
+    added: 2026-10-27
+  - name: last30days
+    url: https://github.com/mvanhorn/last30days-skill
+    desc: Researches any topic across Reddit, X, YouTube, HN and the web, then writes a grounded summary.
+    type: open-source
+    added: 2026-10-27
+  - name: Humanizer
+    url: https://github.com/blader/humanizer
+    desc: Removes the telltale signs of AI-generated writing from text.
+    type: open-source
+    added: 2026-10-27
+  - name: Marketing Skills
+    url: https://github.com/coreyhaines31/marketingskills
+    desc: Skills for CRO, copywriting, SEO, analytics and growth engineering.
+    type: open-source
+    added: 2026-10-27
+  - name: Scientific Agent Skills
+    url: https://github.com/K-Dense-AI/scientific-agent-skills
+    desc: Ready-to-use skills and scientific databases for biology, chemistry, medicine and drug discovery.
+    type: open-source
+    added: 2026-10-27
+  - name: Obsidian Skills
+    url: https://github.com/kepano/obsidian-skills
+    desc: Skills from Obsidian's CEO that teach agents the Obsidian CLI and formats like Bases and JSON Canvas.
+    type: open-source
+    added: 2026-10-27
+  - name: Security Audit Skill
+    url: https://github.com/cloudflare/security-audit-skill
+    desc: Cloudflare's multi-phase security audit skill with independently verified, machine-readable findings.
+    type: open-source
+    added: 2026-10-27
+  - name: Vercel Agent Skills
+    url: https://github.com/vercel-labs/agent-skills
+    desc: Vercel's official collection of agent skills.
+    type: free
+    added: 2026-10-27
+  - name: Google Skills
+    url: https://github.com/google/skills
+    desc: Official agent skills for Google products and technologies.
+    type: open-source
+    added: 2026-10-27
+  - name: Agents Plugin Marketplace
+    url: https://github.com/wshobson/agents
+    desc: Plugin marketplace of agents and skills for Claude Code, Codex, Cursor, Copilot and Antigravity.
+    type: open-source
+    added: 2026-10-27
+  - name: Claude Code Subagents
+    url: https://github.com/VoltAgent/awesome-claude-code-subagents
+    desc: 100+ specialized subagents for Claude Code across many development use cases.
+    type: open-source
+    added: 2026-10-27
+  - name: skills CLI
+    url: https://github.com/vercel-labs/skills
+    desc: Install and manage agent skills from the open ecosystem with npx skills.
+    type: open-source
+    added: 2026-10-27
+  - name: SkillSpector
+    url: https://github.com/NVIDIA/SkillSpector
+    desc: Scans agent skills for prompt injection, data exfiltration and supply-chain risks before you install.
+    type: open-source
+    added: 2026-10-27
+  - name: awesome-claude-skills
+    url: https://github.com/ComposioHQ/awesome-claude-skills
+    desc: Curated list of Claude Skills, resources and tools.
+    type: free
+    added: 2026-10-27

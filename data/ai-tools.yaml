@@ -63,3 +63,8 @@ items:
     url: https://github.com/openai/whisper
     desc: OpenAI's open-source multilingual speech-to-text model.
     type: open-source
+  - name: awesome-llm-apps
+    url: https://github.com/Shubhamsaboo/awesome-llm-apps
+    desc: 100+ open-source AI agent, RAG and LLM app examples you can run and learn from.
+    type: open-source
+    added: 2026-10-27

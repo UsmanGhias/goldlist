@@ -12,6 +12,7 @@ building, designing and staying safe, sorted into {{CATEGORY_COUNT}} categories 
 [![Entries](https://img.shields.io/badge/entries-{{TOTAL}}-d4af37?style=for-the-badge&labelColor=1f2328)](#contents)
 [![Gold picks](https://img.shields.io/badge/gold_picks-{{GOLD_COUNT}}-d4af37?style=for-the-badge&labelColor=1f2328)](#gold-picks)
 [![Open source](https://img.shields.io/badge/open_source-{{OPEN_SOURCE_COUNT}}-2ea44f?style=for-the-badge&labelColor=1f2328)](#contents)
+[![Website](https://img.shields.io/badge/search-the_website-d4af37?style=for-the-badge&labelColor=1f2328)](https://usmanghias.github.io/goldlist/)
 <br>
 [![Links](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
 [![Last commit](https://img.shields.io/github/last-commit/UsmanGhias/goldlist?style=flat-square)](https://github.com/UsmanGhias/goldlist/commits/main)
@@ -20,6 +21,8 @@ building, designing and staying safe, sorted into {{CATEGORY_COUNT}} categories 
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey?style=flat-square)](LICENSE)
 
 {{NAV}}
+
+**[🔎 Search &amp; filter all {{TOTAL}} on the website →](https://usmanghias.github.io/goldlist/)**
 
 <sub>⭐ <b>Star this repo</b> to keep it one click away. New gold is added every week.</sub>
 
@@ -34,7 +37,7 @@ You've bookmarked hundreds of "useful tools" and can't find any of them when you
 <table>
 <tr>
 <td width="25%" valign="top"><b>🏆 Curated, not collected</b><br><sub>Every entry earns its place. Categories stay short, so you only see what's worth your time.</sub></td>
-<td width="25%" valign="top"><b>🧭 One place for everything</b><br><sub>Jobs, scholarships, courses, dev tools, AI, design, media, research and privacy, all in one list.</sub></td>
+<td width="25%" valign="top"><b>🧭 One place for everything</b><br><sub>Jobs, scholarships, courses, dev tools, Claude skills, MCP servers, design, media and privacy, all in one list.</sub></td>
 <td width="25%" valign="top"><b>✅ Always alive</b><br><sub>A bot checks every link weekly. Every change is reviewed by AI and validated before it merges.</sub></td>
 <td width="25%" valign="top"><b>🏷️ Honest labels</b><br><sub>Open source, fully free, or free tier, plus live GitHub stars, so you know exactly what you're getting.</sub></td>
 </tr>
@@ -51,6 +54,7 @@ You've bookmarked hundreds of "useful tools" and can't find any of them when you
 | 🌍 **Planning a funded master's or PhD** | [Scholarships](#scholarships) → [Research & Writing](#research) |
 | 💻 **Learning to code** | [Learning](#learning) → [Dev Tools](#dev-tools) → [AI Coding](#ai-coding) |
 | 🏗️ **Building a product** | [Dev Tools](#dev-tools) → [Startups](#startups) → [Design](#design) |
+| 🧩 **Supercharging Claude Code or any AI agent** | [Skills](#agent-skills) → [MCP Servers](#mcp) → [AI Coding](#ai-coding) |
 | 🤖 **Into AI** | [AI Tools](#ai-tools) → [AI Coding](#ai-coding) → [Learning](#learning) |
 | 🎨 **A creator** | [Design](#design) → [Media](#media) → [Productivity](#productivity) |
 | 🔐 **Privacy-conscious** | [Privacy & Security](#privacy-security) → [Productivity](#productivity) |
@@ -99,6 +103,7 @@ flowchart LR
 - **AI review:** [CodeRabbit](https://coderabbit.ai) reviews every pull request against the [quality bar](CONTRIBUTING.md#the-bar).
 - **Strict validation:** CI rejects duplicates, broken links, missing fields and over-long descriptions.
 - **Self-cleaning:** a weekly job checks every link and opens an issue if anything breaks.
+- **Website:** [usmanghias.github.io/goldlist](https://usmanghias.github.io/goldlist/) is rebuilt from the same data on every change, with live GitHub star counts refreshed daily.
 
 ### 📦 Use the data
 
