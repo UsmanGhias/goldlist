@@ -76,3 +76,9 @@ items:
     url: https://www.7-zip.org
     desc: File archiver with a high compression ratio that opens almost any archive.
     type: open-source
+  - name: Calibre
+    url: https://calibre-ebook.com
+    desc: Manage, convert and read your entire ebook library, and sync it to any e-reader.
+    type: open-source
+    github: kovidgoyal/calibre
+    added: 2026-10-27
