@@ -1,0 +1,60 @@
+title: Video, Audio & Media
+short: Media
+emoji: 🎬
+order: 10
+description: Studio-grade editing, recording and stock media at zero cost.
+items:
+  - name: DaVinci Resolve
+    url: https://www.blackmagicdesign.com/products/davinciresolve
+    desc: Hollywood-grade video editing and color grading, with a very capable free version.
+    type: free
+    gold: true
+  - name: OBS Studio
+    url: https://obsproject.com
+    desc: Screen recording and live streaming.
+    type: open-source
+    github: obsproject/obs-studio
+    gold: true
+  - name: Kdenlive
+    url: https://kdenlive.org
+    desc: Full-featured open-source video editor for Linux, Windows and macOS.
+    type: open-source
+  - name: Shotcut
+    url: https://shotcut.org
+    desc: Simple cross-platform video editor that supports hundreds of formats.
+    type: open-source
+    github: mltframework/shotcut
+  - name: Audacity
+    url: https://www.audacityteam.org
+    desc: Record and edit audio, from podcasts to voice-overs.
+    type: open-source
+    github: audacity/audacity
+  - name: HandBrake
+    url: https://handbrake.fr
+    desc: Convert and compress videos to any format.
+    type: open-source
+    github: HandBrake/HandBrake
+  - name: Blender
+    url: https://www.blender.org
+    desc: Complete 3D suite for modeling, animation, rendering and video editing.
+    type: open-source
+  - name: VLC
+    url: https://www.videolan.org/vlc/
+    desc: Media player that plays practically any file.
+    type: open-source
+  - name: yt-dlp
+    url: https://github.com/yt-dlp/yt-dlp
+    desc: Command-line downloader for audio and video from thousands of sites.
+    type: open-source
+  - name: Canva
+    url: https://www.canva.com
+    desc: Drag-and-drop design for social posts, slides and thumbnails, with a strong free plan.
+    type: free-tier
+  - name: Pexels
+    url: https://www.pexels.com
+    desc: Free stock photos and videos you can use without attribution.
+    type: free
+  - name: Freesound
+    url: https://freesound.org
+    desc: Huge library of Creative Commons sound effects and samples.
+    type: free

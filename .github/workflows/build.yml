@@ -1,33 +1,35 @@
-name: Build README
+name: Build
 
 on:
   push:
     branches: [main]
     paths: ["data/**", "scripts/**", "templates/**"]
-  pull_request:
-    paths: ["data/**", "scripts/**", "templates/**"]
+  schedule:
+    - cron: "0 3 * * *" # daily safety net, e.g. after bot merges
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: build-main
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
       - run: pip install pyyaml
-      - name: Validate entries
-        run: python scripts/build.py --validate
-      - name: Regenerate README
-        if: github.event_name != 'pull_request'
+      - name: Generate README, JSON API and suggestion form
         run: python scripts/build.py
-      - name: Commit README
-        if: github.event_name != 'pull_request'
+      - name: Commit generated files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "docs: regenerate README"
-          file_pattern: README.md
+          commit_message: "docs: regenerate README and API [skip ci]"
+          file_pattern: "README.md api/goldlist.json .github/ISSUE_TEMPLATE/suggest.yml"

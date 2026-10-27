@@ -1,4 +1,5 @@
-title: Scholarships & Research
+title: Scholarships & Research Funding
+short: Scholarships
 emoji: 🎓
 order: 3
 description: Funded master's, PhDs and fellowships, so you can study without paying for it.
@@ -29,6 +30,14 @@ items:
     url: https://marie-sklodowska-curie-actions.ec.europa.eu
     desc: EU funding for doctoral networks and postdoctoral fellowships.
     type: free
+  - name: ELLIS PhD & Postdoc Program
+    url: https://ellis.eu/phd-postdoc
+    desc: Europe-wide machine learning PhD program with co-supervision across countries.
+    type: free
+  - name: Google PhD Fellowship
+    url: https://research.google/programs-and-events/phd-fellowship/
+    desc: Funding and Google mentorship for PhD students in computer science.
+    type: free
   - name: Fulbright Foreign Student Program
     url: https://foreign.fulbrightonline.org
     desc: Funded graduate study in the United States for international students.
@@ -36,6 +45,22 @@ items:
   - name: Chevening
     url: https://www.chevening.org
     desc: UK government-funded one-year master's scholarships.
+    type: free
+  - name: Commonwealth Scholarships
+    url: https://cscuk.fcdo.gov.uk
+    desc: UK-funded master's and PhD scholarships for Commonwealth citizens.
+    type: free
+  - name: Swedish Institute Scholarships
+    url: https://si.se/en/apply/scholarships/
+    desc: Scholarships covering tuition and living costs for master's study in Sweden.
+    type: free
+  - name: Stipendium Hungaricum
+    url: https://stipendiumhungaricum.hu
+    desc: Hungarian government scholarships for bachelor's, master's and PhD study.
+    type: free
+  - name: Türkiye Scholarships
+    url: https://www.turkiyeburslari.gov.tr
+    desc: Turkish government scholarships covering tuition, housing and a monthly stipend.
     type: free
   - name: Scholars4Dev
     url: https://www.scholars4dev.com

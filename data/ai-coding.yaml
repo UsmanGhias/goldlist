@@ -1,0 +1,44 @@
+title: AI Coding Agents & Skills
+short: AI Coding
+emoji: 🧠
+order: 8
+description: Coding agents and the skills, servers and plugins that make them far better.
+items:
+  - name: UI UX Pro Max Skill
+    url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+    desc: Design-intelligence skill that helps AI coding agents build polished, professional UI.
+    type: open-source
+    gold: true
+  - name: MCP Servers
+    url: https://github.com/modelcontextprotocol/servers
+    desc: Reference Model Context Protocol servers that connect AI agents to tools and data.
+    type: open-source
+    gold: true
+  - name: Gemini CLI
+    url: https://github.com/google-gemini/gemini-cli
+    desc: Google's open-source AI agent for the terminal, with a generous free tier.
+    type: open-source
+  - name: Codex CLI
+    url: https://github.com/openai/codex
+    desc: OpenAI's open-source coding agent that runs in your terminal.
+    type: open-source
+  - name: Aider
+    url: https://github.com/Aider-AI/aider
+    desc: AI pair programming in your terminal that edits your Git repo directly.
+    type: open-source
+  - name: Continue
+    url: https://github.com/continuedev/continue
+    desc: Open-source AI code assistant for VS Code and JetBrains, using any model.
+    type: open-source
+  - name: OpenHands
+    url: https://github.com/OpenHands/OpenHands
+    desc: Open-source autonomous software engineering agent.
+    type: open-source
+  - name: Anthropic Agent Skills
+    url: https://github.com/anthropics/skills
+    desc: Official example skills for Claude covering documents, design and development.
+    type: open-source
+  - name: awesome-agent-skills
+    url: https://github.com/VoltAgent/awesome-agent-skills
+    desc: 1,000+ agent skills for Claude Code, Codex, Cursor and other agents.
+    type: open-source

@@ -1,4 +1,5 @@
-title: Learning
+title: Learning & Courses
+short: Learning
 emoji: 📚
 order: 4
 description: Free courses and books that are as good as paid ones, often better.
@@ -7,6 +8,7 @@ items:
     url: https://www.freecodecamp.org
     desc: Full-stack curriculum with free certifications and thousands of exercises.
     type: open-source
+    github: freeCodeCamp/freeCodeCamp
     gold: true
   - name: CS50x
     url: https://cs50.harvard.edu/x/
@@ -17,14 +19,43 @@ items:
     url: https://roadmap.sh
     desc: Step-by-step learning roadmaps for every developer role and technology.
     type: open-source
+    github: nilbuild/developer-roadmap
+    gold: true
   - name: The Odin Project
     url: https://www.theodinproject.com
     desc: Project-based full-stack web development path from zero to job-ready.
     type: open-source
+    github: TheOdinProject/curriculum
+  - name: Full Stack Open
+    url: https://fullstackopen.com
+    desc: University of Helsinki's modern web development course covering React, Node and GraphQL.
+    type: free
   - name: OSSU Computer Science
     url: https://github.com/ossu/computer-science
     desc: A complete computer science degree path built from free online courses.
     type: open-source
+  - name: The Missing Semester
+    url: https://missing.csail.mit.edu
+    desc: MIT's course on the tools nobody teaches, like the shell, Git, editors and debugging.
+    type: open-source
+    github: missing-semester/missing-semester
+  - name: build-your-own-x
+    url: https://github.com/codecrafters-io/build-your-own-x
+    desc: Learn by rebuilding Git, Redis, Docker, databases and more from scratch.
+    type: open-source
+  - name: project-based-learning
+    url: https://github.com/practical-tutorials/project-based-learning
+    desc: Curated project tutorials sorted by programming language.
+    type: open-source
+  - name: Exercism
+    url: https://exercism.org
+    desc: Coding exercises in 70+ languages with free human mentoring.
+    type: open-source
+  - name: Learn Git Branching
+    url: https://learngitbranching.js.org
+    desc: Interactive visual game that finally makes Git branching click.
+    type: open-source
+    github: pcottle/learnGitBranching
   - name: MIT OpenCourseWare
     url: https://ocw.mit.edu
     desc: Lecture notes, videos and exams from thousands of MIT courses.
@@ -33,6 +64,10 @@ items:
     url: https://github.com/EbookFoundation/free-programming-books
     desc: Huge list of free programming books in many languages.
     type: open-source
+  - name: "Neural Networks: Zero to Hero"
+    url: https://karpathy.ai/zero-to-hero.html
+    desc: Andrej Karpathy builds neural networks and GPT from scratch, step by step.
+    type: free
   - name: Practical Deep Learning (fast.ai)
     url: https://course.fast.ai
     desc: Hands-on deep learning course for people who already code.
@@ -40,6 +75,14 @@ items:
   - name: Hugging Face Learn
     url: https://huggingface.co/learn
     desc: Free courses on LLMs, AI agents, diffusion models and more.
+    type: free
+  - name: Google Machine Learning Crash Course
+    url: https://developers.google.com/machine-learning/crash-course
+    desc: Fast-paced, practical intro to machine learning with interactive exercises.
+    type: free
+  - name: Kaggle Learn
+    url: https://www.kaggle.com/learn
+    desc: Short, hands-on micro-courses in Python, SQL, pandas and machine learning.
     type: free
   - name: Khan Academy
     url: https://www.khanacademy.org

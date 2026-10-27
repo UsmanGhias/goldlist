@@ -1,18 +1,24 @@
 title: Privacy & Security
+short: Privacy
 emoji: 🔒
-order: 10
-description: Protect your accounts, data and devices with trusted free tools.
+order: 14
+description: Protect your accounts, data and devices, and learn security hands-on.
 items:
   - name: Bitwarden
     url: https://bitwarden.com
     desc: Open-source password manager with a free plan on every device.
     type: open-source
+    github: bitwarden/clients
     gold: true
   - name: uBlock Origin
     url: https://github.com/gorhill/uBlock
     desc: Efficient, lightweight ad and tracker blocker.
     type: open-source
     gold: true
+  - name: Firefox
+    url: https://www.mozilla.org/firefox/
+    desc: Independent open-source browser with strong tracking protection.
+    type: open-source
   - name: Signal
     url: https://signal.org
     desc: End-to-end encrypted messaging and calls.
@@ -21,10 +27,26 @@ items:
     url: https://keepassxc.org
     desc: Offline open-source password manager.
     type: open-source
+    github: keepassxreboot/keepassxc
   - name: Ente Auth
     url: https://ente.io/auth/
     desc: Open-source 2FA authenticator with end-to-end encrypted backups.
     type: open-source
+    github: ente/ente
+  - name: Aegis Authenticator
+    url: https://getaegis.app
+    desc: Secure open-source 2FA app for Android with encrypted backups.
+    type: open-source
+    github: beemdevelopment/Aegis
+  - name: VeraCrypt
+    url: https://www.veracrypt.fr
+    desc: Encrypt whole drives or create encrypted containers for sensitive files.
+    type: open-source
+    github: veracrypt/VeraCrypt
+  - name: Tailscale
+    url: https://tailscale.com
+    desc: Zero-config private network between your devices, free for personal use.
+    type: free-tier
   - name: Proton Mail
     url: https://proton.me/mail
     desc: Encrypted email with a free plan.
@@ -36,6 +58,18 @@ items:
   - name: Privacy Guides
     url: https://www.privacyguides.org
     desc: Independent, non-profit recommendations for privacy tools.
+    type: free
+  - name: OWASP Top 10
+    url: https://owasp.org/www-project-top-ten/
+    desc: The most critical web application security risks every developer should know.
+    type: free
+  - name: TryHackMe
+    url: https://tryhackme.com
+    desc: Learn cybersecurity through guided, hands-on labs in the browser.
+    type: free-tier
+  - name: OverTheWire Wargames
+    url: https://overthewire.org/wargames/
+    desc: Learn Linux and security concepts through progressively harder games.
     type: free
   - name: The Book of Secret Knowledge
     url: https://github.com/trimstray/the-book-of-secret-knowledge

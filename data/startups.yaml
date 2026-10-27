@@ -1,0 +1,53 @@
+title: Startups & Business
+short: Startups
+emoji: 🚀
+order: 13
+description: Launch and run a product, with free credits, analytics, CRM and support tools.
+items:
+  - name: YC Startup School
+    url: https://www.startupschool.org
+    desc: Y Combinator's free course on how to start a startup, plus co-founder matching.
+    type: free
+    gold: true
+  - name: YC Library
+    url: https://www.ycombinator.com/library
+    desc: Y Combinator's essays, videos and advice for founders.
+    type: free
+  - name: AWS Activate
+    url: https://aws.amazon.com/activate/
+    desc: AWS credits and support for early-stage startups.
+    type: free
+  - name: Google for Startups Cloud Program
+    url: https://cloud.google.com/startup
+    desc: Google Cloud credits and technical support for startups.
+    type: free
+  - name: PostHog
+    url: https://posthog.com
+    desc: Open-source product analytics, session replay and feature flags with a big free tier.
+    type: open-source
+    github: PostHog/posthog
+    gold: true
+  - name: Umami
+    url: https://umami.is
+    desc: Simple, privacy-friendly website analytics, an alternative to Google Analytics.
+    type: open-source
+    github: umami-software/umami
+  - name: Listmonk
+    url: https://listmonk.app
+    desc: Self-hosted newsletter and mailing list manager.
+    type: open-source
+    github: knadh/listmonk
+  - name: Chatwoot
+    url: https://www.chatwoot.com
+    desc: Open-source customer support inbox for chat, email and social.
+    type: open-source
+    github: chatwoot/chatwoot
+  - name: Twenty
+    url: https://twenty.com
+    desc: Modern open-source CRM, an alternative to Salesforce.
+    type: open-source
+    github: twentyhq/twenty
+  - name: Odoo Community
+    url: https://github.com/odoo/odoo
+    desc: Open-source ERP covering CRM, sales, inventory, accounting and website.
+    type: open-source

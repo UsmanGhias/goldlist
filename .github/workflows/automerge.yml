@@ -1,0 +1,53 @@
+name: Auto-merge
+
+# Merges a pull request once the required checks pass, when either:
+#   - CodeRabbit approves a PR opened by the repo owner from a branch in this repo, or
+#   - a maintainer adds the `approved` label (any PR, including forks).
+# This workflow never checks out or runs pull-request code, so pull_request_target is safe here.
+
+on:
+  pull_request_review:
+    types: [submitted]
+  pull_request_target:
+    types: [labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+
+concurrency:
+  group: automerge-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  merge:
+    if: >-
+      (github.event_name == 'pull_request_review'
+        && github.event.review.user.login == 'coderabbitai[bot]'
+        && github.event.review.state == 'approved'
+        && github.event.pull_request.head.repo.full_name == github.repository
+        && github.event.pull_request.user.login == github.repository_owner)
+      || (github.event_name == 'pull_request_target' && github.event.label.name == 'approved')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      PR: ${{ github.event.pull_request.number }}
+      # Only merge the exact commit that was approved.
+      HEAD_SHA: ${{ github.event.review.commit_id || github.event.pull_request.head.sha }}
+    steps:
+      - name: Wait for required checks
+        run: |
+          for _ in $(seq 1 20); do
+            status=0
+            gh pr checks "$PR" --required >/dev/null 2>&1 || status=$?
+            if [ "$status" -eq 0 ] || [ "$status" -eq 8 ]; then break; fi   # passed, or pending (watched below)
+            sleep 15                                                          # checks not reported yet
+          done
+          gh pr checks "$PR" --required --watch --fail-fast --interval 15
+      - name: Squash-merge
+        run: gh pr merge "$PR" --squash --delete-branch --match-head-commit "$HEAD_SHA"
+      - name: Rebuild README on main
+        # Merges made with GITHUB_TOKEN don't trigger push workflows, so start the build explicitly.
+        run: gh workflow run build.yml --ref main

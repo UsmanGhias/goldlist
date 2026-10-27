@@ -6,46 +6,58 @@ Thanks for helping keep GoldList the best list on GitHub. 🏆
 
 GoldList is **curated, not collected**. An entry must be:
 
-1. **Free**: open source, fully free, or a free tier that's genuinely useful.
+1. **Free**: open source, fully free, or a free tier that's genuinely useful. Never paid-only.
 2. **Alive**: actively maintained, and the link works.
 3. **Gold**: clearly the best (or close to it) at what it does. "It's nice" isn't enough.
-4. **Honest**: no affiliate or referral links, no self-promotion without disclosure.
+4. **Honest**: no affiliate or referral links, and no self-promotion without disclosure.
 
-Categories stay short on purpose. If a category is full, propose **replacing** a weaker entry and say why.
+If a category already has a great option for the same job, explain why yours is better, or propose a replacement.
 
-## The quick way
+## Option 1: Suggest it (30 seconds, no Git needed)
 
-[Open a suggestion](https://github.com/UsmanGhias/goldlist/issues/new?template=suggest.yml) and fill in the form. A maintainer will add it.
+[Open the suggestion form](https://github.com/UsmanGhias/goldlist/issues/new?template=suggest.yml).
+When a maintainer labels it `accepted`, a bot adds it to the list and closes the issue.
 
-## The PR way
+## Option 2: Open a pull request
 
-`README.md` is **generated**. Don't edit it directly.
+`README.md`, `api/goldlist.json` and the suggestion form are **generated**. Only edit `data/`.
 
-1. Add your entry to the right file in [`data/`](data/):
+```bash
+pip install pyyaml
+python scripts/add_entry.py --category productivity --name LocalSend --url https://localsend.org \
+  --desc "Share files between nearby devices with no internet or account." \
+  --type open-source --github localsend/localsend
+python scripts/build.py --validate
+git add data/ && git commit -m "feat(data): add LocalSend to Productivity"
+```
 
-   ```yaml
-   - name: LocalSend
-     url: https://localsend.org
-     desc: Share files between nearby devices with no internet or account.
-     type: open-source   # open-source | free | free-tier
-     gold: true          # optional, best in category only (maintainers decide)
-   ```
+Or edit the right `data/<category>.yaml` by hand:
 
-2. Validate (optional, CI does it too):
+```yaml
+  - name: LocalSend
+    url: https://localsend.org
+    desc: Share files between nearby devices with no internet or account.
+    type: open-source          # open-source | free | free-tier
+    github: localsend/localsend   # optional: shows live GitHub stars
+```
 
-   ```bash
-   pip install pyyaml
-   python scripts/build.py --validate
-   ```
+### What happens next
 
-3. Open a PR. Once it's merged, the README regenerates automatically.
+1. **CodeRabbit** (AI reviewer) reviews your PR within minutes. Answer its comments, or reply with `@coderabbitai`.
+2. **CI** validates the schema, checks for duplicates and tests your links.
+3. A maintainer approves, and the PR **merges automatically** once checks pass.
+4. The README and JSON API regenerate on their own.
 
 ### Style rules
 
-- `desc`: one line, ≤ 120 characters, ends with a period, says **why it's useful** rather than just what it is.
-- `url`: `https://`, the official homepage or repo, with no tracking parameters.
-- No duplicates. The build fails if the same URL appears twice.
+- `desc`: one line, ≤ 120 characters, ends with a period, says **why it's useful**. No hype words or unverified numbers.
+- `url`: `https://`, the official homepage or repo, no tracking parameters.
+- One product, one entry. The build fails on duplicate URLs.
 
 ## New categories
 
-Open an issue first with at least 5 strong entries for the category.
+Open an issue first with at least 5 strong entries for it. See [AGENTS.md](AGENTS.md#6-adding-a-new-category) for the file format.
+
+## For AI agents
+
+If you're an AI coding agent, follow [AGENTS.md](AGENTS.md).

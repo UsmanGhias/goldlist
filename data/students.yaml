@@ -1,6 +1,7 @@
 title: Students & Programs
+short: Students
 emoji: 🧑‍🎓
-order: 9
+order: 5
 description: Free licenses, credits and paid programs available only while you're a student or newcomer.
 items:
   - name: GitHub Student Developer Pack
@@ -17,9 +18,25 @@ items:
     url: https://www.outreachy.org
     desc: Paid remote open-source internships for people underrepresented in tech.
     type: free
+  - name: LFX Mentorship
+    url: https://mentorship.lfx.linuxfoundation.org
+    desc: Paid mentorships on Linux Foundation and CNCF open-source projects.
+    type: free
   - name: MLH Fellowship
     url: https://fellowship.mlh.io
     desc: Remote fellowship programs in open source and software engineering.
+    type: free
+  - name: MLH Hackathons
+    url: https://mlh.io
+    desc: Student hackathons around the world, in person and online.
+    type: free
+  - name: Devpost
+    url: https://devpost.com
+    desc: Find online hackathons with real prizes and build your portfolio.
+    type: free
+  - name: Hacktoberfest
+    url: https://hacktoberfest.com
+    desc: Yearly October event that rewards your first open-source contributions.
     type: free
   - name: JetBrains Educational Licenses
     url: https://www.jetbrains.com/community/education/

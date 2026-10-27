@@ -1,4 +1,5 @@
 title: Jobs & Freelancing
+short: Jobs
 emoji: 💼
 order: 1
 description: Where real openings get posted first, from remote boards to curated GitHub lists.
@@ -22,9 +23,21 @@ items:
     url: https://github.com/SimplifyJobs/New-Grad-Positions
     desc: Daily-updated list of new-grad software, data and engineering roles.
     type: open-source
+  - name: Work at a Startup
+    url: https://www.workatastartup.com
+    desc: Y Combinator's job board, where one profile lets you apply to hundreds of YC startups.
+    type: free
   - name: remote-jobs
     url: https://github.com/remoteintech/remote-jobs
     desc: Community-maintained list of remote-friendly tech companies, with regions and tech stacks.
+    type: open-source
+  - name: Hiring Without Whiteboards
+    url: https://github.com/poteto/hiring-without-whiteboards
+    desc: Companies that skip whiteboard puzzles and hire through practical take-homes and pairing.
+    type: open-source
+  - name: JobSpy
+    url: https://github.com/speedyapply/JobSpy
+    desc: Python library that scrapes LinkedIn, Indeed, Glassdoor and more into one clean table.
     type: open-source
   - name: We Work Remotely
     url: https://weworkremotely.com
@@ -45,6 +58,10 @@ items:
   - name: Wellfound
     url: https://wellfound.com
     desc: Startup jobs (formerly AngelList Talent) with salary and equity shown upfront.
+    type: free
+  - name: Contra
+    url: https://contra.com
+    desc: Commission-free platform where freelancers get hired and paid.
     type: free
   - name: Working Nomads
     url: https://www.workingnomads.com

@@ -1,6 +1,7 @@
 title: Developer Tools & Free Tiers
+short: Dev Tools
 emoji: 🛠️
-order: 5
+order: 6
 description: Build, host and ship without a credit card.
 items:
   - name: free-for-dev
@@ -17,10 +18,22 @@ items:
     url: https://code.visualstudio.com
     desc: Free code editor with a huge extension ecosystem.
     type: free
+  - name: Zed
+    url: https://zed.dev
+    desc: Very fast open-source code editor with built-in collaboration and AI.
+    type: open-source
+    github: zed-industries/zed
   - name: Supabase
     url: https://supabase.com
     desc: Open-source Postgres backend with auth, storage and realtime, plus a free tier.
     type: open-source
+    github: supabase/supabase
+    gold: true
+  - name: Appwrite
+    url: https://appwrite.io
+    desc: Open-source backend for web and mobile apps, self-hosted or in the cloud.
+    type: open-source
+    github: appwrite/appwrite
   - name: Neon
     url: https://neon.tech
     desc: Serverless Postgres with database branching and a free plan.
@@ -29,14 +42,53 @@ items:
     url: https://pages.cloudflare.com
     desc: Deploy static sites and frontends for free on a global CDN.
     type: free-tier
+  - name: Vercel
+    url: https://vercel.com
+    desc: Push-to-deploy hosting for frontends and Next.js, with a free Hobby plan.
+    type: free-tier
   - name: Coolify
     url: https://coolify.io
     desc: Self-hosted alternative to Heroku and Vercel for your own server.
     type: open-source
+    github: coollabsio/coolify
   - name: Hoppscotch
     url: https://hoppscotch.io
     desc: Lightweight open-source API client, an alternative to Postman.
     type: open-source
+    github: hoppscotch/hoppscotch
+  - name: Bruno
+    url: https://www.usebruno.com
+    desc: Offline-first API client that stores collections as plain files in your Git repo.
+    type: open-source
+    github: usebruno/bruno
+  - name: DBeaver
+    url: https://dbeaver.io
+    desc: Universal database client for Postgres, MySQL, SQLite and dozens more.
+    type: open-source
+    github: dbeaver/dbeaver
+  - name: Sentry
+    url: https://sentry.io
+    desc: Error tracking and performance monitoring with a free developer plan.
+    type: free-tier
+    github: getsentry/sentry
+  - name: DevDocs
+    url: https://devdocs.io
+    desc: API documentation for hundreds of languages and frameworks, searchable and offline.
+    type: open-source
+    github: freeCodeCamp/devdocs
+  - name: regex101
+    url: https://regex101.com
+    desc: Build, test and debug regular expressions with live explanations.
+    type: free
+  - name: Let's Encrypt
+    url: https://letsencrypt.org
+    desc: Free, automated HTTPS certificates for any website.
+    type: free
+  - name: Oh My Zsh
+    url: https://ohmyz.sh
+    desc: Framework that makes your terminal far more pleasant, with hundreds of plugins and themes.
+    type: open-source
+    github: ohmyzsh/ohmyzsh
   - name: awesome-selfhosted
     url: https://github.com/awesome-selfhosted/awesome-selfhosted
     desc: Free software you can host yourself, sorted by category.

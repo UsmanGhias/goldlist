@@ -1,18 +1,24 @@
-title: AI Tools & Agents
+title: AI Tools & Models
+short: AI Tools
 emoji: 🤖
-order: 6
-description: Run models locally, automate work and give your coding agent new skills.
+order: 7
+description: Run models locally, build AI apps and automate your work.
 items:
   - name: Ollama
     url: https://ollama.com
     desc: Run open LLMs locally with a single command.
     type: open-source
+    github: ollama/ollama
     gold: true
-  - name: UI UX Pro Max Skill
-    url: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
-    desc: Design-intelligence skill that helps AI coding agents build polished, professional UI.
-    type: open-source
+  - name: Google AI Studio
+    url: https://aistudio.google.com
+    desc: Try Gemini models and get a free API key in minutes.
+    type: free-tier
     gold: true
+  - name: NotebookLM
+    url: https://notebooklm.google
+    desc: Upload your sources and get grounded answers, summaries and audio overviews.
+    type: free-tier
   - name: Open WebUI
     url: https://github.com/open-webui/open-webui
     desc: Self-hosted ChatGPT-style interface for local and API models.
@@ -21,10 +27,34 @@ items:
     url: https://lmstudio.ai
     desc: Desktop app to discover, download and chat with local LLMs.
     type: free
+  - name: llama.cpp
+    url: https://github.com/ggml-org/llama.cpp
+    desc: Fast LLM inference in C/C++ that runs on almost any hardware.
+    type: open-source
+  - name: vLLM
+    url: https://github.com/vllm-project/vllm
+    desc: High-throughput engine for serving LLMs in production.
+    type: open-source
   - name: Hugging Face
     url: https://huggingface.co
     desc: Hub of open models, datasets and live demo apps.
     type: free-tier
+  - name: Unsloth
+    url: https://github.com/unslothai/unsloth
+    desc: Fine-tune open LLMs faster and with much less GPU memory.
+    type: open-source
+  - name: Dify
+    url: https://github.com/langgenius/dify
+    desc: Visual platform for building LLM apps, RAG pipelines and agents.
+    type: open-source
+  - name: AnythingLLM
+    url: https://github.com/Mintplex-Labs/anything-llm
+    desc: Private all-in-one app for chatting with your documents using any LLM.
+    type: open-source
+  - name: n8n
+    url: https://github.com/n8n-io/n8n
+    desc: Fair-code workflow automation with AI agents, free to self-host as the Community Edition.
+    type: free
   - name: ComfyUI
     url: https://github.com/Comfy-Org/ComfyUI
     desc: Node-based interface for image and video generation models.
@@ -32,20 +62,4 @@ items:
   - name: Whisper
     url: https://github.com/openai/whisper
     desc: OpenAI's open-source multilingual speech-to-text model.
-    type: open-source
-  - name: n8n
-    url: https://github.com/n8n-io/n8n
-    desc: Fair-code workflow automation with AI agents; the self-hosted Community Edition is free.
-    type: free
-  - name: Anthropic Agent Skills
-    url: https://github.com/anthropics/skills
-    desc: Official example skills for Claude covering documents, design and development.
-    type: open-source
-  - name: awesome-agent-skills
-    url: https://github.com/VoltAgent/awesome-agent-skills
-    desc: 1,000+ agent skills for Claude Code, Codex, Cursor and other agents.
-    type: open-source
-  - name: MCP Servers
-    url: https://github.com/modelcontextprotocol/servers
-    desc: Reference Model Context Protocol servers that connect AI agents to tools and data.
     type: open-source

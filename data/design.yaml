@@ -1,28 +1,60 @@
-title: Design
+title: Design & UI
+short: Design
 emoji: 🎨
-order: 7
+order: 9
 description: Icons, fonts, photos and design tools that look premium and cost nothing.
 items:
   - name: Penpot
     url: https://penpot.app
     desc: Open-source design and prototyping tool, an alternative to Figma.
     type: open-source
+    github: penpot/penpot
     gold: true
   - name: shadcn/ui
     url: https://ui.shadcn.com
     desc: Beautiful, accessible React components you copy into your project.
     type: open-source
+    github: shadcn-ui/ui
+    gold: true
+  - name: Tailwind CSS
+    url: https://tailwindcss.com
+    desc: Utility-first CSS framework for building any design without leaving your HTML.
+    type: open-source
+    github: tailwindlabs/tailwindcss
   - name: Excalidraw
     url: https://excalidraw.com
     desc: Hand-drawn style whiteboard for diagrams and sketches.
     type: open-source
+    github: excalidraw/excalidraw
+  - name: Inkscape
+    url: https://inkscape.org
+    desc: Professional vector graphics editor, an alternative to Illustrator.
+    type: open-source
+  - name: GIMP
+    url: https://www.gimp.org
+    desc: Powerful raster image editor, an alternative to Photoshop.
+    type: open-source
+  - name: Krita
+    url: https://krita.org
+    desc: Digital painting app made by artists, for artists.
+    type: open-source
+  - name: Photopea
+    url: https://www.photopea.com
+    desc: Photoshop-like image editor that runs in the browser.
+    type: free
   - name: Lucide
     url: https://lucide.dev
     desc: Clean, consistent open-source icon set.
     type: open-source
+    github: lucide-icons/lucide
   - name: Heroicons
     url: https://heroicons.com
     desc: Hand-crafted SVG icons from the makers of Tailwind CSS.
+    type: open-source
+    github: tailwindlabs/heroicons
+  - name: Phosphor Icons
+    url: https://phosphoricons.com
+    desc: Flexible icon family with six weights, from thin to duotone.
     type: open-source
   - name: Google Fonts
     url: https://fonts.google.com
@@ -40,7 +72,16 @@ items:
     url: https://coolors.co
     desc: Generate and explore color palettes in seconds.
     type: free-tier
-  - name: Photopea
-    url: https://www.photopea.com
-    desc: Photoshop-like image editor that runs in the browser.
+  - name: Realtime Colors
+    url: https://www.realtimecolors.com
+    desc: Preview your color palette and fonts on a real website layout instantly.
     type: free
+  - name: Haikei
+    url: https://haikei.app
+    desc: Generate unique SVG waves, blobs and backgrounds for your designs.
+    type: free
+  - name: Squoosh
+    url: https://squoosh.app
+    desc: Compress and convert images in the browser while comparing quality side by side.
+    type: open-source
+    github: GoogleChromeLabs/squoosh

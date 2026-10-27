@@ -1,0 +1,66 @@
+name: Accept suggestion
+
+# When a maintainer labels a suggestion issue `accepted`, add the entry to data/,
+# regenerate the README and close the issue.
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: build-main
+  cancel-in-progress: false
+
+jobs:
+  add:
+    if: github.event.label.name == 'accepted' && contains(github.event.issue.labels.*.name, 'suggestion')
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      ISSUE: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Add entry from issue form
+        id: add
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: python scripts/add_entry.py --from-issue 2>&1 | tee add.log; exit "${PIPESTATUS[0]}"
+      - name: Regenerate README
+        run: python scripts/build.py
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "feat(data): add ${{ steps.add.outputs.name }} to ${{ steps.add.outputs.category }} (closes #${{ github.event.issue.number }})"
+          file_pattern: "data/*.yaml README.md api/goldlist.json"
+      - name: Close issue
+        env:
+          NAME: ${{ steps.add.outputs.name }}
+          SLUG: ${{ steps.add.outputs.slug }}
+        run: |
+          gh issue close "$ISSUE" --reason completed \
+            --comment "🏆 **$NAME** is now on GoldList: https://github.com/$GH_REPO#$SLUG. Thank you!"
+      - name: Report failure
+        if: failure()
+        run: |
+          {
+            echo "⚠️ Couldn't add this automatically:"
+            echo
+            echo '```'
+            tail -n 20 add.log 2>/dev/null || echo "See the workflow run for details."
+            echo '```'
+            echo
+            echo "Please edit the issue to fix it, then re-add the \`accepted\` label."
+          } > comment.md
+          gh issue comment "$ISSUE" --body-file comment.md
+          gh issue edit "$ISSUE" --remove-label accepted

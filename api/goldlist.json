@@ -1,0 +1,1897 @@
+{
+  "name": "GoldList",
+  "repository": "https://github.com/UsmanGhias/goldlist",
+  "total": 196,
+  "categories": [
+    {
+      "slug": "jobs",
+      "title": "Jobs & Freelancing",
+      "short": "Jobs",
+      "emoji": "💼",
+      "description": "Where real openings get posted first, from remote boards to curated GitHub lists.",
+      "items": [
+        {
+          "name": "freehire",
+          "url": "https://freehire.me",
+          "description": "IT job postings from many boards in one search, each linked back to the original posting.",
+          "type": "free",
+          "gold": true,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Hacker News: Who is Hiring",
+          "url": "https://news.ycombinator.com/submitted?id=whoishiring",
+          "description": "Monthly thread where startups post real openings, often remote and often from founders directly.",
+          "type": "free",
+          "gold": true,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Simplify Summer 2027 Internships",
+          "url": "https://github.com/SimplifyJobs/Summer2027-Internships",
+          "description": "Daily-updated list of tech internships in the US, Canada and remote.",
+          "type": "open-source",
+          "gold": true,
+          "github": "SimplifyJobs/Summer2027-Internships",
+          "added": null
+        },
+        {
+          "name": "Simplify New Grad Positions",
+          "url": "https://github.com/SimplifyJobs/New-Grad-Positions",
+          "description": "Daily-updated list of new-grad software, data and engineering roles.",
+          "type": "open-source",
+          "gold": false,
+          "github": "SimplifyJobs/New-Grad-Positions",
+          "added": null
+        },
+        {
+          "name": "Work at a Startup",
+          "url": "https://www.workatastartup.com",
+          "description": "Y Combinator's job board, where one profile lets you apply to hundreds of YC startups.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "remote-jobs",
+          "url": "https://github.com/remoteintech/remote-jobs",
+          "description": "Community-maintained list of remote-friendly tech companies, with regions and tech stacks.",
+          "type": "open-source",
+          "gold": false,
+          "github": "remoteintech/remote-jobs",
+          "added": null
+        },
+        {
+          "name": "Hiring Without Whiteboards",
+          "url": "https://github.com/poteto/hiring-without-whiteboards",
+          "description": "Companies that skip whiteboard puzzles and hire through practical take-homes and pairing.",
+          "type": "open-source",
+          "gold": false,
+          "github": "poteto/hiring-without-whiteboards",
+          "added": null
+        },
+        {
+          "name": "JobSpy",
+          "url": "https://github.com/speedyapply/JobSpy",
+          "description": "Python library that scrapes LinkedIn, Indeed, Glassdoor and more into one clean table.",
+          "type": "open-source",
+          "gold": false,
+          "github": "speedyapply/JobSpy",
+          "added": null
+        },
+        {
+          "name": "We Work Remotely",
+          "url": "https://weworkremotely.com",
+          "description": "One of the largest remote-only job boards, covering dev, design, support and more.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Remote OK",
+          "url": "https://remoteok.com",
+          "description": "Remote job board with salary ranges and tag-based filters.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Remotive",
+          "url": "https://remotive.com",
+          "description": "Curated remote tech jobs plus a job-alert newsletter.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Himalayas",
+          "url": "https://himalayas.app",
+          "description": "Remote job board with detailed company profiles and salary info, free for job seekers.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Wellfound",
+          "url": "https://wellfound.com",
+          "description": "Startup jobs (formerly AngelList Talent) with salary and equity shown upfront.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Contra",
+          "url": "https://contra.com",
+          "description": "Commission-free platform where freelancers get hired and paid.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Working Nomads",
+          "url": "https://www.workingnomads.com",
+          "description": "Curated remote jobs by category, delivered as an email digest.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        }
+      ]
+    },
+    {
+      "slug": "career",
+      "title": "Career & Interviews",
+      "short": "Career",
+      "emoji": "🧭",
+      "description": "Resumes, interview prep and salary data to land the offer and negotiate it.",
+      "items": [
+        {
+          "name": "Tech Interview Handbook",
+          "url": "https://www.techinterviewhandbook.org",
+          "description": "Concise interview prep covering algorithm cheatsheets, behavioral questions and resume tips.",
+          "type": "open-source",
+          "gold": true,
+          "github": "yangshun/tech-interview-handbook",
+          "added": null
+        },
+        {
+          "name": "System Design Primer",
+          "url": "https://github.com/donnemartin/system-design-primer",
+          "description": "The classic guide to designing large-scale systems, with Anki flashcards.",
+          "type": "open-source",
+          "gold": true,
+          "github": "donnemartin/system-design-primer",
+          "added": null
+        },
+        {
+          "name": "Reactive Resume",
+          "url": "https://rxresu.me",
+          "description": "Open-source resume builder with no ads or tracking, exporting to PDF.",
+          "type": "open-source",
+          "gold": true,
+          "github": "reactive-resume/reactive-resume",
+          "added": null
+        },
+        {
+          "name": "Grind 75",
+          "url": "https://www.techinterviewhandbook.org/grind75",
+          "description": "Customizable week-by-week LeetCode study plan from the author of Blind 75.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Coding Interview University",
+          "url": "https://github.com/jwasham/coding-interview-university",
+          "description": "Multi-month self-study plan for becoming a software engineer.",
+          "type": "open-source",
+          "gold": false,
+          "github": "jwasham/coding-interview-university",
+          "added": null
+        },
+        {
+          "name": "NeetCode",
+          "url": "https://neetcode.io",
+          "description": "Structured LeetCode roadmap with free video explanations for every problem.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "LeetCode",
+          "url": "https://leetcode.com",
+          "description": "The standard platform for practicing coding interview problems.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Resume Matcher",
+          "url": "https://github.com/srbhr/Resume-Matcher",
+          "description": "Compares your resume with a job description and suggests keywords to improve your match.",
+          "type": "open-source",
+          "gold": false,
+          "github": "srbhr/Resume-Matcher",
+          "added": null
+        },
+        {
+          "name": "JSON Resume",
+          "url": "https://jsonresume.org",
+          "description": "Open standard for writing your resume as JSON, with themes to render it.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Overleaf CV Templates",
+          "url": "https://www.overleaf.com/latex/templates/tagged/cv",
+          "description": "Professional LaTeX CV templates you can edit right in the browser.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Big-O Cheat Sheet",
+          "url": "https://www.bigocheatsheet.com",
+          "description": "Time and space complexity of common algorithms and data structures on one page.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Levels.fyi",
+          "url": "https://www.levels.fyi",
+          "description": "Crowdsourced compensation data by company, level and location.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        }
+      ]
+    },
+    {
+      "slug": "scholarships",
+      "title": "Scholarships & Research Funding",
+      "short": "Scholarships",
+      "emoji": "🎓",
+      "description": "Funded master's, PhDs and fellowships, so you can study without paying for it.",
+      "items": [
+        {
+          "name": "Erasmus Mundus Catalogue",
+          "url": "https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en",
+          "description": "Fully funded joint master's programmes taught across several European universities.",
+          "type": "free",
+          "gold": true,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "DAAD Scholarship Database",
+          "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
+          "description": "Search funding for studying or doing research in Germany.",
+          "type": "free",
+          "gold": true,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "EURAXESS",
+          "url": "https://euraxess.ec.europa.eu",
+          "description": "EU portal for research jobs, PhD positions and fellowships.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "FindAPhD",
+          "url": "https://www.findaphd.com",
+          "description": "Search funded PhD projects worldwide by subject and country.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Academic Positions",
+          "url": "https://academicpositions.com",
+          "description": "PhD, postdoc and faculty openings, mostly in Europe.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Marie Skłodowska-Curie Actions",
+          "url": "https://marie-sklodowska-curie-actions.ec.europa.eu",
+          "description": "EU funding for doctoral networks and postdoctoral fellowships.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "ELLIS PhD & Postdoc Program",
+          "url": "https://ellis.eu/phd-postdoc",
+          "description": "Europe-wide machine learning PhD program with co-supervision across countries.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Google PhD Fellowship",
+          "url": "https://research.google/programs-and-events/phd-fellowship/",
+          "description": "Funding and Google mentorship for PhD students in computer science.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Fulbright Foreign Student Program",
+          "url": "https://foreign.fulbrightonline.org",
+          "description": "Funded graduate study in the United States for international students.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Chevening",
+          "url": "https://www.chevening.org",
+          "description": "UK government-funded one-year master's scholarships.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Commonwealth Scholarships",
+          "url": "https://cscuk.fcdo.gov.uk",
+          "description": "UK-funded master's and PhD scholarships for Commonwealth citizens.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Swedish Institute Scholarships",
+          "url": "https://si.se/en/apply/scholarships/",
+          "description": "Scholarships covering tuition and living costs for master's study in Sweden.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Stipendium Hungaricum",
+          "url": "https://stipendiumhungaricum.hu",
+          "description": "Hungarian government scholarships for bachelor's, master's and PhD study.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Türkiye Scholarships",
+          "url": "https://www.turkiyeburslari.gov.tr",
+          "description": "Turkish government scholarships covering tuition, housing and a monthly stipend.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Scholars4Dev",
+          "url": "https://www.scholars4dev.com",
+          "description": "International scholarships for students from developing countries.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        }
+      ]
+    },
+    {
+      "slug": "learning",
+      "title": "Learning & Courses",
+      "short": "Learning",
+      "emoji": "📚",
+      "description": "Free courses and books that are as good as paid ones, often better.",
+      "items": [
+        {
+          "name": "freeCodeCamp",
+          "url": "https://www.freecodecamp.org",
+          "description": "Full-stack curriculum with free certifications and thousands of exercises.",
+          "type": "open-source",
+          "gold": true,
+          "github": "freeCodeCamp/freeCodeCamp",
+          "added": null
+        },
+        {
+          "name": "CS50x",
+          "url": "https://cs50.harvard.edu/x/",
+          "description": "Harvard's famous intro to computer science, free online.",
+          "type": "free",
+          "gold": true,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "roadmap.sh",
+          "url": "https://roadmap.sh",
+          "description": "Step-by-step learning roadmaps for every developer role and technology.",
+          "type": "open-source",
+          "gold": true,
+          "github": "nilbuild/developer-roadmap",
+          "added": null
+        },
+        {
+          "name": "The Odin Project",
+          "url": "https://www.theodinproject.com",
+          "description": "Project-based full-stack web development path from zero to job-ready.",
+          "type": "open-source",
+          "gold": false,
+          "github": "TheOdinProject/curriculum",
+          "added": null
+        },
+        {
+          "name": "Full Stack Open",
+          "url": "https://fullstackopen.com",
+          "description": "University of Helsinki's modern web development course covering React, Node and GraphQL.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "OSSU Computer Science",
+          "url": "https://github.com/ossu/computer-science",
+          "description": "A complete computer science degree path built from free online courses.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ossu/computer-science",
+          "added": null
+        },
+        {
+          "name": "The Missing Semester",
+          "url": "https://missing.csail.mit.edu",
+          "description": "MIT's course on the tools nobody teaches, like the shell, Git, editors and debugging.",
+          "type": "open-source",
+          "gold": false,
+          "github": "missing-semester/missing-semester",
+          "added": null
+        },
+        {
+          "name": "build-your-own-x",
+          "url": "https://github.com/codecrafters-io/build-your-own-x",
+          "description": "Learn by rebuilding Git, Redis, Docker, databases and more from scratch.",
+          "type": "open-source",
+          "gold": false,
+          "github": "codecrafters-io/build-your-own-x",
+          "added": null
+        },
+        {
+          "name": "project-based-learning",
+          "url": "https://github.com/practical-tutorials/project-based-learning",
+          "description": "Curated project tutorials sorted by programming language.",
+          "type": "open-source",
+          "gold": false,
+          "github": "practical-tutorials/project-based-learning",
+          "added": null
+        },
+        {
+          "name": "Exercism",
+          "url": "https://exercism.org",
+          "description": "Coding exercises in 70+ languages with free human mentoring.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Learn Git Branching",
+          "url": "https://learngitbranching.js.org",
+          "description": "Interactive visual game that finally makes Git branching click.",
+          "type": "open-source",
+          "gold": false,
+          "github": "pcottle/learnGitBranching",
+          "added": null
+        },
+        {
+          "name": "MIT OpenCourseWare",
+          "url": "https://ocw.mit.edu",
+          "description": "Lecture notes, videos and exams from thousands of MIT courses.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "description": "Huge list of free programming books in many languages.",
+          "type": "open-source",
+          "gold": false,
+          "github": "EbookFoundation/free-programming-books",
+          "added": null
+        },
+        {
+          "name": "Neural Networks: Zero to Hero",
+          "url": "https://karpathy.ai/zero-to-hero.html",
+          "description": "Andrej Karpathy builds neural networks and GPT from scratch, step by step.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Practical Deep Learning (fast.ai)",
+          "url": "https://course.fast.ai",
+          "description": "Hands-on deep learning course for people who already code.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Hugging Face Learn",
+          "url": "https://huggingface.co/learn",
+          "description": "Free courses on LLMs, AI agents, diffusion models and more.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Google Machine Learning Crash Course",
+          "url": "https://developers.google.com/machine-learning/crash-course",
+          "description": "Fast-paced, practical intro to machine learning with interactive exercises.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Kaggle Learn",
+          "url": "https://www.kaggle.com/learn",
+          "description": "Short, hands-on micro-courses in Python, SQL, pandas and machine learning.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Khan Academy",
+          "url": "https://www.khanacademy.org",
+          "description": "Maths, science and computing lessons for every level.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        }
+      ]
+    },
+    {
+      "slug": "students",
+      "title": "Students & Programs",
+      "short": "Students",
+      "emoji": "🧑‍🎓",
+      "description": "Free licenses, credits and paid programs available only while you're a student or newcomer.",
+      "items": [
+        {
+          "name": "GitHub Student Developer Pack",
+          "url": "https://education.github.com/pack",
+          "description": "Free access to dozens of paid developer tools while you study.",
+          "type": "free",
+          "gold": true,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Google Summer of Code",
+          "url": "https://summerofcode.withgoogle.com",
+          "description": "Paid, mentored program for contributing to open-source projects.",
+          "type": "free",
+          "gold": true,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Outreachy",
+          "url": "https://www.outreachy.org",
+          "description": "Paid remote open-source internships for people underrepresented in tech.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "LFX Mentorship",
+          "url": "https://mentorship.lfx.linuxfoundation.org",
+          "description": "Paid mentorships on Linux Foundation and CNCF open-source projects.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "MLH Fellowship",
+          "url": "https://fellowship.mlh.io",
+          "description": "Remote fellowship programs in open source and software engineering.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "MLH Hackathons",
+          "url": "https://mlh.io",
+          "description": "Student hackathons around the world, in person and online.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Devpost",
+          "url": "https://devpost.com",
+          "description": "Find online hackathons with real prizes and build your portfolio.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Hacktoberfest",
+          "url": "https://hacktoberfest.com",
+          "description": "Yearly October event that rewards your first open-source contributions.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "JetBrains Educational Licenses",
+          "url": "https://www.jetbrains.com/community/education/",
+          "description": "Free JetBrains IDEs for students and teachers.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Azure for Students",
+          "url": "https://azure.microsoft.com/en-us/free/students",
+          "description": "Azure cloud credit for students, with no credit card required.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Figma for Education",
+          "url": "https://www.figma.com/education/",
+          "description": "Free Figma Education plan for students and educators.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        }
+      ]
+    },
+    {
+      "slug": "dev-tools",
+      "title": "Developer Tools & Free Tiers",
+      "short": "Dev Tools",
+      "emoji": "🛠️",
+      "description": "Build, host and ship without a credit card.",
+      "items": [
+        {
+          "name": "free-for-dev",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "description": "Hundreds of SaaS, PaaS and IaaS services with free tiers for developers.",
+          "type": "open-source",
+          "gold": true,
+          "github": "ripienaar/free-for-dev",
+          "added": null
+        },
+        {
+          "name": "public-apis",
+          "url": "https://github.com/public-apis/public-apis",
+          "description": "Collective list of free APIs to build projects on.",
+          "type": "open-source",
+          "gold": true,
+          "github": "public-apis/public-apis",
+          "added": null
+        },
+        {
+          "name": "VS Code",
+          "url": "https://code.visualstudio.com",
+          "description": "Free code editor with a huge extension ecosystem.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Zed",
+          "url": "https://zed.dev",
+          "description": "Very fast open-source code editor with built-in collaboration and AI.",
+          "type": "open-source",
+          "gold": false,
+          "github": "zed-industries/zed",
+          "added": null
+        },
+        {
+          "name": "Supabase",
+          "url": "https://supabase.com",
+          "description": "Open-source Postgres backend with auth, storage and realtime, plus a free tier.",
+          "type": "open-source",
+          "gold": true,
+          "github": "supabase/supabase",
+          "added": null
+        },
+        {
+          "name": "Appwrite",
+          "url": "https://appwrite.io",
+          "description": "Open-source backend for web and mobile apps, self-hosted or in the cloud.",
+          "type": "open-source",
+          "gold": false,
+          "github": "appwrite/appwrite",
+          "added": null
+        },
+        {
+          "name": "Neon",
+          "url": "https://neon.tech",
+          "description": "Serverless Postgres with database branching and a free plan.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Cloudflare Pages",
+          "url": "https://pages.cloudflare.com",
+          "description": "Deploy static sites and frontends for free on a global CDN.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Vercel",
+          "url": "https://vercel.com",
+          "description": "Push-to-deploy hosting for frontends and Next.js, with a free Hobby plan.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Coolify",
+          "url": "https://coolify.io",
+          "description": "Self-hosted alternative to Heroku and Vercel for your own server.",
+          "type": "open-source",
+          "gold": false,
+          "github": "coollabsio/coolify",
+          "added": null
+        },
+        {
+          "name": "Hoppscotch",
+          "url": "https://hoppscotch.io",
+          "description": "Lightweight open-source API client, an alternative to Postman.",
+          "type": "open-source",
+          "gold": false,
+          "github": "hoppscotch/hoppscotch",
+          "added": null
+        },
+        {
+          "name": "Bruno",
+          "url": "https://www.usebruno.com",
+          "description": "Offline-first API client that stores collections as plain files in your Git repo.",
+          "type": "open-source",
+          "gold": false,
+          "github": "usebruno/bruno",
+          "added": null
+        },
+        {
+          "name": "DBeaver",
+          "url": "https://dbeaver.io",
+          "description": "Universal database client for Postgres, MySQL, SQLite and dozens more.",
+          "type": "open-source",
+          "gold": false,
+          "github": "dbeaver/dbeaver",
+          "added": null
+        },
+        {
+          "name": "Sentry",
+          "url": "https://sentry.io",
+          "description": "Error tracking and performance monitoring with a free developer plan.",
+          "type": "free-tier",
+          "gold": false,
+          "github": "getsentry/sentry",
+          "added": null
+        },
+        {
+          "name": "DevDocs",
+          "url": "https://devdocs.io",
+          "description": "API documentation for hundreds of languages and frameworks, searchable and offline.",
+          "type": "open-source",
+          "gold": false,
+          "github": "freeCodeCamp/devdocs",
+          "added": null
+        },
+        {
+          "name": "regex101",
+          "url": "https://regex101.com",
+          "description": "Build, test and debug regular expressions with live explanations.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Let's Encrypt",
+          "url": "https://letsencrypt.org",
+          "description": "Free, automated HTTPS certificates for any website.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Oh My Zsh",
+          "url": "https://ohmyz.sh",
+          "description": "Framework that makes your terminal far more pleasant, with hundreds of plugins and themes.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ohmyzsh/ohmyzsh",
+          "added": null
+        },
+        {
+          "name": "awesome-selfhosted",
+          "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+          "description": "Free software you can host yourself, sorted by category.",
+          "type": "open-source",
+          "gold": false,
+          "github": "awesome-selfhosted/awesome-selfhosted",
+          "added": null
+        }
+      ]
+    },
+    {
+      "slug": "ai-tools",
+      "title": "AI Tools & Models",
+      "short": "AI Tools",
+      "emoji": "🤖",
+      "description": "Run models locally, build AI apps and automate your work.",
+      "items": [
+        {
+          "name": "Ollama",
+          "url": "https://ollama.com",
+          "description": "Run open LLMs locally with a single command.",
+          "type": "open-source",
+          "gold": true,
+          "github": "ollama/ollama",
+          "added": null
+        },
+        {
+          "name": "Google AI Studio",
+          "url": "https://aistudio.google.com",
+          "description": "Try Gemini models and get a free API key in minutes.",
+          "type": "free-tier",
+          "gold": true,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "NotebookLM",
+          "url": "https://notebooklm.google",
+          "description": "Upload your sources and get grounded answers, summaries and audio overviews.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Open WebUI",
+          "url": "https://github.com/open-webui/open-webui",
+          "description": "Self-hosted ChatGPT-style interface for local and API models.",
+          "type": "open-source",
+          "gold": false,
+          "github": "open-webui/open-webui",
+          "added": null
+        },
+        {
+          "name": "LM Studio",
+          "url": "https://lmstudio.ai",
+          "description": "Desktop app to discover, download and chat with local LLMs.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "llama.cpp",
+          "url": "https://github.com/ggml-org/llama.cpp",
+          "description": "Fast LLM inference in C/C++ that runs on almost any hardware.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ggml-org/llama.cpp",
+          "added": null
+        },
+        {
+          "name": "vLLM",
+          "url": "https://github.com/vllm-project/vllm",
+          "description": "High-throughput engine for serving LLMs in production.",
+          "type": "open-source",
+          "gold": false,
+          "github": "vllm-project/vllm",
+          "added": null
+        },
+        {
+          "name": "Hugging Face",
+          "url": "https://huggingface.co",
+          "description": "Hub of open models, datasets and live demo apps.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Unsloth",
+          "url": "https://github.com/unslothai/unsloth",
+          "description": "Fine-tune open LLMs faster and with much less GPU memory.",
+          "type": "open-source",
+          "gold": false,
+          "github": "unslothai/unsloth",
+          "added": null
+        },
+        {
+          "name": "Dify",
+          "url": "https://github.com/langgenius/dify",
+          "description": "Visual platform for building LLM apps, RAG pipelines and agents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "langgenius/dify",
+          "added": null
+        },
+        {
+          "name": "AnythingLLM",
+          "url": "https://github.com/Mintplex-Labs/anything-llm",
+          "description": "Private all-in-one app for chatting with your documents using any LLM.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Mintplex-Labs/anything-llm",
+          "added": null
+        },
+        {
+          "name": "n8n",
+          "url": "https://github.com/n8n-io/n8n",
+          "description": "Fair-code workflow automation with AI agents, free to self-host as the Community Edition.",
+          "type": "free",
+          "gold": false,
+          "github": "n8n-io/n8n",
+          "added": null
+        },
+        {
+          "name": "ComfyUI",
+          "url": "https://github.com/Comfy-Org/ComfyUI",
+          "description": "Node-based interface for image and video generation models.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Comfy-Org/ComfyUI",
+          "added": null
+        },
+        {
+          "name": "Whisper",
+          "url": "https://github.com/openai/whisper",
+          "description": "OpenAI's open-source multilingual speech-to-text model.",
+          "type": "open-source",
+          "gold": false,
+          "github": "openai/whisper",
+          "added": null
+        }
+      ]
+    },
+    {
+      "slug": "ai-coding",
+      "title": "AI Coding Agents & Skills",
+      "short": "AI Coding",
+      "emoji": "🧠",
+      "description": "Coding agents and the skills, servers and plugins that make them far better.",
+      "items": [
+        {
+          "name": "UI UX Pro Max Skill",
+          "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+          "description": "Design-intelligence skill that helps AI coding agents build polished, professional UI.",
+          "type": "open-source",
+          "gold": true,
+          "github": "nextlevelbuilder/ui-ux-pro-max-skill",
+          "added": null
+        },
+        {
+          "name": "MCP Servers",
+          "url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Reference Model Context Protocol servers that connect AI agents to tools and data.",
+          "type": "open-source",
+          "gold": true,
+          "github": "modelcontextprotocol/servers",
+          "added": null
+        },
+        {
+          "name": "Gemini CLI",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "description": "Google's open-source AI agent for the terminal, with a generous free tier.",
+          "type": "open-source",
+          "gold": false,
+          "github": "google-gemini/gemini-cli",
+          "added": null
+        },
+        {
+          "name": "Codex CLI",
+          "url": "https://github.com/openai/codex",
+          "description": "OpenAI's open-source coding agent that runs in your terminal.",
+          "type": "open-source",
+          "gold": false,
+          "github": "openai/codex",
+          "added": null
+        },
+        {
+          "name": "Aider",
+          "url": "https://github.com/Aider-AI/aider",
+          "description": "AI pair programming in your terminal that edits your Git repo directly.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Aider-AI/aider",
+          "added": null
+        },
+        {
+          "name": "Continue",
+          "url": "https://github.com/continuedev/continue",
+          "description": "Open-source AI code assistant for VS Code and JetBrains, using any model.",
+          "type": "open-source",
+          "gold": false,
+          "github": "continuedev/continue",
+          "added": null
+        },
+        {
+          "name": "OpenHands",
+          "url": "https://github.com/OpenHands/OpenHands",
+          "description": "Open-source autonomous software engineering agent.",
+          "type": "open-source",
+          "gold": false,
+          "github": "OpenHands/OpenHands",
+          "added": null
+        },
+        {
+          "name": "Anthropic Agent Skills",
+          "url": "https://github.com/anthropics/skills",
+          "description": "Official example skills for Claude covering documents, design and development.",
+          "type": "open-source",
+          "gold": false,
+          "github": "anthropics/skills",
+          "added": null
+        },
+        {
+          "name": "awesome-agent-skills",
+          "url": "https://github.com/VoltAgent/awesome-agent-skills",
+          "description": "1,000+ agent skills for Claude Code, Codex, Cursor and other agents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "VoltAgent/awesome-agent-skills",
+          "added": null
+        }
+      ]
+    },
+    {
+      "slug": "design",
+      "title": "Design & UI",
+      "short": "Design",
+      "emoji": "🎨",
+      "description": "Icons, fonts, photos and design tools that look premium and cost nothing.",
+      "items": [
+        {
+          "name": "Penpot",
+          "url": "https://penpot.app",
+          "description": "Open-source design and prototyping tool, an alternative to Figma.",
+          "type": "open-source",
+          "gold": true,
+          "github": "penpot/penpot",
+          "added": null
+        },
+        {
+          "name": "shadcn/ui",
+          "url": "https://ui.shadcn.com",
+          "description": "Beautiful, accessible React components you copy into your project.",
+          "type": "open-source",
+          "gold": true,
+          "github": "shadcn-ui/ui",
+          "added": null
+        },
+        {
+          "name": "Tailwind CSS",
+          "url": "https://tailwindcss.com",
+          "description": "Utility-first CSS framework for building any design without leaving your HTML.",
+          "type": "open-source",
+          "gold": false,
+          "github": "tailwindlabs/tailwindcss",
+          "added": null
+        },
+        {
+          "name": "Excalidraw",
+          "url": "https://excalidraw.com",
+          "description": "Hand-drawn style whiteboard for diagrams and sketches.",
+          "type": "open-source",
+          "gold": false,
+          "github": "excalidraw/excalidraw",
+          "added": null
+        },
+        {
+          "name": "Inkscape",
+          "url": "https://inkscape.org",
+          "description": "Professional vector graphics editor, an alternative to Illustrator.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "GIMP",
+          "url": "https://www.gimp.org",
+          "description": "Powerful raster image editor, an alternative to Photoshop.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Krita",
+          "url": "https://krita.org",
+          "description": "Digital painting app made by artists, for artists.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Photopea",
+          "url": "https://www.photopea.com",
+          "description": "Photoshop-like image editor that runs in the browser.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Lucide",
+          "url": "https://lucide.dev",
+          "description": "Clean, consistent open-source icon set.",
+          "type": "open-source",
+          "gold": false,
+          "github": "lucide-icons/lucide",
+          "added": null
+        },
+        {
+          "name": "Heroicons",
+          "url": "https://heroicons.com",
+          "description": "Hand-crafted SVG icons from the makers of Tailwind CSS.",
+          "type": "open-source",
+          "gold": false,
+          "github": "tailwindlabs/heroicons",
+          "added": null
+        },
+        {
+          "name": "Phosphor Icons",
+          "url": "https://phosphoricons.com",
+          "description": "Flexible icon family with six weights, from thin to duotone.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Google Fonts",
+          "url": "https://fonts.google.com",
+          "description": "Large library of free, openly licensed fonts.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "unDraw",
+          "url": "https://undraw.co",
+          "description": "Customizable illustrations with no attribution required.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Unsplash",
+          "url": "https://unsplash.com",
+          "description": "Free high-resolution photos for any project.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Coolors",
+          "url": "https://coolors.co",
+          "description": "Generate and explore color palettes in seconds.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Realtime Colors",
+          "url": "https://www.realtimecolors.com",
+          "description": "Preview your color palette and fonts on a real website layout instantly.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Haikei",
+          "url": "https://haikei.app",
+          "description": "Generate unique SVG waves, blobs and backgrounds for your designs.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Squoosh",
+          "url": "https://squoosh.app",
+          "description": "Compress and convert images in the browser while comparing quality side by side.",
+          "type": "open-source",
+          "gold": false,
+          "github": "GoogleChromeLabs/squoosh",
+          "added": null
+        }
+      ]
+    },
+    {
+      "slug": "media",
+      "title": "Video, Audio & Media",
+      "short": "Media",
+      "emoji": "🎬",
+      "description": "Studio-grade editing, recording and stock media at zero cost.",
+      "items": [
+        {
+          "name": "DaVinci Resolve",
+          "url": "https://www.blackmagicdesign.com/products/davinciresolve",
+          "description": "Hollywood-grade video editing and color grading, with a very capable free version.",
+          "type": "free",
+          "gold": true,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "OBS Studio",
+          "url": "https://obsproject.com",
+          "description": "Screen recording and live streaming.",
+          "type": "open-source",
+          "gold": true,
+          "github": "obsproject/obs-studio",
+          "added": null
+        },
+        {
+          "name": "Kdenlive",
+          "url": "https://kdenlive.org",
+          "description": "Full-featured open-source video editor for Linux, Windows and macOS.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Shotcut",
+          "url": "https://shotcut.org",
+          "description": "Simple cross-platform video editor that supports hundreds of formats.",
+          "type": "open-source",
+          "gold": false,
+          "github": "mltframework/shotcut",
+          "added": null
+        },
+        {
+          "name": "Audacity",
+          "url": "https://www.audacityteam.org",
+          "description": "Record and edit audio, from podcasts to voice-overs.",
+          "type": "open-source",
+          "gold": false,
+          "github": "audacity/audacity",
+          "added": null
+        },
+        {
+          "name": "HandBrake",
+          "url": "https://handbrake.fr",
+          "description": "Convert and compress videos to any format.",
+          "type": "open-source",
+          "gold": false,
+          "github": "HandBrake/HandBrake",
+          "added": null
+        },
+        {
+          "name": "Blender",
+          "url": "https://www.blender.org",
+          "description": "Complete 3D suite for modeling, animation, rendering and video editing.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "VLC",
+          "url": "https://www.videolan.org/vlc/",
+          "description": "Media player that plays practically any file.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "yt-dlp",
+          "url": "https://github.com/yt-dlp/yt-dlp",
+          "description": "Command-line downloader for audio and video from thousands of sites.",
+          "type": "open-source",
+          "gold": false,
+          "github": "yt-dlp/yt-dlp",
+          "added": null
+        },
+        {
+          "name": "Canva",
+          "url": "https://www.canva.com",
+          "description": "Drag-and-drop design for social posts, slides and thumbnails, with a strong free plan.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Pexels",
+          "url": "https://www.pexels.com",
+          "description": "Free stock photos and videos you can use without attribution.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Freesound",
+          "url": "https://freesound.org",
+          "description": "Huge library of Creative Commons sound effects and samples.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        }
+      ]
+    },
+    {
+      "slug": "productivity",
+      "title": "Productivity & Everyday Apps",
+      "short": "Productivity",
+      "emoji": "⚡",
+      "description": "Notes, office apps and utilities, mostly open-source alternatives to paid apps.",
+      "items": [
+        {
+          "name": "Obsidian",
+          "url": "https://obsidian.md",
+          "description": "Local-first markdown notes with backlinks and a huge plugin ecosystem.",
+          "type": "free",
+          "gold": true,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "LocalSend",
+          "url": "https://localsend.org",
+          "description": "Share files between nearby devices with no internet or account.",
+          "type": "open-source",
+          "gold": true,
+          "github": "localsend/localsend",
+          "added": null
+        },
+        {
+          "name": "Logseq",
+          "url": "https://logseq.com",
+          "description": "Open-source outliner for notes, journals and knowledge graphs.",
+          "type": "open-source",
+          "gold": false,
+          "github": "logseq/logseq",
+          "added": null
+        },
+        {
+          "name": "Joplin",
+          "url": "https://joplinapp.org",
+          "description": "Open-source note app with end-to-end encrypted sync.",
+          "type": "open-source",
+          "gold": false,
+          "github": "laurent22/joplin",
+          "added": null
+        },
+        {
+          "name": "AppFlowy",
+          "url": "https://appflowy.io",
+          "description": "Open-source alternative to Notion that you can self-host.",
+          "type": "open-source",
+          "gold": false,
+          "github": "AppFlowy-IO/AppFlowy",
+          "added": null
+        },
+        {
+          "name": "Super Productivity",
+          "url": "https://super-productivity.com",
+          "description": "To-do list with time tracking, timeboxing and Jira/GitHub integration.",
+          "type": "open-source",
+          "gold": false,
+          "github": "super-productivity/super-productivity",
+          "added": null
+        },
+        {
+          "name": "LibreOffice",
+          "url": "https://www.libreoffice.org",
+          "description": "Full office suite for documents, spreadsheets and slides.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Thunderbird",
+          "url": "https://www.thunderbird.net",
+          "description": "Email, calendar and contacts in one open-source app.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Syncthing",
+          "url": "https://syncthing.net",
+          "description": "Sync folders between your devices privately, with no cloud in between.",
+          "type": "open-source",
+          "gold": false,
+          "github": "syncthing/syncthing",
+          "added": null
+        },
+        {
+          "name": "Espanso",
+          "url": "https://espanso.org",
+          "description": "Cross-platform text expander that saves you from typing the same things again.",
+          "type": "open-source",
+          "gold": false,
+          "github": "espanso/espanso",
+          "added": null
+        },
+        {
+          "name": "Flameshot",
+          "url": "https://flameshot.org",
+          "description": "Screenshot tool with instant annotation, arrows and blur.",
+          "type": "open-source",
+          "gold": false,
+          "github": "flameshot-org/flameshot",
+          "added": null
+        },
+        {
+          "name": "ShareX",
+          "url": "https://getsharex.com",
+          "description": "Windows power tool for screenshots, screen recording and instant sharing.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ShareX/ShareX",
+          "added": null
+        },
+        {
+          "name": "Rectangle",
+          "url": "https://rectangleapp.com",
+          "description": "Snap and arrange macOS windows with keyboard shortcuts.",
+          "type": "open-source",
+          "gold": false,
+          "github": "rxhanson/Rectangle",
+          "added": null
+        },
+        {
+          "name": "PowerToys",
+          "url": "https://github.com/microsoft/PowerToys",
+          "description": "Microsoft's power-user utilities for Windows.",
+          "type": "open-source",
+          "gold": false,
+          "github": "microsoft/PowerToys",
+          "added": null
+        },
+        {
+          "name": "7-Zip",
+          "url": "https://www.7-zip.org",
+          "description": "File archiver with a high compression ratio that opens almost any archive.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        }
+      ]
+    },
+    {
+      "slug": "research",
+      "title": "Research & Writing",
+      "short": "Research",
+      "emoji": "🔬",
+      "description": "Find papers, manage references and write better, for students and researchers.",
+      "items": [
+        {
+          "name": "Zotero",
+          "url": "https://www.zotero.org",
+          "description": "Collect, organize and cite research papers, with one-click capture from your browser.",
+          "type": "open-source",
+          "gold": true,
+          "github": "zotero/zotero",
+          "added": null
+        },
+        {
+          "name": "Overleaf",
+          "url": "https://www.overleaf.com",
+          "description": "Collaborative LaTeX editor in the browser for papers and theses.",
+          "type": "free-tier",
+          "gold": true,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Typst",
+          "url": "https://typst.app",
+          "description": "Modern typesetting system that's much easier to learn than LaTeX.",
+          "type": "open-source",
+          "gold": false,
+          "github": "typst/typst",
+          "added": null
+        },
+        {
+          "name": "arXiv",
+          "url": "https://arxiv.org",
+          "description": "Open-access archive of preprints in CS, physics, maths and more.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Semantic Scholar",
+          "url": "https://www.semanticscholar.org",
+          "description": "AI-powered search engine for academic papers.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Google Scholar",
+          "url": "https://scholar.google.com",
+          "description": "Search scholarly literature and track citations.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Connected Papers",
+          "url": "https://www.connectedpapers.com",
+          "description": "Visual graph of papers related to the one you're reading.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Unpaywall",
+          "url": "https://unpaywall.org",
+          "description": "Find legal, free versions of paywalled research papers.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Elicit",
+          "url": "https://elicit.com",
+          "description": "AI research assistant that finds papers and extracts key findings.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "LanguageTool",
+          "url": "https://languagetool.org",
+          "description": "Grammar and style checker for 30+ languages.",
+          "type": "free-tier",
+          "gold": false,
+          "github": "languagetool-org/languagetool",
+          "added": null
+        },
+        {
+          "name": "Hemingway Editor",
+          "url": "https://hemingwayapp.com",
+          "description": "Highlights long, hard-to-read sentences so your writing gets clear and bold.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        }
+      ]
+    },
+    {
+      "slug": "startups",
+      "title": "Startups & Business",
+      "short": "Startups",
+      "emoji": "🚀",
+      "description": "Launch and run a product, with free credits, analytics, CRM and support tools.",
+      "items": [
+        {
+          "name": "YC Startup School",
+          "url": "https://www.startupschool.org",
+          "description": "Y Combinator's free course on how to start a startup, plus co-founder matching.",
+          "type": "free",
+          "gold": true,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "YC Library",
+          "url": "https://www.ycombinator.com/library",
+          "description": "Y Combinator's essays, videos and advice for founders.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "AWS Activate",
+          "url": "https://aws.amazon.com/activate/",
+          "description": "AWS credits and support for early-stage startups.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Google for Startups Cloud Program",
+          "url": "https://cloud.google.com/startup",
+          "description": "Google Cloud credits and technical support for startups.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "PostHog",
+          "url": "https://posthog.com",
+          "description": "Open-source product analytics, session replay and feature flags with a big free tier.",
+          "type": "open-source",
+          "gold": true,
+          "github": "PostHog/posthog",
+          "added": null
+        },
+        {
+          "name": "Umami",
+          "url": "https://umami.is",
+          "description": "Simple, privacy-friendly website analytics, an alternative to Google Analytics.",
+          "type": "open-source",
+          "gold": false,
+          "github": "umami-software/umami",
+          "added": null
+        },
+        {
+          "name": "Listmonk",
+          "url": "https://listmonk.app",
+          "description": "Self-hosted newsletter and mailing list manager.",
+          "type": "open-source",
+          "gold": false,
+          "github": "knadh/listmonk",
+          "added": null
+        },
+        {
+          "name": "Chatwoot",
+          "url": "https://www.chatwoot.com",
+          "description": "Open-source customer support inbox for chat, email and social.",
+          "type": "open-source",
+          "gold": false,
+          "github": "chatwoot/chatwoot",
+          "added": null
+        },
+        {
+          "name": "Twenty",
+          "url": "https://twenty.com",
+          "description": "Modern open-source CRM, an alternative to Salesforce.",
+          "type": "open-source",
+          "gold": false,
+          "github": "twentyhq/twenty",
+          "added": null
+        },
+        {
+          "name": "Odoo Community",
+          "url": "https://github.com/odoo/odoo",
+          "description": "Open-source ERP covering CRM, sales, inventory, accounting and website.",
+          "type": "open-source",
+          "gold": false,
+          "github": "odoo/odoo",
+          "added": null
+        }
+      ]
+    },
+    {
+      "slug": "privacy-security",
+      "title": "Privacy & Security",
+      "short": "Privacy",
+      "emoji": "🔒",
+      "description": "Protect your accounts, data and devices, and learn security hands-on.",
+      "items": [
+        {
+          "name": "Bitwarden",
+          "url": "https://bitwarden.com",
+          "description": "Open-source password manager with a free plan on every device.",
+          "type": "open-source",
+          "gold": true,
+          "github": "bitwarden/clients",
+          "added": null
+        },
+        {
+          "name": "uBlock Origin",
+          "url": "https://github.com/gorhill/uBlock",
+          "description": "Efficient, lightweight ad and tracker blocker.",
+          "type": "open-source",
+          "gold": true,
+          "github": "gorhill/uBlock",
+          "added": null
+        },
+        {
+          "name": "Firefox",
+          "url": "https://www.mozilla.org/firefox/",
+          "description": "Independent open-source browser with strong tracking protection.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Signal",
+          "url": "https://signal.org",
+          "description": "End-to-end encrypted messaging and calls.",
+          "type": "open-source",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "KeePassXC",
+          "url": "https://keepassxc.org",
+          "description": "Offline open-source password manager.",
+          "type": "open-source",
+          "gold": false,
+          "github": "keepassxreboot/keepassxc",
+          "added": null
+        },
+        {
+          "name": "Ente Auth",
+          "url": "https://ente.io/auth/",
+          "description": "Open-source 2FA authenticator with end-to-end encrypted backups.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ente/ente",
+          "added": null
+        },
+        {
+          "name": "Aegis Authenticator",
+          "url": "https://getaegis.app",
+          "description": "Secure open-source 2FA app for Android with encrypted backups.",
+          "type": "open-source",
+          "gold": false,
+          "github": "beemdevelopment/Aegis",
+          "added": null
+        },
+        {
+          "name": "VeraCrypt",
+          "url": "https://www.veracrypt.fr",
+          "description": "Encrypt whole drives or create encrypted containers for sensitive files.",
+          "type": "open-source",
+          "gold": false,
+          "github": "veracrypt/VeraCrypt",
+          "added": null
+        },
+        {
+          "name": "Tailscale",
+          "url": "https://tailscale.com",
+          "description": "Zero-config private network between your devices, free for personal use.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Proton Mail",
+          "url": "https://proton.me/mail",
+          "description": "Encrypted email with a free plan.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Have I Been Pwned",
+          "url": "https://haveibeenpwned.com",
+          "description": "Check whether your email address appeared in a data breach.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "Privacy Guides",
+          "url": "https://www.privacyguides.org",
+          "description": "Independent, non-profit recommendations for privacy tools.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "OWASP Top 10",
+          "url": "https://owasp.org/www-project-top-ten/",
+          "description": "The most critical web application security risks every developer should know.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "TryHackMe",
+          "url": "https://tryhackme.com",
+          "description": "Learn cybersecurity through guided, hands-on labs in the browser.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "OverTheWire Wargames",
+          "url": "https://overthewire.org/wargames/",
+          "description": "Learn Linux and security concepts through progressively harder games.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": null
+        },
+        {
+          "name": "The Book of Secret Knowledge",
+          "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+          "description": "Huge collection of sysadmin, security and command-line cheatsheets.",
+          "type": "open-source",
+          "gold": false,
+          "github": "trimstray/the-book-of-secret-knowledge",
+          "added": null
+        }
+      ]
+    }
+  ]
+}

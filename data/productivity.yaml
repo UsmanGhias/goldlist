@@ -1,6 +1,7 @@
-title: Productivity
+title: Productivity & Everyday Apps
+short: Productivity
 emoji: ⚡
-order: 8
+order: 11
 description: Notes, office apps and utilities, mostly open-source alternatives to paid apps.
 items:
   - name: Obsidian
@@ -12,28 +13,66 @@ items:
     url: https://localsend.org
     desc: Share files between nearby devices with no internet or account.
     type: open-source
+    github: localsend/localsend
     gold: true
   - name: Logseq
     url: https://logseq.com
     desc: Open-source outliner for notes, journals and knowledge graphs.
     type: open-source
+    github: logseq/logseq
   - name: Joplin
     url: https://joplinapp.org
     desc: Open-source note app with end-to-end encrypted sync.
     type: open-source
+    github: laurent22/joplin
   - name: AppFlowy
     url: https://appflowy.io
     desc: Open-source alternative to Notion that you can self-host.
     type: open-source
+    github: AppFlowy-IO/AppFlowy
+  - name: Super Productivity
+    url: https://super-productivity.com
+    desc: To-do list with time tracking, timeboxing and Jira/GitHub integration.
+    type: open-source
+    github: super-productivity/super-productivity
   - name: LibreOffice
     url: https://www.libreoffice.org
     desc: Full office suite for documents, spreadsheets and slides.
     type: open-source
-  - name: OBS Studio
-    url: https://obsproject.com
-    desc: Screen recording and live streaming.
+  - name: Thunderbird
+    url: https://www.thunderbird.net
+    desc: Email, calendar and contacts in one open-source app.
     type: open-source
+  - name: Syncthing
+    url: https://syncthing.net
+    desc: Sync folders between your devices privately, with no cloud in between.
+    type: open-source
+    github: syncthing/syncthing
+  - name: Espanso
+    url: https://espanso.org
+    desc: Cross-platform text expander that saves you from typing the same things again.
+    type: open-source
+    github: espanso/espanso
+  - name: Flameshot
+    url: https://flameshot.org
+    desc: Screenshot tool with instant annotation, arrows and blur.
+    type: open-source
+    github: flameshot-org/flameshot
+  - name: ShareX
+    url: https://getsharex.com
+    desc: Windows power tool for screenshots, screen recording and instant sharing.
+    type: open-source
+    github: ShareX/ShareX
+  - name: Rectangle
+    url: https://rectangleapp.com
+    desc: Snap and arrange macOS windows with keyboard shortcuts.
+    type: open-source
+    github: rxhanson/Rectangle
   - name: PowerToys
     url: https://github.com/microsoft/PowerToys
     desc: Microsoft's power-user utilities for Windows.
+    type: open-source
+  - name: 7-Zip
+    url: https://www.7-zip.org
+    desc: File archiver with a high compression ratio that opens almost any archive.
     type: open-source
