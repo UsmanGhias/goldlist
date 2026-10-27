@@ -88,3 +88,9 @@ items:
     url: https://www.khanacademy.org
     desc: Maths, science and computing lessons for every level.
     type: free
+  - name: Anki
+    url: https://apps.ankiweb.net
+    desc: Spaced-repetition flashcards that make anything you learn stick, synced across devices.
+    type: open-source
+    github: ankitects/anki
+    added: 2026-10-27
