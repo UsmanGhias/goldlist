@@ -147,7 +147,7 @@ Several related entries can go in one PR (e.g. "add 5 design tools"), but keep a
 
 | Workflow | Trigger | What it does |
 | --- | --- | --- |
-| `validate.yml` | every PR | Schema, duplicates and template-link validation, plus a link check of changed data files. **Required check.** |
+| `validate.yml` | every PR | Schema, duplicates and template-link validation, plus a link check of changed data files. Must pass before merge. |
 | CodeRabbit (GitHub App) | every PR | AI review against the rules in `.coderabbit.yaml`. Approves when satisfied. |
 | `automerge.yml` | CodeRabbit approval (owner PRs) or `approved` label | Waits for checks, squash-merges, deletes the branch, rebuilds the README. |
 | `build.yml` | push to main, daily, manual | Regenerates README.md, api/goldlist.json and the suggestion form, then commits them. |
@@ -155,8 +155,8 @@ Several related entries can go in one PR (e.g. "add 5 design tools"), but keep a
 | `links.yml` | weekly (Monday) | Checks every link and opens a `broken-link` issue if any are dead. |
 | Dependabot | monthly | Opens PRs to update GitHub Actions versions. |
 
-`main` is protected: changes go through pull requests and the `validate` check must pass. The repo
-owner and the GitHub Actions bot can bypass this.
+`main` is protected against force-pushes and deletion. Always change it through a pull request,
+so that CodeRabbit and `validate` check every change before it lands.
 
 ## 8. Fixing a broken-link issue
 
