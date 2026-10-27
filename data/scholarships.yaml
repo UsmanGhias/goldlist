@@ -1,0 +1,43 @@
+title: Scholarships & Research
+emoji: 🎓
+order: 3
+description: Funded master's, PhDs and fellowships, so you can study without paying for it.
+items:
+  - name: Erasmus Mundus Catalogue
+    url: https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en
+    desc: Fully funded joint master's programmes taught across several European universities.
+    type: free
+    gold: true
+  - name: DAAD Scholarship Database
+    url: https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/
+    desc: Search funding for studying or doing research in Germany.
+    type: free
+    gold: true
+  - name: EURAXESS
+    url: https://euraxess.ec.europa.eu
+    desc: EU portal for research jobs, PhD positions and fellowships.
+    type: free
+  - name: FindAPhD
+    url: https://www.findaphd.com
+    desc: Search funded PhD projects worldwide by subject and country.
+    type: free
+  - name: Academic Positions
+    url: https://academicpositions.com
+    desc: PhD, postdoc and faculty openings, mostly in Europe.
+    type: free
+  - name: Marie Skłodowska-Curie Actions
+    url: https://marie-sklodowska-curie-actions.ec.europa.eu
+    desc: EU funding for doctoral networks and postdoctoral fellowships.
+    type: free
+  - name: Fulbright Foreign Student Program
+    url: https://foreign.fulbrightonline.org
+    desc: Funded graduate study in the United States for international students.
+    type: free
+  - name: Chevening
+    url: https://www.chevening.org
+    desc: UK government-funded one-year master's scholarships.
+    type: free
+  - name: Scholars4Dev
+    url: https://www.scholars4dev.com
+    desc: International scholarships for students from developing countries.
+    type: free

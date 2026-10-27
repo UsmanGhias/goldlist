@@ -1,0 +1,36 @@
+title: Career & Interviews
+emoji: 🧭
+order: 2
+description: Resumes, interview prep and salary data to land the offer and negotiate it.
+items:
+  - name: Tech Interview Handbook
+    url: https://www.techinterviewhandbook.org
+    desc: Concise interview prep covering algorithm cheatsheets, behavioral questions and resume tips.
+    type: open-source
+    gold: true
+  - name: System Design Primer
+    url: https://github.com/donnemartin/system-design-primer
+    desc: The classic guide to designing large-scale systems, with Anki flashcards.
+    type: open-source
+    gold: true
+  - name: Reactive Resume
+    url: https://rxresu.me
+    desc: Open-source resume builder with no ads or tracking, exporting to PDF.
+    type: open-source
+    gold: true
+  - name: Coding Interview University
+    url: https://github.com/jwasham/coding-interview-university
+    desc: Multi-month self-study plan for becoming a software engineer.
+    type: open-source
+  - name: NeetCode
+    url: https://neetcode.io
+    desc: Structured LeetCode roadmap with free video explanations for every problem.
+    type: free-tier
+  - name: Overleaf CV Templates
+    url: https://www.overleaf.com/latex/templates/tagged/cv
+    desc: Professional LaTeX CV templates you can edit right in the browser.
+    type: free-tier
+  - name: Levels.fyi
+    url: https://www.levels.fyi
+    desc: Crowdsourced compensation data by company, level and location.
+    type: free

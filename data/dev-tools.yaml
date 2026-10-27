@@ -1,0 +1,43 @@
+title: Developer Tools & Free Tiers
+emoji: 🛠️
+order: 5
+description: Build, host and ship without a credit card.
+items:
+  - name: free-for-dev
+    url: https://github.com/ripienaar/free-for-dev
+    desc: Hundreds of SaaS, PaaS and IaaS services with free tiers for developers.
+    type: open-source
+    gold: true
+  - name: public-apis
+    url: https://github.com/public-apis/public-apis
+    desc: Collective list of free APIs to build projects on.
+    type: open-source
+    gold: true
+  - name: VS Code
+    url: https://code.visualstudio.com
+    desc: Free code editor with a huge extension ecosystem.
+    type: free
+  - name: Supabase
+    url: https://supabase.com
+    desc: Open-source Postgres backend with auth, storage and realtime, plus a free tier.
+    type: open-source
+  - name: Neon
+    url: https://neon.tech
+    desc: Serverless Postgres with database branching and a free plan.
+    type: free-tier
+  - name: Cloudflare Pages
+    url: https://pages.cloudflare.com
+    desc: Deploy static sites and frontends for free on a global CDN.
+    type: free-tier
+  - name: Coolify
+    url: https://coolify.io
+    desc: Self-hosted alternative to Heroku and Vercel for your own server.
+    type: open-source
+  - name: Hoppscotch
+    url: https://hoppscotch.io
+    desc: Lightweight open-source API client, an alternative to Postman.
+    type: open-source
+  - name: awesome-selfhosted
+    url: https://github.com/awesome-selfhosted/awesome-selfhosted
+    desc: Free software you can host yourself, sorted by category.
+    type: open-source

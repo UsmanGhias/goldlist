@@ -1,0 +1,43 @@
+title: Privacy & Security
+emoji: 🔒
+order: 10
+description: Protect your accounts, data and devices with trusted free tools.
+items:
+  - name: Bitwarden
+    url: https://bitwarden.com
+    desc: Open-source password manager with a free plan on every device.
+    type: open-source
+    gold: true
+  - name: uBlock Origin
+    url: https://github.com/gorhill/uBlock
+    desc: Efficient, lightweight ad and tracker blocker.
+    type: open-source
+    gold: true
+  - name: Signal
+    url: https://signal.org
+    desc: End-to-end encrypted messaging and calls.
+    type: open-source
+  - name: KeePassXC
+    url: https://keepassxc.org
+    desc: Offline open-source password manager.
+    type: open-source
+  - name: Ente Auth
+    url: https://ente.io/auth/
+    desc: Open-source 2FA authenticator with end-to-end encrypted backups.
+    type: open-source
+  - name: Proton Mail
+    url: https://proton.me/mail
+    desc: Encrypted email with a free plan.
+    type: free-tier
+  - name: Have I Been Pwned
+    url: https://haveibeenpwned.com
+    desc: Check whether your email address appeared in a data breach.
+    type: free
+  - name: Privacy Guides
+    url: https://www.privacyguides.org
+    desc: Independent, non-profit recommendations for privacy tools.
+    type: free
+  - name: The Book of Secret Knowledge
+    url: https://github.com/trimstray/the-book-of-secret-knowledge
+    desc: Huge collection of sysadmin, security and command-line cheatsheets.
+    type: open-source

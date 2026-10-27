@@ -1,0 +1,35 @@
+title: Students & Programs
+emoji: 🧑‍🎓
+order: 9
+description: Free licenses, credits and paid programs available only while you're a student or newcomer.
+items:
+  - name: GitHub Student Developer Pack
+    url: https://education.github.com/pack
+    desc: Free access to dozens of paid developer tools while you study.
+    type: free
+    gold: true
+  - name: Google Summer of Code
+    url: https://summerofcode.withgoogle.com
+    desc: Paid, mentored program for contributing to open-source projects.
+    type: free
+    gold: true
+  - name: Outreachy
+    url: https://www.outreachy.org
+    desc: Paid remote open-source internships for people underrepresented in tech.
+    type: free
+  - name: MLH Fellowship
+    url: https://fellowship.mlh.io
+    desc: Remote fellowship programs in open source and software engineering.
+    type: free
+  - name: JetBrains Educational Licenses
+    url: https://www.jetbrains.com/community/education/
+    desc: Free JetBrains IDEs for students and teachers.
+    type: free
+  - name: Azure for Students
+    url: https://azure.microsoft.com/en-us/free/students
+    desc: Azure cloud credit for students, with no credit card required.
+    type: free
+  - name: Figma for Education
+    url: https://www.figma.com/education/
+    desc: Free Figma Education plan for students and educators.
+    type: free

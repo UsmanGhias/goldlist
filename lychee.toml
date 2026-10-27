@@ -1,0 +1,11 @@
+# Link checker config (used by .github/workflows/links.yml)
+max_retries = 3
+timeout = 30
+# Many sites block bots with 403/429 even though they are live for humans.
+accept = ["200..=299", "403", "429"]
+exclude = [
+  "^https://img\\.shields\\.io",
+  "^https://api\\.star-history\\.com",
+  "^https://star-history\\.com",
+  "^https://github\\.com/UsmanGhias/goldlist",
+]

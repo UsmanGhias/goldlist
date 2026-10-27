@@ -1,0 +1,47 @@
+title: Learning
+emoji: 📚
+order: 4
+description: Free courses and books that are as good as paid ones, often better.
+items:
+  - name: freeCodeCamp
+    url: https://www.freecodecamp.org
+    desc: Full-stack curriculum with free certifications and thousands of exercises.
+    type: open-source
+    gold: true
+  - name: CS50x
+    url: https://cs50.harvard.edu/x/
+    desc: Harvard's famous intro to computer science, free online.
+    type: free
+    gold: true
+  - name: roadmap.sh
+    url: https://roadmap.sh
+    desc: Step-by-step learning roadmaps for every developer role and technology.
+    type: open-source
+  - name: The Odin Project
+    url: https://www.theodinproject.com
+    desc: Project-based full-stack web development path from zero to job-ready.
+    type: open-source
+  - name: OSSU Computer Science
+    url: https://github.com/ossu/computer-science
+    desc: A complete computer science degree path built from free online courses.
+    type: open-source
+  - name: MIT OpenCourseWare
+    url: https://ocw.mit.edu
+    desc: Lecture notes, videos and exams from thousands of MIT courses.
+    type: free
+  - name: free-programming-books
+    url: https://github.com/EbookFoundation/free-programming-books
+    desc: Huge list of free programming books in many languages.
+    type: open-source
+  - name: Practical Deep Learning (fast.ai)
+    url: https://course.fast.ai
+    desc: Hands-on deep learning course for people who already code.
+    type: free
+  - name: Hugging Face Learn
+    url: https://huggingface.co/learn
+    desc: Free courses on LLMs, AI agents, diffusion models and more.
+    type: free
+  - name: Khan Academy
+    url: https://www.khanacademy.org
+    desc: Maths, science and computing lessons for every level.
+    type: free

@@ -1,0 +1,33 @@
+name: Build README
+
+on:
+  push:
+    branches: [main]
+    paths: ["data/**", "scripts/**", "templates/**"]
+  pull_request:
+    paths: ["data/**", "scripts/**", "templates/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Validate entries
+        run: python scripts/build.py --validate
+      - name: Regenerate README
+        if: github.event_name != 'pull_request'
+        run: python scripts/build.py
+      - name: Commit README
+        if: github.event_name != 'pull_request'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: regenerate README"
+          file_pattern: README.md

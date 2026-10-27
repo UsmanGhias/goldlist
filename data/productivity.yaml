@@ -1,0 +1,39 @@
+title: Productivity
+emoji: ⚡
+order: 8
+description: Notes, office apps and utilities, mostly open-source alternatives to paid apps.
+items:
+  - name: Obsidian
+    url: https://obsidian.md
+    desc: Local-first markdown notes with backlinks and a huge plugin ecosystem.
+    type: free
+    gold: true
+  - name: LocalSend
+    url: https://localsend.org
+    desc: Share files between nearby devices with no internet or account.
+    type: open-source
+    gold: true
+  - name: Logseq
+    url: https://logseq.com
+    desc: Open-source outliner for notes, journals and knowledge graphs.
+    type: open-source
+  - name: Joplin
+    url: https://joplinapp.org
+    desc: Open-source note app with end-to-end encrypted sync.
+    type: open-source
+  - name: AppFlowy
+    url: https://appflowy.io
+    desc: Open-source alternative to Notion that you can self-host.
+    type: open-source
+  - name: LibreOffice
+    url: https://www.libreoffice.org
+    desc: Full office suite for documents, spreadsheets and slides.
+    type: open-source
+  - name: OBS Studio
+    url: https://obsproject.com
+    desc: Screen recording and live streaming.
+    type: open-source
+  - name: PowerToys
+    url: https://github.com/microsoft/PowerToys
+    desc: Microsoft's power-user utilities for Windows.
+    type: open-source

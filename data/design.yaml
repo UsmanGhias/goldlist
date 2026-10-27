@@ -1,0 +1,46 @@
+title: Design
+emoji: 🎨
+order: 7
+description: Icons, fonts, photos and design tools that look premium and cost nothing.
+items:
+  - name: Penpot
+    url: https://penpot.app
+    desc: Open-source design and prototyping tool, an alternative to Figma.
+    type: open-source
+    gold: true
+  - name: shadcn/ui
+    url: https://ui.shadcn.com
+    desc: Beautiful, accessible React components you copy into your project.
+    type: open-source
+  - name: Excalidraw
+    url: https://excalidraw.com
+    desc: Hand-drawn style whiteboard for diagrams and sketches.
+    type: open-source
+  - name: Lucide
+    url: https://lucide.dev
+    desc: Clean, consistent open-source icon set.
+    type: open-source
+  - name: Heroicons
+    url: https://heroicons.com
+    desc: Hand-crafted SVG icons from the makers of Tailwind CSS.
+    type: open-source
+  - name: Google Fonts
+    url: https://fonts.google.com
+    desc: Large library of free, openly licensed fonts.
+    type: free
+  - name: unDraw
+    url: https://undraw.co
+    desc: Customizable illustrations with no attribution required.
+    type: free
+  - name: Unsplash
+    url: https://unsplash.com
+    desc: Free high-resolution photos for any project.
+    type: free
+  - name: Coolors
+    url: https://coolors.co
+    desc: Generate and explore color palettes in seconds.
+    type: free-tier
+  - name: Photopea
+    url: https://www.photopea.com
+    desc: Photoshop-like image editor that runs in the browser.
+    type: free

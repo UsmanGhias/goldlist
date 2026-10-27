@@ -1,0 +1,54 @@
+name: ⭐ Suggest a resource
+description: Something free or open source that belongs on GoldList
+title: "[Suggest] "
+labels: ["suggestion"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      placeholder: e.g. LocalSend
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Link
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Jobs & Freelancing
+        - Career & Interviews
+        - Scholarships & Research
+        - Learning
+        - Developer Tools & Free Tiers
+        - AI Tools & Agents
+        - Design
+        - Productivity
+        - Students & Programs
+        - Privacy & Security
+        - New category (explain below)
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Open source
+        - Free
+        - Free tier
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why is it gold?
+      description: One or two sentences. What makes it the best (or close to it) at what it does?
+    validations:
+      required: true
