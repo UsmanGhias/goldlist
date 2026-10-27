@@ -8,4 +8,7 @@ exclude = [
   "^https://api\\.star-history\\.com",
   "^https://star-history\\.com",
   "^https://github\\.com/UsmanGhias/goldlist",
+  # Live in browsers, but block or break for automated checkers.
+  "^https://unsplash\\.com",
+  "^https://www\\.chevening\\.org",
 ]
