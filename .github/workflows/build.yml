@@ -29,7 +29,7 @@ jobs:
       - name: Generate README, JSON API and suggestion form
         run: python scripts/build.py
       - name: Commit generated files
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "docs: regenerate README and API [skip ci]"
           file_pattern: "README.md api/goldlist.json .github/ISSUE_TEMPLATE/suggest.yml"
