@@ -85,3 +85,44 @@ items:
     desc: Compress and convert images in the browser while comparing quality side by side.
     type: open-source
     github: GoogleChromeLabs/squoosh
+  - name: Tabler Icons
+    url: https://tabler.io/icons
+    desc: Thousands of free, pixel-perfect MIT-licensed SVG icons.
+    type: open-source
+    github: tabler/tabler-icons
+    added: 2026-10-28
+  - name: Iconify
+    url: https://iconify.design
+    desc: 200,000+ open-source icons from 150+ sets in one framework.
+    type: open-source
+    github: iconify/iconify
+    added: 2026-10-28
+  - name: Radix Primitives
+    url: https://www.radix-ui.com
+    desc: Unstyled, accessible React components for design systems.
+    type: open-source
+    github: radix-ui/primitives
+    added: 2026-10-28
+  - name: daisyUI
+    url: https://daisyui.com
+    desc: 'Component classes for Tailwind CSS: cleaner markup, themes built in.'
+    type: open-source
+    github: saadeghi/daisyui
+    added: 2026-10-28
+  - name: Motion
+    url: https://motion.dev
+    desc: Production-grade animation library for React and JavaScript.
+    type: open-source
+    github: motiondivision/motion
+    added: 2026-10-28
+  - name: rembg
+    url: https://github.com/danielgatis/rembg
+    desc: Remove image backgrounds locally with one command.
+    type: open-source
+    github: danielgatis/rembg
+    added: 2026-10-28
+  - name: Fontshare
+    url: https://www.fontshare.com
+    desc: Quality fonts from Indian Type Foundry, free for commercial use.
+    type: free
+    added: 2026-10-28

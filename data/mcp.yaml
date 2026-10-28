@@ -61,3 +61,58 @@ items:
     desc: Large community directory of MCP servers, sorted by category.
     type: open-source
     added: 2026-10-27
+  - name: Chrome DevTools MCP
+    url: https://github.com/ChromeDevTools/chrome-devtools-mcp
+    desc: Let agents debug, profile and test pages in a live Chrome.
+    type: open-source
+    github: ChromeDevTools/chrome-devtools-mcp
+    gold: true
+    added: 2026-10-28
+  - name: Desktop Commander
+    url: https://github.com/wonderwhy-er/DesktopCommanderMCP
+    desc: MCP server for terminal commands, file search and edits on your machine.
+    type: open-source
+    github: wonderwhy-er/DesktopCommanderMCP
+    added: 2026-10-28
+  - name: Notion MCP Server
+    url: https://github.com/makenotion/notion-mcp-server
+    desc: Official MCP server for the Notion API.
+    type: open-source
+    github: makenotion/notion-mcp-server
+    added: 2026-10-28
+  - name: Supabase MCP
+    url: https://supabase.com/mcp
+    desc: Connect agents to your Supabase projects, tables and logs.
+    type: open-source
+    github: supabase/mcp
+    added: 2026-10-28
+  - name: Exa MCP
+    url: https://github.com/exa-labs/exa-mcp-server
+    desc: Real-time web search and crawling for agents via Exa.
+    type: open-source
+    github: exa-labs/exa-mcp-server
+    added: 2026-10-28
+  - name: Firecrawl MCP
+    url: https://github.com/firecrawl/firecrawl-mcp-server
+    desc: Scrape, crawl and search the web from any MCP client.
+    type: open-source
+    github: firecrawl/firecrawl-mcp-server
+    added: 2026-10-28
+  - name: Blender MCP
+    url: https://github.com/ahujasid/mcp-for-blender
+    desc: Community plugin that lets Claude and other LLMs control Blender 3D.
+    type: open-source
+    github: ahujasid/mcp-for-blender
+    added: 2026-10-28
+  - name: MCP TypeScript SDK
+    url: https://github.com/modelcontextprotocol/typescript-sdk
+    desc: Official TypeScript SDK for building MCP servers and clients.
+    type: open-source
+    github: modelcontextprotocol/typescript-sdk
+    added: 2026-10-28
+  - name: MCP Python SDK
+    url: https://github.com/modelcontextprotocol/python-sdk
+    desc: Official Python SDK for building MCP servers and clients.
+    type: open-source
+    github: modelcontextprotocol/python-sdk
+    added: 2026-10-28

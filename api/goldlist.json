@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 244,
+  "total": 356,
   "categories": [
     {
       "slug": "jobs",
@@ -153,6 +153,33 @@
           "gold": false,
           "github": "career-ops-hq/career-ops",
           "added": "2026-10-27"
+        },
+        {
+          "name": "Awesome Remote Job",
+          "url": "https://github.com/lukasz-madon/awesome-remote-job",
+          "description": "Curated list of remote job boards, companies and resources.",
+          "type": "open-source",
+          "gold": false,
+          "github": "lukasz-madon/awesome-remote-job",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Welcome to the Jungle",
+          "url": "https://www.welcometothejungle.com",
+          "description": "Tech jobs with real salary ranges and company insights (formerly Otta).",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Remote Rocketship",
+          "url": "https://www.remoterocketship.com",
+          "description": "Remote jobs pulled straight from company career pages.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
         }
       ]
     },
@@ -270,6 +297,33 @@
           "gold": false,
           "github": null,
           "added": null
+        },
+        {
+          "name": "Awesome System Design Resources",
+          "url": "https://github.com/ashishps1/awesome-system-design-resources",
+          "description": "Free resources to learn system design concepts and prep interviews.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ashishps1/awesome-system-design-resources",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "The Algorithms (Python)",
+          "url": "https://github.com/TheAlgorithms/Python",
+          "description": "Every classic algorithm implemented in Python.",
+          "type": "open-source",
+          "gold": false,
+          "github": "TheAlgorithms/Python",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "JavaScript Algorithms",
+          "url": "https://github.com/trekhleb/javascript-algorithms",
+          "description": "Algorithms and data structures in JavaScript with explanations.",
+          "type": "open-source",
+          "gold": false,
+          "github": "trekhleb/javascript-algorithms",
+          "added": "2026-10-28"
         }
       ]
     },
@@ -414,6 +468,69 @@
           "gold": false,
           "github": null,
           "added": null
+        },
+        {
+          "name": "Gates Cambridge Scholarship",
+          "url": "https://www.gatescambridge.org",
+          "description": "Full-cost postgraduate scholarships at the University of Cambridge.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Knight-Hennessy Scholars",
+          "url": "https://knight-hennessy.stanford.edu",
+          "description": "Fully funded graduate study at Stanford for any program.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Rhodes Scholarship",
+          "url": "https://www.rhodeshouse.ox.ac.uk",
+          "description": "Fully funded postgraduate study at the University of Oxford.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "MEXT Scholarship",
+          "url": "https://www.studyinjapan.go.jp/en/smap-stopj-applications-research.html",
+          "description": "Japanese government scholarship for research and degree study.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Swiss Government Excellence Scholarships",
+          "url": "https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html",
+          "description": "Research and PhD scholarships for foreign scholars in Switzerland.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Eiffel Excellence Scholarship",
+          "url": "https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence",
+          "description": "French government scholarship for master's and PhD students.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "KAUST Fellowship",
+          "url": "https://admissions.kaust.edu.sa",
+          "description": "Fully funded MS and PhD fellowships in Saudi Arabia with a stipend.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
         }
       ]
     },
@@ -594,6 +711,96 @@
           "gold": false,
           "github": null,
           "added": null
+        },
+        {
+          "name": "javascript.info",
+          "url": "https://javascript.info",
+          "description": "The modern JavaScript tutorial, from basics to advanced topics.",
+          "type": "open-source",
+          "gold": false,
+          "github": "javascript-tutorial/en.javascript.info",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "MDN Web Docs",
+          "url": "https://developer.mozilla.org",
+          "description": "The reference for HTML, CSS, JavaScript and web APIs.",
+          "type": "open-source",
+          "gold": true,
+          "github": "mdn/content",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "LLMs from Scratch",
+          "url": "https://github.com/rasbt/LLMs-from-scratch",
+          "description": "Build a ChatGPT-like LLM in PyTorch step by step.",
+          "type": "open-source",
+          "gold": true,
+          "github": "rasbt/LLMs-from-scratch",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "ML for Beginners",
+          "url": "https://github.com/microsoft/ML-For-Beginners",
+          "description": "Microsoft's 12-week, 26-lesson classic machine learning curriculum.",
+          "type": "open-source",
+          "gold": false,
+          "github": "microsoft/ML-For-Beginners",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Generative AI for Beginners",
+          "url": "https://github.com/microsoft/generative-ai-for-beginners",
+          "description": "Microsoft's 21-lesson course on building generative AI apps.",
+          "type": "open-source",
+          "gold": false,
+          "github": "microsoft/generative-ai-for-beginners",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "AI Agents for Beginners",
+          "url": "https://github.com/microsoft/ai-agents-for-beginners",
+          "description": "Microsoft's lessons on building AI agents from the ground up.",
+          "type": "open-source",
+          "gold": false,
+          "github": "microsoft/ai-agents-for-beginners",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Web Dev for Beginners",
+          "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+          "description": "Microsoft's 12-week, 24-lesson web development curriculum.",
+          "type": "open-source",
+          "gold": false,
+          "github": "microsoft/Web-Dev-For-Beginners",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Teach Yourself CS",
+          "url": "https://teachyourselfcs.com",
+          "description": "The best books and lectures to learn computer science on your own.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Prompt Engineering Guide",
+          "url": "https://www.promptingguide.ai",
+          "description": "Guides, papers and techniques for prompting LLMs and agents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "dair-ai/Prompt-Engineering-Guide",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Claude Cookbooks",
+          "url": "https://github.com/anthropics/claude-cookbooks",
+          "description": "Copy-ready notebooks for building with Claude.",
+          "type": "open-source",
+          "gold": false,
+          "github": "anthropics/claude-cookbooks",
+          "added": "2026-10-28"
         }
       ]
     },
@@ -702,6 +909,51 @@
           "gold": false,
           "github": null,
           "added": null
+        },
+        {
+          "name": "Microsoft Learn Student Ambassadors",
+          "url": "https://mvp.microsoft.com/studentambassadors",
+          "description": "Microsoft's student community with perks, mentoring and certifications.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "AWS Educate",
+          "url": "https://aws.amazon.com/education/awseducate/",
+          "description": "Free cloud courses and hands-on labs, no credit card required.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Notion for Education",
+          "url": "https://www.notion.com/product/notion-for-education",
+          "description": "Free Notion Plus plan for students with a school email.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "GitHub Campus Experts",
+          "url": "https://education.github.com/experts",
+          "description": "Training program for student community leaders.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Coursera Financial Aid",
+          "url": "https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship",
+          "description": "Get Coursera courses and certificates free with financial aid.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
         }
       ]
     },
@@ -882,6 +1134,96 @@
           "gold": false,
           "github": "awesome-selfhosted/awesome-selfhosted",
           "added": null
+        },
+        {
+          "name": "Neovim",
+          "url": "https://neovim.io",
+          "description": "Hyperextensible Vim-based editor with Lua plugins and built-in LSP.",
+          "type": "open-source",
+          "gold": false,
+          "github": "neovim/neovim",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "fzf",
+          "url": "https://github.com/junegunn/fzf",
+          "description": "Fuzzy finder for the terminal: files, history, processes, anything.",
+          "type": "open-source",
+          "gold": false,
+          "github": "junegunn/fzf",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "ripgrep",
+          "url": "https://github.com/BurntSushi/ripgrep",
+          "description": "Blazing-fast recursive search that respects your .gitignore.",
+          "type": "open-source",
+          "gold": false,
+          "github": "BurntSushi/ripgrep",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "lazygit",
+          "url": "https://github.com/jesseduffield/lazygit",
+          "description": "Terminal UI for git that makes staging, rebasing and stashing painless.",
+          "type": "open-source",
+          "gold": true,
+          "github": "jesseduffield/lazygit",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Starship",
+          "url": "https://starship.rs",
+          "description": "Fast, minimal, customizable prompt for any shell.",
+          "type": "open-source",
+          "gold": false,
+          "github": "starship/starship",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Uptime Kuma",
+          "url": "https://github.com/louislam/uptime-kuma",
+          "description": "Self-hosted uptime monitoring with status pages and alerts.",
+          "type": "open-source",
+          "gold": false,
+          "github": "louislam/uptime-kuma",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "tldr pages",
+          "url": "https://tldr.sh",
+          "description": "Community cheat sheets with practical examples for console commands.",
+          "type": "open-source",
+          "gold": false,
+          "github": "tldr-pages/tldr",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Bun",
+          "url": "https://bun.sh",
+          "description": "All-in-one JavaScript runtime, bundler, test runner and package manager.",
+          "type": "open-source",
+          "gold": false,
+          "github": "oven-sh/bun",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Ghostty",
+          "url": "https://ghostty.org",
+          "description": "Fast, native, GPU-accelerated terminal emulator.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ghostty-org/ghostty",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Netlify",
+          "url": "https://www.netlify.com",
+          "description": "Deploy static sites and serverless functions with a generous free plan.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
         }
       ]
     },
@@ -1026,6 +1368,114 @@
           "gold": false,
           "github": "Shubhamsaboo/awesome-llm-apps",
           "added": "2026-10-27"
+        },
+        {
+          "name": "LangChain",
+          "url": "https://www.langchain.com",
+          "description": "The most used framework for building LLM apps and agents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "langchain-ai/langchain",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "LlamaIndex",
+          "url": "https://www.llamaindex.ai",
+          "description": "Data framework for connecting your documents to LLMs (RAG).",
+          "type": "open-source",
+          "gold": false,
+          "github": "run-llama/llama_index",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Jan",
+          "url": "https://jan.ai",
+          "description": "Offline ChatGPT alternative that runs models 100% on your computer.",
+          "type": "open-source",
+          "gold": false,
+          "github": "janhq/jan",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Langflow",
+          "url": "https://www.langflow.org",
+          "description": "Visual drag-and-drop builder for AI agents and RAG flows.",
+          "type": "open-source",
+          "gold": false,
+          "github": "langflow-ai/langflow",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Browser Use",
+          "url": "https://browser-use.com",
+          "description": "Let AI agents control a real web browser to finish tasks.",
+          "type": "open-source",
+          "gold": true,
+          "github": "browser-use/browser-use",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Firecrawl",
+          "url": "https://www.firecrawl.dev",
+          "description": "Turn any website into clean, LLM-ready markdown or data.",
+          "type": "open-source",
+          "gold": false,
+          "github": "firecrawl/firecrawl",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "CrewAI",
+          "url": "https://crewai.com",
+          "description": "Framework for orchestrating teams of role-playing AI agents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "crewAIInc/crewAI",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "LiteLLM",
+          "url": "https://www.litellm.ai",
+          "description": "Call 100+ LLM APIs in the OpenAI format, with a proxy and cost tracking.",
+          "type": "open-source",
+          "gold": false,
+          "github": "BerriAI/litellm",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "RAGFlow",
+          "url": "https://ragflow.io",
+          "description": "RAG engine with deep document understanding for reliable answers.",
+          "type": "open-source",
+          "gold": false,
+          "github": "infiniflow/ragflow",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "MarkItDown",
+          "url": "https://github.com/microsoft/markitdown",
+          "description": "Convert PDFs, Office files and more to Markdown for LLMs.",
+          "type": "open-source",
+          "gold": true,
+          "github": "microsoft/markitdown",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "LobeHub",
+          "url": "https://lobehub.com",
+          "description": "Open-source AI workspace for chats and teams of agents across many model providers.",
+          "type": "open-source",
+          "gold": false,
+          "github": "lobehub/lobehub",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "OpenRouter",
+          "url": "https://openrouter.ai",
+          "description": "One API for hundreds of models, including many free ones.",
+          "type": "free-tier",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
         }
       ]
     },
@@ -1179,6 +1629,87 @@
           "gold": false,
           "github": "hesreallyhim/awesome-claude-code",
           "added": "2026-10-27"
+        },
+        {
+          "name": "Cline",
+          "url": "https://cline.bot",
+          "description": "Autonomous coding agent inside VS Code that plans, edits and runs commands.",
+          "type": "open-source",
+          "gold": true,
+          "github": "cline/cline",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Goose",
+          "url": "https://goose-docs.ai",
+          "description": "Local, extensible AI agent that installs, runs, edits and tests code with any LLM.",
+          "type": "open-source",
+          "gold": false,
+          "github": "aaif-goose/goose",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "OpenCode",
+          "url": "https://opencode.ai",
+          "description": "Open-source AI coding agent built for the terminal, any model.",
+          "type": "open-source",
+          "gold": false,
+          "github": "anomalyco/opencode",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Tabby",
+          "url": "https://www.tabbyml.com",
+          "description": "Self-hosted AI coding assistant, an open alternative to Copilot.",
+          "type": "open-source",
+          "gold": false,
+          "github": "TabbyML/tabby",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "bolt.diy",
+          "url": "https://github.com/stackblitz-labs/bolt.diy",
+          "description": "Prompt, run and edit full-stack web apps in the browser, any LLM.",
+          "type": "open-source",
+          "gold": false,
+          "github": "stackblitz-labs/bolt.diy",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Repomix",
+          "url": "https://repomix.com",
+          "description": "Pack a whole repository into one AI-friendly file.",
+          "type": "open-source",
+          "gold": false,
+          "github": "yamadashy/repomix",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Gitingest",
+          "url": "https://gitingest.com",
+          "description": "Turn any GitHub repo into a prompt-ready text digest.",
+          "type": "open-source",
+          "gold": false,
+          "github": "coderamp-labs/gitingest",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Crush",
+          "url": "https://github.com/charmbracelet/crush",
+          "description": "Glamorous terminal AI coding agent from Charm.",
+          "type": "open-source",
+          "gold": false,
+          "github": "charmbracelet/crush",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Claude Code Action",
+          "url": "https://github.com/anthropics/claude-code-action",
+          "description": "Run Claude Code in GitHub Actions to review PRs and fix issues.",
+          "type": "open-source",
+          "gold": false,
+          "github": "anthropics/claude-code-action",
+          "added": "2026-10-28"
         }
       ]
     },
@@ -1548,6 +2079,87 @@
           "gold": false,
           "github": "punkpeye/awesome-mcp-servers",
           "added": "2026-10-27"
+        },
+        {
+          "name": "Chrome DevTools MCP",
+          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+          "description": "Let agents debug, profile and test pages in a live Chrome.",
+          "type": "open-source",
+          "gold": true,
+          "github": "ChromeDevTools/chrome-devtools-mcp",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Desktop Commander",
+          "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
+          "description": "MCP server for terminal commands, file search and edits on your machine.",
+          "type": "open-source",
+          "gold": false,
+          "github": "wonderwhy-er/DesktopCommanderMCP",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Notion MCP Server",
+          "url": "https://github.com/makenotion/notion-mcp-server",
+          "description": "Official MCP server for the Notion API.",
+          "type": "open-source",
+          "gold": false,
+          "github": "makenotion/notion-mcp-server",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Supabase MCP",
+          "url": "https://supabase.com/mcp",
+          "description": "Connect agents to your Supabase projects, tables and logs.",
+          "type": "open-source",
+          "gold": false,
+          "github": "supabase/mcp",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Exa MCP",
+          "url": "https://github.com/exa-labs/exa-mcp-server",
+          "description": "Real-time web search and crawling for agents via Exa.",
+          "type": "open-source",
+          "gold": false,
+          "github": "exa-labs/exa-mcp-server",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Firecrawl MCP",
+          "url": "https://github.com/firecrawl/firecrawl-mcp-server",
+          "description": "Scrape, crawl and search the web from any MCP client.",
+          "type": "open-source",
+          "gold": false,
+          "github": "firecrawl/firecrawl-mcp-server",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Blender MCP",
+          "url": "https://github.com/ahujasid/mcp-for-blender",
+          "description": "Community plugin that lets Claude and other LLMs control Blender 3D.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ahujasid/mcp-for-blender",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "MCP TypeScript SDK",
+          "url": "https://github.com/modelcontextprotocol/typescript-sdk",
+          "description": "Official TypeScript SDK for building MCP servers and clients.",
+          "type": "open-source",
+          "gold": false,
+          "github": "modelcontextprotocol/typescript-sdk",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "MCP Python SDK",
+          "url": "https://github.com/modelcontextprotocol/python-sdk",
+          "description": "Official Python SDK for building MCP servers and clients.",
+          "type": "open-source",
+          "gold": false,
+          "github": "modelcontextprotocol/python-sdk",
+          "added": "2026-10-28"
         }
       ]
     },
@@ -1719,6 +2331,69 @@
           "gold": false,
           "github": "GoogleChromeLabs/squoosh",
           "added": null
+        },
+        {
+          "name": "Tabler Icons",
+          "url": "https://tabler.io/icons",
+          "description": "Thousands of free, pixel-perfect MIT-licensed SVG icons.",
+          "type": "open-source",
+          "gold": false,
+          "github": "tabler/tabler-icons",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Iconify",
+          "url": "https://iconify.design",
+          "description": "200,000+ open-source icons from 150+ sets in one framework.",
+          "type": "open-source",
+          "gold": false,
+          "github": "iconify/iconify",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Radix Primitives",
+          "url": "https://www.radix-ui.com",
+          "description": "Unstyled, accessible React components for design systems.",
+          "type": "open-source",
+          "gold": false,
+          "github": "radix-ui/primitives",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "daisyUI",
+          "url": "https://daisyui.com",
+          "description": "Component classes for Tailwind CSS: cleaner markup, themes built in.",
+          "type": "open-source",
+          "gold": false,
+          "github": "saadeghi/daisyui",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Motion",
+          "url": "https://motion.dev",
+          "description": "Production-grade animation library for React and JavaScript.",
+          "type": "open-source",
+          "gold": false,
+          "github": "motiondivision/motion",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "rembg",
+          "url": "https://github.com/danielgatis/rembg",
+          "description": "Remove image backgrounds locally with one command.",
+          "type": "open-source",
+          "gold": false,
+          "github": "danielgatis/rembg",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Fontshare",
+          "url": "https://www.fontshare.com",
+          "description": "Quality fonts from Indian Type Foundry, free for commercial use.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
         }
       ]
     },
@@ -1836,6 +2511,69 @@
           "gold": false,
           "github": null,
           "added": null
+        },
+        {
+          "name": "FFmpeg",
+          "url": "https://ffmpeg.org",
+          "description": "The Swiss Army knife for converting and editing audio and video.",
+          "type": "open-source",
+          "gold": true,
+          "github": "FFmpeg/FFmpeg",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Immich",
+          "url": "https://immich.app",
+          "description": "Self-hosted Google Photos alternative with mobile backup.",
+          "type": "open-source",
+          "gold": true,
+          "github": "immich-app/immich",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Jellyfin",
+          "url": "https://jellyfin.org",
+          "description": "Free media server to stream your movies, shows and music.",
+          "type": "open-source",
+          "gold": false,
+          "github": "jellyfin/jellyfin",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Upscayl",
+          "url": "https://upscayl.org",
+          "description": "Upscale images with AI on your own computer.",
+          "type": "open-source",
+          "gold": false,
+          "github": "upscayl/upscayl",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "LosslessCut",
+          "url": "https://github.com/mifi/lossless-cut",
+          "description": "Cut and trim video and audio instantly without re-encoding.",
+          "type": "open-source",
+          "gold": false,
+          "github": "mifi/lossless-cut",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "NewPipe",
+          "url": "https://newpipe.net",
+          "description": "Lightweight YouTube client for Android without ads or tracking.",
+          "type": "open-source",
+          "gold": false,
+          "github": "TeamNewPipe/NewPipe",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "cobalt",
+          "url": "https://cobalt.tools",
+          "description": "Save videos and audio from many sites with no ads or tracking.",
+          "type": "open-source",
+          "gold": false,
+          "github": "imputnet/cobalt",
+          "added": "2026-10-28"
         }
       ]
     },
@@ -1980,6 +2718,60 @@
           "gold": false,
           "github": null,
           "added": null
+        },
+        {
+          "name": "AFFiNE",
+          "url": "https://affine.pro",
+          "description": "Docs, whiteboards and databases in one, a Notion + Miro alternative.",
+          "type": "open-source",
+          "gold": false,
+          "github": "toeverything/AFFiNE",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Anytype",
+          "url": "https://anytype.io",
+          "description": "Local-first, encrypted, everything app for notes and knowledge.",
+          "type": "open-source",
+          "gold": false,
+          "github": "anyproto/anytype-ts",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Stirling-PDF",
+          "url": "https://www.stirlingpdf.com",
+          "description": "Self-hosted toolkit to merge, split, sign, OCR and edit PDFs.",
+          "type": "open-source",
+          "gold": true,
+          "github": "Stirling-Tools/Stirling-PDF",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Raycast",
+          "url": "https://www.raycast.com",
+          "description": "Fast launcher for Mac with extensions, clipboard history and snippets.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Everything",
+          "url": "https://www.voidtools.com",
+          "description": "Find any file on Windows instantly by name.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Nextcloud",
+          "url": "https://nextcloud.com",
+          "description": "Self-hosted cloud for files, calendar, contacts and office.",
+          "type": "open-source",
+          "gold": false,
+          "github": "nextcloud/server",
+          "added": "2026-10-28"
         }
       ]
     },
@@ -2088,6 +2880,69 @@
           "gold": false,
           "github": null,
           "added": null
+        },
+        {
+          "name": "ResearchRabbit",
+          "url": "https://www.researchrabbit.ai",
+          "description": "Discover related papers and authors through citation maps.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "OpenAlex",
+          "url": "https://openalex.org",
+          "description": "Free, open index of 250M+ scholarly works, authors and institutions.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "CORE",
+          "url": "https://core.ac.uk",
+          "description": "Millions of free full-text open access research papers.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "JabRef",
+          "url": "https://www.jabref.org",
+          "description": "Reference manager built around BibTeX and BibLaTeX.",
+          "type": "open-source",
+          "gold": false,
+          "github": "JabRef/jabref",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Quarto",
+          "url": "https://quarto.org",
+          "description": "Publish papers, reports and sites from Python, R and Markdown.",
+          "type": "open-source",
+          "gold": false,
+          "github": "quarto-dev/quarto-cli",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Jupyter",
+          "url": "https://jupyter.org",
+          "description": "Interactive notebooks for code, data and narrative.",
+          "type": "open-source",
+          "gold": false,
+          "github": "jupyterlab/jupyterlab",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Google Colab",
+          "url": "https://colab.research.google.com",
+          "description": "Free Jupyter notebooks in the cloud with GPU access.",
+          "type": "free-tier",
+          "gold": true,
+          "github": null,
+          "added": "2026-10-28"
         }
       ]
     },
@@ -2187,6 +3042,87 @@
           "gold": false,
           "github": "odoo/odoo",
           "added": null
+        },
+        {
+          "name": "Cal.diy",
+          "url": "https://cal.diy",
+          "description": "Open-source, self-hostable scheduling from the Cal.com team, a Calendly alternative.",
+          "type": "open-source",
+          "gold": false,
+          "github": "calcom/cal.diy",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Plausible",
+          "url": "https://plausible.io",
+          "description": "Simple, privacy-friendly Google Analytics alternative.",
+          "type": "open-source",
+          "gold": false,
+          "github": "plausible/analytics",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Documenso",
+          "url": "https://documenso.com",
+          "description": "Open-source DocuSign alternative for signing documents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "documenso/documenso",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Ghost",
+          "url": "https://ghost.org",
+          "description": "Publishing platform for blogs and paid newsletters.",
+          "type": "open-source",
+          "gold": false,
+          "github": "TryGhost/Ghost",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Plane",
+          "url": "https://plane.so",
+          "description": "Project management for tasks, sprints and roadmaps, a Jira alternative.",
+          "type": "open-source",
+          "gold": false,
+          "github": "makeplane/plane",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Formbricks",
+          "url": "https://formbricks.com",
+          "description": "Open-source survey and experience management platform.",
+          "type": "open-source",
+          "gold": false,
+          "github": "formbricks/formbricks",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Strapi",
+          "url": "https://strapi.io",
+          "description": "Leading open-source headless CMS in JavaScript and TypeScript.",
+          "type": "open-source",
+          "gold": false,
+          "github": "strapi/strapi",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Medusa",
+          "url": "https://medusajs.com",
+          "description": "Open-source commerce platform for building custom stores.",
+          "type": "open-source",
+          "gold": false,
+          "github": "medusajs/medusa",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Microsoft for Startups",
+          "url": "https://www.microsoft.com/en-us/startups",
+          "description": "Free Azure credits and tools for early-stage founders.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-10-28"
         }
       ]
     },
@@ -2340,6 +3276,78 @@
           "gold": false,
           "github": "trimstray/the-book-of-secret-knowledge",
           "added": null
+        },
+        {
+          "name": "Wireshark",
+          "url": "https://www.wireshark.org",
+          "description": "The standard tool to capture and inspect network traffic.",
+          "type": "open-source",
+          "gold": false,
+          "github": "wireshark/wireshark",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Pi-hole",
+          "url": "https://pi-hole.net",
+          "description": "Network-wide ad and tracker blocking via your own DNS.",
+          "type": "open-source",
+          "gold": false,
+          "github": "pi-hole/pi-hole",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Vaultwarden",
+          "url": "https://github.com/dani-garcia/vaultwarden",
+          "description": "Lightweight self-hosted server compatible with Bitwarden apps.",
+          "type": "open-source",
+          "gold": false,
+          "github": "dani-garcia/vaultwarden",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "PortSwigger Web Security Academy",
+          "url": "https://portswigger.net/web-security",
+          "description": "Free hands-on labs for every major web vulnerability.",
+          "type": "free",
+          "gold": true,
+          "github": null,
+          "added": "2026-10-28"
+        },
+        {
+          "name": "CyberChef",
+          "url": "https://gchq.github.io/CyberChef/",
+          "description": "The cyber Swiss Army knife for encoding, decoding and analysis.",
+          "type": "open-source",
+          "gold": false,
+          "github": "gchq/CyberChef",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Ghidra",
+          "url": "https://ghidra-sre.org",
+          "description": "NSA's software reverse engineering suite.",
+          "type": "open-source",
+          "gold": false,
+          "github": "NationalSecurityAgency/ghidra",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "PayloadsAllTheThings",
+          "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+          "description": "Payloads and bypasses for web application security testing.",
+          "type": "open-source",
+          "gold": false,
+          "github": "swisskyrepo/PayloadsAllTheThings",
+          "added": "2026-10-28"
+        },
+        {
+          "name": "Nuclei",
+          "url": "https://github.com/projectdiscovery/nuclei",
+          "description": "Fast, template-based vulnerability scanner.",
+          "type": "open-source",
+          "gold": false,
+          "github": "projectdiscovery/nuclei",
+          "added": "2026-10-28"
         }
       ]
     }

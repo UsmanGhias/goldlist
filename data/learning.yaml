@@ -88,3 +88,64 @@ items:
     url: https://www.khanacademy.org
     desc: Maths, science and computing lessons for every level.
     type: free
+  - name: javascript.info
+    url: https://javascript.info
+    desc: The modern JavaScript tutorial, from basics to advanced topics.
+    type: open-source
+    github: javascript-tutorial/en.javascript.info
+    added: 2026-10-28
+  - name: MDN Web Docs
+    url: https://developer.mozilla.org
+    desc: The reference for HTML, CSS, JavaScript and web APIs.
+    type: open-source
+    github: mdn/content
+    gold: true
+    added: 2026-10-28
+  - name: LLMs from Scratch
+    url: https://github.com/rasbt/LLMs-from-scratch
+    desc: Build a ChatGPT-like LLM in PyTorch step by step.
+    type: open-source
+    github: rasbt/LLMs-from-scratch
+    gold: true
+    added: 2026-10-28
+  - name: ML for Beginners
+    url: https://github.com/microsoft/ML-For-Beginners
+    desc: Microsoft's 12-week, 26-lesson classic machine learning curriculum.
+    type: open-source
+    github: microsoft/ML-For-Beginners
+    added: 2026-10-28
+  - name: Generative AI for Beginners
+    url: https://github.com/microsoft/generative-ai-for-beginners
+    desc: Microsoft's 21-lesson course on building generative AI apps.
+    type: open-source
+    github: microsoft/generative-ai-for-beginners
+    added: 2026-10-28
+  - name: AI Agents for Beginners
+    url: https://github.com/microsoft/ai-agents-for-beginners
+    desc: Microsoft's lessons on building AI agents from the ground up.
+    type: open-source
+    github: microsoft/ai-agents-for-beginners
+    added: 2026-10-28
+  - name: Web Dev for Beginners
+    url: https://github.com/microsoft/Web-Dev-For-Beginners
+    desc: Microsoft's 12-week, 24-lesson web development curriculum.
+    type: open-source
+    github: microsoft/Web-Dev-For-Beginners
+    added: 2026-10-28
+  - name: Teach Yourself CS
+    url: https://teachyourselfcs.com
+    desc: The best books and lectures to learn computer science on your own.
+    type: free
+    added: 2026-10-28
+  - name: Prompt Engineering Guide
+    url: https://www.promptingguide.ai
+    desc: Guides, papers and techniques for prompting LLMs and agents.
+    type: open-source
+    github: dair-ai/Prompt-Engineering-Guide
+    added: 2026-10-28
+  - name: Claude Cookbooks
+    url: https://github.com/anthropics/claude-cookbooks
+    desc: Copy-ready notebooks for building with Claude.
+    type: open-source
+    github: anthropics/claude-cookbooks
+    added: 2026-10-28

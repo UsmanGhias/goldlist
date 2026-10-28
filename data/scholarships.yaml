@@ -66,3 +66,38 @@ items:
     url: https://www.scholars4dev.com
     desc: International scholarships for students from developing countries.
     type: free
+  - name: Gates Cambridge Scholarship
+    url: https://www.gatescambridge.org
+    desc: Full-cost postgraduate scholarships at the University of Cambridge.
+    type: free
+    added: 2026-10-28
+  - name: Knight-Hennessy Scholars
+    url: https://knight-hennessy.stanford.edu
+    desc: Fully funded graduate study at Stanford for any program.
+    type: free
+    added: 2026-10-28
+  - name: Rhodes Scholarship
+    url: https://www.rhodeshouse.ox.ac.uk
+    desc: Fully funded postgraduate study at the University of Oxford.
+    type: free
+    added: 2026-10-28
+  - name: MEXT Scholarship
+    url: https://www.studyinjapan.go.jp/en/smap-stopj-applications-research.html
+    desc: Japanese government scholarship for research and degree study.
+    type: free
+    added: 2026-10-28
+  - name: Swiss Government Excellence Scholarships
+    url: https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html
+    desc: Research and PhD scholarships for foreign scholars in Switzerland.
+    type: free
+    added: 2026-10-28
+  - name: Eiffel Excellence Scholarship
+    url: https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence
+    desc: French government scholarship for master's and PhD students.
+    type: free
+    added: 2026-10-28
+  - name: KAUST Fellowship
+    url: https://admissions.kaust.edu.sa
+    desc: Fully funded MS and PhD fellowships in Saudi Arabia with a stipend.
+    type: free
+    added: 2026-10-28

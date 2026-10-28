@@ -75,3 +75,51 @@ items:
     url: https://github.com/trimstray/the-book-of-secret-knowledge
     desc: Huge collection of sysadmin, security and command-line cheatsheets.
     type: open-source
+  - name: Wireshark
+    url: https://www.wireshark.org
+    desc: The standard tool to capture and inspect network traffic.
+    type: open-source
+    github: wireshark/wireshark
+    added: 2026-10-28
+  - name: Pi-hole
+    url: https://pi-hole.net
+    desc: Network-wide ad and tracker blocking via your own DNS.
+    type: open-source
+    github: pi-hole/pi-hole
+    added: 2026-10-28
+  - name: Vaultwarden
+    url: https://github.com/dani-garcia/vaultwarden
+    desc: Lightweight self-hosted server compatible with Bitwarden apps.
+    type: open-source
+    github: dani-garcia/vaultwarden
+    added: 2026-10-28
+  - name: PortSwigger Web Security Academy
+    url: https://portswigger.net/web-security
+    desc: Free hands-on labs for every major web vulnerability.
+    type: free
+    gold: true
+    added: 2026-10-28
+  - name: CyberChef
+    url: https://gchq.github.io/CyberChef/
+    desc: The cyber Swiss Army knife for encoding, decoding and analysis.
+    type: open-source
+    github: gchq/CyberChef
+    added: 2026-10-28
+  - name: Ghidra
+    url: https://ghidra-sre.org
+    desc: NSA's software reverse engineering suite.
+    type: open-source
+    github: NationalSecurityAgency/ghidra
+    added: 2026-10-28
+  - name: PayloadsAllTheThings
+    url: https://github.com/swisskyrepo/PayloadsAllTheThings
+    desc: Payloads and bypasses for web application security testing.
+    type: open-source
+    github: swisskyrepo/PayloadsAllTheThings
+    added: 2026-10-28
+  - name: Nuclei
+    url: https://github.com/projectdiscovery/nuclei
+    desc: Fast, template-based vulnerability scanner.
+    type: open-source
+    github: projectdiscovery/nuclei
+    added: 2026-10-28

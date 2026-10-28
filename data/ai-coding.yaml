@@ -81,3 +81,58 @@ items:
     desc: Hand-picked skills, agents, hooks, status lines and tooling for Claude Code.
     type: open-source
     added: 2026-10-27
+  - name: Cline
+    url: https://cline.bot
+    desc: Autonomous coding agent inside VS Code that plans, edits and runs commands.
+    type: open-source
+    github: cline/cline
+    gold: true
+    added: 2026-10-28
+  - name: Goose
+    url: https://goose-docs.ai
+    desc: Local, extensible AI agent that installs, runs, edits and tests code with any LLM.
+    type: open-source
+    github: aaif-goose/goose
+    added: 2026-10-28
+  - name: OpenCode
+    url: https://opencode.ai
+    desc: Open-source AI coding agent built for the terminal, any model.
+    type: open-source
+    github: anomalyco/opencode
+    added: 2026-10-28
+  - name: Tabby
+    url: https://www.tabbyml.com
+    desc: Self-hosted AI coding assistant, an open alternative to Copilot.
+    type: open-source
+    github: TabbyML/tabby
+    added: 2026-10-28
+  - name: bolt.diy
+    url: https://github.com/stackblitz-labs/bolt.diy
+    desc: Prompt, run and edit full-stack web apps in the browser, any LLM.
+    type: open-source
+    github: stackblitz-labs/bolt.diy
+    added: 2026-10-28
+  - name: Repomix
+    url: https://repomix.com
+    desc: Pack a whole repository into one AI-friendly file.
+    type: open-source
+    github: yamadashy/repomix
+    added: 2026-10-28
+  - name: Gitingest
+    url: https://gitingest.com
+    desc: Turn any GitHub repo into a prompt-ready text digest.
+    type: open-source
+    github: coderamp-labs/gitingest
+    added: 2026-10-28
+  - name: Crush
+    url: https://github.com/charmbracelet/crush
+    desc: Glamorous terminal AI coding agent from Charm.
+    type: open-source
+    github: charmbracelet/crush
+    added: 2026-10-28
+  - name: Claude Code Action
+    url: https://github.com/anthropics/claude-code-action
+    desc: Run Claude Code in GitHub Actions to review PRs and fix issues.
+    type: open-source
+    github: anthropics/claude-code-action
+    added: 2026-10-28

@@ -72,3 +72,19 @@ items:
     desc: AI job-search agent that scores jobs against your CV and tailors your resume and cover letter.
     type: open-source
     added: 2026-10-27
+  - name: Awesome Remote Job
+    url: https://github.com/lukasz-madon/awesome-remote-job
+    desc: Curated list of remote job boards, companies and resources.
+    type: open-source
+    github: lukasz-madon/awesome-remote-job
+    added: 2026-10-28
+  - name: Welcome to the Jungle
+    url: https://www.welcometothejungle.com
+    desc: Tech jobs with real salary ranges and company insights (formerly Otta).
+    type: free
+    added: 2026-10-28
+  - name: Remote Rocketship
+    url: https://www.remoterocketship.com
+    desc: Remote jobs pulled straight from company career pages.
+    type: free
+    added: 2026-10-28

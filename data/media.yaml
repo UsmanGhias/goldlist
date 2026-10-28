@@ -58,3 +58,47 @@ items:
     url: https://freesound.org
     desc: Huge library of Creative Commons sound effects and samples.
     type: free
+  - name: FFmpeg
+    url: https://ffmpeg.org
+    desc: The Swiss Army knife for converting and editing audio and video.
+    type: open-source
+    github: FFmpeg/FFmpeg
+    gold: true
+    added: 2026-10-28
+  - name: Immich
+    url: https://immich.app
+    desc: Self-hosted Google Photos alternative with mobile backup.
+    type: open-source
+    github: immich-app/immich
+    gold: true
+    added: 2026-10-28
+  - name: Jellyfin
+    url: https://jellyfin.org
+    desc: Free media server to stream your movies, shows and music.
+    type: open-source
+    github: jellyfin/jellyfin
+    added: 2026-10-28
+  - name: Upscayl
+    url: https://upscayl.org
+    desc: Upscale images with AI on your own computer.
+    type: open-source
+    github: upscayl/upscayl
+    added: 2026-10-28
+  - name: LosslessCut
+    url: https://github.com/mifi/lossless-cut
+    desc: Cut and trim video and audio instantly without re-encoding.
+    type: open-source
+    github: mifi/lossless-cut
+    added: 2026-10-28
+  - name: NewPipe
+    url: https://newpipe.net
+    desc: Lightweight YouTube client for Android without ads or tracking.
+    type: open-source
+    github: TeamNewPipe/NewPipe
+    added: 2026-10-28
+  - name: cobalt
+    url: https://cobalt.tools
+    desc: Save videos and audio from many sites with no ads or tracking.
+    type: open-source
+    github: imputnet/cobalt
+    added: 2026-10-28

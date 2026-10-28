@@ -53,3 +53,42 @@ items:
     url: https://hemingwayapp.com
     desc: Highlights long, hard-to-read sentences so your writing gets clear and bold.
     type: free
+  - name: ResearchRabbit
+    url: https://www.researchrabbit.ai
+    desc: Discover related papers and authors through citation maps.
+    type: free
+    added: 2026-10-28
+  - name: OpenAlex
+    url: https://openalex.org
+    desc: Free, open index of 250M+ scholarly works, authors and institutions.
+    type: free
+    added: 2026-10-28
+  - name: CORE
+    url: https://core.ac.uk
+    desc: Millions of free full-text open access research papers.
+    type: free
+    added: 2026-10-28
+  - name: JabRef
+    url: https://www.jabref.org
+    desc: Reference manager built around BibTeX and BibLaTeX.
+    type: open-source
+    github: JabRef/jabref
+    added: 2026-10-28
+  - name: Quarto
+    url: https://quarto.org
+    desc: Publish papers, reports and sites from Python, R and Markdown.
+    type: open-source
+    github: quarto-dev/quarto-cli
+    added: 2026-10-28
+  - name: Jupyter
+    url: https://jupyter.org
+    desc: Interactive notebooks for code, data and narrative.
+    type: open-source
+    github: jupyterlab/jupyterlab
+    added: 2026-10-28
+  - name: Google Colab
+    url: https://colab.research.google.com
+    desc: Free Jupyter notebooks in the cloud with GPU access.
+    type: free-tier
+    gold: true
+    added: 2026-10-28

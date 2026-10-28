@@ -6,12 +6,12 @@
 
 <h3>Only the gold. Everything else is noise.</h3>
 
-<p><b>244 hand-picked free &amp; open-source resources</b> for finding jobs, winning scholarships, learning,<br>
+<p><b>356 hand-picked free &amp; open-source resources</b> for finding jobs, winning scholarships, learning,<br>
 building, designing and staying safe, sorted into 16 categories and link-checked every week.</p>
 
-[![Entries](https://img.shields.io/badge/entries-244-d4af37?style=for-the-badge&labelColor=1f2328)](#contents)
-[![Gold picks](https://img.shields.io/badge/gold_picks-38-d4af37?style=for-the-badge&labelColor=1f2328)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-146-2ea44f?style=for-the-badge&labelColor=1f2328)](#contents)
+[![Entries](https://img.shields.io/badge/entries-356-d4af37?style=for-the-badge&labelColor=1f2328)](#contents)
+[![Gold picks](https://img.shields.io/badge/gold_picks-50-d4af37?style=for-the-badge&labelColor=1f2328)](#gold-picks)
+[![Open source](https://img.shields.io/badge/open_source-232-2ea44f?style=for-the-badge&labelColor=1f2328)](#contents)
 [![Website](https://img.shields.io/badge/search-the_website-d4af37?style=for-the-badge&labelColor=1f2328)](https://usmanghias.github.io/goldlist/)
 <br>
 [![Links](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
@@ -22,7 +22,7 @@ building, designing and staying safe, sorted into 16 categories and link-checked
 
 [💼 Jobs](#jobs) · [🧭 Career](#career) · [🎓 Scholarships](#scholarships) · [📚 Learning](#learning) · [🧑‍🎓 Students](#students) · [🛠️ Dev Tools](#dev-tools) · [🤖 AI Tools](#ai-tools) · [🧠 AI Coding](#ai-coding) · [🧩 Skills](#agent-skills) · [🔌 MCP](#mcp) · [🎨 Design](#design) · [🎬 Media](#media) · [⚡ Productivity](#productivity) · [🔬 Research](#research) · [🚀 Startups](#startups) · [🔒 Privacy](#privacy-security)
 
-**[🔎 Search &amp; filter all 244 on the website →](https://usmanghias.github.io/goldlist/)**
+**[🔎 Search &amp; filter all 356 on the website →](https://usmanghias.github.io/goldlist/)**
 
 <sub>⭐ <b>Star this repo</b> to keep it one click away. New gold is added every week.</sub>
 
@@ -129,17 +129,29 @@ The best of the best. If you only open a few links today, make it these.
 <sub><a href="#learning">📚 Learning</a></sub>
 </td>
 <td width="33%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=developer.mozilla.org&sz=64" width="16" height="16"> <b><a href="https://developer.mozilla.org">MDN Web Docs</a></b><br>
+<sub>The reference for HTML, CSS, JavaScript and web APIs.</sub><br>
+<sub><a href="#learning">📚 Learning</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<img src="https://github.com/rasbt.png?size=64" width="16" height="16"> <b><a href="https://github.com/rasbt/LLMs-from-scratch">LLMs from Scratch</a></b><br>
+<sub>Build a ChatGPT-like LLM in PyTorch step by step.</sub><br>
+<sub><a href="#learning">📚 Learning</a></sub>
+</td>
+<td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=education.github.com&sz=64" width="16" height="16"> <b><a href="https://education.github.com/pack">GitHub Student Developer Pack</a></b><br>
 <sub>Free access to dozens of paid developer tools while you study.</sub><br>
 <sub><a href="#students">🧑‍🎓 Students</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=summerofcode.withgoogle.com&sz=64" width="16" height="16"> <b><a href="https://summerofcode.withgoogle.com">Google Summer of Code</a></b><br>
 <sub>Paid, mentored program for contributing to open-source projects.</sub><br>
 <sub><a href="#students">🧑‍🎓 Students</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/ripienaar.png?size=64" width="16" height="16"> <b><a href="https://github.com/ripienaar/free-for-dev">free-for-dev</a></b><br>
 <sub>Hundreds of SaaS, PaaS and IaaS services with free tiers for developers.</sub><br>
@@ -150,11 +162,16 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Collective list of free APIs to build projects on.</sub><br>
 <sub><a href="#dev-tools">🛠️ Dev Tools</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=64" width="16" height="16"> <b><a href="https://supabase.com">Supabase</a></b><br>
 <sub>Open-source Postgres backend with auth, storage and realtime, plus a free tier.</sub><br>
+<sub><a href="#dev-tools">🛠️ Dev Tools</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+<img src="https://github.com/jesseduffield.png?size=64" width="16" height="16"> <b><a href="https://github.com/jesseduffield/lazygit">lazygit</a></b><br>
+<sub>Terminal UI for git that makes staging, rebasing and stashing painless.</sub><br>
 <sub><a href="#dev-tools">🛠️ Dev Tools</a></sub>
 </td>
 <td width="33%" valign="top">
@@ -170,13 +187,30 @@ The best of the best. If you only open a few links today, make it these.
 </tr>
 <tr>
 <td width="33%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=browser-use.com&sz=64" width="16" height="16"> <b><a href="https://browser-use.com">Browser Use</a></b><br>
+<sub>Let AI agents control a real web browser to finish tasks.</sub><br>
+<sub><a href="#ai-tools">🤖 AI Tools</a></sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://github.com/microsoft.png?size=64" width="16" height="16"> <b><a href="https://github.com/microsoft/markitdown">MarkItDown</a></b><br>
+<sub>Convert PDFs, Office files and more to Markdown for LLMs.</sub><br>
+<sub><a href="#ai-tools">🤖 AI Tools</a></sub>
+</td>
+<td width="33%" valign="top">
 <img src="https://github.com/google-gemini.png?size=64" width="16" height="16"> <b><a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a></b><br>
 <sub>Google's open-source AI agent for the terminal, with a generous free tier.</sub><br>
 <sub><a href="#ai-coding">🧠 AI Coding</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/github.png?size=64" width="16" height="16"> <b><a href="https://github.com/github/spec-kit">Spec Kit</a></b><br>
 <sub>GitHub's toolkit for spec-driven development that turns specs into plans and tasks for agents.</sub><br>
+<sub><a href="#ai-coding">🧠 AI Coding</a></sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=cline.bot&sz=64" width="16" height="16"> <b><a href="https://cline.bot">Cline</a></b><br>
+<sub>Autonomous coding agent inside VS Code that plans, edits and runs commands.</sub><br>
 <sub><a href="#ai-coding">🧠 AI Coding</a></sub>
 </td>
 <td width="33%" valign="top">
@@ -214,12 +248,17 @@ The best of the best. If you only open a few links today, make it these.
 <sub><a href="#mcp">🔌 MCP</a></sub>
 </td>
 <td width="33%" valign="top">
+<img src="https://github.com/ChromeDevTools.png?size=64" width="16" height="16"> <b><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp">Chrome DevTools MCP</a></b><br>
+<sub>Let agents debug, profile and test pages in a live Chrome.</sub><br>
+<sub><a href="#mcp">🔌 MCP</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=penpot.app&sz=64" width="16" height="16"> <b><a href="https://penpot.app">Penpot</a></b><br>
 <sub>Open-source design and prototyping tool, an alternative to Figma.</sub><br>
 <sub><a href="#design">🎨 Design</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=ui.shadcn.com&sz=64" width="16" height="16"> <b><a href="https://ui.shadcn.com">shadcn/ui</a></b><br>
 <sub>Beautiful, accessible React components you copy into your project.</sub><br>
@@ -230,9 +269,21 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Hollywood-grade video editing and color grading, with a very capable free version.</sub><br>
 <sub><a href="#media">🎬 Media</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=obsproject.com&sz=64" width="16" height="16"> <b><a href="https://obsproject.com">OBS Studio</a></b><br>
 <sub>Screen recording and live streaming.</sub><br>
+<sub><a href="#media">🎬 Media</a></sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=ffmpeg.org&sz=64" width="16" height="16"> <b><a href="https://ffmpeg.org">FFmpeg</a></b><br>
+<sub>The Swiss Army knife for converting and editing audio and video.</sub><br>
+<sub><a href="#media">🎬 Media</a></sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=immich.app&sz=64" width="16" height="16"> <b><a href="https://immich.app">Immich</a></b><br>
+<sub>Self-hosted Google Photos alternative with mobile backup.</sub><br>
 <sub><a href="#media">🎬 Media</a></sub>
 </td>
 </tr>
@@ -248,17 +299,29 @@ The best of the best. If you only open a few links today, make it these.
 <sub><a href="#productivity">⚡ Productivity</a></sub>
 </td>
 <td width="33%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=www.stirlingpdf.com&sz=64" width="16" height="16"> <b><a href="https://www.stirlingpdf.com">Stirling-PDF</a></b><br>
+<sub>Self-hosted toolkit to merge, split, sign, OCR and edit PDFs.</sub><br>
+<sub><a href="#productivity">⚡ Productivity</a></sub>
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www.zotero.org&sz=64" width="16" height="16"> <b><a href="https://www.zotero.org">Zotero</a></b><br>
 <sub>Collect, organize and cite research papers, with one-click capture from your browser.</sub><br>
 <sub><a href="#research">🔬 Research</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www.overleaf.com&sz=64" width="16" height="16"> <b><a href="https://www.overleaf.com">Overleaf</a></b><br>
 <sub>Collaborative LaTeX editor in the browser for papers and theses.</sub><br>
 <sub><a href="#research">🔬 Research</a></sub>
 </td>
+<td width="33%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=colab.research.google.com&sz=64" width="16" height="16"> <b><a href="https://colab.research.google.com">Google Colab</a></b><br>
+<sub>Free Jupyter notebooks in the cloud with GPU access.</sub><br>
+<sub><a href="#research">🔬 Research</a></sub>
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www.startupschool.org&sz=64" width="16" height="16"> <b><a href="https://www.startupschool.org">YC Startup School</a></b><br>
 <sub>Y Combinator's free course on how to start a startup, plus co-founder matching.</sub><br>
@@ -269,16 +332,21 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Open-source product analytics, session replay and feature flags with a big free tier.</sub><br>
 <sub><a href="#startups">🚀 Startups</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=bitwarden.com&sz=64" width="16" height="16"> <b><a href="https://bitwarden.com">Bitwarden</a></b><br>
 <sub>Open-source password manager with a free plan on every device.</sub><br>
 <sub><a href="#privacy-security">🔒 Privacy</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/gorhill.png?size=64" width="16" height="16"> <b><a href="https://github.com/gorhill/uBlock">uBlock Origin</a></b><br>
 <sub>Efficient, lightweight ad and tracker blocker.</sub><br>
+<sub><a href="#privacy-security">🔒 Privacy</a></sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=portswigger.net&sz=64" width="16" height="16"> <b><a href="https://portswigger.net/web-security">PortSwigger Web Security Academy</a></b><br>
+<sub>Free hands-on labs for every major web vulnerability.</sub><br>
 <sub><a href="#privacy-security">🔒 Privacy</a></sub>
 </td>
 </tr>
@@ -288,16 +356,16 @@ The best of the best. If you only open a few links today, make it these.
 
 ## 🆕 Recently Added
 
-- **[career-ops](https://github.com/career-ops-hq/career-ops)**: AI job-search agent that scores jobs against your CV and tailors your resume and cover letter. <sub>[💼 Jobs](#jobs) · 2026-10-27</sub>
-- **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)**: 100+ open-source AI agent, RAG and LLM app examples you can run and learn from. <sub>[🤖 AI Tools](#ai-tools) · 2026-10-27</sub>
-- **[Spec Kit](https://github.com/github/spec-kit)**: GitHub's toolkit for spec-driven development that turns specs into plans and tasks for agents. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
-- **[BMAD Method](https://github.com/bmad-code-org/BMAD-METHOD)**: Agile AI-driven development method with specialized agents for planning, architecture and delivery. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
-- **[Claude Code Templates](https://github.com/davila7/claude-code-templates)**: CLI for configuring and monitoring Claude Code, with ready-made agents, commands and hooks. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
-- **[Claude HUD](https://github.com/jarrodwatts/claude-hud)**: Claude Code plugin showing context usage, active tools, running agents and todo progress. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
-- **[ccusage](https://github.com/ccusage/ccusage)**: Analyze Claude Code token usage and costs from your local logs. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
-- **[Vibe Kanban](https://github.com/BloopAI/vibe-kanban)**: Kanban board for planning and running Claude Code, Codex and other coding agents. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
-- **[CC Switch](https://github.com/farion1231/cc-switch)**: Desktop app to manage providers and settings for Claude Code, Codex and other CLI agents. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
-- **[Claude Code Router](https://github.com/musistudio/claude-code-router)**: Route Claude Code requests to the models and providers you choose. <sub>[🧠 AI Coding](#ai-coding) · 2026-10-27</sub>
+- **[Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)**: Curated list of remote job boards, companies and resources. <sub>[💼 Jobs](#jobs) · 2026-10-28</sub>
+- **[Welcome to the Jungle](https://www.welcometothejungle.com)**: Tech jobs with real salary ranges and company insights (formerly Otta). <sub>[💼 Jobs](#jobs) · 2026-10-28</sub>
+- **[Remote Rocketship](https://www.remoterocketship.com)**: Remote jobs pulled straight from company career pages. <sub>[💼 Jobs](#jobs) · 2026-10-28</sub>
+- **[Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)**: Free resources to learn system design concepts and prep interviews. <sub>[🧭 Career](#career) · 2026-10-28</sub>
+- **[The Algorithms (Python)](https://github.com/TheAlgorithms/Python)**: Every classic algorithm implemented in Python. <sub>[🧭 Career](#career) · 2026-10-28</sub>
+- **[JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)**: Algorithms and data structures in JavaScript with explanations. <sub>[🧭 Career](#career) · 2026-10-28</sub>
+- **[Gates Cambridge Scholarship](https://www.gatescambridge.org)**: Full-cost postgraduate scholarships at the University of Cambridge. <sub>[🎓 Scholarships](#scholarships) · 2026-10-28</sub>
+- **[Knight-Hennessy Scholars](https://knight-hennessy.stanford.edu)**: Fully funded graduate study at Stanford for any program. <sub>[🎓 Scholarships](#scholarships) · 2026-10-28</sub>
+- **[Rhodes Scholarship](https://www.rhodeshouse.ox.ac.uk)**: Fully funded postgraduate study at the University of Oxford. <sub>[🎓 Scholarships](#scholarships) · 2026-10-28</sub>
+- **[MEXT Scholarship](https://www.studyinjapan.go.jp/en/smap-stopj-applications-research.html)**: Japanese government scholarship for research and degree study. <sub>[🎓 Scholarships](#scholarships) · 2026-10-28</sub>
 
 <a id="contents"></a>
 
@@ -305,22 +373,22 @@ The best of the best. If you only open a few links today, make it these.
 
 | | Category | What's inside | Picks |
 | :-: | :--- | :--- | :-: |
-| 💼 | **[Jobs & Freelancing](#jobs)** | Where real openings get posted first, from remote boards to curated GitHub lists. | 16 |
-| 🧭 | **[Career & Interviews](#career)** | Resumes, interview prep and salary data to land the offer and negotiate it. | 12 |
-| 🎓 | **[Scholarships & Research Funding](#scholarships)** | Funded master's, PhDs and fellowships, so you can study without paying for it. | 15 |
-| 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 19 |
-| 🧑‍🎓 | **[Students & Programs](#students)** | Free licenses, credits and paid programs available only while you're a student or newcomer. | 11 |
-| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 19 |
-| 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 15 |
-| 🧠 | **[AI Coding Agents & Tools](#ai-coding)** | Terminal coding agents, spec-driven workflows and the tools that make Claude Code better. | 16 |
+| 💼 | **[Jobs & Freelancing](#jobs)** | Where real openings get posted first, from remote boards to curated GitHub lists. | 19 |
+| 🧭 | **[Career & Interviews](#career)** | Resumes, interview prep and salary data to land the offer and negotiate it. | 15 |
+| 🎓 | **[Scholarships & Research Funding](#scholarships)** | Funded master's, PhDs and fellowships, so you can study without paying for it. | 22 |
+| 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 29 |
+| 🧑‍🎓 | **[Students & Programs](#students)** | Free licenses, credits and paid programs available only while you're a student or newcomer. | 16 |
+| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 29 |
+| 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 27 |
+| 🧠 | **[AI Coding Agents & Tools](#ai-coding)** | Terminal coding agents, spec-driven workflows and the tools that make Claude Code better. | 25 |
 | 🧩 | **[Claude & Agent Skills](#agent-skills)** | Drop-in skills and plugins that give Claude Code, Codex, Gemini CLI and Antigravity new abilities. | 28 |
-| 🔌 | **[MCP Servers](#mcp)** | Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases. | 11 |
-| 🎨 | **[Design & UI](#design)** | Icons, fonts, photos and design tools that look premium and cost nothing. | 18 |
-| 🎬 | **[Video, Audio & Media](#media)** | Studio-grade editing, recording and stock media at zero cost. | 12 |
-| ⚡ | **[Productivity & Everyday Apps](#productivity)** | Notes, office apps and utilities, mostly open-source alternatives to paid apps. | 15 |
-| 🔬 | **[Research & Writing](#research)** | Find papers, manage references and write better, for students and researchers. | 11 |
-| 🚀 | **[Startups & Business](#startups)** | Launch and run a product, with free credits, analytics, CRM and support tools. | 10 |
-| 🔒 | **[Privacy & Security](#privacy-security)** | Protect your accounts, data and devices, and learn security hands-on. | 16 |
+| 🔌 | **[MCP Servers](#mcp)** | Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases. | 20 |
+| 🎨 | **[Design & UI](#design)** | Icons, fonts, photos and design tools that look premium and cost nothing. | 25 |
+| 🎬 | **[Video, Audio & Media](#media)** | Studio-grade editing, recording and stock media at zero cost. | 19 |
+| ⚡ | **[Productivity & Everyday Apps](#productivity)** | Notes, office apps and utilities, mostly open-source alternatives to paid apps. | 21 |
+| 🔬 | **[Research & Writing](#research)** | Find papers, manage references and write better, for students and researchers. | 18 |
+| 🚀 | **[Startups & Business](#startups)** | Launch and run a product, with free credits, analytics, CRM and support tools. | 19 |
+| 🔒 | **[Privacy & Security](#privacy-security)** | Protect your accounts, data and devices, and learn security hands-on. | 24 |
 
 **Legend:** ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) source code is public · ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) free to use · ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) generous free plan, paid upgrades · 🏆 gold pick
 
@@ -331,7 +399,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 💼 Jobs & Freelancing
 
 > Where real openings get posted first, from remote boards to curated GitHub lists.<br>
-> <sub>16 picks · 3 gold</sub>
+> <sub>19 picks · 3 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -351,6 +419,9 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=contra.com&sz=64" width="20" height="20"> | **[Contra](https://contra.com)** | Commission-free platform where freelancers get hired and paid. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=www.workingnomads.com&sz=64" width="20" height="20"> | **[Working Nomads](https://www.workingnomads.com)** | Curated remote jobs by category, delivered as an email digest. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://github.com/career-ops-hq.png?size=64" width="20" height="20"> | **[career-ops](https://github.com/career-ops-hq/career-ops)** | AI job-search agent that scores jobs against your CV and tailors your resume and cover letter. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/career-ops-hq/career-ops?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/career-ops-hq/career-ops) |
+| <img src="https://github.com/lukasz-madon.png?size=64" width="20" height="20"> | **[Awesome Remote Job](https://github.com/lukasz-madon/awesome-remote-job)** | Curated list of remote job boards, companies and resources. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/lukasz-madon/awesome-remote-job?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/lukasz-madon/awesome-remote-job) |
+| <img src="https://www.google.com/s2/favicons?domain=www.welcometothejungle.com&sz=64" width="20" height="20"> | **[Welcome to the Jungle](https://www.welcometothejungle.com)** | Tech jobs with real salary ranges and company insights (formerly Otta). | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=www.remoterocketship.com&sz=64" width="20" height="20"> | **[Remote Rocketship](https://www.remoterocketship.com)** | Remote jobs pulled straight from company career pages. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -359,7 +430,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🧭 Career & Interviews
 
 > Resumes, interview prep and salary data to land the offer and negotiate it.<br>
-> <sub>12 picks · 3 gold</sub>
+> <sub>15 picks · 3 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -375,6 +446,9 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=www.overleaf.com&sz=64" width="20" height="20"> | **[Overleaf CV Templates](https://www.overleaf.com/latex/templates/tagged/cv)** | Professional LaTeX CV templates you can edit right in the browser. | ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=www.bigocheatsheet.com&sz=64" width="20" height="20"> | **[Big-O Cheat Sheet](https://www.bigocheatsheet.com)** | Time and space complexity of common algorithms and data structures on one page. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=www.levels.fyi&sz=64" width="20" height="20"> | **[Levels.fyi](https://www.levels.fyi)** | Crowdsourced compensation data by company, level and location. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://github.com/ashishps1.png?size=64" width="20" height="20"> | **[Awesome System Design Resources](https://github.com/ashishps1/awesome-system-design-resources)** | Free resources to learn system design concepts and prep interviews. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ashishps1/awesome-system-design-resources?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ashishps1/awesome-system-design-resources) |
+| <img src="https://github.com/TheAlgorithms.png?size=64" width="20" height="20"> | **[The Algorithms (Python)](https://github.com/TheAlgorithms/Python)** | Every classic algorithm implemented in Python. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/TheAlgorithms/Python?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/TheAlgorithms/Python) |
+| <img src="https://github.com/trekhleb.png?size=64" width="20" height="20"> | **[JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)** | Algorithms and data structures in JavaScript with explanations. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/trekhleb/javascript-algorithms?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/trekhleb/javascript-algorithms) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -383,7 +457,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🎓 Scholarships & Research Funding
 
 > Funded master's, PhDs and fellowships, so you can study without paying for it.<br>
-> <sub>15 picks · 2 gold</sub>
+> <sub>22 picks · 2 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -402,6 +476,13 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=stipendiumhungaricum.hu&sz=64" width="20" height="20"> | **[Stipendium Hungaricum](https://stipendiumhungaricum.hu)** | Hungarian government scholarships for bachelor's, master's and PhD study. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=www.turkiyeburslari.gov.tr&sz=64" width="20" height="20"> | **[Türkiye Scholarships](https://www.turkiyeburslari.gov.tr)** | Turkish government scholarships covering tuition, housing and a monthly stipend. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=www.scholars4dev.com&sz=64" width="20" height="20"> | **[Scholars4Dev](https://www.scholars4dev.com)** | International scholarships for students from developing countries. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=www.gatescambridge.org&sz=64" width="20" height="20"> | **[Gates Cambridge Scholarship](https://www.gatescambridge.org)** | Full-cost postgraduate scholarships at the University of Cambridge. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=knight-hennessy.stanford.edu&sz=64" width="20" height="20"> | **[Knight-Hennessy Scholars](https://knight-hennessy.stanford.edu)** | Fully funded graduate study at Stanford for any program. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=www.rhodeshouse.ox.ac.uk&sz=64" width="20" height="20"> | **[Rhodes Scholarship](https://www.rhodeshouse.ox.ac.uk)** | Fully funded postgraduate study at the University of Oxford. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=www.studyinjapan.go.jp&sz=64" width="20" height="20"> | **[MEXT Scholarship](https://www.studyinjapan.go.jp/en/smap-stopj-applications-research.html)** | Japanese government scholarship for research and degree study. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=www.sbfi.admin.ch&sz=64" width="20" height="20"> | **[Swiss Government Excellence Scholarships](https://www.sbfi.admin.ch/sbfi/en/home/education/scholarships-and-grants/swiss-government-excellence-scholarships.html)** | Research and PhD scholarships for foreign scholars in Switzerland. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=www.campusfrance.org&sz=64" width="20" height="20"> | **[Eiffel Excellence Scholarship](https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence)** | French government scholarship for master's and PhD students. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=admissions.kaust.edu.sa&sz=64" width="20" height="20"> | **[KAUST Fellowship](https://admissions.kaust.edu.sa)** | Fully funded MS and PhD fellowships in Saudi Arabia with a stipend. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -410,7 +491,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 📚 Learning & Courses
 
 > Free courses and books that are as good as paid ones, often better.<br>
-> <sub>19 picks · 3 gold</sub>
+> <sub>29 picks · 5 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -433,6 +514,16 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=developers.google.com&sz=64" width="20" height="20"> | **[Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)** | Fast-paced, practical intro to machine learning with interactive exercises. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=www.kaggle.com&sz=64" width="20" height="20"> | **[Kaggle Learn](https://www.kaggle.com/learn)** | Short, hands-on micro-courses in Python, SQL, pandas and machine learning. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=www.khanacademy.org&sz=64" width="20" height="20"> | **[Khan Academy](https://www.khanacademy.org)** | Maths, science and computing lessons for every level. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=javascript.info&sz=64" width="20" height="20"> | **[javascript.info](https://javascript.info)** | The modern JavaScript tutorial, from basics to advanced topics. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/javascript-tutorial/en.javascript.info?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/javascript-tutorial/en.javascript.info) |
+| <img src="https://www.google.com/s2/favicons?domain=developer.mozilla.org&sz=64" width="20" height="20"> | **[MDN Web Docs](https://developer.mozilla.org)** 🏆 | The reference for HTML, CSS, JavaScript and web APIs. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/mdn/content?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/mdn/content) |
+| <img src="https://github.com/rasbt.png?size=64" width="20" height="20"> | **[LLMs from Scratch](https://github.com/rasbt/LLMs-from-scratch)** 🏆 | Build a ChatGPT-like LLM in PyTorch step by step. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/rasbt/LLMs-from-scratch?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/rasbt/LLMs-from-scratch) |
+| <img src="https://github.com/microsoft.png?size=64" width="20" height="20"> | **[ML for Beginners](https://github.com/microsoft/ML-For-Beginners)** | Microsoft's 12-week, 26-lesson classic machine learning curriculum. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/ML-For-Beginners?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/microsoft/ML-For-Beginners) |
+| <img src="https://github.com/microsoft.png?size=64" width="20" height="20"> | **[Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners)** | Microsoft's 21-lesson course on building generative AI apps. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/generative-ai-for-beginners?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/microsoft/generative-ai-for-beginners) |
+| <img src="https://github.com/microsoft.png?size=64" width="20" height="20"> | **[AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)** | Microsoft's lessons on building AI agents from the ground up. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/ai-agents-for-beginners?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/microsoft/ai-agents-for-beginners) |
+| <img src="https://github.com/microsoft.png?size=64" width="20" height="20"> | **[Web Dev for Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)** | Microsoft's 12-week, 24-lesson web development curriculum. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/Web-Dev-For-Beginners?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/microsoft/Web-Dev-For-Beginners) |
+| <img src="https://www.google.com/s2/favicons?domain=teachyourselfcs.com&sz=64" width="20" height="20"> | **[Teach Yourself CS](https://teachyourselfcs.com)** | The best books and lectures to learn computer science on your own. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=www.promptingguide.ai&sz=64" width="20" height="20"> | **[Prompt Engineering Guide](https://www.promptingguide.ai)** | Guides, papers and techniques for prompting LLMs and agents. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/dair-ai/Prompt-Engineering-Guide) |
+| <img src="https://github.com/anthropics.png?size=64" width="20" height="20"> | **[Claude Cookbooks](https://github.com/anthropics/claude-cookbooks)** | Copy-ready notebooks for building with Claude. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-cookbooks?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/anthropics/claude-cookbooks) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -441,7 +532,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🧑‍🎓 Students & Programs
 
 > Free licenses, credits and paid programs available only while you're a student or newcomer.<br>
-> <sub>11 picks · 2 gold</sub>
+> <sub>16 picks · 2 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -456,6 +547,11 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=www.jetbrains.com&sz=64" width="20" height="20"> | **[JetBrains Educational Licenses](https://www.jetbrains.com/community/education/)** | Free JetBrains IDEs for students and teachers. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=azure.microsoft.com&sz=64" width="20" height="20"> | **[Azure for Students](https://azure.microsoft.com/en-us/free/students)** | Azure cloud credit for students, with no credit card required. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=www.figma.com&sz=64" width="20" height="20"> | **[Figma for Education](https://www.figma.com/education/)** | Free Figma Education plan for students and educators. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=mvp.microsoft.com&sz=64" width="20" height="20"> | **[Microsoft Learn Student Ambassadors](https://mvp.microsoft.com/studentambassadors)** | Microsoft's student community with perks, mentoring and certifications. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=aws.amazon.com&sz=64" width="20" height="20"> | **[AWS Educate](https://aws.amazon.com/education/awseducate/)** | Free cloud courses and hands-on labs, no credit card required. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=www.notion.com&sz=64" width="20" height="20"> | **[Notion for Education](https://www.notion.com/product/notion-for-education)** | Free Notion Plus plan for students with a school email. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=education.github.com&sz=64" width="20" height="20"> | **[GitHub Campus Experts](https://education.github.com/experts)** | Training program for student community leaders. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=www.coursera.support&sz=64" width="20" height="20"> | **[Coursera Financial Aid](https://www.coursera.support/s/article/209819033-Apply-for-Financial-Aid-or-a-Scholarship)** | Get Coursera courses and certificates free with financial aid. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -464,7 +560,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🛠️ Developer Tools & Free Tiers
 
 > Build, host and ship without a credit card.<br>
-> <sub>19 picks · 3 gold</sub>
+> <sub>29 picks · 4 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -487,6 +583,16 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=letsencrypt.org&sz=64" width="20" height="20"> | **[Let's Encrypt](https://letsencrypt.org)** | Free, automated HTTPS certificates for any website. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=ohmyz.sh&sz=64" width="20" height="20"> | **[Oh My Zsh](https://ohmyz.sh)** | Framework that makes your terminal far more pleasant, with hundreds of plugins and themes. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ohmyzsh/ohmyzsh?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ohmyzsh/ohmyzsh) |
 | <img src="https://github.com/awesome-selfhosted.png?size=64" width="20" height="20"> | **[awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)** | Free software you can host yourself, sorted by category. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/awesome-selfhosted/awesome-selfhosted?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/awesome-selfhosted/awesome-selfhosted) |
+| <img src="https://www.google.com/s2/favicons?domain=neovim.io&sz=64" width="20" height="20"> | **[Neovim](https://neovim.io)** | Hyperextensible Vim-based editor with Lua plugins and built-in LSP. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/neovim/neovim?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/neovim/neovim) |
+| <img src="https://github.com/junegunn.png?size=64" width="20" height="20"> | **[fzf](https://github.com/junegunn/fzf)** | Fuzzy finder for the terminal: files, history, processes, anything. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/junegunn/fzf?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/junegunn/fzf) |
+| <img src="https://github.com/BurntSushi.png?size=64" width="20" height="20"> | **[ripgrep](https://github.com/BurntSushi/ripgrep)** | Blazing-fast recursive search that respects your .gitignore. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/BurntSushi/ripgrep?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/BurntSushi/ripgrep) |
+| <img src="https://github.com/jesseduffield.png?size=64" width="20" height="20"> | **[lazygit](https://github.com/jesseduffield/lazygit)** 🏆 | Terminal UI for git that makes staging, rebasing and stashing painless. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/jesseduffield/lazygit?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/jesseduffield/lazygit) |
+| <img src="https://www.google.com/s2/favicons?domain=starship.rs&sz=64" width="20" height="20"> | **[Starship](https://starship.rs)** | Fast, minimal, customizable prompt for any shell. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/starship/starship?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/starship/starship) |
+| <img src="https://github.com/louislam.png?size=64" width="20" height="20"> | **[Uptime Kuma](https://github.com/louislam/uptime-kuma)** | Self-hosted uptime monitoring with status pages and alerts. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/louislam/uptime-kuma?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/louislam/uptime-kuma) |
+| <img src="https://www.google.com/s2/favicons?domain=tldr.sh&sz=64" width="20" height="20"> | **[tldr pages](https://tldr.sh)** | Community cheat sheets with practical examples for console commands. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/tldr-pages/tldr?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/tldr-pages/tldr) |
+| <img src="https://www.google.com/s2/favicons?domain=bun.sh&sz=64" width="20" height="20"> | **[Bun](https://bun.sh)** | All-in-one JavaScript runtime, bundler, test runner and package manager. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/oven-sh/bun?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/oven-sh/bun) |
+| <img src="https://www.google.com/s2/favicons?domain=ghostty.org&sz=64" width="20" height="20"> | **[Ghostty](https://ghostty.org)** | Fast, native, GPU-accelerated terminal emulator. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ghostty-org/ghostty?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ghostty-org/ghostty) |
+| <img src="https://www.google.com/s2/favicons?domain=www.netlify.com&sz=64" width="20" height="20"> | **[Netlify](https://www.netlify.com)** | Deploy static sites and serverless functions with a generous free plan. | ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) |  |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -495,7 +601,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🤖 AI Tools & Models
 
 > Run models locally, build AI apps and automate your work.<br>
-> <sub>15 picks · 2 gold</sub>
+> <sub>27 picks · 4 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -514,6 +620,18 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/Comfy-Org.png?size=64" width="20" height="20"> | **[ComfyUI](https://github.com/Comfy-Org/ComfyUI)** | Node-based interface for image and video generation models. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/Comfy-Org/ComfyUI?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/Comfy-Org/ComfyUI) |
 | <img src="https://github.com/openai.png?size=64" width="20" height="20"> | **[Whisper](https://github.com/openai/whisper)** | OpenAI's open-source multilingual speech-to-text model. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/openai/whisper?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/openai/whisper) |
 | <img src="https://github.com/Shubhamsaboo.png?size=64" width="20" height="20"> | **[awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)** | 100+ open-source AI agent, RAG and LLM app examples you can run and learn from. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/Shubhamsaboo/awesome-llm-apps?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/Shubhamsaboo/awesome-llm-apps) |
+| <img src="https://www.google.com/s2/favicons?domain=www.langchain.com&sz=64" width="20" height="20"> | **[LangChain](https://www.langchain.com)** | The most used framework for building LLM apps and agents. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/langchain-ai/langchain) |
+| <img src="https://www.google.com/s2/favicons?domain=www.llamaindex.ai&sz=64" width="20" height="20"> | **[LlamaIndex](https://www.llamaindex.ai)** | Data framework for connecting your documents to LLMs (RAG). | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/run-llama/llama_index?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/run-llama/llama_index) |
+| <img src="https://www.google.com/s2/favicons?domain=jan.ai&sz=64" width="20" height="20"> | **[Jan](https://jan.ai)** | Offline ChatGPT alternative that runs models 100% on your computer. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/janhq/jan?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/janhq/jan) |
+| <img src="https://www.google.com/s2/favicons?domain=www.langflow.org&sz=64" width="20" height="20"> | **[Langflow](https://www.langflow.org)** | Visual drag-and-drop builder for AI agents and RAG flows. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/langflow-ai/langflow?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/langflow-ai/langflow) |
+| <img src="https://www.google.com/s2/favicons?domain=browser-use.com&sz=64" width="20" height="20"> | **[Browser Use](https://browser-use.com)** 🏆 | Let AI agents control a real web browser to finish tasks. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/browser-use/browser-use) |
+| <img src="https://www.google.com/s2/favicons?domain=www.firecrawl.dev&sz=64" width="20" height="20"> | **[Firecrawl](https://www.firecrawl.dev)** | Turn any website into clean, LLM-ready markdown or data. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/firecrawl/firecrawl) |
+| <img src="https://www.google.com/s2/favicons?domain=crewai.com&sz=64" width="20" height="20"> | **[CrewAI](https://crewai.com)** | Framework for orchestrating teams of role-playing AI agents. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/crewAIInc/crewAI) |
+| <img src="https://www.google.com/s2/favicons?domain=www.litellm.ai&sz=64" width="20" height="20"> | **[LiteLLM](https://www.litellm.ai)** | Call 100+ LLM APIs in the OpenAI format, with a proxy and cost tracking. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/BerriAI/litellm?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/BerriAI/litellm) |
+| <img src="https://www.google.com/s2/favicons?domain=ragflow.io&sz=64" width="20" height="20"> | **[RAGFlow](https://ragflow.io)** | RAG engine with deep document understanding for reliable answers. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/infiniflow/ragflow?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/infiniflow/ragflow) |
+| <img src="https://github.com/microsoft.png?size=64" width="20" height="20"> | **[MarkItDown](https://github.com/microsoft/markitdown)** 🏆 | Convert PDFs, Office files and more to Markdown for LLMs. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/microsoft/markitdown) |
+| <img src="https://www.google.com/s2/favicons?domain=lobehub.com&sz=64" width="20" height="20"> | **[LobeHub](https://lobehub.com)** | Open-source AI workspace for chats and teams of agents across many model providers. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/lobehub/lobehub) |
+| <img src="https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64" width="20" height="20"> | **[OpenRouter](https://openrouter.ai)** | One API for hundreds of models, including many free ones. | ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) |  |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -522,7 +640,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🧠 AI Coding Agents & Tools
 
 > Terminal coding agents, spec-driven workflows and the tools that make Claude Code better.<br>
-> <sub>16 picks · 2 gold</sub>
+> <sub>25 picks · 3 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -542,6 +660,15 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/luongnv89.png?size=64" width="20" height="20"> | **[Claude How-To](https://github.com/luongnv89/claude-howto)** | Visual, example-driven guide to Claude Code with copy-paste templates. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/luongnv89/claude-howto?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/luongnv89/claude-howto) |
 | <img src="https://github.com/shareAI-lab.png?size=64" width="20" height="20"> | **[Learn Claude Code](https://github.com/shareAI-lab/learn-claude-code)** | Build a nano Claude Code-style agent harness from scratch to learn how it works. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/shareAI-lab/learn-claude-code?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/shareAI-lab/learn-claude-code) |
 | <img src="https://github.com/hesreallyhim.png?size=64" width="20" height="20"> | **[awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code)** | Hand-picked skills, agents, hooks, status lines and tooling for Claude Code. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/hesreallyhim/awesome-claude-code) |
+| <img src="https://www.google.com/s2/favicons?domain=cline.bot&sz=64" width="20" height="20"> | **[Cline](https://cline.bot)** 🏆 | Autonomous coding agent inside VS Code that plans, edits and runs commands. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/cline/cline?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/cline/cline) |
+| <img src="https://www.google.com/s2/favicons?domain=goose-docs.ai&sz=64" width="20" height="20"> | **[Goose](https://goose-docs.ai)** | Local, extensible AI agent that installs, runs, edits and tests code with any LLM. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/aaif-goose/goose?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/aaif-goose/goose) |
+| <img src="https://www.google.com/s2/favicons?domain=opencode.ai&sz=64" width="20" height="20"> | **[OpenCode](https://opencode.ai)** | Open-source AI coding agent built for the terminal, any model. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/anomalyco/opencode?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/anomalyco/opencode) |
+| <img src="https://www.google.com/s2/favicons?domain=www.tabbyml.com&sz=64" width="20" height="20"> | **[Tabby](https://www.tabbyml.com)** | Self-hosted AI coding assistant, an open alternative to Copilot. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/TabbyML/tabby?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/TabbyML/tabby) |
+| <img src="https://github.com/stackblitz-labs.png?size=64" width="20" height="20"> | **[bolt.diy](https://github.com/stackblitz-labs/bolt.diy)** | Prompt, run and edit full-stack web apps in the browser, any LLM. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/stackblitz-labs/bolt.diy?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/stackblitz-labs/bolt.diy) |
+| <img src="https://www.google.com/s2/favicons?domain=repomix.com&sz=64" width="20" height="20"> | **[Repomix](https://repomix.com)** | Pack a whole repository into one AI-friendly file. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/yamadashy/repomix?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/yamadashy/repomix) |
+| <img src="https://www.google.com/s2/favicons?domain=gitingest.com&sz=64" width="20" height="20"> | **[Gitingest](https://gitingest.com)** | Turn any GitHub repo into a prompt-ready text digest. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/coderamp-labs/gitingest?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/coderamp-labs/gitingest) |
+| <img src="https://github.com/charmbracelet.png?size=64" width="20" height="20"> | **[Crush](https://github.com/charmbracelet/crush)** | Glamorous terminal AI coding agent from Charm. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/charmbracelet/crush?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/charmbracelet/crush) |
+| <img src="https://github.com/anthropics.png?size=64" width="20" height="20"> | **[Claude Code Action](https://github.com/anthropics/claude-code-action)** | Run Claude Code in GitHub Actions to review PRs and fix issues. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-code-action?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/anthropics/claude-code-action) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -590,7 +717,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🔌 MCP Servers
 
 > Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases.<br>
-> <sub>11 picks · 3 gold</sub>
+> <sub>20 picks · 4 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -605,6 +732,15 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/modelcontextprotocol.png?size=64" width="20" height="20"> | **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** | Visual tool for testing and debugging MCP servers. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/inspector?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/modelcontextprotocol/inspector) |
 | <img src="https://github.com/microsoft.png?size=64" width="20" height="20"> | **[MCP for Beginners](https://github.com/microsoft/mcp-for-beginners)** | Microsoft's free MCP curriculum with examples in Python, TypeScript, .NET, Java and Rust. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/mcp-for-beginners?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/microsoft/mcp-for-beginners) |
 | <img src="https://github.com/punkpeye.png?size=64" width="20" height="20"> | **[awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers)** | Large community directory of MCP servers, sorted by category. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/punkpeye/awesome-mcp-servers) |
+| <img src="https://github.com/ChromeDevTools.png?size=64" width="20" height="20"> | **[Chrome DevTools MCP](https://github.com/ChromeDevTools/chrome-devtools-mcp)** 🏆 | Let agents debug, profile and test pages in a live Chrome. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ChromeDevTools/chrome-devtools-mcp?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ChromeDevTools/chrome-devtools-mcp) |
+| <img src="https://github.com/wonderwhy-er.png?size=64" width="20" height="20"> | **[Desktop Commander](https://github.com/wonderwhy-er/DesktopCommanderMCP)** | MCP server for terminal commands, file search and edits on your machine. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/wonderwhy-er/DesktopCommanderMCP?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/wonderwhy-er/DesktopCommanderMCP) |
+| <img src="https://github.com/makenotion.png?size=64" width="20" height="20"> | **[Notion MCP Server](https://github.com/makenotion/notion-mcp-server)** | Official MCP server for the Notion API. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/makenotion/notion-mcp-server?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/makenotion/notion-mcp-server) |
+| <img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=64" width="20" height="20"> | **[Supabase MCP](https://supabase.com/mcp)** | Connect agents to your Supabase projects, tables and logs. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/supabase/mcp?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/supabase/mcp) |
+| <img src="https://github.com/exa-labs.png?size=64" width="20" height="20"> | **[Exa MCP](https://github.com/exa-labs/exa-mcp-server)** | Real-time web search and crawling for agents via Exa. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/exa-labs/exa-mcp-server?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/exa-labs/exa-mcp-server) |
+| <img src="https://github.com/firecrawl.png?size=64" width="20" height="20"> | **[Firecrawl MCP](https://github.com/firecrawl/firecrawl-mcp-server)** | Scrape, crawl and search the web from any MCP client. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl-mcp-server?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/firecrawl/firecrawl-mcp-server) |
+| <img src="https://github.com/ahujasid.png?size=64" width="20" height="20"> | **[Blender MCP](https://github.com/ahujasid/mcp-for-blender)** | Community plugin that lets Claude and other LLMs control Blender 3D. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ahujasid/mcp-for-blender?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ahujasid/mcp-for-blender) |
+| <img src="https://github.com/modelcontextprotocol.png?size=64" width="20" height="20"> | **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** | Official TypeScript SDK for building MCP servers and clients. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/typescript-sdk?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/modelcontextprotocol/typescript-sdk) |
+| <img src="https://github.com/modelcontextprotocol.png?size=64" width="20" height="20"> | **[MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)** | Official Python SDK for building MCP servers and clients. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/modelcontextprotocol/python-sdk) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -613,7 +749,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🎨 Design & UI
 
 > Icons, fonts, photos and design tools that look premium and cost nothing.<br>
-> <sub>18 picks · 2 gold</sub>
+> <sub>25 picks · 2 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -635,6 +771,13 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=www.realtimecolors.com&sz=64" width="20" height="20"> | **[Realtime Colors](https://www.realtimecolors.com)** | Preview your color palette and fonts on a real website layout instantly. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=haikei.app&sz=64" width="20" height="20"> | **[Haikei](https://haikei.app)** | Generate unique SVG waves, blobs and backgrounds for your designs. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=squoosh.app&sz=64" width="20" height="20"> | **[Squoosh](https://squoosh.app)** | Compress and convert images in the browser while comparing quality side by side. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/GoogleChromeLabs/squoosh?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/GoogleChromeLabs/squoosh) |
+| <img src="https://www.google.com/s2/favicons?domain=tabler.io&sz=64" width="20" height="20"> | **[Tabler Icons](https://tabler.io/icons)** | Thousands of free, pixel-perfect MIT-licensed SVG icons. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/tabler/tabler-icons?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/tabler/tabler-icons) |
+| <img src="https://www.google.com/s2/favicons?domain=iconify.design&sz=64" width="20" height="20"> | **[Iconify](https://iconify.design)** | 200,000+ open-source icons from 150+ sets in one framework. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/iconify/iconify?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/iconify/iconify) |
+| <img src="https://www.google.com/s2/favicons?domain=www.radix-ui.com&sz=64" width="20" height="20"> | **[Radix Primitives](https://www.radix-ui.com)** | Unstyled, accessible React components for design systems. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/radix-ui/primitives?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/radix-ui/primitives) |
+| <img src="https://www.google.com/s2/favicons?domain=daisyui.com&sz=64" width="20" height="20"> | **[daisyUI](https://daisyui.com)** | Component classes for Tailwind CSS: cleaner markup, themes built in. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/saadeghi/daisyui?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/saadeghi/daisyui) |
+| <img src="https://www.google.com/s2/favicons?domain=motion.dev&sz=64" width="20" height="20"> | **[Motion](https://motion.dev)** | Production-grade animation library for React and JavaScript. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/motiondivision/motion?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/motiondivision/motion) |
+| <img src="https://github.com/danielgatis.png?size=64" width="20" height="20"> | **[rembg](https://github.com/danielgatis/rembg)** | Remove image backgrounds locally with one command. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/danielgatis/rembg?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/danielgatis/rembg) |
+| <img src="https://www.google.com/s2/favicons?domain=www.fontshare.com&sz=64" width="20" height="20"> | **[Fontshare](https://www.fontshare.com)** | Quality fonts from Indian Type Foundry, free for commercial use. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -643,7 +786,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🎬 Video, Audio & Media
 
 > Studio-grade editing, recording and stock media at zero cost.<br>
-> <sub>12 picks · 2 gold</sub>
+> <sub>19 picks · 4 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -659,6 +802,13 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=www.canva.com&sz=64" width="20" height="20"> | **[Canva](https://www.canva.com)** | Drag-and-drop design for social posts, slides and thumbnails, with a strong free plan. | ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=www.pexels.com&sz=64" width="20" height="20"> | **[Pexels](https://www.pexels.com)** | Free stock photos and videos you can use without attribution. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=freesound.org&sz=64" width="20" height="20"> | **[Freesound](https://freesound.org)** | Huge library of Creative Commons sound effects and samples. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=ffmpeg.org&sz=64" width="20" height="20"> | **[FFmpeg](https://ffmpeg.org)** 🏆 | The Swiss Army knife for converting and editing audio and video. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/FFmpeg/FFmpeg?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/FFmpeg/FFmpeg) |
+| <img src="https://www.google.com/s2/favicons?domain=immich.app&sz=64" width="20" height="20"> | **[Immich](https://immich.app)** 🏆 | Self-hosted Google Photos alternative with mobile backup. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/immich-app/immich?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/immich-app/immich) |
+| <img src="https://www.google.com/s2/favicons?domain=jellyfin.org&sz=64" width="20" height="20"> | **[Jellyfin](https://jellyfin.org)** | Free media server to stream your movies, shows and music. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/jellyfin/jellyfin?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/jellyfin/jellyfin) |
+| <img src="https://www.google.com/s2/favicons?domain=upscayl.org&sz=64" width="20" height="20"> | **[Upscayl](https://upscayl.org)** | Upscale images with AI on your own computer. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/upscayl/upscayl?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/upscayl/upscayl) |
+| <img src="https://github.com/mifi.png?size=64" width="20" height="20"> | **[LosslessCut](https://github.com/mifi/lossless-cut)** | Cut and trim video and audio instantly without re-encoding. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/mifi/lossless-cut?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/mifi/lossless-cut) |
+| <img src="https://www.google.com/s2/favicons?domain=newpipe.net&sz=64" width="20" height="20"> | **[NewPipe](https://newpipe.net)** | Lightweight YouTube client for Android without ads or tracking. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/TeamNewPipe/NewPipe?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/TeamNewPipe/NewPipe) |
+| <img src="https://www.google.com/s2/favicons?domain=cobalt.tools&sz=64" width="20" height="20"> | **[cobalt](https://cobalt.tools)** | Save videos and audio from many sites with no ads or tracking. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/imputnet/cobalt?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/imputnet/cobalt) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -667,7 +817,7 @@ The best of the best. If you only open a few links today, make it these.
 ## ⚡ Productivity & Everyday Apps
 
 > Notes, office apps and utilities, mostly open-source alternatives to paid apps.<br>
-> <sub>15 picks · 2 gold</sub>
+> <sub>21 picks · 3 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -686,6 +836,12 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=rectangleapp.com&sz=64" width="20" height="20"> | **[Rectangle](https://rectangleapp.com)** | Snap and arrange macOS windows with keyboard shortcuts. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/rxhanson/Rectangle?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/rxhanson/Rectangle) |
 | <img src="https://github.com/microsoft.png?size=64" width="20" height="20"> | **[PowerToys](https://github.com/microsoft/PowerToys)** | Microsoft's power-user utilities for Windows. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/PowerToys?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/microsoft/PowerToys) |
 | <img src="https://www.google.com/s2/favicons?domain=www.7-zip.org&sz=64" width="20" height="20"> | **[7-Zip](https://www.7-zip.org)** | File archiver with a high compression ratio that opens almost any archive. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=affine.pro&sz=64" width="20" height="20"> | **[AFFiNE](https://affine.pro)** | Docs, whiteboards and databases in one, a Notion + Miro alternative. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/toeverything/AFFiNE) |
+| <img src="https://www.google.com/s2/favicons?domain=anytype.io&sz=64" width="20" height="20"> | **[Anytype](https://anytype.io)** | Local-first, encrypted, everything app for notes and knowledge. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/anyproto/anytype-ts?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/anyproto/anytype-ts) |
+| <img src="https://www.google.com/s2/favicons?domain=www.stirlingpdf.com&sz=64" width="20" height="20"> | **[Stirling-PDF](https://www.stirlingpdf.com)** 🏆 | Self-hosted toolkit to merge, split, sign, OCR and edit PDFs. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/Stirling-Tools/Stirling-PDF?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/Stirling-Tools/Stirling-PDF) |
+| <img src="https://www.google.com/s2/favicons?domain=www.raycast.com&sz=64" width="20" height="20"> | **[Raycast](https://www.raycast.com)** | Fast launcher for Mac with extensions, clipboard history and snippets. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=www.voidtools.com&sz=64" width="20" height="20"> | **[Everything](https://www.voidtools.com)** | Find any file on Windows instantly by name. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=nextcloud.com&sz=64" width="20" height="20"> | **[Nextcloud](https://nextcloud.com)** | Self-hosted cloud for files, calendar, contacts and office. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/nextcloud/server) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -694,7 +850,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🔬 Research & Writing
 
 > Find papers, manage references and write better, for students and researchers.<br>
-> <sub>11 picks · 2 gold</sub>
+> <sub>18 picks · 3 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -709,6 +865,13 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=elicit.com&sz=64" width="20" height="20"> | **[Elicit](https://elicit.com)** | AI research assistant that finds papers and extracts key findings. | ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=languagetool.org&sz=64" width="20" height="20"> | **[LanguageTool](https://languagetool.org)** | Grammar and style checker for 30+ languages. | ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/languagetool-org/languagetool?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/languagetool-org/languagetool) |
 | <img src="https://www.google.com/s2/favicons?domain=hemingwayapp.com&sz=64" width="20" height="20"> | **[Hemingway Editor](https://hemingwayapp.com)** | Highlights long, hard-to-read sentences so your writing gets clear and bold. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=www.researchrabbit.ai&sz=64" width="20" height="20"> | **[ResearchRabbit](https://www.researchrabbit.ai)** | Discover related papers and authors through citation maps. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=openalex.org&sz=64" width="20" height="20"> | **[OpenAlex](https://openalex.org)** | Free, open index of 250M+ scholarly works, authors and institutions. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=core.ac.uk&sz=64" width="20" height="20"> | **[CORE](https://core.ac.uk)** | Millions of free full-text open access research papers. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=www.jabref.org&sz=64" width="20" height="20"> | **[JabRef](https://www.jabref.org)** | Reference manager built around BibTeX and BibLaTeX. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/JabRef/jabref?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/JabRef/jabref) |
+| <img src="https://www.google.com/s2/favicons?domain=quarto.org&sz=64" width="20" height="20"> | **[Quarto](https://quarto.org)** | Publish papers, reports and sites from Python, R and Markdown. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/quarto-dev/quarto-cli?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/quarto-dev/quarto-cli) |
+| <img src="https://www.google.com/s2/favicons?domain=jupyter.org&sz=64" width="20" height="20"> | **[Jupyter](https://jupyter.org)** | Interactive notebooks for code, data and narrative. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/jupyterlab/jupyterlab?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/jupyterlab/jupyterlab) |
+| <img src="https://www.google.com/s2/favicons?domain=colab.research.google.com&sz=64" width="20" height="20"> | **[Google Colab](https://colab.research.google.com)** 🏆 | Free Jupyter notebooks in the cloud with GPU access. | ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) |  |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -717,7 +880,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🚀 Startups & Business
 
 > Launch and run a product, with free credits, analytics, CRM and support tools.<br>
-> <sub>10 picks · 2 gold</sub>
+> <sub>19 picks · 2 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -731,6 +894,15 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=www.chatwoot.com&sz=64" width="20" height="20"> | **[Chatwoot](https://www.chatwoot.com)** | Open-source customer support inbox for chat, email and social. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/chatwoot/chatwoot) |
 | <img src="https://www.google.com/s2/favicons?domain=twenty.com&sz=64" width="20" height="20"> | **[Twenty](https://twenty.com)** | Modern open-source CRM, an alternative to Salesforce. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/twentyhq/twenty?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/twentyhq/twenty) |
 | <img src="https://github.com/odoo.png?size=64" width="20" height="20"> | **[Odoo Community](https://github.com/odoo/odoo)** | Open-source ERP covering CRM, sales, inventory, accounting and website. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/odoo/odoo) |
+| <img src="https://www.google.com/s2/favicons?domain=cal.diy&sz=64" width="20" height="20"> | **[Cal.diy](https://cal.diy)** | Open-source, self-hostable scheduling from the Cal.com team, a Calendly alternative. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.diy?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/calcom/cal.diy) |
+| <img src="https://www.google.com/s2/favicons?domain=plausible.io&sz=64" width="20" height="20"> | **[Plausible](https://plausible.io)** | Simple, privacy-friendly Google Analytics alternative. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/plausible/analytics?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/plausible/analytics) |
+| <img src="https://www.google.com/s2/favicons?domain=documenso.com&sz=64" width="20" height="20"> | **[Documenso](https://documenso.com)** | Open-source DocuSign alternative for signing documents. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/documenso/documenso?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/documenso/documenso) |
+| <img src="https://www.google.com/s2/favicons?domain=ghost.org&sz=64" width="20" height="20"> | **[Ghost](https://ghost.org)** | Publishing platform for blogs and paid newsletters. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/TryGhost/Ghost?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/TryGhost/Ghost) |
+| <img src="https://www.google.com/s2/favicons?domain=plane.so&sz=64" width="20" height="20"> | **[Plane](https://plane.so)** | Project management for tasks, sprints and roadmaps, a Jira alternative. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/makeplane/plane?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/makeplane/plane) |
+| <img src="https://www.google.com/s2/favicons?domain=formbricks.com&sz=64" width="20" height="20"> | **[Formbricks](https://formbricks.com)** | Open-source survey and experience management platform. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/formbricks/formbricks) |
+| <img src="https://www.google.com/s2/favicons?domain=strapi.io&sz=64" width="20" height="20"> | **[Strapi](https://strapi.io)** | Leading open-source headless CMS in JavaScript and TypeScript. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/strapi/strapi?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/strapi/strapi) |
+| <img src="https://www.google.com/s2/favicons?domain=medusajs.com&sz=64" width="20" height="20"> | **[Medusa](https://medusajs.com)** | Open-source commerce platform for building custom stores. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/medusajs/medusa?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/medusajs/medusa) |
+| <img src="https://www.google.com/s2/favicons?domain=www.microsoft.com&sz=64" width="20" height="20"> | **[Microsoft for Startups](https://www.microsoft.com/en-us/startups)** | Free Azure credits and tools for early-stage founders. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -739,7 +911,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🔒 Privacy & Security
 
 > Protect your accounts, data and devices, and learn security hands-on.<br>
-> <sub>16 picks · 2 gold</sub>
+> <sub>24 picks · 3 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -759,6 +931,14 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=tryhackme.com&sz=64" width="20" height="20"> | **[TryHackMe](https://tryhackme.com)** | Learn cybersecurity through guided, hands-on labs in the browser. | ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=overthewire.org&sz=64" width="20" height="20"> | **[OverTheWire Wargames](https://overthewire.org/wargames/)** | Learn Linux and security concepts through progressively harder games. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://github.com/trimstray.png?size=64" width="20" height="20"> | **[The Book of Secret Knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)** | Huge collection of sysadmin, security and command-line cheatsheets. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/trimstray/the-book-of-secret-knowledge?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/trimstray/the-book-of-secret-knowledge) |
+| <img src="https://www.google.com/s2/favicons?domain=www.wireshark.org&sz=64" width="20" height="20"> | **[Wireshark](https://www.wireshark.org)** | The standard tool to capture and inspect network traffic. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/wireshark/wireshark?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/wireshark/wireshark) |
+| <img src="https://www.google.com/s2/favicons?domain=pi-hole.net&sz=64" width="20" height="20"> | **[Pi-hole](https://pi-hole.net)** | Network-wide ad and tracker blocking via your own DNS. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/pi-hole/pi-hole?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/pi-hole/pi-hole) |
+| <img src="https://github.com/dani-garcia.png?size=64" width="20" height="20"> | **[Vaultwarden](https://github.com/dani-garcia/vaultwarden)** | Lightweight self-hosted server compatible with Bitwarden apps. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/dani-garcia/vaultwarden?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/dani-garcia/vaultwarden) |
+| <img src="https://www.google.com/s2/favicons?domain=portswigger.net&sz=64" width="20" height="20"> | **[PortSwigger Web Security Academy](https://portswigger.net/web-security)** 🏆 | Free hands-on labs for every major web vulnerability. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=gchq.github.io&sz=64" width="20" height="20"> | **[CyberChef](https://gchq.github.io/CyberChef/)** | The cyber Swiss Army knife for encoding, decoding and analysis. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/gchq/CyberChef?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/gchq/CyberChef) |
+| <img src="https://www.google.com/s2/favicons?domain=ghidra-sre.org&sz=64" width="20" height="20"> | **[Ghidra](https://ghidra-sre.org)** | NSA's software reverse engineering suite. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/NationalSecurityAgency/ghidra?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/NationalSecurityAgency/ghidra) |
+| <img src="https://github.com/swisskyrepo.png?size=64" width="20" height="20"> | **[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)** | Payloads and bypasses for web application security testing. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/swisskyrepo/PayloadsAllTheThings?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/swisskyrepo/PayloadsAllTheThings) |
+| <img src="https://github.com/projectdiscovery.png?size=64" width="20" height="20"> | **[Nuclei](https://github.com/projectdiscovery/nuclei)** | Fast, template-based vulnerability scanner. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/projectdiscovery/nuclei) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 

@@ -93,3 +93,63 @@ items:
     url: https://github.com/awesome-selfhosted/awesome-selfhosted
     desc: Free software you can host yourself, sorted by category.
     type: open-source
+  - name: Neovim
+    url: https://neovim.io
+    desc: Hyperextensible Vim-based editor with Lua plugins and built-in LSP.
+    type: open-source
+    github: neovim/neovim
+    added: 2026-10-28
+  - name: fzf
+    url: https://github.com/junegunn/fzf
+    desc: 'Fuzzy finder for the terminal: files, history, processes, anything.'
+    type: open-source
+    github: junegunn/fzf
+    added: 2026-10-28
+  - name: ripgrep
+    url: https://github.com/BurntSushi/ripgrep
+    desc: Blazing-fast recursive search that respects your .gitignore.
+    type: open-source
+    github: BurntSushi/ripgrep
+    added: 2026-10-28
+  - name: lazygit
+    url: https://github.com/jesseduffield/lazygit
+    desc: Terminal UI for git that makes staging, rebasing and stashing painless.
+    type: open-source
+    github: jesseduffield/lazygit
+    gold: true
+    added: 2026-10-28
+  - name: Starship
+    url: https://starship.rs
+    desc: Fast, minimal, customizable prompt for any shell.
+    type: open-source
+    github: starship/starship
+    added: 2026-10-28
+  - name: Uptime Kuma
+    url: https://github.com/louislam/uptime-kuma
+    desc: Self-hosted uptime monitoring with status pages and alerts.
+    type: open-source
+    github: louislam/uptime-kuma
+    added: 2026-10-28
+  - name: tldr pages
+    url: https://tldr.sh
+    desc: Community cheat sheets with practical examples for console commands.
+    type: open-source
+    github: tldr-pages/tldr
+    added: 2026-10-28
+  - name: Bun
+    url: https://bun.sh
+    desc: All-in-one JavaScript runtime, bundler, test runner and package manager.
+    type: open-source
+    github: oven-sh/bun
+    added: 2026-10-28
+  - name: Ghostty
+    url: https://ghostty.org
+    desc: Fast, native, GPU-accelerated terminal emulator.
+    type: open-source
+    github: ghostty-org/ghostty
+    added: 2026-10-28
+  - name: Netlify
+    url: https://www.netlify.com
+    desc: Deploy static sites and serverless functions with a generous free plan.
+    type: free-tier
+    added: 2026-10-28

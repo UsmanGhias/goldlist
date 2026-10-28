@@ -57,3 +57,21 @@ items:
     url: https://www.levels.fyi
     desc: Crowdsourced compensation data by company, level and location.
     type: free
+  - name: Awesome System Design Resources
+    url: https://github.com/ashishps1/awesome-system-design-resources
+    desc: Free resources to learn system design concepts and prep interviews.
+    type: open-source
+    github: ashishps1/awesome-system-design-resources
+    added: 2026-10-28
+  - name: The Algorithms (Python)
+    url: https://github.com/TheAlgorithms/Python
+    desc: Every classic algorithm implemented in Python.
+    type: open-source
+    github: TheAlgorithms/Python
+    added: 2026-10-28
+  - name: JavaScript Algorithms
+    url: https://github.com/trekhleb/javascript-algorithms
+    desc: Algorithms and data structures in JavaScript with explanations.
+    type: open-source
+    github: trekhleb/javascript-algorithms
+    added: 2026-10-28

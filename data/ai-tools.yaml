@@ -68,3 +68,76 @@ items:
     desc: 100+ open-source AI agent, RAG and LLM app examples you can run and learn from.
     type: open-source
     added: 2026-10-27
+  - name: LangChain
+    url: https://www.langchain.com
+    desc: The most used framework for building LLM apps and agents.
+    type: open-source
+    github: langchain-ai/langchain
+    added: 2026-10-28
+  - name: LlamaIndex
+    url: https://www.llamaindex.ai
+    desc: Data framework for connecting your documents to LLMs (RAG).
+    type: open-source
+    github: run-llama/llama_index
+    added: 2026-10-28
+  - name: Jan
+    url: https://jan.ai
+    desc: Offline ChatGPT alternative that runs models 100% on your computer.
+    type: open-source
+    github: janhq/jan
+    added: 2026-10-28
+  - name: Langflow
+    url: https://www.langflow.org
+    desc: Visual drag-and-drop builder for AI agents and RAG flows.
+    type: open-source
+    github: langflow-ai/langflow
+    added: 2026-10-28
+  - name: Browser Use
+    url: https://browser-use.com
+    desc: Let AI agents control a real web browser to finish tasks.
+    type: open-source
+    github: browser-use/browser-use
+    gold: true
+    added: 2026-10-28
+  - name: Firecrawl
+    url: https://www.firecrawl.dev
+    desc: Turn any website into clean, LLM-ready markdown or data.
+    type: open-source
+    github: firecrawl/firecrawl
+    added: 2026-10-28
+  - name: CrewAI
+    url: https://crewai.com
+    desc: Framework for orchestrating teams of role-playing AI agents.
+    type: open-source
+    github: crewAIInc/crewAI
+    added: 2026-10-28
+  - name: LiteLLM
+    url: https://www.litellm.ai
+    desc: Call 100+ LLM APIs in the OpenAI format, with a proxy and cost tracking.
+    type: open-source
+    github: BerriAI/litellm
+    added: 2026-10-28
+  - name: RAGFlow
+    url: https://ragflow.io
+    desc: RAG engine with deep document understanding for reliable answers.
+    type: open-source
+    github: infiniflow/ragflow
+    added: 2026-10-28
+  - name: MarkItDown
+    url: https://github.com/microsoft/markitdown
+    desc: Convert PDFs, Office files and more to Markdown for LLMs.
+    type: open-source
+    github: microsoft/markitdown
+    gold: true
+    added: 2026-10-28
+  - name: LobeHub
+    url: https://lobehub.com
+    desc: Open-source AI workspace for chats and teams of agents across many model providers.
+    type: open-source
+    github: lobehub/lobehub
+    added: 2026-10-28
+  - name: OpenRouter
+    url: https://openrouter.ai
+    desc: One API for hundreds of models, including many free ones.
+    type: free-tier
+    added: 2026-10-28

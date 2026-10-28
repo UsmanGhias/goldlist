@@ -76,3 +76,38 @@ items:
     url: https://www.7-zip.org
     desc: File archiver with a high compression ratio that opens almost any archive.
     type: open-source
+  - name: AFFiNE
+    url: https://affine.pro
+    desc: Docs, whiteboards and databases in one, a Notion + Miro alternative.
+    type: open-source
+    github: toeverything/AFFiNE
+    added: 2026-10-28
+  - name: Anytype
+    url: https://anytype.io
+    desc: Local-first, encrypted, everything app for notes and knowledge.
+    type: open-source
+    github: anyproto/anytype-ts
+    added: 2026-10-28
+  - name: Stirling-PDF
+    url: https://www.stirlingpdf.com
+    desc: Self-hosted toolkit to merge, split, sign, OCR and edit PDFs.
+    type: open-source
+    github: Stirling-Tools/Stirling-PDF
+    gold: true
+    added: 2026-10-28
+  - name: Raycast
+    url: https://www.raycast.com
+    desc: Fast launcher for Mac with extensions, clipboard history and snippets.
+    type: free
+    added: 2026-10-28
+  - name: Everything
+    url: https://www.voidtools.com
+    desc: Find any file on Windows instantly by name.
+    type: free
+    added: 2026-10-28
+  - name: Nextcloud
+    url: https://nextcloud.com
+    desc: Self-hosted cloud for files, calendar, contacts and office.
+    type: open-source
+    github: nextcloud/server
+    added: 2026-10-28
