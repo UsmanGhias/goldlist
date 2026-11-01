@@ -142,3 +142,8 @@ items:
     desc: Curated list of Claude Skills, resources and tools.
     type: free
     added: 2026-10-27
+  - name: Agent Reach
+    url: https://github.com/Panniantong/Agent-Reach
+    desc: Toolkit giving AI coding agents web and social scraping capabilities.
+    type: open-source
+    added: 2026-11-01

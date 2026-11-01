@@ -136,3 +136,14 @@ items:
     type: open-source
     github: anthropics/claude-code-action
     added: 2026-10-28
+  - name: OmniRoute
+    url: https://www.omniroute.online/
+    desc: MIT-licensed unified AI proxy routing requests across 375 model endpoints.
+    type: open-source
+    github: cheaper-inference/OmniRoute
+    added: 2026-11-01
+  - name: System Prompts Leaks
+    url: https://github.com/asgeirtj/system_prompts_leaks
+    desc: Documented system prompts from Anthropic Claude, OpenAI ChatGPT, Gemini, and Cursor.
+    type: open-source
+    added: 2026-11-01

@@ -123,3 +123,15 @@ items:
     type: open-source
     github: projectdiscovery/nuclei
     added: 2026-10-28
+  - name: RuView
+    url: https://Cognitum.One/RuView
+    desc: Turns commodity WiFi signals into real-time spatial intelligence and presence detection.
+    type: open-source
+    github: ruvnet/RuView
+    added: 2026-11-01
+  - name: Strix
+    url: https://www.strix.ai/
+    desc: Open-source autonomous AI penetration testing tool that finds application vulnerabilities.
+    type: open-source
+    github: usestrix/strix
+    added: 2026-11-01

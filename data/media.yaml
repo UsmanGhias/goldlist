@@ -102,3 +102,15 @@ items:
     type: open-source
     github: imputnet/cobalt
     added: 2026-10-28
+  - name: OpenCut
+    url: https://opencut.app
+    desc: Open-source CapCut alternative for video editing and timeline composition.
+    type: open-source
+    github: OpenCut-app/OpenCut
+    added: 2026-11-01
+  - name: OpenMontage
+    url: https://www.openmontage.video/
+    desc: Open-source video production pipeline coordinating TTS, image generation, and FFmpeg.
+    type: open-source
+    github: calesthio/OpenMontage
+    added: 2026-11-01

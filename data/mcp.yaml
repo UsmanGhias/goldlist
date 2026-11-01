@@ -116,3 +116,9 @@ items:
     type: open-source
     github: modelcontextprotocol/python-sdk
     added: 2026-10-28
+  - name: WorldMonitor
+    url: https://worldmonitor.app
+    desc: Real-time global intelligence dashboard with AI news aggregation and OSINT monitoring.
+    type: open-source
+    github: koala73/worldmonitor
+    added: 2026-11-01
