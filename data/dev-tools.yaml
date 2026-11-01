@@ -153,3 +153,15 @@ items:
     desc: Deploy static sites and serverless functions with a generous free plan.
     type: free-tier
     added: 2026-10-28
+  - name: FreeDomain
+    url: https://dashboard.digitalplat.org
+    desc: Guide and directory for free domain registration and hands-on DNS configuration.
+    type: open-source
+    github: DigitalPlatDev/FreeDomain
+    added: 2026-11-01
+  - name: Front-End Checklist
+    url: https://frontendchecklist.io
+    desc: Comprehensive checklist of HTML, CSS, performance, and accessibility best practices.
+    type: open-source
+    github: thedaviddias/Front-End-Checklist
+    added: 2026-11-01

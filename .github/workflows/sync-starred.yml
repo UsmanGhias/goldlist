@@ -1,0 +1,36 @@
+name: Sync Starred Repos
+
+on:
+  schedule:
+    # Run daily at 02:00 UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Number of repositories to sync"
+        required: false
+        default: "5"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: pip install pyyaml
+      - name: Sync starred repos and open PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          python scripts/sync_starred.py --limit ${{ github.event.inputs.limit || '5' }} --create-pr
