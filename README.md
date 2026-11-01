@@ -12,26 +12,26 @@
 
 <p>
   <b>366 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
-  learning, building products, and staying secure. Sorted into 16 categories and verified every week.
+  learning, building products, and staying secure. Sorted across 16 categories and verified every week.
 </p>
 
-[![Entries](https://img.shields.io/badge/entries-366-d4af37?style=flat-square&labelColor=0d0e0b)](#contents)
-[![Gold picks](https://img.shields.io/badge/gold_picks-50-d4af37?style=flat-square&labelColor=0d0e0b)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-241-2ea44f?style=flat-square&labelColor=0d0e0b)](#contents)
-[![Web Directory](https://img.shields.io/badge/web_directory-live-d4af37?style=flat-square&logo=googlechrome&logoColor=d4af37&labelColor=0d0e0b)](https://usmanghias.github.io/goldlist/)
-[![Weekly Check](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square&labelColor=0d0e0b)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
-[![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=0d0e0b&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square&labelColor=0d0e0b)](CONTRIBUTING.md)
-[![AI reviewed](https://img.shields.io/badge/reviewed_by-CodeRabbit-ff570a?style=flat-square&labelColor=0d0e0b)](#how-it-works)
-[![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey?style=flat-square&labelColor=0d0e0b)](LICENSE)
+[![Entries](https://img.shields.io/badge/entries-366-d4af37?style=flat-square&labelColor=24292f)](#contents)
+[![Gold picks](https://img.shields.io/badge/gold_picks-50-d4af37?style=flat-square&labelColor=24292f)](#gold-picks)
+[![Open source](https://img.shields.io/badge/open_source-241-2ea44f?style=flat-square&labelColor=24292f)](#contents)
+[![Web Directory](https://img.shields.io/badge/web_directory-live-d4af37?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=24292f)](https://usmanghias.github.io/goldlist/)
+[![Weekly Check](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square&labelColor=24292f)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
+[![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=24292f&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square&labelColor=24292f)](CONTRIBUTING.md)
+[![AI reviewed](https://img.shields.io/badge/reviewed_by-CodeRabbit-ff570a?style=flat-square&labelColor=24292f)](#how-it-works)
+[![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey?style=flat-square&labelColor=24292f)](LICENSE)
 
 <br>
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>366</h3><sub>verified active resources</sub></td>
-<td align="center" width="25%"><h3>16</h3><sub>curated topic collections</sub></td>
-<td align="center" width="25%"><h3>241</h3><sub>open-source repositories</sub></td>
+<td align="center" width="25%"><h3>366</h3><sub>verified resources</sub></td>
+<td align="center" width="25%"><h3>16</h3><sub>curated topics</sub></td>
+<td align="center" width="25%"><h3>241</h3><sub>open-source repos</sub></td>
 <td align="center" width="25%"><h3>50</h3><sub>elite gold picks</sub></td>
 </tr>
 </table>
@@ -44,7 +44,7 @@
 
 **[🔎 Search &amp; filter all 366 resources on the live website →](https://usmanghias.github.io/goldlist/)**
 
-<sub>⭐ <b>Star this repository</b> to keep it one click away. New gold is added every week.</sub>
+<sub>⭐ <b>Star this repository</b> to keep it one click away. Updated weekly.</sub>
 
 </div>
 
@@ -52,28 +52,12 @@
 
 ## ⚡ Why GoldList?
 
-Most bookmarks turn into digital dust. Giant awesome-lists pack thousands of links with zero point of view. GoldList is built with strict discipline:
+Giant awesome-lists drown you in thousands of stale links with zero point of view. GoldList is curated with strict discipline:
 
-<table>
-<tr>
-<td width="25%" valign="top">
-  <b>🏆 Curated, not collected</b><br>
-  <sub>Every entry earns its slot. Categories stay focused so you only see what is worth your time.</sub>
-</td>
-<td width="25%" valign="top">
-  <b>🧭 One clean directory</b><br>
-  <sub>Jobs, scholarships, courses, dev tools, Claude skills, MCP servers, and privacy in one unified system.</sub>
-</td>
-<td width="25%" valign="top">
-  <b>✅ 100% active links</b><br>
-  <sub>A bot checks every single URL weekly. Every submission is reviewed by AI and tested before merge.</sub>
-</td>
-<td width="25%" valign="top">
-  <b>🏷️ Clear, honest labels</b><br>
-  <sub>Open source, fully free, or free tier, plus live star counters so you know exactly what to expect.</sub>
-</td>
-</tr>
-</table>
+- **Curated, not collected:** Every entry earns its place. Categories stay focused so you only see what is worth your time.
+- **One clean directory:** Jobs, scholarships, dev tools, Claude skills, MCP servers, and privacy in one unified place.
+- **100% active links:** Automated weekly CI checks sweep every single URL. Dead links are caught and resolved immediately.
+- **Honest labels:** Explicit open-source licenses, generous free tiers, and live GitHub stars with zero promotional hype.
 
 ---
 
@@ -106,7 +90,7 @@ GoldList is machine-readable and agent-ready. Consume it in your terminal, pipe 
 <td width="50%" valign="top">
 
 ### 💻 Terminal &amp; JSON API
-Query the full dataset directly from your command line:
+Query the full live dataset from your command line:
 
 ```bash
 # Stream the raw JSON
@@ -137,10 +121,10 @@ All entries include verified URLs, descriptions, and licenses.
 If your tool or open-source project is featured on GoldList, showcase it with pride:
 
 ```markdown
-[![Featured on GoldList](https://img.shields.io/badge/featured%20on-GoldList-d4af37?style=flat-square&logo=github&labelColor=0d0e0b)](https://github.com/UsmanGhias/goldlist)
+[![Featured on GoldList](https://img.shields.io/badge/featured%20on-GoldList-d4af37?style=flat-square&logo=github&labelColor=1f2328)](https://github.com/UsmanGhias/goldlist)
 ```
 
-**Preview:** [![Featured on GoldList](https://img.shields.io/badge/featured%20on-GoldList-d4af37?style=flat-square&logo=github&labelColor=0d0e0b)](https://github.com/UsmanGhias/goldlist)
+**Preview:** [![Featured on GoldList](https://img.shields.io/badge/featured%20on-GoldList-d4af37?style=flat-square&logo=github&labelColor=1f2328)](https://github.com/UsmanGhias/goldlist)
 
 ---
 

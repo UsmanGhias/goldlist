@@ -7,7 +7,7 @@
   <meta name="description" content="Hand-curated, deduplicated, and verified directory of 366+ open-source tools, AI coding agents, skills, and developer tiers. Free, open source, no noise.">
   <link rel="canonical" href="https://usmanghias.github.io/goldlist/">
   <link rel="icon" href="favicon.svg" type="image/svg+xml">
-  <meta name="theme-color" content="#0d0e0b">
+  <meta name="theme-color" content="#fdfefc">
   
   <!-- Open Graph -->
   <meta property="og:type" content="website">
@@ -24,16 +24,16 @@
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
 
   <script>
-    // Prevent theme flash before paint - defaults to dark theme inspired by freehire.me
+    // Freehire zero-theme-flash initialization: defaults to crisp paper white
     (function () {
       try {
-        const theme = localStorage.getItem('goldlist.theme') || (window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
-        if (theme === 'light') {
-          document.documentElement.classList.add('light');
-          document.querySelector('meta[name="theme-color"]')?.setAttribute('content', '#fdfefc');
-        } else {
-          document.documentElement.classList.remove('light');
+        const theme = localStorage.getItem('goldlist.theme');
+        if (theme === 'dark') {
+          document.documentElement.classList.add('dark');
           document.querySelector('meta[name="theme-color"]')?.setAttribute('content', '#0d0e0b');
+        } else {
+          document.documentElement.classList.remove('dark');
+          document.querySelector('meta[name="theme-color"]')?.setAttribute('content', '#fdfefc');
         }
       } catch (e) {}
     })();
@@ -41,7 +41,34 @@
 
   <style>
     :root {
-      /* Obsidian Dark Theme (Default) */
+      /* Freehire Clean Paper White Theme (Default) */
+      --bg: #fdfefc;
+      --surface: #ffffff;
+      --surface-2: #f4f5f0;
+      --surface-hover: #ebede4;
+      --border: #e2e5dc;
+      --border-strong: #c8cec0;
+      --text: #12140f;
+      --text-muted: #64685c;
+      --gold: #b38600;
+      --gold-soft: #8a6500;
+      --gold-ink: #ffffff;
+      --gold-glow: rgba(179, 134, 0, 0.08);
+      --open: #1a7f37;
+      --free: #0969da;
+      --tier: #bc4c00;
+      --dot: rgba(0, 0, 0, 0.05);
+      --radius-sm: 8px;
+      --radius: 12px;
+      --radius-lg: 16px;
+      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.04);
+      --shadow-card: 0 2px 8px -2px rgba(0, 0, 0, 0.05), 0 0 0 1px var(--border);
+      --shadow-elevated: 0 12px 28px -4px rgba(0, 0, 0, 0.08), 0 0 0 1px var(--border-strong);
+      color-scheme: light;
+    }
+
+    html.dark {
+      /* Obsidian Dark Theme */
       --bg: #0d0e0b;
       --surface: #141611;
       --surface-2: #1b1e17;
@@ -58,37 +85,10 @@
       --free: #58a6ff;
       --tier: #f0883e;
       --dot: rgba(255, 255, 255, 0.055);
-      --radius-sm: 8px;
-      --radius: 14px;
-      --radius-lg: 20px;
       --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
       --shadow-card: 0 4px 20px -2px rgba(0, 0, 0, 0.5), 0 0 0 1px var(--border);
       --shadow-elevated: 0 16px 36px -4px rgba(0, 0, 0, 0.6), 0 0 0 1px var(--border-strong);
       color-scheme: dark;
-    }
-
-    html.light {
-      /* Paper Light Theme */
-      --bg: #fdfefc;
-      --surface: #ffffff;
-      --surface-2: #f4f5f0;
-      --surface-hover: #ebede4;
-      --border: #e3e6dc;
-      --border-strong: #cdd2c3;
-      --text: #131510;
-      --text-muted: #666a5e;
-      --gold: #b38600;
-      --gold-soft: #8a6500;
-      --gold-ink: #ffffff;
-      --gold-glow: rgba(179, 134, 0, 0.08);
-      --open: #1a7f37;
-      --free: #0969da;
-      --tier: #bc4c00;
-      --dot: rgba(0, 0, 0, 0.045);
-      --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
-      --shadow-card: 0 4px 16px -2px rgba(0, 0, 0, 0.05), 0 0 0 1px var(--border);
-      --shadow-elevated: 0 14px 30px -4px rgba(0, 0, 0, 0.08), 0 0 0 1px var(--border-strong);
-      color-scheme: light;
     }
 
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -1169,8 +1169,8 @@
     const moonIcon = $("theme-icon-moon");
     const sunIcon = $("theme-icon-sun");
 
-    function updateThemeUI(isLight) {
-      if (isLight) {
+    function updateThemeUI(isDark) {
+      if (isDark) {
         moonIcon.style.display = "none";
         sunIcon.style.display = "block";
       } else {
@@ -1178,13 +1178,13 @@
         sunIcon.style.display = "none";
       }
     }
-    updateThemeUI(document.documentElement.classList.contains("light"));
+    updateThemeUI(document.documentElement.classList.contains("dark"));
 
     themeToggle?.addEventListener("click", () => {
-      const isLight = document.documentElement.classList.toggle("light");
-      localStorage.setItem("goldlist.theme", isLight ? "light" : "dark");
-      document.querySelector('meta[name="theme-color"]')?.setAttribute('content', isLight ? '#fdfefc' : '#0d0e0b');
-      updateThemeUI(isLight);
+      const isDark = document.documentElement.classList.toggle("dark");
+      localStorage.setItem("goldlist.theme", isDark ? "dark" : "light");
+      document.querySelector('meta[name="theme-color"]')?.setAttribute('content', isDark ? '#0d0e0b' : '#fdfefc');
+      updateThemeUI(isDark);
     });
 
     // Dismiss promo strip
