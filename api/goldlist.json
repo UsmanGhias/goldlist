@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 356,
+  "total": 366,
   "categories": [
     {
       "slug": "jobs",
@@ -1224,6 +1224,24 @@
           "gold": false,
           "github": null,
           "added": "2026-10-28"
+        },
+        {
+          "name": "FreeDomain",
+          "url": "https://dashboard.digitalplat.org",
+          "description": "Guide and directory for free domain registration and hands-on DNS configuration.",
+          "type": "open-source",
+          "gold": false,
+          "github": "DigitalPlatDev/FreeDomain",
+          "added": "2026-11-01"
+        },
+        {
+          "name": "Front-End Checklist",
+          "url": "https://frontendchecklist.io",
+          "description": "Comprehensive checklist of HTML, CSS, performance, and accessibility best practices.",
+          "type": "open-source",
+          "gold": false,
+          "github": "thedaviddias/Front-End-Checklist",
+          "added": "2026-11-01"
         }
       ]
     },
@@ -1710,6 +1728,24 @@
           "gold": false,
           "github": "anthropics/claude-code-action",
           "added": "2026-10-28"
+        },
+        {
+          "name": "OmniRoute",
+          "url": "https://www.omniroute.online/",
+          "description": "MIT-licensed unified AI proxy routing requests across 375 model providers.",
+          "type": "open-source",
+          "gold": false,
+          "github": "cheaper-inference/OmniRoute",
+          "added": "2026-11-01"
+        },
+        {
+          "name": "System Prompts Leaks",
+          "url": "https://github.com/asgeirtj/system_prompts_leaks",
+          "description": "Documented system prompts from Anthropic Claude, OpenAI ChatGPT, Gemini, and Cursor.",
+          "type": "free",
+          "gold": false,
+          "github": "asgeirtj/system_prompts_leaks",
+          "added": "2026-11-01"
         }
       ]
     },
@@ -1971,6 +2007,15 @@
           "gold": false,
           "github": "ComposioHQ/awesome-claude-skills",
           "added": "2026-10-27"
+        },
+        {
+          "name": "Agent Reach",
+          "url": "https://github.com/Panniantong/Agent-Reach",
+          "description": "Toolkit giving AI coding agents web and social scraping capabilities.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Panniantong/Agent-Reach",
+          "added": "2026-11-01"
         }
       ]
     },
@@ -2160,6 +2205,15 @@
           "gold": false,
           "github": "modelcontextprotocol/python-sdk",
           "added": "2026-10-28"
+        },
+        {
+          "name": "WorldMonitor",
+          "url": "https://worldmonitor.app",
+          "description": "Real-time global intelligence dashboard with AI news aggregation and OSINT monitoring.",
+          "type": "open-source",
+          "gold": false,
+          "github": "koala73/worldmonitor",
+          "added": "2026-11-01"
         }
       ]
     },
@@ -2574,6 +2628,24 @@
           "gold": false,
           "github": "imputnet/cobalt",
           "added": "2026-10-28"
+        },
+        {
+          "name": "OpenCut",
+          "url": "https://github.com/OpenCut-app/OpenCut",
+          "description": "Open-source CapCut alternative for video editing and timeline composition.",
+          "type": "open-source",
+          "gold": false,
+          "github": "OpenCut-app/OpenCut",
+          "added": "2026-11-01"
+        },
+        {
+          "name": "OpenMontage",
+          "url": "https://www.openmontage.video/",
+          "description": "Open-source video production pipeline coordinating TTS, image generation, and FFmpeg.",
+          "type": "open-source",
+          "gold": false,
+          "github": "calesthio/OpenMontage",
+          "added": "2026-11-01"
         }
       ]
     },
@@ -3348,6 +3420,24 @@
           "gold": false,
           "github": "projectdiscovery/nuclei",
           "added": "2026-10-28"
+        },
+        {
+          "name": "RuView",
+          "url": "https://Cognitum.One/RuView",
+          "description": "Turns commodity WiFi signals into real-time spatial intelligence and presence detection.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ruvnet/RuView",
+          "added": "2026-11-01"
+        },
+        {
+          "name": "Strix",
+          "url": "https://www.strix.ai/",
+          "description": "Open-source autonomous AI penetration testing tool that finds application vulnerabilities.",
+          "type": "open-source",
+          "gold": false,
+          "github": "usestrix/strix",
+          "added": "2026-11-01"
         }
       ]
     }
