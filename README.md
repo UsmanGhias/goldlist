@@ -4,44 +4,78 @@
 
 <img src="assets/banner.svg" alt="GoldList: only the gold" width="100%">
 
+<br><br>
+
+<code>// the catalogue, today</code>
+
 <h3>Only the gold. Everything else is noise.</h3>
 
-<p><b>366 hand-picked free &amp; open-source resources</b> for finding jobs, winning scholarships, learning,<br>
-building, designing and staying safe, sorted into 16 categories and link-checked every week.</p>
+<p>
+  <b>366 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
+  learning, building products, and staying secure. Sorted into 16 categories and verified every week.
+</p>
 
-[![Entries](https://img.shields.io/badge/entries-366-d4af37?style=for-the-badge&labelColor=1f2328)](#contents)
-[![Gold picks](https://img.shields.io/badge/gold_picks-50-d4af37?style=for-the-badge&labelColor=1f2328)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-241-2ea44f?style=for-the-badge&labelColor=1f2328)](#contents)
-[![Website](https://img.shields.io/badge/search-the_website-d4af37?style=for-the-badge&labelColor=1f2328)](https://usmanghias.github.io/goldlist/)
+[![Entries](https://img.shields.io/badge/entries-366-d4af37?style=flat-square&labelColor=0d0e0b)](#contents)
+[![Gold picks](https://img.shields.io/badge/gold_picks-50-d4af37?style=flat-square&labelColor=0d0e0b)](#gold-picks)
+[![Open source](https://img.shields.io/badge/open_source-241-2ea44f?style=flat-square&labelColor=0d0e0b)](#contents)
+[![Web Directory](https://img.shields.io/badge/web_directory-live-d4af37?style=flat-square&logo=googlechrome&logoColor=d4af37&labelColor=0d0e0b)](https://usmanghias.github.io/goldlist/)
+[![Weekly Check](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square&labelColor=0d0e0b)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
+[![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=0d0e0b&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
+[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square&labelColor=0d0e0b)](CONTRIBUTING.md)
+[![AI reviewed](https://img.shields.io/badge/reviewed_by-CodeRabbit-ff570a?style=flat-square&labelColor=0d0e0b)](#how-it-works)
+[![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey?style=flat-square&labelColor=0d0e0b)](LICENSE)
+
 <br>
-[![Links](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
-[![Last commit](https://img.shields.io/github/last-commit/UsmanGhias/goldlist?style=flat-square)](https://github.com/UsmanGhias/goldlist/commits/main)
-[![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
-[![AI reviewed](https://img.shields.io/badge/PRs_reviewed_by-CodeRabbit-ff570a?style=flat-square)](#how-it-works)
-[![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey?style=flat-square)](LICENSE)
+
+<table>
+<tr>
+<td align="center" width="25%"><h3>366</h3><sub>verified active resources</sub></td>
+<td align="center" width="25%"><h3>16</h3><sub>curated topic collections</sub></td>
+<td align="center" width="25%"><h3>241</h3><sub>open-source repositories</sub></td>
+<td align="center" width="25%"><h3>50</h3><sub>elite gold picks</sub></td>
+</tr>
+</table>
+
+<br>
 
 [💼 Jobs](#jobs) · [🧭 Career](#career) · [🎓 Scholarships](#scholarships) · [📚 Learning](#learning) · [🧑‍🎓 Students](#students) · [🛠️ Dev Tools](#dev-tools) · [🤖 AI Tools](#ai-tools) · [🧠 AI Coding](#ai-coding) · [🧩 Skills](#agent-skills) · [🔌 MCP](#mcp) · [🎨 Design](#design) · [🎬 Media](#media) · [⚡ Productivity](#productivity) · [🔬 Research](#research) · [🚀 Startups](#startups) · [🔒 Privacy](#privacy-security)
 
-**[🔎 Search &amp; filter all 366 on the website →](https://usmanghias.github.io/goldlist/)**
+<br><br>
 
-<sub>⭐ <b>Star this repo</b> to keep it one click away. New gold is added every week.</sub>
+**[🔎 Search &amp; filter all 366 resources on the live website →](https://usmanghias.github.io/goldlist/)**
+
+<sub>⭐ <b>Star this repository</b> to keep it one click away. New gold is added every week.</sub>
 
 </div>
 
 ---
 
-## Why GoldList?
+## ⚡ Why GoldList?
 
-You've bookmarked hundreds of "useful tools" and can't find any of them when you need one. Giant awesome-lists have **thousands** of links and no opinion. GoldList is the opposite:
+Most bookmarks turn into digital dust. Giant awesome-lists pack thousands of links with zero point of view. GoldList is built with strict discipline:
 
 <table>
 <tr>
-<td width="25%" valign="top"><b>🏆 Curated, not collected</b><br><sub>Every entry earns its place. Categories stay short, so you only see what's worth your time.</sub></td>
-<td width="25%" valign="top"><b>🧭 One place for everything</b><br><sub>Jobs, scholarships, courses, dev tools, Claude skills, MCP servers, design, media and privacy, all in one list.</sub></td>
-<td width="25%" valign="top"><b>✅ Always alive</b><br><sub>A bot checks every link weekly. Every change is reviewed by AI and validated before it merges.</sub></td>
-<td width="25%" valign="top"><b>🏷️ Honest labels</b><br><sub>Open source, fully free, or free tier, plus live GitHub stars, so you know exactly what you're getting.</sub></td>
+<td width="25%" valign="top">
+  <b>🏆 Curated, not collected</b><br>
+  <sub>Every entry earns its slot. Categories stay focused so you only see what is worth your time.</sub>
+</td>
+<td width="25%" valign="top">
+  <b>🧭 One clean directory</b><br>
+  <sub>Jobs, scholarships, courses, dev tools, Claude skills, MCP servers, and privacy in one unified system.</sub>
+</td>
+<td width="25%" valign="top">
+  <b>✅ 100% active links</b><br>
+  <sub>A bot checks every single URL weekly. Every submission is reviewed by AI and tested before merge.</sub>
+</td>
+<td width="25%" valign="top">
+  <b>🏷️ Clear, honest labels</b><br>
+  <sub>Open source, fully free, or free tier, plus live star counters so you know exactly what to expect.</sub>
+</td>
 </tr>
 </table>
+
+---
 
 <a id="start-here"></a>
 
@@ -54,10 +88,61 @@ You've bookmarked hundreds of "useful tools" and can't find any of them when you
 | 🌍 **Planning a funded master's or PhD** | [Scholarships](#scholarships) → [Research & Writing](#research) |
 | 💻 **Learning to code** | [Learning](#learning) → [Dev Tools](#dev-tools) → [AI Coding](#ai-coding) |
 | 🏗️ **Building a product** | [Dev Tools](#dev-tools) → [Startups](#startups) → [Design](#design) |
-| 🧩 **Supercharging Claude Code or any AI agent** | [Skills](#agent-skills) → [MCP Servers](#mcp) → [AI Coding](#ai-coding) |
-| 🤖 **Into AI** | [AI Tools](#ai-tools) → [AI Coding](#ai-coding) → [Learning](#learning) |
-| 🎨 **A creator** | [Design](#design) → [Media](#media) → [Productivity](#productivity) |
+| 🧩 **Supercharging Claude Code or AI agents** | [Skills](#agent-skills) → [MCP Servers](#mcp) → [AI Coding](#ai-coding) |
+| 🤖 **Exploring modern AI** | [AI Tools](#ai-tools) → [AI Coding](#ai-coding) → [Learning](#learning) |
+| 🎨 **A creator or designer** | [Design](#design) → [Media](#media) → [Productivity](#productivity) |
 | 🔐 **Privacy-conscious** | [Privacy & Security](#privacy-security) → [Productivity](#productivity) |
+
+---
+
+<a id="take-it-with-you"></a>
+
+## 📦 Take It With You
+
+GoldList is machine-readable and agent-ready. Consume it in your terminal, pipe it into AI agents, or show your badge.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Terminal &amp; JSON API
+Query the full dataset directly from your command line:
+
+```bash
+# Stream the raw JSON
+curl -sL https://raw.githubusercontent.com/UsmanGhias/goldlist/main/api/goldlist.json | jq .
+
+# List all open-source AI coding tools
+curl -sL https://raw.githubusercontent.com/UsmanGhias/goldlist/main/api/goldlist.json \
+  | jq '.categories[] | select(.slug=="ai-coding") | .items[] | select(.type=="open-source") | .name'
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Agent &amp; Claude Code
+GoldList works natively with Claude Code, Antigravity, and Cursor.
+
+Prompt your coding agent:
+> *"Fetch the top tools from `https://raw.githubusercontent.com/UsmanGhias/goldlist/main/api/goldlist.json` before recommending libraries."*
+
+All entries include verified URLs, descriptions, and licenses.
+
+</td>
+</tr>
+</table>
+
+### 🏅 Featured on GoldList Badge
+
+If your tool or open-source project is featured on GoldList, showcase it with pride:
+
+```markdown
+[![Featured on GoldList](https://img.shields.io/badge/featured%20on-GoldList-d4af37?style=flat-square&logo=github&labelColor=0d0e0b)](https://github.com/UsmanGhias/goldlist)
+```
+
+**Preview:** [![Featured on GoldList](https://img.shields.io/badge/featured%20on-GoldList-d4af37?style=flat-square&logo=github&labelColor=0d0e0b)](https://github.com/UsmanGhias/goldlist)
+
+---
 
 <a id="gold-picks"></a>
 
@@ -369,7 +454,7 @@ The best of the best. If you only open a few links today, make it these.
 
 <a id="contents"></a>
 
-## 📑 Contents
+## 📑 Catalogue Contents
 
 | | Category | What's inside | Picks |
 | :-: | :--- | :--- | :-: |
@@ -390,7 +475,7 @@ The best of the best. If you only open a few links today, make it these.
 | 🚀 | **[Startups & Business](#startups)** | Launch and run a product, with free credits, analytics, CRM and support tools. | 19 |
 | 🔒 | **[Privacy & Security](#privacy-security)** | Protect your accounts, data and devices, and learn security hands-on. | 26 |
 
-**Legend:** ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) source code is public · ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) free to use · ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) generous free plan, paid upgrades · 🏆 gold pick
+**Legend:** ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) source code is public · ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) free to use · ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) generous free tier, paid upgrades · 🏆 gold pick
 
 ---
 
@@ -958,7 +1043,7 @@ The best of the best. If you only open a few links today, make it these.
 
 ## ⚙️ How GoldList Stays Gold
 
-Every change goes through the same automated pipeline, so the list stays accurate as it grows.
+Every change goes through an automated pipeline, so the catalog stays accurate and fresh.
 
 ```mermaid
 flowchart LR
@@ -971,30 +1056,26 @@ flowchart LR
     F --> G["🔍 Weekly<br/>dead-link sweep"]
 ```
 
-- **Single source of truth:** every entry lives in [`data/*.yaml`](data/). This README, the [JSON API](api/goldlist.json) and the suggestion form are all generated from it.
+- **Single source of truth:** every entry lives in [`data/*.yaml`](data/). This README, the [JSON API](api/goldlist.json), and the suggestion form are generated from it.
 - **AI review:** [CodeRabbit](https://coderabbit.ai) reviews every pull request against the [quality bar](CONTRIBUTING.md#the-bar).
-- **Strict validation:** CI rejects duplicates, broken links, missing fields and over-long descriptions.
+- **Strict validation:** CI rejects duplicates, broken links, missing fields, and over-long descriptions.
 - **Self-cleaning:** a weekly job checks every link and opens an issue if anything breaks.
-- **Website:** [usmanghias.github.io/goldlist](https://usmanghias.github.io/goldlist/) is rebuilt from the same data on every change, with live GitHub star counts refreshed daily.
+- **Interactive web directory:** [usmanghias.github.io/goldlist](https://usmanghias.github.io/goldlist/) is rebuilt from the same data on every change.
 
-### 📦 Use the data
-
-Building an app, bot or website? Everything is available as JSON:
-
-```bash
-curl -s https://raw.githubusercontent.com/UsmanGhias/goldlist/main/api/goldlist.json
-```
+---
 
 <a id="contributing"></a>
 
 ## 🤝 Contributing
 
-Know something that deserves to be here?
+Know a resource that deserves a spot?
 
 - **30 seconds:** [suggest it with the form](https://github.com/UsmanGhias/goldlist/issues/new?template=suggest.yml). Once a maintainer labels it `accepted`, a bot adds it.
 - **Pull request:** add it to [`data/`](data/) and open a PR. CodeRabbit reviews it and it merges automatically when approved. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 The bar is high on purpose: **free or open source, actively maintained, and clearly the best (or close to it) at what it does.**
+
+---
 
 ## 📈 Star History
 
@@ -1009,10 +1090,14 @@ The bar is high on purpose: **free or open source, actively maintained, and clea
 
 <div align="center">
 
-**If GoldList saved you time, [give it a ⭐](https://github.com/UsmanGhias/goldlist) and share it with one friend who needs it.**
+**If GoldList saved you time, [give it a ⭐](https://github.com/UsmanGhias/goldlist) and share it with someone who needs it.**
 
-<sub>Released under [CC0 1.0](LICENSE): public domain, so copy it, share it, build on it.<br>
+<br>
+
+<sub>Curated by <a href="https://usmanghias.co.uk">Usman Ghias</a>. Released under <a href="LICENSE">CC0 1.0 Universal</a>: public domain, so copy it, share it, build on it.<br>
 This README is generated from <code>data/*.yaml</code> by <code>scripts/build.py</code>. Edit the data, not this file.</sub>
+
+<br>
 
 <p><a href="#top">↑ Back to top</a></p>
 

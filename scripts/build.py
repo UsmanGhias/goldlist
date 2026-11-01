@@ -37,7 +37,16 @@ RECENT_LIMIT = 10
 GITHUB_REPO_RE = re.compile(r"^[\w.-]+/[\w.-]+$")
 GITHUB_URL_RE = re.compile(r"^https://github\.com/([\w.-]+/[\w.-]+)/?$")
 # Anchors that exist in the template itself rather than per category.
-STATIC_ANCHORS = {"top", "start-here", "gold-picks", "recently-added", "contents", "how-it-works", "contributing"}
+STATIC_ANCHORS = {
+    "top",
+    "start-here",
+    "gold-picks",
+    "recently-added",
+    "contents",
+    "take-it-with-you",
+    "how-it-works",
+    "contributing",
+}
 
 
 def load_categories():
