@@ -111,3 +111,9 @@ items:
     type: open-source
     github: nextcloud/server
     added: 2026-10-28
+  - name: Puter
+    url: https://puter.com
+    desc: Open-source desktop operating system in the browser with personal cloud storage.
+    type: open-source
+    github: HeyPuter/puter
+    added: 2026-11-02
