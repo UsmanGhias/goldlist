@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 366,
+  "total": 371,
   "categories": [
     {
       "slug": "jobs",
@@ -1242,6 +1242,15 @@
           "gold": false,
           "github": "thedaviddias/Front-End-Checklist",
           "added": "2026-11-01"
+        },
+        {
+          "name": "Open Source iOS Apps",
+          "url": "https://github.com/dkhamsing/open-source-ios-apps",
+          "description": "Collaborative catalog of open-source iOS applications across various frameworks.",
+          "type": "open-source",
+          "gold": false,
+          "github": "dkhamsing/open-source-ios-apps",
+          "added": "2026-11-02"
         }
       ]
     },
@@ -1494,6 +1503,15 @@
           "gold": false,
           "github": null,
           "added": "2026-10-28"
+        },
+        {
+          "name": "Free LLM API",
+          "url": "https://freellmapi.co",
+          "description": "Curated index of 34 free LLM providers and quota-free API endpoints.",
+          "type": "free",
+          "gold": false,
+          "github": "tashfeenahmed/freellmapi",
+          "added": "2026-11-02"
         }
       ]
     },
@@ -1746,6 +1764,24 @@
           "gold": false,
           "github": "asgeirtj/system_prompts_leaks",
           "added": "2026-11-01"
+        },
+        {
+          "name": "Free Claude Code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "description": "Setup and routing guide to use Claude Code and agent CLIs with free token providers.",
+          "type": "free",
+          "gold": false,
+          "github": "Alishahryar1/free-claude-code",
+          "added": "2026-11-02"
+        },
+        {
+          "name": "Open Code Review",
+          "url": "https://open-codereview.ai",
+          "description": "Automated code review engine that inspects pull requests for security and quality.",
+          "type": "open-source",
+          "gold": false,
+          "github": "alibaba/open-code-review",
+          "added": "2026-11-02"
         }
       ]
     },
@@ -2844,6 +2880,15 @@
           "gold": false,
           "github": "nextcloud/server",
           "added": "2026-10-28"
+        },
+        {
+          "name": "Puter",
+          "url": "https://puter.com",
+          "description": "Open-source desktop operating system in the browser with personal cloud storage.",
+          "type": "open-source",
+          "gold": false,
+          "github": "HeyPuter/puter",
+          "added": "2026-11-02"
         }
       ]
     },

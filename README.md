@@ -11,13 +11,13 @@
 <h3>Only the gold. Everything else is noise.</h3>
 
 <p>
-  <b>366 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
+  <b>371 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
   learning, building products, and staying secure. Sorted across 16 categories and verified every week.
 </p>
 
-[![Entries](https://img.shields.io/badge/entries-366-d4af37?style=flat-square&labelColor=24292f)](#contents)
+[![Entries](https://img.shields.io/badge/entries-371-d4af37?style=flat-square&labelColor=24292f)](#contents)
 [![Gold picks](https://img.shields.io/badge/gold_picks-50-d4af37?style=flat-square&labelColor=24292f)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-241-2ea44f?style=flat-square&labelColor=24292f)](#contents)
+[![Open source](https://img.shields.io/badge/open_source-244-2ea44f?style=flat-square&labelColor=24292f)](#contents)
 [![Web Directory](https://img.shields.io/badge/web_directory-live-d4af37?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=24292f)](https://usmanghias.github.io/goldlist/)
 [![Weekly Check](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square&labelColor=24292f)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
 [![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=24292f&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
@@ -29,9 +29,9 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>366</h3><sub>verified resources</sub></td>
+<td align="center" width="25%"><h3>371</h3><sub>verified resources</sub></td>
 <td align="center" width="25%"><h3>16</h3><sub>curated topics</sub></td>
-<td align="center" width="25%"><h3>241</h3><sub>open-source repos</sub></td>
+<td align="center" width="25%"><h3>244</h3><sub>open-source repos</sub></td>
 <td align="center" width="25%"><h3>50</h3><sub>elite gold picks</sub></td>
 </tr>
 </table>
@@ -42,7 +42,7 @@
 
 <br><br>
 
-**[🔎 Search &amp; filter all 366 resources on the live website →](https://usmanghias.github.io/goldlist/)**
+**[🔎 Search &amp; filter all 371 resources on the live website →](https://usmanghias.github.io/goldlist/)**
 
 <sub>⭐ <b>Star this repository</b> to keep it one click away. Updated weekly.</sub>
 
@@ -425,16 +425,16 @@ The best of the best. If you only open a few links today, make it these.
 
 ## 🆕 Recently Added
 
+- **[Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)**: Collaborative catalog of open-source iOS applications across various frameworks. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-02</sub>
+- **[Free LLM API](https://freellmapi.co)**: Curated index of 34 free LLM providers and quota-free API endpoints. <sub>[🤖 AI Tools](#ai-tools) · 2026-11-02</sub>
+- **[Free Claude Code](https://github.com/Alishahryar1/free-claude-code)**: Setup and routing guide to use Claude Code and agent CLIs with free token providers. <sub>[🧠 AI Coding](#ai-coding) · 2026-11-02</sub>
+- **[Open Code Review](https://open-codereview.ai)**: Automated code review engine that inspects pull requests for security and quality. <sub>[🧠 AI Coding](#ai-coding) · 2026-11-02</sub>
+- **[Puter](https://puter.com)**: Open-source desktop operating system in the browser with personal cloud storage. <sub>[⚡ Productivity](#productivity) · 2026-11-02</sub>
 - **[FreeDomain](https://dashboard.digitalplat.org)**: Guide and directory for free domain registration and hands-on DNS configuration. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-01</sub>
 - **[Front-End Checklist](https://frontendchecklist.io)**: Comprehensive checklist of HTML, CSS, performance, and accessibility best practices. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-01</sub>
 - **[OmniRoute](https://www.omniroute.online/)**: MIT-licensed unified AI proxy routing requests across 375 model providers. <sub>[🧠 AI Coding](#ai-coding) · 2026-11-01</sub>
 - **[System Prompts Leaks](https://github.com/asgeirtj/system_prompts_leaks)**: Documented system prompts from Anthropic Claude, OpenAI ChatGPT, Gemini, and Cursor. <sub>[🧠 AI Coding](#ai-coding) · 2026-11-01</sub>
 - **[Agent Reach](https://github.com/Panniantong/Agent-Reach)**: Toolkit giving AI coding agents web and social scraping capabilities. <sub>[🧩 Skills](#agent-skills) · 2026-11-01</sub>
-- **[WorldMonitor](https://worldmonitor.app)**: Real-time global intelligence dashboard with AI news aggregation and OSINT monitoring. <sub>[🔌 MCP](#mcp) · 2026-11-01</sub>
-- **[OpenCut](https://github.com/OpenCut-app/OpenCut)**: Open-source CapCut alternative for video editing and timeline composition. <sub>[🎬 Media](#media) · 2026-11-01</sub>
-- **[OpenMontage](https://www.openmontage.video/)**: Open-source video production pipeline coordinating TTS, image generation, and FFmpeg. <sub>[🎬 Media](#media) · 2026-11-01</sub>
-- **[RuView](https://Cognitum.One/RuView)**: Turns commodity WiFi signals into real-time spatial intelligence and presence detection. <sub>[🔒 Privacy](#privacy-security) · 2026-11-01</sub>
-- **[Strix](https://www.strix.ai/)**: Open-source autonomous AI penetration testing tool that finds application vulnerabilities. <sub>[🔒 Privacy](#privacy-security) · 2026-11-01</sub>
 
 <a id="contents"></a>
 
@@ -447,14 +447,14 @@ The best of the best. If you only open a few links today, make it these.
 | 🎓 | **[Scholarships & Research Funding](#scholarships)** | Funded master's, PhDs and fellowships, so you can study without paying for it. | 22 |
 | 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 29 |
 | 🧑‍🎓 | **[Students & Programs](#students)** | Free licenses, credits and paid programs available only while you're a student or newcomer. | 16 |
-| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 31 |
-| 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 27 |
-| 🧠 | **[AI Coding Agents & Tools](#ai-coding)** | Terminal coding agents, spec-driven workflows and the tools that make Claude Code better. | 27 |
+| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 32 |
+| 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 28 |
+| 🧠 | **[AI Coding Agents & Tools](#ai-coding)** | Terminal coding agents, spec-driven workflows and the tools that make Claude Code better. | 29 |
 | 🧩 | **[Claude & Agent Skills](#agent-skills)** | Drop-in skills and plugins that give Claude Code, Codex, Gemini CLI and Antigravity new abilities. | 29 |
 | 🔌 | **[MCP Servers](#mcp)** | Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases. | 21 |
 | 🎨 | **[Design & UI](#design)** | Icons, fonts, photos and design tools that look premium and cost nothing. | 25 |
 | 🎬 | **[Video, Audio & Media](#media)** | Studio-grade editing, recording and stock media at zero cost. | 21 |
-| ⚡ | **[Productivity & Everyday Apps](#productivity)** | Notes, office apps and utilities, mostly open-source alternatives to paid apps. | 21 |
+| ⚡ | **[Productivity & Everyday Apps](#productivity)** | Notes, office apps and utilities, mostly open-source alternatives to paid apps. | 22 |
 | 🔬 | **[Research & Writing](#research)** | Find papers, manage references and write better, for students and researchers. | 18 |
 | 🚀 | **[Startups & Business](#startups)** | Launch and run a product, with free credits, analytics, CRM and support tools. | 19 |
 | 🔒 | **[Privacy & Security](#privacy-security)** | Protect your accounts, data and devices, and learn security hands-on. | 26 |
@@ -629,7 +629,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🛠️ Developer Tools & Free Tiers
 
 > Build, host and ship without a credit card.<br>
-> <sub>31 picks · 4 gold</sub>
+> <sub>32 picks · 4 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -664,6 +664,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=www.netlify.com&sz=64" width="20" height="20"> | **[Netlify](https://www.netlify.com)** | Deploy static sites and serverless functions with a generous free plan. | ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=dashboard.digitalplat.org&sz=64" width="20" height="20"> | **[FreeDomain](https://dashboard.digitalplat.org)** | Guide and directory for free domain registration and hands-on DNS configuration. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/DigitalPlatDev/FreeDomain?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/DigitalPlatDev/FreeDomain) |
 | <img src="https://www.google.com/s2/favicons?domain=frontendchecklist.io&sz=64" width="20" height="20"> | **[Front-End Checklist](https://frontendchecklist.io)** | Comprehensive checklist of HTML, CSS, performance, and accessibility best practices. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/thedaviddias/Front-End-Checklist?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/thedaviddias/Front-End-Checklist) |
+| <img src="https://github.com/dkhamsing.png?size=64" width="20" height="20"> | **[Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)** | Collaborative catalog of open-source iOS applications across various frameworks. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/dkhamsing/open-source-ios-apps?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/dkhamsing/open-source-ios-apps) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -672,7 +673,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🤖 AI Tools & Models
 
 > Run models locally, build AI apps and automate your work.<br>
-> <sub>27 picks · 4 gold</sub>
+> <sub>28 picks · 4 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -703,6 +704,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/microsoft.png?size=64" width="20" height="20"> | **[MarkItDown](https://github.com/microsoft/markitdown)** 🏆 | Convert PDFs, Office files and more to Markdown for LLMs. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/microsoft/markitdown?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/microsoft/markitdown) |
 | <img src="https://www.google.com/s2/favicons?domain=lobehub.com&sz=64" width="20" height="20"> | **[LobeHub](https://lobehub.com)** | Open-source AI workspace for chats and teams of agents across many model providers. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/lobehub/lobehub) |
 | <img src="https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64" width="20" height="20"> | **[OpenRouter](https://openrouter.ai)** | One API for hundreds of models, including many free ones. | ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=freellmapi.co&sz=64" width="20" height="20"> | **[Free LLM API](https://freellmapi.co)** | Curated index of 34 free LLM providers and quota-free API endpoints. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/tashfeenahmed/freellmapi?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/tashfeenahmed/freellmapi) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -711,7 +713,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🧠 AI Coding Agents & Tools
 
 > Terminal coding agents, spec-driven workflows and the tools that make Claude Code better.<br>
-> <sub>27 picks · 3 gold</sub>
+> <sub>29 picks · 3 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -742,6 +744,8 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/anthropics.png?size=64" width="20" height="20"> | **[Claude Code Action](https://github.com/anthropics/claude-code-action)** | Run Claude Code in GitHub Actions to review PRs and fix issues. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-code-action?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/anthropics/claude-code-action) |
 | <img src="https://www.google.com/s2/favicons?domain=www.omniroute.online&sz=64" width="20" height="20"> | **[OmniRoute](https://www.omniroute.online/)** | MIT-licensed unified AI proxy routing requests across 375 model providers. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/cheaper-inference/OmniRoute?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/cheaper-inference/OmniRoute) |
 | <img src="https://github.com/asgeirtj.png?size=64" width="20" height="20"> | **[System Prompts Leaks](https://github.com/asgeirtj/system_prompts_leaks)** | Documented system prompts from Anthropic Claude, OpenAI ChatGPT, Gemini, and Cursor. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/asgeirtj/system_prompts_leaks?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/asgeirtj/system_prompts_leaks) |
+| <img src="https://github.com/Alishahryar1.png?size=64" width="20" height="20"> | **[Free Claude Code](https://github.com/Alishahryar1/free-claude-code)** | Setup and routing guide to use Claude Code and agent CLIs with free token providers. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/Alishahryar1/free-claude-code?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/Alishahryar1/free-claude-code) |
+| <img src="https://www.google.com/s2/favicons?domain=open-codereview.ai&sz=64" width="20" height="20"> | **[Open Code Review](https://open-codereview.ai)** | Automated code review engine that inspects pull requests for security and quality. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/alibaba/open-code-review?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/alibaba/open-code-review) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -894,7 +898,7 @@ The best of the best. If you only open a few links today, make it these.
 ## ⚡ Productivity & Everyday Apps
 
 > Notes, office apps and utilities, mostly open-source alternatives to paid apps.<br>
-> <sub>21 picks · 3 gold</sub>
+> <sub>22 picks · 3 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -919,6 +923,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=www.raycast.com&sz=64" width="20" height="20"> | **[Raycast](https://www.raycast.com)** | Fast launcher for Mac with extensions, clipboard history and snippets. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=www.voidtools.com&sz=64" width="20" height="20"> | **[Everything](https://www.voidtools.com)** | Find any file on Windows instantly by name. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=nextcloud.com&sz=64" width="20" height="20"> | **[Nextcloud](https://nextcloud.com)** | Self-hosted cloud for files, calendar, contacts and office. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/nextcloud/server) |
+| <img src="https://www.google.com/s2/favicons?domain=puter.com&sz=64" width="20" height="20"> | **[Puter](https://puter.com)** | Open-source desktop operating system in the browser with personal cloud storage. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/HeyPuter/puter?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/HeyPuter/puter) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
