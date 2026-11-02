@@ -117,3 +117,9 @@ items:
     type: open-source
     github: HeyPuter/puter
     added: 2026-11-02
+  - name: Calibre
+    url: https://calibre-ebook.com
+    desc: Manage, convert and read your entire ebook library, and sync it to any e-reader.
+    type: open-source
+    github: kovidgoyal/calibre
+    added: 2026-10-27

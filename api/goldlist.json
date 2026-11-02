@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 371,
+  "total": 373,
   "categories": [
     {
       "slug": "jobs",
@@ -801,6 +801,15 @@
           "gold": false,
           "github": "anthropics/claude-cookbooks",
           "added": "2026-10-28"
+        },
+        {
+          "name": "Anki",
+          "url": "https://apps.ankiweb.net",
+          "description": "Spaced-repetition flashcards that make anything you learn stick, synced across devices.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ankitects/anki",
+          "added": "2026-10-27"
         }
       ]
     },
@@ -2889,6 +2898,15 @@
           "gold": false,
           "github": "HeyPuter/puter",
           "added": "2026-11-02"
+        },
+        {
+          "name": "Calibre",
+          "url": "https://calibre-ebook.com",
+          "description": "Manage, convert and read your entire ebook library, and sync it to any e-reader.",
+          "type": "open-source",
+          "gold": false,
+          "github": "kovidgoyal/calibre",
+          "added": "2026-10-27"
         }
       ]
     },

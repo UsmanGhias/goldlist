@@ -11,13 +11,13 @@
 <h3>Only the gold. Everything else is noise.</h3>
 
 <p>
-  <b>371 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
+  <b>373 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
   learning, building products, and staying secure. Sorted across 16 categories and verified every week.
 </p>
 
-[![Entries](https://img.shields.io/badge/entries-371-d4af37?style=flat-square&labelColor=24292f)](#contents)
+[![Entries](https://img.shields.io/badge/entries-373-d4af37?style=flat-square&labelColor=24292f)](#contents)
 [![Gold picks](https://img.shields.io/badge/gold_picks-50-d4af37?style=flat-square&labelColor=24292f)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-244-2ea44f?style=flat-square&labelColor=24292f)](#contents)
+[![Open source](https://img.shields.io/badge/open_source-246-2ea44f?style=flat-square&labelColor=24292f)](#contents)
 [![Web Directory](https://img.shields.io/badge/web_directory-live-d4af37?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=24292f)](https://usmanghias.github.io/goldlist/)
 [![Weekly Check](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square&labelColor=24292f)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
 [![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=24292f&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
@@ -29,9 +29,9 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>371</h3><sub>verified resources</sub></td>
+<td align="center" width="25%"><h3>373</h3><sub>verified resources</sub></td>
 <td align="center" width="25%"><h3>16</h3><sub>curated topics</sub></td>
-<td align="center" width="25%"><h3>244</h3><sub>open-source repos</sub></td>
+<td align="center" width="25%"><h3>246</h3><sub>open-source repos</sub></td>
 <td align="center" width="25%"><h3>50</h3><sub>elite gold picks</sub></td>
 </tr>
 </table>
@@ -42,7 +42,7 @@
 
 <br><br>
 
-**[🔎 Search &amp; filter all 371 resources on the live website →](https://usmanghias.github.io/goldlist/)**
+**[🔎 Search &amp; filter all 373 resources on the live website →](https://usmanghias.github.io/goldlist/)**
 
 <sub>⭐ <b>Star this repository</b> to keep it one click away. Updated weekly.</sub>
 
@@ -445,7 +445,7 @@ The best of the best. If you only open a few links today, make it these.
 | 💼 | **[Jobs & Freelancing](#jobs)** | Where real openings get posted first, from remote boards to curated GitHub lists. | 19 |
 | 🧭 | **[Career & Interviews](#career)** | Resumes, interview prep and salary data to land the offer and negotiate it. | 15 |
 | 🎓 | **[Scholarships & Research Funding](#scholarships)** | Funded master's, PhDs and fellowships, so you can study without paying for it. | 22 |
-| 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 29 |
+| 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 30 |
 | 🧑‍🎓 | **[Students & Programs](#students)** | Free licenses, credits and paid programs available only while you're a student or newcomer. | 16 |
 | 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 32 |
 | 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 28 |
@@ -454,7 +454,7 @@ The best of the best. If you only open a few links today, make it these.
 | 🔌 | **[MCP Servers](#mcp)** | Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases. | 21 |
 | 🎨 | **[Design & UI](#design)** | Icons, fonts, photos and design tools that look premium and cost nothing. | 25 |
 | 🎬 | **[Video, Audio & Media](#media)** | Studio-grade editing, recording and stock media at zero cost. | 21 |
-| ⚡ | **[Productivity & Everyday Apps](#productivity)** | Notes, office apps and utilities, mostly open-source alternatives to paid apps. | 22 |
+| ⚡ | **[Productivity & Everyday Apps](#productivity)** | Notes, office apps and utilities, mostly open-source alternatives to paid apps. | 23 |
 | 🔬 | **[Research & Writing](#research)** | Find papers, manage references and write better, for students and researchers. | 18 |
 | 🚀 | **[Startups & Business](#startups)** | Launch and run a product, with free credits, analytics, CRM and support tools. | 19 |
 | 🔒 | **[Privacy & Security](#privacy-security)** | Protect your accounts, data and devices, and learn security hands-on. | 26 |
@@ -560,7 +560,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 📚 Learning & Courses
 
 > Free courses and books that are as good as paid ones, often better.<br>
-> <sub>29 picks · 5 gold</sub>
+> <sub>30 picks · 5 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -593,6 +593,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=teachyourselfcs.com&sz=64" width="20" height="20"> | **[Teach Yourself CS](https://teachyourselfcs.com)** | The best books and lectures to learn computer science on your own. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=www.promptingguide.ai&sz=64" width="20" height="20"> | **[Prompt Engineering Guide](https://www.promptingguide.ai)** | Guides, papers and techniques for prompting LLMs and agents. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/dair-ai/Prompt-Engineering-Guide?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/dair-ai/Prompt-Engineering-Guide) |
 | <img src="https://github.com/anthropics.png?size=64" width="20" height="20"> | **[Claude Cookbooks](https://github.com/anthropics/claude-cookbooks)** | Copy-ready notebooks for building with Claude. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/anthropics/claude-cookbooks?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/anthropics/claude-cookbooks) |
+| <img src="https://www.google.com/s2/favicons?domain=apps.ankiweb.net&sz=64" width="20" height="20"> | **[Anki](https://apps.ankiweb.net)** | Spaced-repetition flashcards that make anything you learn stick, synced across devices. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ankitects/anki?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ankitects/anki) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -898,7 +899,7 @@ The best of the best. If you only open a few links today, make it these.
 ## ⚡ Productivity & Everyday Apps
 
 > Notes, office apps and utilities, mostly open-source alternatives to paid apps.<br>
-> <sub>22 picks · 3 gold</sub>
+> <sub>23 picks · 3 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -924,6 +925,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=www.voidtools.com&sz=64" width="20" height="20"> | **[Everything](https://www.voidtools.com)** | Find any file on Windows instantly by name. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=nextcloud.com&sz=64" width="20" height="20"> | **[Nextcloud](https://nextcloud.com)** | Self-hosted cloud for files, calendar, contacts and office. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/nextcloud/server) |
 | <img src="https://www.google.com/s2/favicons?domain=puter.com&sz=64" width="20" height="20"> | **[Puter](https://puter.com)** | Open-source desktop operating system in the browser with personal cloud storage. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/HeyPuter/puter?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/HeyPuter/puter) |
+| <img src="https://www.google.com/s2/favicons?domain=calibre-ebook.com&sz=64" width="20" height="20"> | **[Calibre](https://calibre-ebook.com)** | Manage, convert and read your entire ebook library, and sync it to any e-reader. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/kovidgoyal/calibre?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/kovidgoyal/calibre) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 

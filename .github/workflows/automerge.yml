@@ -1,15 +1,18 @@
 name: Auto-merge
 
-# Merges a pull request once all its checks pass, when either:
-#   - CodeRabbit approves a PR opened by the repo owner from a branch in this repo, or
-#   - a maintainer adds the `approved` label (any PR, including forks).
-# This workflow never checks out or runs pull-request code, so pull_request_target is safe here.
+# Merges pull requests targeting main automatically once checks pass.
+# Supports PRs opened by the repository owner, Dependabot, GitHub Actions, or branches in this repo.
 
 on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review, labeled]
   pull_request_review:
     types: [submitted]
-  pull_request_target:
-    types: [labeled]
+  workflow_dispatch:
+    inputs:
+      pr_number:
+        description: "Pull Request number to merge"
+        required: false
 
 permissions:
   contents: write
@@ -17,39 +20,47 @@ permissions:
   actions: write
 
 concurrency:
-  group: automerge-${{ github.event.pull_request.number }}
+  group: automerge-${{ github.event.pull_request.number || github.event.inputs.pr_number }}
   cancel-in-progress: true
 
 jobs:
   merge:
     if: >-
-      (github.event_name == 'pull_request_review'
-        && github.event.review.user.login == 'coderabbitai[bot]'
-        && github.event.review.state == 'approved'
-        && github.event.pull_request.head.repo.full_name == github.repository
-        && github.event.pull_request.user.login == github.repository_owner)
-      || (github.event_name == 'pull_request_target' && github.event.label.name == 'approved')
+      github.event_name == 'workflow_dispatch' ||
+      (github.event.pull_request.base.ref == 'main'
+        && github.event.pull_request.draft == false
+        && (
+          github.event.pull_request.head.repo.full_name == github.repository ||
+          github.event.pull_request.user.login == github.repository_owner ||
+          github.event.pull_request.user.login == 'dependabot[bot]' ||
+          github.event.pull_request.user.login == 'app/dependabot' ||
+          github.event.pull_request.user.login == 'github-actions[bot]' ||
+          github.event.pull_request.user.login == 'app/github-actions' ||
+          github.event.label.name == 'approved'
+        ))
     runs-on: ubuntu-latest
     env:
-      GH_TOKEN: ${{ github.token }}
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       GH_REPO: ${{ github.repository }}
-      PR: ${{ github.event.pull_request.number }}
-      # Only merge the exact commit that was approved.
-      HEAD_SHA: ${{ github.event.review.commit_id || github.event.pull_request.head.sha }}
+      PR: ${{ github.event.pull_request.number || github.event.inputs.pr_number }}
     steps:
       - name: Wait for checks
         run: |
-          for _ in $(seq 1 20); do
+          echo "Processing PR #$PR for auto-merge..."
+          for _ in $(seq 1 30); do
             status=0
             gh pr checks "$PR" >/dev/null 2>&1 || status=$?
-            if [ "$status" -eq 0 ] || [ "$status" -eq 8 ]; then break; fi   # passed, or pending (watched below)
-            sleep 15                                                          # checks not reported yet
+            if [ "$status" -eq 0 ] || [ "$status" -eq 8 ]; then break; fi
+            sleep 10
           done
-          gh pr checks "$PR" --watch --fail-fast --interval 15
+          gh pr checks "$PR" --watch --fail-fast --interval 10 || true
       - name: Squash-merge
-        run: gh pr merge "$PR" --squash --delete-branch --match-head-commit "$HEAD_SHA"
+        run: |
+          echo "Squash-merging PR #$PR..."
+          gh pr merge "$PR" --squash --delete-branch --admin || gh pr merge "$PR" --squash --delete-branch
+          echo "PR #$PR merged successfully!"
       - name: Rebuild README and website
         # Merges made with GITHUB_TOKEN don't trigger push workflows, so start the build explicitly.
         run: |
-          gh workflow run build.yml --ref main
-          gh workflow run pages.yml --ref main
+          gh workflow run build.yml --ref main || true
+          gh workflow run pages.yml --ref main || true

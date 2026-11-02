@@ -14,23 +14,28 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  actions: write
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           ref: main
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
       - name: Install dependencies
         run: pip install pyyaml
-      - name: Sync starred repos and open PR
+      - name: Sync starred repos, open PR, and auto-merge
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           python scripts/sync_starred.py --limit ${{ github.event.inputs.limit || '5' }} --create-pr
+      - name: Rebuild README and website
+        run: |
+          gh workflow run build.yml --ref main || true
+          gh workflow run pages.yml --ref main || true

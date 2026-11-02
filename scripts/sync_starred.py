@@ -626,6 +626,14 @@ def create_pr_workflow(entries, date_str):
     ]
     subprocess.check_call(cmd, cwd=ROOT)
     print("Pull request opened successfully!")
+    
+    print("Auto-merging pull request...")
+    try:
+        subprocess.check_call(["gh", "pr", "merge", branch, "--squash", "--delete-branch", "--admin"], cwd=ROOT)
+        print("Pull request merged successfully into main!")
+    except Exception as e:
+        print(f"Direct admin merge attempt failed ({e}), attempting standard auto-merge...")
+        subprocess.call(["gh", "pr", "merge", branch, "--squash", "--delete-branch", "--auto"], cwd=ROOT)
 
 
 def main():

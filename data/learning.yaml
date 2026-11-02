@@ -149,3 +149,9 @@ items:
     type: open-source
     github: anthropics/claude-cookbooks
     added: 2026-10-28
+  - name: Anki
+    url: https://apps.ankiweb.net
+    desc: Spaced-repetition flashcards that make anything you learn stick, synced across devices.
+    type: open-source
+    github: ankitects/anki
+    added: 2026-10-27
