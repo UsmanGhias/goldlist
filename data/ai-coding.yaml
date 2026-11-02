@@ -147,3 +147,14 @@ items:
     desc: Documented system prompts from Anthropic Claude, OpenAI ChatGPT, Gemini, and Cursor.
     type: free
     added: 2026-11-01
+  - name: Free Claude Code
+    url: https://github.com/Alishahryar1/free-claude-code
+    desc: Setup and routing guide to use Claude Code and agent CLIs with free token providers.
+    type: free
+    added: 2026-11-02
+  - name: Open Code Review
+    url: https://open-codereview.ai
+    desc: Automated code review engine that inspects pull requests for security and quality.
+    type: open-source
+    github: alibaba/open-code-review
+    added: 2026-11-02

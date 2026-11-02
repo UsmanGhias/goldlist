@@ -165,3 +165,8 @@ items:
     type: open-source
     github: thedaviddias/Front-End-Checklist
     added: 2026-11-01
+  - name: Open Source iOS Apps
+    url: https://github.com/dkhamsing/open-source-ios-apps
+    desc: Collaborative catalog of open-source iOS applications across various frameworks.
+    type: open-source
+    added: 2026-11-02

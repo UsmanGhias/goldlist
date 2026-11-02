@@ -141,3 +141,9 @@ items:
     desc: One API for hundreds of models, including many free ones.
     type: free-tier
     added: 2026-10-28
+  - name: Free LLM API
+    url: https://freellmapi.co
+    desc: Curated index of 34 free LLM providers and quota-free API endpoints.
+    type: free
+    github: tashfeenahmed/freellmapi
+    added: 2026-11-02
