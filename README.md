@@ -11,13 +11,13 @@
 <h3>Only the gold. Everything else is noise.</h3>
 
 <p>
-  <b>373 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
+  <b>378 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
   learning, building products, and staying secure. Sorted across 16 categories and verified every week.
 </p>
 
-[![Entries](https://img.shields.io/badge/entries-373-d4af37?style=flat-square&labelColor=24292f)](#contents)
+[![Entries](https://img.shields.io/badge/entries-378-d4af37?style=flat-square&labelColor=24292f)](#contents)
 [![Gold picks](https://img.shields.io/badge/gold_picks-50-d4af37?style=flat-square&labelColor=24292f)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-246-2ea44f?style=flat-square&labelColor=24292f)](#contents)
+[![Open source](https://img.shields.io/badge/open_source-250-2ea44f?style=flat-square&labelColor=24292f)](#contents)
 [![Web Directory](https://img.shields.io/badge/web_directory-live-d4af37?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=24292f)](https://usmanghias.github.io/goldlist/)
 [![Weekly Check](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square&labelColor=24292f)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
 [![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=24292f&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
@@ -29,9 +29,9 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>373</h3><sub>verified resources</sub></td>
+<td align="center" width="25%"><h3>378</h3><sub>verified resources</sub></td>
 <td align="center" width="25%"><h3>16</h3><sub>curated topics</sub></td>
-<td align="center" width="25%"><h3>246</h3><sub>open-source repos</sub></td>
+<td align="center" width="25%"><h3>250</h3><sub>open-source repos</sub></td>
 <td align="center" width="25%"><h3>50</h3><sub>elite gold picks</sub></td>
 </tr>
 </table>
@@ -42,7 +42,7 @@
 
 <br><br>
 
-**[🔎 Search &amp; filter all 373 resources on the live website →](https://usmanghias.github.io/goldlist/)**
+**[🔎 Search &amp; filter all 378 resources on the live website →](https://usmanghias.github.io/goldlist/)**
 
 <sub>⭐ <b>Star this repository</b> to keep it one click away. Updated weekly.</sub>
 
@@ -425,16 +425,16 @@ The best of the best. If you only open a few links today, make it these.
 
 ## 🆕 Recently Added
 
+- **[OpenHuman](https://tinyhumans.ai/openhuman)**: Lightweight and fast open-source agent harness designed for autonomous task execution. <sub>[🤖 AI Tools](#ai-tools) · 2026-11-03</sub>
+- **[AirLLM](https://github.com/lyogavin/airllm)**: Runs 70B+ LLM inference locally on single desktop GPUs with layer-wise memory swapping. <sub>[🤖 AI Tools](#ai-tools) · 2026-11-03</sub>
+- **[Khoj](https://khoj.dev)**: Self-hostable desktop AI personal assistant that searches across your notes and docs. <sub>[🤖 AI Tools](#ai-tools) · 2026-11-03</sub>
+- **[500 Ai Machine Learning Deep Learning Computer Vision Nlp Projects With Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)**: 500 AI Machine learning Deep learning Computer vision NLP Projects with code. <sub>[🤖 AI Tools](#ai-tools) · 2026-11-03</sub>
+- **[Maigret](https://maigret.app/gh)**: OSINT investigation tool that collects dossiers on usernames across 6,000 websites. <sub>[🔒 Privacy](#privacy-security) · 2026-11-03</sub>
 - **[Open Source iOS Apps](https://github.com/dkhamsing/open-source-ios-apps)**: Collaborative catalog of open-source iOS applications across various frameworks. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-02</sub>
 - **[Free LLM API](https://freellmapi.co)**: Curated index of 34 free LLM providers and quota-free API endpoints. <sub>[🤖 AI Tools](#ai-tools) · 2026-11-02</sub>
 - **[Free Claude Code](https://github.com/Alishahryar1/free-claude-code)**: Setup and routing guide to use Claude Code and agent CLIs with free token providers. <sub>[🧠 AI Coding](#ai-coding) · 2026-11-02</sub>
 - **[Open Code Review](https://open-codereview.ai)**: Automated code review engine that inspects pull requests for security and quality. <sub>[🧠 AI Coding](#ai-coding) · 2026-11-02</sub>
 - **[Puter](https://puter.com)**: Open-source desktop operating system in the browser with personal cloud storage. <sub>[⚡ Productivity](#productivity) · 2026-11-02</sub>
-- **[FreeDomain](https://dashboard.digitalplat.org)**: Guide and directory for free domain registration and hands-on DNS configuration. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-01</sub>
-- **[Front-End Checklist](https://frontendchecklist.io)**: Comprehensive checklist of HTML, CSS, performance, and accessibility best practices. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-01</sub>
-- **[OmniRoute](https://www.omniroute.online/)**: MIT-licensed unified AI proxy routing requests across 375 model providers. <sub>[🧠 AI Coding](#ai-coding) · 2026-11-01</sub>
-- **[System Prompts Leaks](https://github.com/asgeirtj/system_prompts_leaks)**: Documented system prompts from Anthropic Claude, OpenAI ChatGPT, Gemini, and Cursor. <sub>[🧠 AI Coding](#ai-coding) · 2026-11-01</sub>
-- **[Agent Reach](https://github.com/Panniantong/Agent-Reach)**: Toolkit giving AI coding agents web and social scraping capabilities. <sub>[🧩 Skills](#agent-skills) · 2026-11-01</sub>
 
 <a id="contents"></a>
 
@@ -448,7 +448,7 @@ The best of the best. If you only open a few links today, make it these.
 | 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 30 |
 | 🧑‍🎓 | **[Students & Programs](#students)** | Free licenses, credits and paid programs available only while you're a student or newcomer. | 16 |
 | 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 32 |
-| 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 28 |
+| 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 32 |
 | 🧠 | **[AI Coding Agents & Tools](#ai-coding)** | Terminal coding agents, spec-driven workflows and the tools that make Claude Code better. | 29 |
 | 🧩 | **[Claude & Agent Skills](#agent-skills)** | Drop-in skills and plugins that give Claude Code, Codex, Gemini CLI and Antigravity new abilities. | 29 |
 | 🔌 | **[MCP Servers](#mcp)** | Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases. | 21 |
@@ -457,7 +457,7 @@ The best of the best. If you only open a few links today, make it these.
 | ⚡ | **[Productivity & Everyday Apps](#productivity)** | Notes, office apps and utilities, mostly open-source alternatives to paid apps. | 23 |
 | 🔬 | **[Research & Writing](#research)** | Find papers, manage references and write better, for students and researchers. | 18 |
 | 🚀 | **[Startups & Business](#startups)** | Launch and run a product, with free credits, analytics, CRM and support tools. | 19 |
-| 🔒 | **[Privacy & Security](#privacy-security)** | Protect your accounts, data and devices, and learn security hands-on. | 26 |
+| 🔒 | **[Privacy & Security](#privacy-security)** | Protect your accounts, data and devices, and learn security hands-on. | 27 |
 
 **Legend:** ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) source code is public · ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) free to use · ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) generous free tier, paid upgrades · 🏆 gold pick
 
@@ -674,7 +674,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🤖 AI Tools & Models
 
 > Run models locally, build AI apps and automate your work.<br>
-> <sub>28 picks · 4 gold</sub>
+> <sub>32 picks · 4 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -706,6 +706,10 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=lobehub.com&sz=64" width="20" height="20"> | **[LobeHub](https://lobehub.com)** | Open-source AI workspace for chats and teams of agents across many model providers. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/lobehub/lobehub?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/lobehub/lobehub) |
 | <img src="https://www.google.com/s2/favicons?domain=openrouter.ai&sz=64" width="20" height="20"> | **[OpenRouter](https://openrouter.ai)** | One API for hundreds of models, including many free ones. | ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=freellmapi.co&sz=64" width="20" height="20"> | **[Free LLM API](https://freellmapi.co)** | Curated index of 34 free LLM providers and quota-free API endpoints. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/tashfeenahmed/freellmapi?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/tashfeenahmed/freellmapi) |
+| <img src="https://www.google.com/s2/favicons?domain=tinyhumans.ai&sz=64" width="20" height="20"> | **[OpenHuman](https://tinyhumans.ai/openhuman)** | Lightweight and fast open-source agent harness designed for autonomous task execution. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/tinyhumansai/openhuman) |
+| <img src="https://github.com/lyogavin.png?size=64" width="20" height="20"> | **[AirLLM](https://github.com/lyogavin/airllm)** | Runs 70B+ LLM inference locally on single desktop GPUs with layer-wise memory swapping. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/lyogavin/airllm?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/lyogavin/airllm) |
+| <img src="https://www.google.com/s2/favicons?domain=khoj.dev&sz=64" width="20" height="20"> | **[Khoj](https://khoj.dev)** | Self-hostable desktop AI personal assistant that searches across your notes and docs. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/khoj-ai/khoj?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/khoj-ai/khoj) |
+| <img src="https://github.com/ashishpatel26.png?size=64" width="20" height="20"> | **[500 Ai Machine Learning Deep Learning Computer Vision Nlp Projects With Code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)** | 500 AI Machine learning Deep learning Computer vision NLP Projects with code. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -995,7 +999,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🔒 Privacy & Security
 
 > Protect your accounts, data and devices, and learn security hands-on.<br>
-> <sub>26 picks · 3 gold</sub>
+> <sub>27 picks · 3 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -1025,6 +1029,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/projectdiscovery.png?size=64" width="20" height="20"> | **[Nuclei](https://github.com/projectdiscovery/nuclei)** | Fast, template-based vulnerability scanner. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/nuclei?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/projectdiscovery/nuclei) |
 | <img src="https://www.google.com/s2/favicons?domain=Cognitum.One&sz=64" width="20" height="20"> | **[RuView](https://Cognitum.One/RuView)** | Turns commodity WiFi signals into real-time spatial intelligence and presence detection. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ruvnet/RuView?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ruvnet/RuView) |
 | <img src="https://www.google.com/s2/favicons?domain=www.strix.ai&sz=64" width="20" height="20"> | **[Strix](https://www.strix.ai/)** | Open-source autonomous AI penetration testing tool that finds application vulnerabilities. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/usestrix/strix?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/usestrix/strix) |
+| <img src="https://www.google.com/s2/favicons?domain=maigret.app&sz=64" width="20" height="20"> | **[Maigret](https://maigret.app/gh)** | OSINT investigation tool that collects dossiers on usernames across 6,000 websites. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/soxoj/maigret?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/soxoj/maigret) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 

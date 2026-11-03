@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 373,
+  "total": 378,
   "categories": [
     {
       "slug": "jobs",
@@ -1521,6 +1521,42 @@
           "gold": false,
           "github": "tashfeenahmed/freellmapi",
           "added": "2026-11-02"
+        },
+        {
+          "name": "OpenHuman",
+          "url": "https://tinyhumans.ai/openhuman",
+          "description": "Lightweight and fast open-source agent harness designed for autonomous task execution.",
+          "type": "open-source",
+          "gold": false,
+          "github": "tinyhumansai/openhuman",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "AirLLM",
+          "url": "https://github.com/lyogavin/airllm",
+          "description": "Runs 70B+ LLM inference locally on single desktop GPUs with layer-wise memory swapping.",
+          "type": "open-source",
+          "gold": false,
+          "github": "lyogavin/airllm",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "Khoj",
+          "url": "https://khoj.dev",
+          "description": "Self-hostable desktop AI personal assistant that searches across your notes and docs.",
+          "type": "open-source",
+          "gold": false,
+          "github": "khoj-ai/khoj",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "500 Ai Machine Learning Deep Learning Computer Vision Nlp Projects With Code",
+          "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+          "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code.",
+          "type": "free",
+          "gold": false,
+          "github": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+          "added": "2026-11-03"
         }
       ]
     },
@@ -3501,6 +3537,15 @@
           "gold": false,
           "github": "usestrix/strix",
           "added": "2026-11-01"
+        },
+        {
+          "name": "Maigret",
+          "url": "https://maigret.app/gh",
+          "description": "OSINT investigation tool that collects dossiers on usernames across 6,000 websites.",
+          "type": "open-source",
+          "gold": false,
+          "github": "soxoj/maigret",
+          "added": "2026-11-03"
         }
       ]
     }
