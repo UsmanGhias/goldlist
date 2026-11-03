@@ -21,6 +21,7 @@ DATA_DIR = ROOT / "data"
 TEMPLATE = ROOT / "templates" / "README.md.tpl"
 README = ROOT / "README.md"
 JSON_OUT = ROOT / "api" / "goldlist.json"
+SITE_JSON_OUT = ROOT / "site" / "goldlist.json"
 SUGGEST_FORM = ROOT / ".github" / "ISSUE_TEMPLATE" / "suggest.yml"
 
 REPO = "UsmanGhias/goldlist"
@@ -315,9 +316,11 @@ def render_suggest_form(categories):
 
 
 def generated_files(categories):
+    json_content = render_json(categories)
     return {
         README: render_readme(categories),
-        JSON_OUT: render_json(categories),
+        JSON_OUT: json_content,
+        SITE_JSON_OUT: json_content,
         SUGGEST_FORM: render_suggest_form(categories),
     }
 
