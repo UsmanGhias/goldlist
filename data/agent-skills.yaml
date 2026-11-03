@@ -147,3 +147,13 @@ items:
     desc: Toolkit giving AI coding agents web and social scraping capabilities.
     type: open-source
     added: 2026-11-01
+  - name: Impeccable
+    url: https://github.com/pbakaus/impeccable
+    desc: Design vocabulary and editorial polish skill for AI coding agents.
+    type: open-source
+    added: 2026-11-03
+  - name: Diagram Design
+    url: https://github.com/cathrynlavery/diagram-design
+    desc: Editorial diagram design skill for Claude Code, Codex, and GitHub Copilot.
+    type: open-source
+    added: 2026-11-03

@@ -141,3 +141,8 @@ items:
     type: open-source
     github: soxoj/maigret
     added: 2026-11-03
+  - name: CloakBrowser
+    url: https://github.com/CloakHQ/CloakBrowser
+    desc: Anti-detect Chromium browser engine built to pass advanced bot mitigation checks.
+    type: open-source
+    added: 2026-11-03

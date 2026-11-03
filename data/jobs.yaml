@@ -88,3 +88,8 @@ items:
     desc: Remote jobs pulled straight from company career pages.
     type: free
     added: 2026-10-28
+  - name: AI Job Search
+    url: https://github.com/ai-job-search-dev/ai-job-search
+    desc: Local-first AI agent framework that searches job boards and prepares applications.
+    type: open-source
+    added: 2026-11-03

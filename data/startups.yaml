@@ -104,3 +104,13 @@ items:
     desc: Free Azure credits and tools for early-stage founders.
     type: free
     added: 2026-10-28
+  - name: Ever Gauzy
+    url: https://github.com/ever-co/ever-gauzy
+    desc: Open-source enterprise business management platform with ERP, CRM, and HRM.
+    type: open-source
+    added: 2026-11-03
+  - name: Deskcomm CRM
+    url: https://github.com/melgarafael/DeskcommCRM
+    desc: Self-hosted AI sales OS and CRM with native multi-agent chat integrations.
+    type: open-source
+    added: 2026-11-03

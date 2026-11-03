@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 378,
+  "total": 401,
   "categories": [
     {
       "slug": "jobs",
@@ -180,6 +180,15 @@
           "gold": false,
           "github": null,
           "added": "2026-10-28"
+        },
+        {
+          "name": "AI Job Search",
+          "url": "https://github.com/ai-job-search-dev/ai-job-search",
+          "description": "Local-first AI agent framework that searches job boards and prepares applications.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ai-job-search-dev/ai-job-search",
+          "added": "2026-11-03"
         }
       ]
     },
@@ -1260,6 +1269,33 @@
           "gold": false,
           "github": "dkhamsing/open-source-ios-apps",
           "added": "2026-11-02"
+        },
+        {
+          "name": "Scrcpy",
+          "url": "https://github.com/Genymobile/scrcpy",
+          "description": "Display and control Android devices over USB or TCP/IP with high performance.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Genymobile/scrcpy",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "DBX",
+          "url": "https://github.com/t8y2/dbx",
+          "description": "25 MB lightweight cross-platform database client supporting 100+ database types.",
+          "type": "open-source",
+          "gold": false,
+          "github": "t8y2/dbx",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "Check If Email Exists",
+          "url": "https://github.com/reacherhq/check-if-email-exists",
+          "description": "Verify email address deliverability via SMTP handshake without sending an email.",
+          "type": "open-source",
+          "gold": false,
+          "github": "reacherhq/check-if-email-exists",
+          "added": "2026-11-03"
         }
       ]
     },
@@ -1827,6 +1863,51 @@
           "gold": false,
           "github": "alibaba/open-code-review",
           "added": "2026-11-02"
+        },
+        {
+          "name": "DeepSeek Harness",
+          "url": "https://github.com/deepseek-ai/deepseek-harness",
+          "description": "Modular agent execution harness and plugin framework for deep reasoning models.",
+          "type": "open-source",
+          "gold": false,
+          "github": "deepseek-ai/deepseek-harness",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "Open Code Review",
+          "url": "https://github.com/alibaba/open-code-review",
+          "description": "Hybrid automated code review engine pairing static rules with LLM agents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "alibaba/open-code-review",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "OpenViking",
+          "url": "https://github.com/volcengine/OpenViking",
+          "description": "Self-evolving context database and persistent memory engine for AI coding agents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "volcengine/OpenViking",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "AgentMemory",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "description": "Persistent memory framework for AI coding agents benchmarked against long contexts.",
+          "type": "open-source",
+          "gold": false,
+          "github": "rohitg00/agentmemory",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "FirstMate",
+          "url": "https://github.com/kunchenguid/firstmate",
+          "description": "Multi-agent autonomous shipping framework coordinating specialized coding subagents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "kunchenguid/firstmate",
+          "added": "2026-11-03"
         }
       ]
     },
@@ -2097,6 +2178,24 @@
           "gold": false,
           "github": "Panniantong/Agent-Reach",
           "added": "2026-11-01"
+        },
+        {
+          "name": "Impeccable",
+          "url": "https://github.com/pbakaus/impeccable",
+          "description": "Design vocabulary and editorial polish skill for AI coding agents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "pbakaus/impeccable",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "Diagram Design",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "description": "Editorial diagram design skill for Claude Code, Codex, and GitHub Copilot.",
+          "type": "open-source",
+          "gold": false,
+          "github": "cathrynlavery/diagram-design",
+          "added": "2026-11-03"
         }
       ]
     },
@@ -2727,6 +2826,42 @@
           "gold": false,
           "github": "calesthio/OpenMontage",
           "added": "2026-11-01"
+        },
+        {
+          "name": "Hyperframes",
+          "url": "https://github.com/heygen-com/hyperframes",
+          "description": "Write HTML, CSS, and SVG code to render programmatic video for agent workflows.",
+          "type": "open-source",
+          "gold": false,
+          "github": "heygen-com/hyperframes",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "AutoClip",
+          "url": "https://github.com/zhouxiaoka/autoclip",
+          "description": "Desktop AI tool that slices long podcasts and interviews into captioned short clips.",
+          "type": "open-source",
+          "gold": false,
+          "github": "zhouxiaoka/autoclip",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "DonkeyCut",
+          "url": "https://github.com/DonkeyCut/Donkey",
+          "description": "Open-source timeline video editor alternative to CapCut.",
+          "type": "open-source",
+          "gold": false,
+          "github": "DonkeyCut/Donkey",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "FreeTube",
+          "url": "https://github.com/FreeTubeApp/FreeTube",
+          "description": "Privacy-focused open-source desktop YouTube player with no tracking or telemetry.",
+          "type": "open-source",
+          "gold": false,
+          "github": "FreeTubeApp/FreeTube",
+          "added": "2026-11-03"
         }
       ]
     },
@@ -2943,6 +3078,51 @@
           "gold": false,
           "github": "kovidgoyal/calibre",
           "added": "2026-10-27"
+        },
+        {
+          "name": "RustDesk",
+          "url": "https://github.com/rustdesk/rustdesk",
+          "description": "Open-source virtual and remote desktop infrastructure with full self-hosting.",
+          "type": "open-source",
+          "gold": false,
+          "github": "rustdesk/rustdesk",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "Puter",
+          "url": "https://github.com/HeyPuter/puter",
+          "description": "Open-source browser desktop operating system with personal cloud storage.",
+          "type": "open-source",
+          "gold": false,
+          "github": "HeyPuter/puter",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "Meetily",
+          "url": "https://github.com/Zackriya-Solutions/meetily",
+          "description": "Local-first open-source AI meeting transcription and automated note taker.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Zackriya-Solutions/meetily",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "Documenso",
+          "url": "https://github.com/documenso/documenso",
+          "description": "Open-source digital signature alternative for document verification and signing.",
+          "type": "open-source",
+          "gold": false,
+          "github": "documenso/documenso",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "9Drive",
+          "url": "https://github.com/zenhosta/9drive",
+          "description": "Self-hosted storage gateway web application connecting multiple cloud drives.",
+          "type": "open-source",
+          "gold": false,
+          "github": "zenhosta/9drive",
+          "added": "2026-11-03"
         }
       ]
     },
@@ -3294,6 +3474,24 @@
           "gold": false,
           "github": null,
           "added": "2026-10-28"
+        },
+        {
+          "name": "Ever Gauzy",
+          "url": "https://github.com/ever-co/ever-gauzy",
+          "description": "Open-source enterprise business management platform with ERP, CRM, and HRM.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ever-co/ever-gauzy",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "Deskcomm CRM",
+          "url": "https://github.com/melgarafael/DeskcommCRM",
+          "description": "Self-hosted AI sales OS and CRM with native multi-agent chat integrations.",
+          "type": "open-source",
+          "gold": false,
+          "github": "melgarafael/DeskcommCRM",
+          "added": "2026-11-03"
         }
       ]
     },
@@ -3545,6 +3743,15 @@
           "type": "open-source",
           "gold": false,
           "github": "soxoj/maigret",
+          "added": "2026-11-03"
+        },
+        {
+          "name": "CloakBrowser",
+          "url": "https://github.com/CloakHQ/CloakBrowser",
+          "description": "Anti-detect Chromium browser engine built to pass advanced bot mitigation checks.",
+          "type": "open-source",
+          "gold": false,
+          "github": "CloakHQ/CloakBrowser",
           "added": "2026-11-03"
         }
       ]

@@ -113,3 +113,23 @@ items:
     type: open-source
     github: calesthio/OpenMontage
     added: 2026-11-01
+  - name: Hyperframes
+    url: https://github.com/heygen-com/hyperframes
+    desc: Write HTML, CSS, and SVG code to render programmatic video for agent workflows.
+    type: open-source
+    added: 2026-11-03
+  - name: AutoClip
+    url: https://github.com/zhouxiaoka/autoclip
+    desc: Desktop AI tool that slices long podcasts and interviews into captioned short clips.
+    type: open-source
+    added: 2026-11-03
+  - name: DonkeyCut
+    url: https://github.com/DonkeyCut/Donkey
+    desc: Open-source timeline video editor alternative to CapCut.
+    type: open-source
+    added: 2026-11-03
+  - name: FreeTube
+    url: https://github.com/FreeTubeApp/FreeTube
+    desc: Privacy-focused open-source desktop YouTube player with no tracking or telemetry.
+    type: open-source
+    added: 2026-11-03

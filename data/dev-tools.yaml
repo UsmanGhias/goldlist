@@ -170,3 +170,18 @@ items:
     desc: Collaborative catalog of open-source iOS applications across various frameworks.
     type: open-source
     added: 2026-11-02
+  - name: Scrcpy
+    url: https://github.com/Genymobile/scrcpy
+    desc: Display and control Android devices over USB or TCP/IP with high performance.
+    type: open-source
+    added: 2026-11-03
+  - name: DBX
+    url: https://github.com/t8y2/dbx
+    desc: 25 MB lightweight cross-platform database client supporting 100+ database types.
+    type: open-source
+    added: 2026-11-03
+  - name: Check If Email Exists
+    url: https://github.com/reacherhq/check-if-email-exists
+    desc: Verify email address deliverability via SMTP handshake without sending an email.
+    type: open-source
+    added: 2026-11-03

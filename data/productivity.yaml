@@ -123,3 +123,28 @@ items:
     type: open-source
     github: kovidgoyal/calibre
     added: 2026-10-27
+  - name: RustDesk
+    url: https://github.com/rustdesk/rustdesk
+    desc: Open-source virtual and remote desktop infrastructure with full self-hosting.
+    type: open-source
+    added: 2026-11-03
+  - name: Puter
+    url: https://github.com/HeyPuter/puter
+    desc: Open-source browser desktop operating system with personal cloud storage.
+    type: open-source
+    added: 2026-11-03
+  - name: Meetily
+    url: https://github.com/Zackriya-Solutions/meetily
+    desc: Local-first open-source AI meeting transcription and automated note taker.
+    type: open-source
+    added: 2026-11-03
+  - name: Documenso
+    url: https://github.com/documenso/documenso
+    desc: Open-source digital signature alternative for document verification and signing.
+    type: open-source
+    added: 2026-11-03
+  - name: 9Drive
+    url: https://github.com/zenhosta/9drive
+    desc: Self-hosted storage gateway web application connecting multiple cloud drives.
+    type: open-source
+    added: 2026-11-03

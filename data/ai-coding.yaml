@@ -158,3 +158,28 @@ items:
     type: open-source
     github: alibaba/open-code-review
     added: 2026-11-02
+  - name: DeepSeek Harness
+    url: https://github.com/deepseek-ai/deepseek-harness
+    desc: Modular agent execution harness and plugin framework for deep reasoning models.
+    type: open-source
+    added: 2026-11-03
+  - name: Open Code Review
+    url: https://github.com/alibaba/open-code-review
+    desc: Hybrid automated code review engine pairing static rules with LLM agents.
+    type: open-source
+    added: 2026-11-03
+  - name: OpenViking
+    url: https://github.com/volcengine/OpenViking
+    desc: Self-evolving context database and persistent memory engine for AI coding agents.
+    type: open-source
+    added: 2026-11-03
+  - name: AgentMemory
+    url: https://github.com/rohitg00/agentmemory
+    desc: Persistent memory framework for AI coding agents benchmarked against long contexts.
+    type: open-source
+    added: 2026-11-03
+  - name: FirstMate
+    url: https://github.com/kunchenguid/firstmate
+    desc: Multi-agent autonomous shipping framework coordinating specialized coding subagents.
+    type: open-source
+    added: 2026-11-03
