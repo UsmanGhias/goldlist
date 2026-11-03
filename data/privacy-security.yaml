@@ -135,3 +135,9 @@ items:
     type: open-source
     github: usestrix/strix
     added: 2026-11-01
+  - name: Maigret
+    url: https://maigret.app/gh
+    desc: OSINT investigation tool that collects dossiers on usernames across 6,000 websites.
+    type: open-source
+    github: soxoj/maigret
+    added: 2026-11-03

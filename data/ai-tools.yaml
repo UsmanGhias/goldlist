@@ -147,3 +147,25 @@ items:
     type: free
     github: tashfeenahmed/freellmapi
     added: 2026-11-02
+  - name: OpenHuman
+    url: https://tinyhumans.ai/openhuman
+    desc: Lightweight and fast open-source agent harness designed for autonomous task execution.
+    type: open-source
+    github: tinyhumansai/openhuman
+    added: 2026-11-03
+  - name: AirLLM
+    url: https://github.com/lyogavin/airllm
+    desc: Runs 70B+ LLM inference locally on single desktop GPUs with layer-wise memory swapping.
+    type: open-source
+    added: 2026-11-03
+  - name: Khoj
+    url: https://khoj.dev
+    desc: Self-hostable desktop AI personal assistant that searches across your notes and docs.
+    type: open-source
+    github: khoj-ai/khoj
+    added: 2026-11-03
+  - name: 500 Ai Machine Learning Deep Learning Computer Vision Nlp Projects With Code
+    url: https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+    desc: 500 AI Machine learning Deep learning Computer vision NLP Projects with code.
+    type: free
+    added: 2026-11-03
