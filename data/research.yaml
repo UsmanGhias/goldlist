@@ -4,91 +4,97 @@ emoji: 🔬
 order: 14
 description: Find papers, manage references and write better, for students and researchers.
 items:
-  - name: Zotero
-    url: https://www.zotero.org
-    desc: Collect, organize and cite research papers, with one-click capture from your browser.
-    type: open-source
-    github: zotero/zotero
-    gold: true
-  - name: Overleaf
-    url: https://www.overleaf.com
-    desc: Collaborative LaTeX editor in the browser for papers and theses.
-    type: free-tier
-    gold: true
-  - name: Typst
-    url: https://typst.app
-    desc: Modern typesetting system that's much easier to learn than LaTeX.
-    type: open-source
-    github: typst/typst
-  - name: arXiv
-    url: https://arxiv.org
-    desc: Open-access archive of preprints in CS, physics, maths and more.
-    type: free
-  - name: Semantic Scholar
-    url: https://www.semanticscholar.org
-    desc: AI-powered search engine for academic papers.
-    type: free
-  - name: Google Scholar
-    url: https://scholar.google.com
-    desc: Search scholarly literature and track citations.
-    type: free
-  - name: Connected Papers
-    url: https://www.connectedpapers.com
-    desc: Visual graph of papers related to the one you're reading.
-    type: free-tier
-  - name: Unpaywall
-    url: https://unpaywall.org
-    desc: Find legal, free versions of paywalled research papers.
-    type: free
-  - name: Elicit
-    url: https://elicit.com
-    desc: AI research assistant that finds papers and extracts key findings.
-    type: free-tier
-  - name: LanguageTool
-    url: https://languagetool.org
-    desc: Grammar and style checker for 30+ languages.
-    type: free-tier
-    github: languagetool-org/languagetool
-  - name: Hemingway Editor
-    url: https://hemingwayapp.com
-    desc: Highlights long, hard-to-read sentences so your writing gets clear and bold.
-    type: free
-  - name: ResearchRabbit
-    url: https://www.researchrabbit.ai
-    desc: Discover related papers and authors through citation maps.
-    type: free
-    added: 2026-10-28
-  - name: OpenAlex
-    url: https://openalex.org
-    desc: Free, open index of 250M+ scholarly works, authors and institutions.
-    type: free
-    added: 2026-10-28
-  - name: CORE
-    url: https://core.ac.uk
-    desc: Millions of free full-text open access research papers.
-    type: free
-    added: 2026-10-28
-  - name: JabRef
-    url: https://www.jabref.org
-    desc: Reference manager built around BibTeX and BibLaTeX.
-    type: open-source
-    github: JabRef/jabref
-    added: 2026-10-28
-  - name: Quarto
-    url: https://quarto.org
-    desc: Publish papers, reports and sites from Python, R and Markdown.
-    type: open-source
-    github: quarto-dev/quarto-cli
-    added: 2026-10-28
-  - name: Jupyter
-    url: https://jupyter.org
-    desc: Interactive notebooks for code, data and narrative.
-    type: open-source
-    github: jupyterlab/jupyterlab
-    added: 2026-10-28
-  - name: Google Colab
-    url: https://colab.research.google.com
-    desc: Free Jupyter notebooks in the cloud with GPU access.
-    type: free-tier
-    gold: true
-    added: 2026-10-28
+- name: Zotero
+  url: https://www.zotero.org
+  desc: Collect, organize and cite research papers, with one-click capture from your
+    browser.
+  type: open-source
+  github: zotero/zotero
+  gold: true
+- name: Overleaf
+  url: https://www.overleaf.com
+  desc: Collaborative LaTeX editor in the browser for papers and theses.
+  type: free-tier
+  gold: true
+- name: Typst
+  url: https://typst.app
+  desc: Modern typesetting system that's much easier to learn than LaTeX.
+  type: open-source
+  github: typst/typst
+- name: arXiv
+  url: https://arxiv.org
+  desc: Open-access archive of preprints in CS, physics, maths and more.
+  type: free
+- name: Semantic Scholar
+  url: https://www.semanticscholar.org
+  desc: AI-powered search engine for academic papers.
+  type: free
+- name: Google Scholar
+  url: https://scholar.google.com
+  desc: Search scholarly literature and track citations.
+  type: free
+- name: Connected Papers
+  url: https://www.connectedpapers.com
+  desc: Visual graph of papers related to the one you're reading.
+  type: free-tier
+- name: Unpaywall
+  url: https://unpaywall.org
+  desc: Find legal, free versions of paywalled research papers.
+  type: free
+- name: Elicit
+  url: https://elicit.com
+  desc: AI research assistant that finds papers and extracts key findings.
+  type: free-tier
+- name: LanguageTool
+  url: https://languagetool.org
+  desc: Grammar and style checker for 30+ languages.
+  type: free-tier
+  github: languagetool-org/languagetool
+- name: Hemingway Editor
+  url: https://hemingwayapp.com
+  desc: Highlights long, hard-to-read sentences so your writing gets clear and bold.
+  type: free
+- name: ResearchRabbit
+  url: https://www.researchrabbit.ai
+  desc: Discover related papers and authors through citation maps.
+  type: free
+  added: 2026-10-28
+- name: OpenAlex
+  url: https://openalex.org
+  desc: Free, open index of 250M+ scholarly works, authors and institutions.
+  type: free
+  added: 2026-10-28
+- name: CORE
+  url: https://core.ac.uk
+  desc: Millions of free full-text open access research papers.
+  type: free
+  added: 2026-10-28
+- name: JabRef
+  url: https://www.jabref.org
+  desc: Reference manager built around BibTeX and BibLaTeX.
+  type: open-source
+  github: JabRef/jabref
+  added: 2026-10-28
+- name: Quarto
+  url: https://quarto.org
+  desc: Publish papers, reports and sites from Python, R and Markdown.
+  type: open-source
+  github: quarto-dev/quarto-cli
+  added: 2026-10-28
+- name: Jupyter
+  url: https://jupyter.org
+  desc: Interactive notebooks for code, data and narrative.
+  type: open-source
+  github: jupyterlab/jupyterlab
+  added: 2026-10-28
+- name: Google Colab
+  url: https://colab.research.google.com
+  desc: Free Jupyter notebooks in the cloud with GPU access.
+  type: free-tier
+  gold: true
+  added: 2026-10-28
+- name: Open Notebook
+  url: https://github.com/lfnovo/open-notebook
+  desc: Open-source implementation of NotebookLM with local-first documents and audio.
+  type: open-source
+  added: 2026-11-04

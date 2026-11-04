@@ -4,184 +4,281 @@ emoji: 🛠️
 order: 6
 description: Build, host and ship without a credit card.
 items:
-  - name: free-for-dev
-    url: https://github.com/ripienaar/free-for-dev
-    desc: Hundreds of SaaS, PaaS and IaaS services with free tiers for developers.
-    type: open-source
-    gold: true
-  - name: public-apis
-    url: https://github.com/public-apis/public-apis
-    desc: Collective list of free APIs to build projects on.
-    type: open-source
-    gold: true
-  - name: VS Code
-    url: https://code.visualstudio.com
-    desc: Free code editor with a huge extension ecosystem.
-    type: free
-  - name: Zed
-    url: https://zed.dev
-    desc: Very fast open-source code editor with built-in collaboration and AI.
-    type: open-source
-    github: zed-industries/zed
-  - name: Supabase
-    url: https://supabase.com
-    desc: Open-source Postgres backend with auth, storage and realtime, plus a free tier.
-    type: open-source
-    github: supabase/supabase
-    gold: true
-  - name: Appwrite
-    url: https://appwrite.io
-    desc: Open-source backend for web and mobile apps, self-hosted or in the cloud.
-    type: open-source
-    github: appwrite/appwrite
-  - name: Neon
-    url: https://neon.tech
-    desc: Serverless Postgres with database branching and a free plan.
-    type: free-tier
-  - name: Cloudflare Pages
-    url: https://pages.cloudflare.com
-    desc: Deploy static sites and frontends for free on a global CDN.
-    type: free-tier
-  - name: Vercel
-    url: https://vercel.com
-    desc: Push-to-deploy hosting for frontends and Next.js, with a free Hobby plan.
-    type: free-tier
-  - name: Coolify
-    url: https://coolify.io
-    desc: Self-hosted alternative to Heroku and Vercel for your own server.
-    type: open-source
-    github: coollabsio/coolify
-  - name: Hoppscotch
-    url: https://hoppscotch.io
-    desc: Lightweight open-source API client, an alternative to Postman.
-    type: open-source
-    github: hoppscotch/hoppscotch
-  - name: Bruno
-    url: https://www.usebruno.com
-    desc: Offline-first API client that stores collections as plain files in your Git repo.
-    type: open-source
-    github: usebruno/bruno
-  - name: DBeaver
-    url: https://dbeaver.io
-    desc: Universal database client for Postgres, MySQL, SQLite and dozens more.
-    type: open-source
-    github: dbeaver/dbeaver
-  - name: Sentry
-    url: https://sentry.io
-    desc: Error tracking and performance monitoring with a free developer plan.
-    type: free-tier
-    github: getsentry/sentry
-  - name: DevDocs
-    url: https://devdocs.io
-    desc: API documentation for hundreds of languages and frameworks, searchable and offline.
-    type: open-source
-    github: freeCodeCamp/devdocs
-  - name: regex101
-    url: https://regex101.com
-    desc: Build, test and debug regular expressions with live explanations.
-    type: free
-  - name: Let's Encrypt
-    url: https://letsencrypt.org
-    desc: Free, automated HTTPS certificates for any website.
-    type: free
-  - name: Oh My Zsh
-    url: https://ohmyz.sh
-    desc: Framework that makes your terminal far more pleasant, with hundreds of plugins and themes.
-    type: open-source
-    github: ohmyzsh/ohmyzsh
-  - name: awesome-selfhosted
-    url: https://github.com/awesome-selfhosted/awesome-selfhosted
-    desc: Free software you can host yourself, sorted by category.
-    type: open-source
-  - name: Neovim
-    url: https://neovim.io
-    desc: Hyperextensible Vim-based editor with Lua plugins and built-in LSP.
-    type: open-source
-    github: neovim/neovim
-    added: 2026-10-28
-  - name: fzf
-    url: https://github.com/junegunn/fzf
-    desc: 'Fuzzy finder for the terminal: files, history, processes, anything.'
-    type: open-source
-    github: junegunn/fzf
-    added: 2026-10-28
-  - name: ripgrep
-    url: https://github.com/BurntSushi/ripgrep
-    desc: Blazing-fast recursive search that respects your .gitignore.
-    type: open-source
-    github: BurntSushi/ripgrep
-    added: 2026-10-28
-  - name: lazygit
-    url: https://github.com/jesseduffield/lazygit
-    desc: Terminal UI for git that makes staging, rebasing and stashing painless.
-    type: open-source
-    github: jesseduffield/lazygit
-    gold: true
-    added: 2026-10-28
-  - name: Starship
-    url: https://starship.rs
-    desc: Fast, minimal, customizable prompt for any shell.
-    type: open-source
-    github: starship/starship
-    added: 2026-10-28
-  - name: Uptime Kuma
-    url: https://github.com/louislam/uptime-kuma
-    desc: Self-hosted uptime monitoring with status pages and alerts.
-    type: open-source
-    github: louislam/uptime-kuma
-    added: 2026-10-28
-  - name: tldr pages
-    url: https://tldr.sh
-    desc: Community cheat sheets with practical examples for console commands.
-    type: open-source
-    github: tldr-pages/tldr
-    added: 2026-10-28
-  - name: Bun
-    url: https://bun.sh
-    desc: All-in-one JavaScript runtime, bundler, test runner and package manager.
-    type: open-source
-    github: oven-sh/bun
-    added: 2026-10-28
-  - name: Ghostty
-    url: https://ghostty.org
-    desc: Fast, native, GPU-accelerated terminal emulator.
-    type: open-source
-    github: ghostty-org/ghostty
-    added: 2026-10-28
-  - name: Netlify
-    url: https://www.netlify.com
-    desc: Deploy static sites and serverless functions with a generous free plan.
-    type: free-tier
-    added: 2026-10-28
-  - name: FreeDomain
-    url: https://dashboard.digitalplat.org
-    desc: Guide and directory for free domain registration and hands-on DNS configuration.
-    type: open-source
-    github: DigitalPlatDev/FreeDomain
-    added: 2026-11-01
-  - name: Front-End Checklist
-    url: https://frontendchecklist.io
-    desc: Comprehensive checklist of HTML, CSS, performance, and accessibility best practices.
-    type: open-source
-    github: thedaviddias/Front-End-Checklist
-    added: 2026-11-01
-  - name: Open Source iOS Apps
-    url: https://github.com/dkhamsing/open-source-ios-apps
-    desc: Collaborative catalog of open-source iOS applications across various frameworks.
-    type: open-source
-    added: 2026-11-02
-  - name: Scrcpy
-    url: https://github.com/Genymobile/scrcpy
-    desc: Display and control Android devices over USB or TCP/IP with high performance.
-    type: open-source
-    added: 2026-11-03
-  - name: DBX
-    url: https://github.com/t8y2/dbx
-    desc: 25 MB lightweight cross-platform database client supporting 100+ database types.
-    type: open-source
-    added: 2026-11-03
-  - name: Check If Email Exists
-    url: https://github.com/reacherhq/check-if-email-exists
-    desc: Verify email address deliverability via SMTP handshake without sending an email.
-    type: open-source
-    added: 2026-11-03
+- name: free-for-dev
+  url: https://github.com/ripienaar/free-for-dev
+  desc: Hundreds of SaaS, PaaS and IaaS services with free tiers for developers.
+  type: open-source
+  gold: true
+- name: public-apis
+  url: https://github.com/public-apis/public-apis
+  desc: Collective list of free APIs to build projects on.
+  type: open-source
+  gold: true
+- name: VS Code
+  url: https://code.visualstudio.com
+  desc: Free code editor with a huge extension ecosystem.
+  type: free
+- name: Zed
+  url: https://zed.dev
+  desc: Very fast open-source code editor with built-in collaboration and AI.
+  type: open-source
+  github: zed-industries/zed
+- name: Supabase
+  url: https://supabase.com
+  desc: Open-source Postgres backend with auth, storage and realtime, plus a free
+    tier.
+  type: open-source
+  github: supabase/supabase
+  gold: true
+- name: Appwrite
+  url: https://appwrite.io
+  desc: Open-source backend for web and mobile apps, self-hosted or in the cloud.
+  type: open-source
+  github: appwrite/appwrite
+- name: Neon
+  url: https://neon.tech
+  desc: Serverless Postgres with database branching and a free plan.
+  type: free-tier
+- name: Cloudflare Pages
+  url: https://pages.cloudflare.com
+  desc: Deploy static sites and frontends for free on a global CDN.
+  type: free-tier
+- name: Vercel
+  url: https://vercel.com
+  desc: Push-to-deploy hosting for frontends and Next.js, with a free Hobby plan.
+  type: free-tier
+- name: Coolify
+  url: https://coolify.io
+  desc: Self-hosted alternative to Heroku and Vercel for your own server.
+  type: open-source
+  github: coollabsio/coolify
+- name: Hoppscotch
+  url: https://hoppscotch.io
+  desc: Lightweight open-source API client, an alternative to Postman.
+  type: open-source
+  github: hoppscotch/hoppscotch
+- name: Bruno
+  url: https://www.usebruno.com
+  desc: Offline-first API client that stores collections as plain files in your Git
+    repo.
+  type: open-source
+  github: usebruno/bruno
+- name: DBeaver
+  url: https://dbeaver.io
+  desc: Universal database client for Postgres, MySQL, SQLite and dozens more.
+  type: open-source
+  github: dbeaver/dbeaver
+- name: Sentry
+  url: https://sentry.io
+  desc: Error tracking and performance monitoring with a free developer plan.
+  type: free-tier
+  github: getsentry/sentry
+- name: DevDocs
+  url: https://devdocs.io
+  desc: API documentation for hundreds of languages and frameworks, searchable and
+    offline.
+  type: open-source
+  github: freeCodeCamp/devdocs
+- name: regex101
+  url: https://regex101.com
+  desc: Build, test and debug regular expressions with live explanations.
+  type: free
+- name: Let's Encrypt
+  url: https://letsencrypt.org
+  desc: Free, automated HTTPS certificates for any website.
+  type: free
+- name: Oh My Zsh
+  url: https://ohmyz.sh
+  desc: Framework that makes your terminal far more pleasant, with hundreds of plugins
+    and themes.
+  type: open-source
+  github: ohmyzsh/ohmyzsh
+- name: awesome-selfhosted
+  url: https://github.com/awesome-selfhosted/awesome-selfhosted
+  desc: Free software you can host yourself, sorted by category.
+  type: open-source
+- name: Neovim
+  url: https://neovim.io
+  desc: Hyperextensible Vim-based editor with Lua plugins and built-in LSP.
+  type: open-source
+  github: neovim/neovim
+  added: 2026-10-28
+- name: fzf
+  url: https://github.com/junegunn/fzf
+  desc: 'Fuzzy finder for the terminal: files, history, processes, anything.'
+  type: open-source
+  github: junegunn/fzf
+  added: 2026-10-28
+- name: ripgrep
+  url: https://github.com/BurntSushi/ripgrep
+  desc: Blazing-fast recursive search that respects your .gitignore.
+  type: open-source
+  github: BurntSushi/ripgrep
+  added: 2026-10-28
+- name: lazygit
+  url: https://github.com/jesseduffield/lazygit
+  desc: Terminal UI for git that makes staging, rebasing and stashing painless.
+  type: open-source
+  github: jesseduffield/lazygit
+  gold: true
+  added: 2026-10-28
+- name: Starship
+  url: https://starship.rs
+  desc: Fast, minimal, customizable prompt for any shell.
+  type: open-source
+  github: starship/starship
+  added: 2026-10-28
+- name: Uptime Kuma
+  url: https://github.com/louislam/uptime-kuma
+  desc: Self-hosted uptime monitoring with status pages and alerts.
+  type: open-source
+  github: louislam/uptime-kuma
+  added: 2026-10-28
+- name: tldr pages
+  url: https://tldr.sh
+  desc: Community cheat sheets with practical examples for console commands.
+  type: open-source
+  github: tldr-pages/tldr
+  added: 2026-10-28
+- name: Bun
+  url: https://bun.sh
+  desc: All-in-one JavaScript runtime, bundler, test runner and package manager.
+  type: open-source
+  github: oven-sh/bun
+  added: 2026-10-28
+- name: Ghostty
+  url: https://ghostty.org
+  desc: Fast, native, GPU-accelerated terminal emulator.
+  type: open-source
+  github: ghostty-org/ghostty
+  added: 2026-10-28
+- name: Netlify
+  url: https://www.netlify.com
+  desc: Deploy static sites and serverless functions with a generous free plan.
+  type: free-tier
+  added: 2026-10-28
+- name: FreeDomain
+  url: https://dashboard.digitalplat.org
+  desc: Guide and directory for free domain registration and hands-on DNS configuration.
+  type: open-source
+  github: DigitalPlatDev/FreeDomain
+  added: 2026-11-01
+- name: Front-End Checklist
+  url: https://frontendchecklist.io
+  desc: Comprehensive checklist of HTML, CSS, performance, and accessibility best
+    practices.
+  type: open-source
+  github: thedaviddias/Front-End-Checklist
+  added: 2026-11-01
+- name: Open Source iOS Apps
+  url: https://github.com/dkhamsing/open-source-ios-apps
+  desc: Collaborative catalog of open-source iOS applications across various frameworks.
+  type: open-source
+  added: 2026-11-02
+- name: Scrcpy
+  url: https://github.com/Genymobile/scrcpy
+  desc: Display and control Android devices over USB or TCP/IP with high performance.
+  type: open-source
+  added: 2026-11-03
+- name: DBX
+  url: https://github.com/t8y2/dbx
+  desc: 25 MB lightweight cross-platform database client supporting 100+ database
+    types.
+  type: open-source
+  added: 2026-11-03
+- name: Check If Email Exists
+  url: https://github.com/reacherhq/check-if-email-exists
+  desc: Verify email address deliverability via SMTP handshake without sending an
+    email.
+  type: open-source
+  added: 2026-11-03
+- name: uv
+  url: https://github.com/astral-sh/uv
+  desc: Extremely fast Python package installer and resolver written in Rust.
+  type: open-source
+  added: &id001 2026-11-04
+  gold: true
+- name: Ruff
+  url: https://github.com/astral-sh/ruff
+  desc: Extremely fast Python linter and code formatter written in Rust.
+  type: open-source
+  added: *id001
+  gold: true
+- name: PocketBase
+  url: https://github.com/pocketbase/pocketbase
+  desc: Open source realtime backend in 1 portable Go binary with embedded SQLite.
+  type: open-source
+  added: *id001
+  gold: true
+- name: fd
+  url: https://github.com/sharkdp/fd
+  desc: Simple, fast, and user-friendly command-line alternative to find.
+  type: open-source
+  added: *id001
+- name: FastAPI
+  url: https://github.com/fastapi/fastapi
+  desc: High-performance web framework for building APIs with Python and type hints.
+  type: open-source
+  added: *id001
+  gold: true
+- name: tRPC
+  url: https://github.com/trpc/trpc
+  desc: End-to-end typesafe APIs without code generation or runtime schema bloat.
+  type: open-source
+  added: *id001
+- name: Biome
+  url: https://github.com/biomejs/biome
+  desc: Fast toolchain for JavaScript and TypeScript that formats and lints in milliseconds.
+  type: open-source
+  added: *id001
+- name: Dokploy
+  url: https://github.com/Dokploy/dokploy
+  desc: Lightweight self-hostable PaaS alternative to Heroku, Vercel, and Coolify.
+  type: open-source
+  added: *id001
+- name: Gum
+  url: https://github.com/charmbracelet/gum
+  desc: Tool for glamorous interactive shell scripts and terminal prompts.
+  type: open-source
+  added: *id001
+- name: Glow
+  url: https://github.com/charmbracelet/glow
+  desc: Terminal markdown renderer with styled pager, colors, and syntax highlighting.
+  type: open-source
+  added: *id001
+- name: Camofox
+  url: https://github.com/jo-inc/camofox-browser
+  desc: Stealth headless browser for AI agents that bypasses anti-bot detections.
+  type: open-source
+  added: *id001
+- name: Public APIs
+  url: https://github.com/marcelscruz/public-apis
+  desc: Curated collaborative directory of public APIs for developers across 52 categories.
+  type: open-source
+  added: *id001
+- name: API Mega List
+  url: https://github.com/cporter202/API-mega-list
+  desc: Comprehensive collection of free public APIs for rapid application prototyping.
+  type: open-source
+  added: *id001
+- name: ChangeDetection.io
+  url: https://github.com/dgtlmoon/changedetection.io
+  desc: Self-hosted website change detection, monitoring, and notification service.
+  type: open-source
+  added: *id001
+- name: APKEditor
+  url: https://github.com/REAndroid/APKEditor
+  desc: Android APK reverse engineering and resource modification tool.
+  type: open-source
+  added: *id001
+- name: FreeRDP
+  url: https://github.com/FreeRDP/FreeRDP
+  desc: Free and open-source Remote Desktop Protocol client and library implementation.
+  type: open-source
+  added: *id001
+- name: LordOS
+  url: https://github.com/lordbasex/LordOS
+  desc: Lightweight Debian Linux distribution with Wayland compositor and QuickJS
+    UI.
+  type: open-source
+  added: *id001

@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 401,
+  "total": 468,
   "categories": [
     {
       "slug": "jobs",
@@ -333,6 +333,24 @@
           "gold": false,
           "github": "trekhleb/javascript-algorithms",
           "added": "2026-10-28"
+        },
+        {
+          "name": "Developer Portfolios",
+          "url": "https://github.com/emmabostian/developer-portfolios",
+          "description": "Curated showcase of stellar software developer portfolio websites for inspiration.",
+          "type": "open-source",
+          "gold": false,
+          "github": "emmabostian/developer-portfolios",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Data Science Interview Q&A",
+          "url": "https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers",
+          "description": "Curated preparation questions and answers covering data science and machine learning.",
+          "type": "open-source",
+          "gold": false,
+          "github": "youssefHosni/Data-Science-Interview-Questions-Answers",
+          "added": "2026-11-04"
         }
       ]
     },
@@ -819,6 +837,60 @@
           "gold": false,
           "github": "ankitects/anki",
           "added": "2026-10-27"
+        },
+        {
+          "name": "nanoGPT",
+          "url": "https://github.com/karpathy/nanoGPT",
+          "description": "Simplest, fastest repository for training and finetuning medium GPTs by Andrej Karpathy.",
+          "type": "open-source",
+          "gold": true,
+          "github": "karpathy/nanoGPT",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Anthropic Courses",
+          "url": "https://github.com/anthropics/courses",
+          "description": "Official educational courses and notebooks for prompt engineering and Claude development.",
+          "type": "open-source",
+          "gold": true,
+          "github": "anthropics/courses",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "HelloGitHub",
+          "url": "https://github.com/521xueweihan/HelloGitHub",
+          "description": "Curated monthly showcase of interesting, entry-level open-source projects.",
+          "type": "open-source",
+          "gold": false,
+          "github": "521xueweihan/HelloGitHub",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Awesome",
+          "url": "https://github.com/sindresorhus/awesome",
+          "description": "The definitive curated index of awesome lists covering programming and technology.",
+          "type": "open-source",
+          "gold": false,
+          "github": "sindresorhus/awesome",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Koodo Reader",
+          "url": "https://github.com/koodo-reader/koodo-reader",
+          "description": "Cross-platform open-source ebook manager and reader supporting EPUB, PDF, and MOBI.",
+          "type": "open-source",
+          "gold": false,
+          "github": "koodo-reader/koodo-reader",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Exercises Dataset",
+          "url": "https://github.com/hasaneyldrm/exercises-dataset",
+          "description": "Comprehensive dataset of 1,324 fitness exercises with animated thumbnails.",
+          "type": "open-source",
+          "gold": false,
+          "github": "hasaneyldrm/exercises-dataset",
+          "added": "2026-11-04"
         }
       ]
     },
@@ -1296,6 +1368,159 @@
           "gold": false,
           "github": "reacherhq/check-if-email-exists",
           "added": "2026-11-03"
+        },
+        {
+          "name": "uv",
+          "url": "https://github.com/astral-sh/uv",
+          "description": "Extremely fast Python package installer and resolver written in Rust.",
+          "type": "open-source",
+          "gold": true,
+          "github": "astral-sh/uv",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Ruff",
+          "url": "https://github.com/astral-sh/ruff",
+          "description": "Extremely fast Python linter and code formatter written in Rust.",
+          "type": "open-source",
+          "gold": true,
+          "github": "astral-sh/ruff",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "PocketBase",
+          "url": "https://github.com/pocketbase/pocketbase",
+          "description": "Open source realtime backend in 1 portable Go binary with embedded SQLite.",
+          "type": "open-source",
+          "gold": true,
+          "github": "pocketbase/pocketbase",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "fd",
+          "url": "https://github.com/sharkdp/fd",
+          "description": "Simple, fast, and user-friendly command-line alternative to find.",
+          "type": "open-source",
+          "gold": false,
+          "github": "sharkdp/fd",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "FastAPI",
+          "url": "https://github.com/fastapi/fastapi",
+          "description": "High-performance web framework for building APIs with Python and type hints.",
+          "type": "open-source",
+          "gold": true,
+          "github": "fastapi/fastapi",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "tRPC",
+          "url": "https://github.com/trpc/trpc",
+          "description": "End-to-end typesafe APIs without code generation or runtime schema bloat.",
+          "type": "open-source",
+          "gold": false,
+          "github": "trpc/trpc",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Biome",
+          "url": "https://github.com/biomejs/biome",
+          "description": "Fast toolchain for JavaScript and TypeScript that formats and lints in milliseconds.",
+          "type": "open-source",
+          "gold": false,
+          "github": "biomejs/biome",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Dokploy",
+          "url": "https://github.com/Dokploy/dokploy",
+          "description": "Lightweight self-hostable PaaS alternative to Heroku, Vercel, and Coolify.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Dokploy/dokploy",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Gum",
+          "url": "https://github.com/charmbracelet/gum",
+          "description": "Tool for glamorous interactive shell scripts and terminal prompts.",
+          "type": "open-source",
+          "gold": false,
+          "github": "charmbracelet/gum",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Glow",
+          "url": "https://github.com/charmbracelet/glow",
+          "description": "Terminal markdown renderer with styled pager, colors, and syntax highlighting.",
+          "type": "open-source",
+          "gold": false,
+          "github": "charmbracelet/glow",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Camofox",
+          "url": "https://github.com/jo-inc/camofox-browser",
+          "description": "Stealth headless browser for AI agents that bypasses anti-bot detections.",
+          "type": "open-source",
+          "gold": false,
+          "github": "jo-inc/camofox-browser",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Public APIs",
+          "url": "https://github.com/marcelscruz/public-apis",
+          "description": "Curated collaborative directory of public APIs for developers across 52 categories.",
+          "type": "open-source",
+          "gold": false,
+          "github": "marcelscruz/public-apis",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "API Mega List",
+          "url": "https://github.com/cporter202/API-mega-list",
+          "description": "Comprehensive collection of free public APIs for rapid application prototyping.",
+          "type": "open-source",
+          "gold": false,
+          "github": "cporter202/API-mega-list",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "ChangeDetection.io",
+          "url": "https://github.com/dgtlmoon/changedetection.io",
+          "description": "Self-hosted website change detection, monitoring, and notification service.",
+          "type": "open-source",
+          "gold": false,
+          "github": "dgtlmoon/changedetection.io",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "APKEditor",
+          "url": "https://github.com/REAndroid/APKEditor",
+          "description": "Android APK reverse engineering and resource modification tool.",
+          "type": "open-source",
+          "gold": false,
+          "github": "REAndroid/APKEditor",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "FreeRDP",
+          "url": "https://github.com/FreeRDP/FreeRDP",
+          "description": "Free and open-source Remote Desktop Protocol client and library implementation.",
+          "type": "open-source",
+          "gold": false,
+          "github": "FreeRDP/FreeRDP",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "LordOS",
+          "url": "https://github.com/lordbasex/LordOS",
+          "description": "Lightweight Debian Linux distribution with Wayland compositor and QuickJS UI.",
+          "type": "open-source",
+          "gold": false,
+          "github": "lordbasex/LordOS",
+          "added": "2026-11-04"
         }
       ]
     },
@@ -1593,6 +1818,33 @@
           "gold": false,
           "github": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
           "added": "2026-11-03"
+        },
+        {
+          "name": "Firecrawl",
+          "url": "https://github.com/mendableai/firecrawl",
+          "description": "Turn entire websites into clean LLM-ready markdown or structured data with one call.",
+          "type": "open-source",
+          "gold": true,
+          "github": "mendableai/firecrawl",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Jina Reader",
+          "url": "https://github.com/jina-ai/reader",
+          "description": "Convert any webpage into clean markdown for LLMs by prefixing r.jina.ai to the URL.",
+          "type": "open-source",
+          "gold": false,
+          "github": "jina-ai/reader",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Strata",
+          "url": "https://github.com/Niko1221/Strata",
+          "description": "Run high-performance open LLMs on consumer GPUs with one-click desktop setup.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Niko1221/Strata",
+          "added": "2026-11-04"
         }
       ]
     },
@@ -1908,6 +2160,69 @@
           "gold": false,
           "github": "kunchenguid/firstmate",
           "added": "2026-11-03"
+        },
+        {
+          "name": "OpenSandbox",
+          "url": "https://github.com/opensandbox-group/OpenSandbox",
+          "description": "Secure and lightweight sandbox runtime for autonomous AI coding agents.",
+          "type": "open-source",
+          "gold": true,
+          "github": "opensandbox-group/OpenSandbox",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "OpenShell",
+          "url": "https://github.com/NVIDIA/OpenShell",
+          "description": "Safe, private runtime and sandbox for autonomous AI agent execution by NVIDIA.",
+          "type": "open-source",
+          "gold": true,
+          "github": "NVIDIA/OpenShell",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Eliza",
+          "url": "https://github.com/elizaOS/eliza",
+          "description": "Autonomous multi-agent operating system and framework for interactive agents.",
+          "type": "open-source",
+          "gold": true,
+          "github": "elizaOS/eliza",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Agno",
+          "url": "https://github.com/agno-agi/agno",
+          "description": "Lightweight framework for building multi-modal AI agents with memory and tools.",
+          "type": "open-source",
+          "gold": false,
+          "github": "agno-agi/agno",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "CopilotKit",
+          "url": "https://github.com/CopilotKit/CopilotKit",
+          "description": "Open-source framework to embed custom AI copilots and in-app agent sidebars.",
+          "type": "open-source",
+          "gold": false,
+          "github": "CopilotKit/CopilotKit",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "9Router",
+          "url": "https://github.com/decolua/9router",
+          "description": "Multi-provider routing gateway connecting Claude Code, Codex, and Cursor.",
+          "type": "open-source",
+          "gold": false,
+          "github": "decolua/9router",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "T3 Code",
+          "url": "https://github.com/pingdotgg/t3code",
+          "description": "Full-stack web application scaffolding and agentic code generator by Theo.",
+          "type": "open-source",
+          "gold": false,
+          "github": "pingdotgg/t3code",
+          "added": "2026-11-04"
         }
       ]
     },
@@ -2196,6 +2511,42 @@
           "gold": false,
           "github": "cathrynlavery/diagram-design",
           "added": "2026-11-03"
+        },
+        {
+          "name": "Claude Ads",
+          "url": "https://github.com/AgriciDaniel/claude-ads",
+          "description": "Paid-media operations and ad management skill for Claude Code across 12 platforms.",
+          "type": "open-source",
+          "gold": false,
+          "github": "AgriciDaniel/claude-ads",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Anthropic Cybersecurity Skills",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "description": "817 structured cybersecurity and penetration testing skills for AI coding agents.",
+          "type": "open-source",
+          "gold": true,
+          "github": "mukul975/Anthropic-Cybersecurity-Skills",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Book to Skill",
+          "url": "https://github.com/virgiliojr94/book-to-skill",
+          "description": "Turn any technical book PDF into an indexed Claude Code skill ready for queries.",
+          "type": "open-source",
+          "gold": false,
+          "github": "virgiliojr94/book-to-skill",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "I Have ADHD",
+          "url": "https://github.com/ayghri/i-have-adhd",
+          "description": "Agent skill that keeps AI coding outputs concise, structured, and slop-free.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ayghri/i-have-adhd",
+          "added": "2026-11-04"
         }
       ]
     },
@@ -2628,6 +2979,69 @@
           "gold": false,
           "github": null,
           "added": "2026-10-28"
+        },
+        {
+          "name": "tldraw",
+          "url": "https://github.com/tldraw/tldraw",
+          "description": "Infinite canvas SDK and collaborative digital whiteboard for React applications.",
+          "type": "open-source",
+          "gold": true,
+          "github": "tldraw/tldraw",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Excalidraw",
+          "url": "https://github.com/excalidraw/excalidraw",
+          "description": "Virtual collaborative whiteboard for sketching hand-drawn diagrams and wireframes.",
+          "type": "open-source",
+          "gold": true,
+          "github": "excalidraw/excalidraw",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Open Design",
+          "url": "https://github.com/nexu-io/open-design",
+          "description": "Collaborative local-first AI design agent workspace and canvas.",
+          "type": "open-source",
+          "gold": false,
+          "github": "nexu-io/open-design",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Text to CAD",
+          "url": "https://github.com/earthtojake/text-to-cad",
+          "description": "Generate physical 3D CAD models and mechanical parts from text descriptions.",
+          "type": "open-source",
+          "gold": false,
+          "github": "earthtojake/text-to-cad",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Scroll World",
+          "url": "https://github.com/oso95/scroll-world",
+          "description": "Agent skill that turns any brand into an immersive scrollable 3D world.",
+          "type": "open-source",
+          "gold": false,
+          "github": "oso95/scroll-world",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Goldie",
+          "url": "https://github.com/software-mansion-labs/goldie",
+          "description": "Agentic automated app store screenshot and preview asset generator.",
+          "type": "open-source",
+          "gold": false,
+          "github": "software-mansion-labs/goldie",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Anidoodle",
+          "url": "https://github.com/alexgreensh/anidoodle",
+          "description": "Art, animation, and interactive motion graphics written purely as code.",
+          "type": "open-source",
+          "gold": false,
+          "github": "alexgreensh/anidoodle",
+          "added": "2026-11-04"
         }
       ]
     },
@@ -2862,6 +3276,60 @@
           "gold": false,
           "github": "FreeTubeApp/FreeTube",
           "added": "2026-11-03"
+        },
+        {
+          "name": "Screenity",
+          "url": "https://github.com/alyssaxuu/screenity",
+          "description": "Privacy-friendly browser screen recorder and annotation tool with zero limits.",
+          "type": "open-source",
+          "gold": true,
+          "github": "alyssaxuu/screenity",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "PhotoCraft",
+          "url": "https://github.com/storytold/photocraft",
+          "description": "Fast photo editor and image manipulation utility written from scratch in pure Rust.",
+          "type": "open-source",
+          "gold": false,
+          "github": "storytold/photocraft",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Openverse",
+          "url": "https://github.com/WordPress/openverse",
+          "description": "Search engine for over 700 million openly licensed images and audio tracks.",
+          "type": "open-source",
+          "gold": false,
+          "github": "WordPress/openverse",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Stickman Video Director",
+          "url": "https://github.com/kaomei/stickman-video-director",
+          "description": "Generate multi-style animated stickman explainer videos directly from scripts.",
+          "type": "open-source",
+          "gold": false,
+          "github": "kaomei/stickman-video-director",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Open Generative AI",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "description": "Open-source suite for generative video and image generation pipelines.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Anil-matcha/Open-Generative-AI",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Pixelle Video",
+          "url": "https://github.com/ATH-MaaS/Pixelle-Video",
+          "description": "Automated engine generating short-form videos with narration and visuals.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ATH-MaaS/Pixelle-Video",
+          "added": "2026-11-04"
         }
       ]
     },
@@ -3123,6 +3591,69 @@
           "gold": false,
           "github": "zenhosta/9drive",
           "added": "2026-11-03"
+        },
+        {
+          "name": "zoxide",
+          "url": "https://github.com/ajeetdsouza/zoxide",
+          "description": "Smarter cd command that learns navigation habits and jumps across folders fast.",
+          "type": "open-source",
+          "gold": true,
+          "github": "ajeetdsouza/zoxide",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Coucou",
+          "url": "https://github.com/Louis-CFM/coucou",
+          "description": "Mac notch and Lock Screen monitor for autonomous coding agents with one-click review.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Louis-CFM/coucou",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "PDF Arranger",
+          "url": "https://github.com/pdfarranger/pdfarranger",
+          "description": "Lightweight utility to merge, split, rotate, crop, and reorder PDF pages.",
+          "type": "open-source",
+          "gold": false,
+          "github": "pdfarranger/pdfarranger",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "APITable",
+          "url": "https://github.com/apitable/apitable",
+          "description": "API-oriented open-source low-code collaborative spreadsheet and database.",
+          "type": "open-source",
+          "gold": false,
+          "github": "apitable/apitable",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Beamer",
+          "url": "https://github.com/kalkman-code/beamer",
+          "description": "Share one keyboard and mouse across Mac and Windows PC over local network.",
+          "type": "open-source",
+          "gold": false,
+          "github": "kalkman-code/beamer",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "OpenGym",
+          "url": "https://github.com/DuarteSantos8/openGym",
+          "description": "Open-source privacy-focused workout, bodyweight, and gym routine tracker.",
+          "type": "open-source",
+          "gold": false,
+          "github": "DuarteSantos8/openGym",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "No AI Slop",
+          "url": "https://github.com/petergyang/no-ai-slop",
+          "description": "CLI and prompt tool that strips 20+ patterns of AI filler and buzzwords from prose.",
+          "type": "open-source",
+          "gold": false,
+          "github": "petergyang/no-ai-slop",
+          "added": "2026-11-04"
         }
       ]
     },
@@ -3294,6 +3825,15 @@
           "gold": true,
           "github": null,
           "added": "2026-10-28"
+        },
+        {
+          "name": "Open Notebook",
+          "url": "https://github.com/lfnovo/open-notebook",
+          "description": "Open-source implementation of NotebookLM with local-first documents and audio.",
+          "type": "open-source",
+          "gold": false,
+          "github": "lfnovo/open-notebook",
+          "added": "2026-11-04"
         }
       ]
     },
@@ -3492,6 +4032,60 @@
           "gold": false,
           "github": "melgarafael/DeskcommCRM",
           "added": "2026-11-03"
+        },
+        {
+          "name": "FinceptTerminal",
+          "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+          "description": "Modern financial analytics terminal offering market data and investment research.",
+          "type": "open-source",
+          "gold": true,
+          "github": "Fincept-Corporation/FinceptTerminal",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Evershop",
+          "url": "https://github.com/evershopcommerce/evershop",
+          "description": "Modern modular open-source TypeScript headless e-commerce platform.",
+          "type": "open-source",
+          "gold": false,
+          "github": "evershopcommerce/evershop",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "StoreCraft",
+          "url": "https://github.com/store-craft/storecraft",
+          "description": "Rapid headless e-commerce backend framework built with TypeScript and modular storage.",
+          "type": "open-source",
+          "gold": false,
+          "github": "store-craft/storecraft",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Open SEO",
+          "url": "https://github.com/every-app/open-seo",
+          "description": "Open-source keyword tracking and backlink intelligence alternative to Semrush.",
+          "type": "open-source",
+          "gold": false,
+          "github": "every-app/open-seo",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Roast Room",
+          "url": "https://github.com/nateherkai/roast-room",
+          "description": "Live business decision debate simulator with 7 AI advisors in Claude Code.",
+          "type": "open-source",
+          "gold": false,
+          "github": "nateherkai/roast-room",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Bagisto Mobile App",
+          "url": "https://github.com/bagisto/opensource-ecommerce-mobile-app",
+          "description": "Open-source Flutter mobile e-commerce application for the Bagisto ecosystem.",
+          "type": "open-source",
+          "gold": false,
+          "github": "bagisto/opensource-ecommerce-mobile-app",
+          "added": "2026-11-04"
         }
       ]
     },
@@ -3753,6 +4347,15 @@
           "gold": false,
           "github": "CloakHQ/CloakBrowser",
           "added": "2026-11-03"
+        },
+        {
+          "name": "WhatsMyName",
+          "url": "https://github.com/WebBreacher/WhatsMyName",
+          "description": "OSINT username reconnaissance tool searching across 700+ websites and platforms.",
+          "type": "open-source",
+          "gold": false,
+          "github": "WebBreacher/WhatsMyName",
+          "added": "2026-11-04"
         }
       ]
     }

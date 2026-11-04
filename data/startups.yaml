@@ -2,115 +2,149 @@ title: Startups & Business
 short: Startups
 emoji: 🚀
 order: 15
-description: Launch and run a product, with free credits, analytics, CRM and support tools.
+description: Launch and run a product, with free credits, analytics, CRM and support
+  tools.
 items:
-  - name: YC Startup School
-    url: https://www.startupschool.org
-    desc: Y Combinator's free course on how to start a startup, plus co-founder matching.
-    type: free
-    gold: true
-  - name: YC Library
-    url: https://www.ycombinator.com/library
-    desc: Y Combinator's essays, videos and advice for founders.
-    type: free
-  - name: AWS Activate
-    url: https://aws.amazon.com/activate/
-    desc: AWS credits and support for early-stage startups.
-    type: free
-  - name: Google for Startups Cloud Program
-    url: https://cloud.google.com/startup
-    desc: Google Cloud credits and technical support for startups.
-    type: free
-  - name: PostHog
-    url: https://posthog.com
-    desc: Open-source product analytics, session replay and feature flags with a big free tier.
-    type: open-source
-    github: PostHog/posthog
-    gold: true
-  - name: Umami
-    url: https://umami.is
-    desc: Simple, privacy-friendly website analytics, an alternative to Google Analytics.
-    type: open-source
-    github: umami-software/umami
-  - name: Listmonk
-    url: https://listmonk.app
-    desc: Self-hosted newsletter and mailing list manager.
-    type: open-source
-    github: knadh/listmonk
-  - name: Chatwoot
-    url: https://www.chatwoot.com
-    desc: Open-source customer support inbox for chat, email and social.
-    type: open-source
-    github: chatwoot/chatwoot
-  - name: Twenty
-    url: https://twenty.com
-    desc: Modern open-source CRM, an alternative to Salesforce.
-    type: open-source
-    github: twentyhq/twenty
-  - name: Odoo Community
-    url: https://github.com/odoo/odoo
-    desc: Open-source ERP covering CRM, sales, inventory, accounting and website.
-    type: open-source
-  - name: Cal.diy
-    url: https://cal.diy
-    desc: Open-source, self-hostable scheduling from the Cal.com team, a Calendly alternative.
-    type: open-source
-    github: calcom/cal.diy
-    added: 2026-10-28
-  - name: Plausible
-    url: https://plausible.io
-    desc: Simple, privacy-friendly Google Analytics alternative.
-    type: open-source
-    github: plausible/analytics
-    added: 2026-10-28
-  - name: Documenso
-    url: https://documenso.com
-    desc: Open-source DocuSign alternative for signing documents.
-    type: open-source
-    github: documenso/documenso
-    added: 2026-10-28
-  - name: Ghost
-    url: https://ghost.org
-    desc: Publishing platform for blogs and paid newsletters.
-    type: open-source
-    github: TryGhost/Ghost
-    added: 2026-10-28
-  - name: Plane
-    url: https://plane.so
-    desc: Project management for tasks, sprints and roadmaps, a Jira alternative.
-    type: open-source
-    github: makeplane/plane
-    added: 2026-10-28
-  - name: Formbricks
-    url: https://formbricks.com
-    desc: Open-source survey and experience management platform.
-    type: open-source
-    github: formbricks/formbricks
-    added: 2026-10-28
-  - name: Strapi
-    url: https://strapi.io
-    desc: Leading open-source headless CMS in JavaScript and TypeScript.
-    type: open-source
-    github: strapi/strapi
-    added: 2026-10-28
-  - name: Medusa
-    url: https://medusajs.com
-    desc: Open-source commerce platform for building custom stores.
-    type: open-source
-    github: medusajs/medusa
-    added: 2026-10-28
-  - name: Microsoft for Startups
-    url: https://www.microsoft.com/en-us/startups
-    desc: Free Azure credits and tools for early-stage founders.
-    type: free
-    added: 2026-10-28
-  - name: Ever Gauzy
-    url: https://github.com/ever-co/ever-gauzy
-    desc: Open-source enterprise business management platform with ERP, CRM, and HRM.
-    type: open-source
-    added: 2026-11-03
-  - name: Deskcomm CRM
-    url: https://github.com/melgarafael/DeskcommCRM
-    desc: Self-hosted AI sales OS and CRM with native multi-agent chat integrations.
-    type: open-source
-    added: 2026-11-03
+- name: YC Startup School
+  url: https://www.startupschool.org
+  desc: Y Combinator's free course on how to start a startup, plus co-founder matching.
+  type: free
+  gold: true
+- name: YC Library
+  url: https://www.ycombinator.com/library
+  desc: Y Combinator's essays, videos and advice for founders.
+  type: free
+- name: AWS Activate
+  url: https://aws.amazon.com/activate/
+  desc: AWS credits and support for early-stage startups.
+  type: free
+- name: Google for Startups Cloud Program
+  url: https://cloud.google.com/startup
+  desc: Google Cloud credits and technical support for startups.
+  type: free
+- name: PostHog
+  url: https://posthog.com
+  desc: Open-source product analytics, session replay and feature flags with a big
+    free tier.
+  type: open-source
+  github: PostHog/posthog
+  gold: true
+- name: Umami
+  url: https://umami.is
+  desc: Simple, privacy-friendly website analytics, an alternative to Google Analytics.
+  type: open-source
+  github: umami-software/umami
+- name: Listmonk
+  url: https://listmonk.app
+  desc: Self-hosted newsletter and mailing list manager.
+  type: open-source
+  github: knadh/listmonk
+- name: Chatwoot
+  url: https://www.chatwoot.com
+  desc: Open-source customer support inbox for chat, email and social.
+  type: open-source
+  github: chatwoot/chatwoot
+- name: Twenty
+  url: https://twenty.com
+  desc: Modern open-source CRM, an alternative to Salesforce.
+  type: open-source
+  github: twentyhq/twenty
+- name: Odoo Community
+  url: https://github.com/odoo/odoo
+  desc: Open-source ERP covering CRM, sales, inventory, accounting and website.
+  type: open-source
+- name: Cal.diy
+  url: https://cal.diy
+  desc: Open-source, self-hostable scheduling from the Cal.com team, a Calendly alternative.
+  type: open-source
+  github: calcom/cal.diy
+  added: 2026-10-28
+- name: Plausible
+  url: https://plausible.io
+  desc: Simple, privacy-friendly Google Analytics alternative.
+  type: open-source
+  github: plausible/analytics
+  added: 2026-10-28
+- name: Documenso
+  url: https://documenso.com
+  desc: Open-source DocuSign alternative for signing documents.
+  type: open-source
+  github: documenso/documenso
+  added: 2026-10-28
+- name: Ghost
+  url: https://ghost.org
+  desc: Publishing platform for blogs and paid newsletters.
+  type: open-source
+  github: TryGhost/Ghost
+  added: 2026-10-28
+- name: Plane
+  url: https://plane.so
+  desc: Project management for tasks, sprints and roadmaps, a Jira alternative.
+  type: open-source
+  github: makeplane/plane
+  added: 2026-10-28
+- name: Formbricks
+  url: https://formbricks.com
+  desc: Open-source survey and experience management platform.
+  type: open-source
+  github: formbricks/formbricks
+  added: 2026-10-28
+- name: Strapi
+  url: https://strapi.io
+  desc: Leading open-source headless CMS in JavaScript and TypeScript.
+  type: open-source
+  github: strapi/strapi
+  added: 2026-10-28
+- name: Medusa
+  url: https://medusajs.com
+  desc: Open-source commerce platform for building custom stores.
+  type: open-source
+  github: medusajs/medusa
+  added: 2026-10-28
+- name: Microsoft for Startups
+  url: https://www.microsoft.com/en-us/startups
+  desc: Free Azure credits and tools for early-stage founders.
+  type: free
+  added: 2026-10-28
+- name: Ever Gauzy
+  url: https://github.com/ever-co/ever-gauzy
+  desc: Open-source enterprise business management platform with ERP, CRM, and HRM.
+  type: open-source
+  added: 2026-11-03
+- name: Deskcomm CRM
+  url: https://github.com/melgarafael/DeskcommCRM
+  desc: Self-hosted AI sales OS and CRM with native multi-agent chat integrations.
+  type: open-source
+  added: 2026-11-03
+- name: FinceptTerminal
+  url: https://github.com/Fincept-Corporation/FinceptTerminal
+  desc: Modern financial analytics terminal offering market data and investment research.
+  type: open-source
+  added: &id001 2026-11-04
+  gold: true
+- name: Evershop
+  url: https://github.com/evershopcommerce/evershop
+  desc: Modern modular open-source TypeScript headless e-commerce platform.
+  type: open-source
+  added: *id001
+- name: StoreCraft
+  url: https://github.com/store-craft/storecraft
+  desc: Rapid headless e-commerce backend framework built with TypeScript and modular
+    storage.
+  type: open-source
+  added: *id001
+- name: Open SEO
+  url: https://github.com/every-app/open-seo
+  desc: Open-source keyword tracking and backlink intelligence alternative to Semrush.
+  type: open-source
+  added: *id001
+- name: Roast Room
+  url: https://github.com/nateherkai/roast-room
+  desc: Live business decision debate simulator with 7 AI advisors in Claude Code.
+  type: open-source
+  added: *id001
+- name: Bagisto Mobile App
+  url: https://github.com/bagisto/opensource-ecommerce-mobile-app
+  desc: Open-source Flutter mobile e-commerce application for the Bagisto ecosystem.
+  type: open-source
+  added: *id001

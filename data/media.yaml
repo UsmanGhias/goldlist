@@ -4,132 +4,168 @@ emoji: 🎬
 order: 12
 description: Studio-grade editing, recording and stock media at zero cost.
 items:
-  - name: DaVinci Resolve
-    url: https://www.blackmagicdesign.com/products/davinciresolve
-    desc: Hollywood-grade video editing and color grading, with a very capable free version.
-    type: free
-    gold: true
-  - name: OBS Studio
-    url: https://obsproject.com
-    desc: Screen recording and live streaming.
-    type: open-source
-    github: obsproject/obs-studio
-    gold: true
-  - name: Kdenlive
-    url: https://kdenlive.org
-    desc: Full-featured open-source video editor for Linux, Windows and macOS.
-    type: open-source
-  - name: Shotcut
-    url: https://shotcut.org
-    desc: Simple cross-platform video editor that supports hundreds of formats.
-    type: open-source
-    github: mltframework/shotcut
-  - name: Audacity
-    url: https://www.audacityteam.org
-    desc: Record and edit audio, from podcasts to voice-overs.
-    type: open-source
-    github: audacity/audacity
-  - name: HandBrake
-    url: https://handbrake.fr
-    desc: Convert and compress videos to any format.
-    type: open-source
-    github: HandBrake/HandBrake
-  - name: Blender
-    url: https://www.blender.org
-    desc: Complete 3D suite for modeling, animation, rendering and video editing.
-    type: open-source
-  - name: VLC
-    url: https://www.videolan.org/vlc/
-    desc: Media player that plays practically any file.
-    type: open-source
-  - name: yt-dlp
-    url: https://github.com/yt-dlp/yt-dlp
-    desc: Command-line downloader for audio and video from thousands of sites.
-    type: open-source
-  - name: Canva
-    url: https://www.canva.com
-    desc: Drag-and-drop design for social posts, slides and thumbnails, with a strong free plan.
-    type: free-tier
-  - name: Pexels
-    url: https://www.pexels.com
-    desc: Free stock photos and videos you can use without attribution.
-    type: free
-  - name: Freesound
-    url: https://freesound.org
-    desc: Huge library of Creative Commons sound effects and samples.
-    type: free
-  - name: FFmpeg
-    url: https://ffmpeg.org
-    desc: The Swiss Army knife for converting and editing audio and video.
-    type: open-source
-    github: FFmpeg/FFmpeg
-    gold: true
-    added: 2026-10-28
-  - name: Immich
-    url: https://immich.app
-    desc: Self-hosted Google Photos alternative with mobile backup.
-    type: open-source
-    github: immich-app/immich
-    gold: true
-    added: 2026-10-28
-  - name: Jellyfin
-    url: https://jellyfin.org
-    desc: Free media server to stream your movies, shows and music.
-    type: open-source
-    github: jellyfin/jellyfin
-    added: 2026-10-28
-  - name: Upscayl
-    url: https://upscayl.org
-    desc: Upscale images with AI on your own computer.
-    type: open-source
-    github: upscayl/upscayl
-    added: 2026-10-28
-  - name: LosslessCut
-    url: https://github.com/mifi/lossless-cut
-    desc: Cut and trim video and audio instantly without re-encoding.
-    type: open-source
-    github: mifi/lossless-cut
-    added: 2026-10-28
-  - name: NewPipe
-    url: https://newpipe.net
-    desc: Lightweight YouTube client for Android without ads or tracking.
-    type: open-source
-    github: TeamNewPipe/NewPipe
-    added: 2026-10-28
-  - name: cobalt
-    url: https://cobalt.tools
-    desc: Save videos and audio from many sites with no ads or tracking.
-    type: open-source
-    github: imputnet/cobalt
-    added: 2026-10-28
-  - name: OpenCut
-    url: https://github.com/OpenCut-app/OpenCut
-    desc: Open-source CapCut alternative for video editing and timeline composition.
-    type: open-source
-    added: 2026-11-01
-  - name: OpenMontage
-    url: https://www.openmontage.video/
-    desc: Open-source video production pipeline coordinating TTS, image generation, and FFmpeg.
-    type: open-source
-    github: calesthio/OpenMontage
-    added: 2026-11-01
-  - name: Hyperframes
-    url: https://github.com/heygen-com/hyperframes
-    desc: Write HTML, CSS, and SVG code to render programmatic video for agent workflows.
-    type: open-source
-    added: 2026-11-03
-  - name: AutoClip
-    url: https://github.com/zhouxiaoka/autoclip
-    desc: Desktop AI tool that slices long podcasts and interviews into captioned short clips.
-    type: open-source
-    added: 2026-11-03
-  - name: DonkeyCut
-    url: https://github.com/DonkeyCut/Donkey
-    desc: Open-source timeline video editor alternative to CapCut.
-    type: open-source
-    added: 2026-11-03
-  - name: FreeTube
-    url: https://github.com/FreeTubeApp/FreeTube
-    desc: Privacy-focused open-source desktop YouTube player with no tracking or telemetry.
-    type: open-source
-    added: 2026-11-03
+- name: DaVinci Resolve
+  url: https://www.blackmagicdesign.com/products/davinciresolve
+  desc: Hollywood-grade video editing and color grading, with a very capable free
+    version.
+  type: free
+  gold: true
+- name: OBS Studio
+  url: https://obsproject.com
+  desc: Screen recording and live streaming.
+  type: open-source
+  github: obsproject/obs-studio
+  gold: true
+- name: Kdenlive
+  url: https://kdenlive.org
+  desc: Full-featured open-source video editor for Linux, Windows and macOS.
+  type: open-source
+- name: Shotcut
+  url: https://shotcut.org
+  desc: Simple cross-platform video editor that supports hundreds of formats.
+  type: open-source
+  github: mltframework/shotcut
+- name: Audacity
+  url: https://www.audacityteam.org
+  desc: Record and edit audio, from podcasts to voice-overs.
+  type: open-source
+  github: audacity/audacity
+- name: HandBrake
+  url: https://handbrake.fr
+  desc: Convert and compress videos to any format.
+  type: open-source
+  github: HandBrake/HandBrake
+- name: Blender
+  url: https://www.blender.org
+  desc: Complete 3D suite for modeling, animation, rendering and video editing.
+  type: open-source
+- name: VLC
+  url: https://www.videolan.org/vlc/
+  desc: Media player that plays practically any file.
+  type: open-source
+- name: yt-dlp
+  url: https://github.com/yt-dlp/yt-dlp
+  desc: Command-line downloader for audio and video from thousands of sites.
+  type: open-source
+- name: Canva
+  url: https://www.canva.com
+  desc: Drag-and-drop design for social posts, slides and thumbnails, with a strong
+    free plan.
+  type: free-tier
+- name: Pexels
+  url: https://www.pexels.com
+  desc: Free stock photos and videos you can use without attribution.
+  type: free
+- name: Freesound
+  url: https://freesound.org
+  desc: Huge library of Creative Commons sound effects and samples.
+  type: free
+- name: FFmpeg
+  url: https://ffmpeg.org
+  desc: The Swiss Army knife for converting and editing audio and video.
+  type: open-source
+  github: FFmpeg/FFmpeg
+  gold: true
+  added: 2026-10-28
+- name: Immich
+  url: https://immich.app
+  desc: Self-hosted Google Photos alternative with mobile backup.
+  type: open-source
+  github: immich-app/immich
+  gold: true
+  added: 2026-10-28
+- name: Jellyfin
+  url: https://jellyfin.org
+  desc: Free media server to stream your movies, shows and music.
+  type: open-source
+  github: jellyfin/jellyfin
+  added: 2026-10-28
+- name: Upscayl
+  url: https://upscayl.org
+  desc: Upscale images with AI on your own computer.
+  type: open-source
+  github: upscayl/upscayl
+  added: 2026-10-28
+- name: LosslessCut
+  url: https://github.com/mifi/lossless-cut
+  desc: Cut and trim video and audio instantly without re-encoding.
+  type: open-source
+  github: mifi/lossless-cut
+  added: 2026-10-28
+- name: NewPipe
+  url: https://newpipe.net
+  desc: Lightweight YouTube client for Android without ads or tracking.
+  type: open-source
+  github: TeamNewPipe/NewPipe
+  added: 2026-10-28
+- name: cobalt
+  url: https://cobalt.tools
+  desc: Save videos and audio from many sites with no ads or tracking.
+  type: open-source
+  github: imputnet/cobalt
+  added: 2026-10-28
+- name: OpenCut
+  url: https://github.com/OpenCut-app/OpenCut
+  desc: Open-source CapCut alternative for video editing and timeline composition.
+  type: open-source
+  added: 2026-11-01
+- name: OpenMontage
+  url: https://www.openmontage.video/
+  desc: Open-source video production pipeline coordinating TTS, image generation,
+    and FFmpeg.
+  type: open-source
+  github: calesthio/OpenMontage
+  added: 2026-11-01
+- name: Hyperframes
+  url: https://github.com/heygen-com/hyperframes
+  desc: Write HTML, CSS, and SVG code to render programmatic video for agent workflows.
+  type: open-source
+  added: 2026-11-03
+- name: AutoClip
+  url: https://github.com/zhouxiaoka/autoclip
+  desc: Desktop AI tool that slices long podcasts and interviews into captioned short
+    clips.
+  type: open-source
+  added: 2026-11-03
+- name: DonkeyCut
+  url: https://github.com/DonkeyCut/Donkey
+  desc: Open-source timeline video editor alternative to CapCut.
+  type: open-source
+  added: 2026-11-03
+- name: FreeTube
+  url: https://github.com/FreeTubeApp/FreeTube
+  desc: Privacy-focused open-source desktop YouTube player with no tracking or telemetry.
+  type: open-source
+  added: 2026-11-03
+- name: Screenity
+  url: https://github.com/alyssaxuu/screenity
+  desc: Privacy-friendly browser screen recorder and annotation tool with zero limits.
+  type: open-source
+  added: &id001 2026-11-04
+  gold: true
+- name: PhotoCraft
+  url: https://github.com/storytold/photocraft
+  desc: Fast photo editor and image manipulation utility written from scratch in pure
+    Rust.
+  type: open-source
+  added: *id001
+- name: Openverse
+  url: https://github.com/WordPress/openverse
+  desc: Search engine for over 700 million openly licensed images and audio tracks.
+  type: open-source
+  added: *id001
+- name: Stickman Video Director
+  url: https://github.com/kaomei/stickman-video-director
+  desc: Generate multi-style animated stickman explainer videos directly from scripts.
+  type: open-source
+  added: *id001
+- name: Open Generative AI
+  url: https://github.com/Anil-matcha/Open-Generative-AI
+  desc: Open-source suite for generative video and image generation pipelines.
+  type: open-source
+  added: *id001
+- name: Pixelle Video
+  url: https://github.com/ATH-MaaS/Pixelle-Video
+  desc: Automated engine generating short-form videos with narration and visuals.
+  type: open-source
+  added: *id001

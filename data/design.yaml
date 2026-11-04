@@ -4,125 +4,163 @@ emoji: 🎨
 order: 11
 description: Icons, fonts, photos and design tools that look premium and cost nothing.
 items:
-  - name: Penpot
-    url: https://penpot.app
-    desc: Open-source design and prototyping tool, an alternative to Figma.
-    type: open-source
-    github: penpot/penpot
-    gold: true
-  - name: shadcn/ui
-    url: https://ui.shadcn.com
-    desc: Beautiful, accessible React components you copy into your project.
-    type: open-source
-    github: shadcn-ui/ui
-    gold: true
-  - name: Tailwind CSS
-    url: https://tailwindcss.com
-    desc: Utility-first CSS framework for building any design without leaving your HTML.
-    type: open-source
-    github: tailwindlabs/tailwindcss
-  - name: Excalidraw
-    url: https://excalidraw.com
-    desc: Hand-drawn style whiteboard for diagrams and sketches.
-    type: open-source
-    github: excalidraw/excalidraw
-  - name: Inkscape
-    url: https://inkscape.org
-    desc: Professional vector graphics editor, an alternative to Illustrator.
-    type: open-source
-  - name: GIMP
-    url: https://www.gimp.org
-    desc: Powerful raster image editor, an alternative to Photoshop.
-    type: open-source
-  - name: Krita
-    url: https://krita.org
-    desc: Digital painting app made by artists, for artists.
-    type: open-source
-  - name: Photopea
-    url: https://www.photopea.com
-    desc: Photoshop-like image editor that runs in the browser.
-    type: free
-  - name: Lucide
-    url: https://lucide.dev
-    desc: Clean, consistent open-source icon set.
-    type: open-source
-    github: lucide-icons/lucide
-  - name: Heroicons
-    url: https://heroicons.com
-    desc: Hand-crafted SVG icons from the makers of Tailwind CSS.
-    type: open-source
-    github: tailwindlabs/heroicons
-  - name: Phosphor Icons
-    url: https://phosphoricons.com
-    desc: Flexible icon family with six weights, from thin to duotone.
-    type: open-source
-  - name: Google Fonts
-    url: https://fonts.google.com
-    desc: Large library of free, openly licensed fonts.
-    type: free
-  - name: unDraw
-    url: https://undraw.co
-    desc: Customizable illustrations with no attribution required.
-    type: free
-  - name: Unsplash
-    url: https://unsplash.com
-    desc: Free high-resolution photos for any project.
-    type: free
-  - name: Coolors
-    url: https://coolors.co
-    desc: Generate and explore color palettes in seconds.
-    type: free-tier
-  - name: Realtime Colors
-    url: https://www.realtimecolors.com
-    desc: Preview your color palette and fonts on a real website layout instantly.
-    type: free
-  - name: Haikei
-    url: https://haikei.app
-    desc: Generate unique SVG waves, blobs and backgrounds for your designs.
-    type: free
-  - name: Squoosh
-    url: https://squoosh.app
-    desc: Compress and convert images in the browser while comparing quality side by side.
-    type: open-source
-    github: GoogleChromeLabs/squoosh
-  - name: Tabler Icons
-    url: https://tabler.io/icons
-    desc: Thousands of free, pixel-perfect MIT-licensed SVG icons.
-    type: open-source
-    github: tabler/tabler-icons
-    added: 2026-10-28
-  - name: Iconify
-    url: https://iconify.design
-    desc: 200,000+ open-source icons from 150+ sets in one framework.
-    type: open-source
-    github: iconify/iconify
-    added: 2026-10-28
-  - name: Radix Primitives
-    url: https://www.radix-ui.com
-    desc: Unstyled, accessible React components for design systems.
-    type: open-source
-    github: radix-ui/primitives
-    added: 2026-10-28
-  - name: daisyUI
-    url: https://daisyui.com
-    desc: 'Component classes for Tailwind CSS: cleaner markup, themes built in.'
-    type: open-source
-    github: saadeghi/daisyui
-    added: 2026-10-28
-  - name: Motion
-    url: https://motion.dev
-    desc: Production-grade animation library for React and JavaScript.
-    type: open-source
-    github: motiondivision/motion
-    added: 2026-10-28
-  - name: rembg
-    url: https://github.com/danielgatis/rembg
-    desc: Remove image backgrounds locally with one command.
-    type: open-source
-    github: danielgatis/rembg
-    added: 2026-10-28
-  - name: Fontshare
-    url: https://www.fontshare.com
-    desc: Quality fonts from Indian Type Foundry, free for commercial use.
-    type: free
-    added: 2026-10-28
+- name: Penpot
+  url: https://penpot.app
+  desc: Open-source design and prototyping tool, an alternative to Figma.
+  type: open-source
+  github: penpot/penpot
+  gold: true
+- name: shadcn/ui
+  url: https://ui.shadcn.com
+  desc: Beautiful, accessible React components you copy into your project.
+  type: open-source
+  github: shadcn-ui/ui
+  gold: true
+- name: Tailwind CSS
+  url: https://tailwindcss.com
+  desc: Utility-first CSS framework for building any design without leaving your HTML.
+  type: open-source
+  github: tailwindlabs/tailwindcss
+- name: Excalidraw
+  url: https://excalidraw.com
+  desc: Hand-drawn style whiteboard for diagrams and sketches.
+  type: open-source
+  github: excalidraw/excalidraw
+- name: Inkscape
+  url: https://inkscape.org
+  desc: Professional vector graphics editor, an alternative to Illustrator.
+  type: open-source
+- name: GIMP
+  url: https://www.gimp.org
+  desc: Powerful raster image editor, an alternative to Photoshop.
+  type: open-source
+- name: Krita
+  url: https://krita.org
+  desc: Digital painting app made by artists, for artists.
+  type: open-source
+- name: Photopea
+  url: https://www.photopea.com
+  desc: Photoshop-like image editor that runs in the browser.
+  type: free
+- name: Lucide
+  url: https://lucide.dev
+  desc: Clean, consistent open-source icon set.
+  type: open-source
+  github: lucide-icons/lucide
+- name: Heroicons
+  url: https://heroicons.com
+  desc: Hand-crafted SVG icons from the makers of Tailwind CSS.
+  type: open-source
+  github: tailwindlabs/heroicons
+- name: Phosphor Icons
+  url: https://phosphoricons.com
+  desc: Flexible icon family with six weights, from thin to duotone.
+  type: open-source
+- name: Google Fonts
+  url: https://fonts.google.com
+  desc: Large library of free, openly licensed fonts.
+  type: free
+- name: unDraw
+  url: https://undraw.co
+  desc: Customizable illustrations with no attribution required.
+  type: free
+- name: Unsplash
+  url: https://unsplash.com
+  desc: Free high-resolution photos for any project.
+  type: free
+- name: Coolors
+  url: https://coolors.co
+  desc: Generate and explore color palettes in seconds.
+  type: free-tier
+- name: Realtime Colors
+  url: https://www.realtimecolors.com
+  desc: Preview your color palette and fonts on a real website layout instantly.
+  type: free
+- name: Haikei
+  url: https://haikei.app
+  desc: Generate unique SVG waves, blobs and backgrounds for your designs.
+  type: free
+- name: Squoosh
+  url: https://squoosh.app
+  desc: Compress and convert images in the browser while comparing quality side by
+    side.
+  type: open-source
+  github: GoogleChromeLabs/squoosh
+- name: Tabler Icons
+  url: https://tabler.io/icons
+  desc: Thousands of free, pixel-perfect MIT-licensed SVG icons.
+  type: open-source
+  github: tabler/tabler-icons
+  added: 2026-10-28
+- name: Iconify
+  url: https://iconify.design
+  desc: 200,000+ open-source icons from 150+ sets in one framework.
+  type: open-source
+  github: iconify/iconify
+  added: 2026-10-28
+- name: Radix Primitives
+  url: https://www.radix-ui.com
+  desc: Unstyled, accessible React components for design systems.
+  type: open-source
+  github: radix-ui/primitives
+  added: 2026-10-28
+- name: daisyUI
+  url: https://daisyui.com
+  desc: 'Component classes for Tailwind CSS: cleaner markup, themes built in.'
+  type: open-source
+  github: saadeghi/daisyui
+  added: 2026-10-28
+- name: Motion
+  url: https://motion.dev
+  desc: Production-grade animation library for React and JavaScript.
+  type: open-source
+  github: motiondivision/motion
+  added: 2026-10-28
+- name: rembg
+  url: https://github.com/danielgatis/rembg
+  desc: Remove image backgrounds locally with one command.
+  type: open-source
+  github: danielgatis/rembg
+  added: 2026-10-28
+- name: Fontshare
+  url: https://www.fontshare.com
+  desc: Quality fonts from Indian Type Foundry, free for commercial use.
+  type: free
+  added: 2026-10-28
+- name: tldraw
+  url: https://github.com/tldraw/tldraw
+  desc: Infinite canvas SDK and collaborative digital whiteboard for React applications.
+  type: open-source
+  added: &id001 2026-11-04
+  gold: true
+- name: Excalidraw
+  url: https://github.com/excalidraw/excalidraw
+  desc: Virtual collaborative whiteboard for sketching hand-drawn diagrams and wireframes.
+  type: open-source
+  added: *id001
+  gold: true
+- name: Open Design
+  url: https://github.com/nexu-io/open-design
+  desc: Collaborative local-first AI design agent workspace and canvas.
+  type: open-source
+  added: *id001
+- name: Text to CAD
+  url: https://github.com/earthtojake/text-to-cad
+  desc: Generate physical 3D CAD models and mechanical parts from text descriptions.
+  type: open-source
+  added: *id001
+- name: Scroll World
+  url: https://github.com/oso95/scroll-world
+  desc: Agent skill that turns any brand into an immersive scrollable 3D world.
+  type: open-source
+  added: *id001
+- name: Goldie
+  url: https://github.com/software-mansion-labs/goldie
+  desc: Agentic automated app store screenshot and preview asset generator.
+  type: open-source
+  added: *id001
+- name: Anidoodle
+  url: https://github.com/alexgreensh/anidoodle
+  desc: Art, animation, and interactive motion graphics written purely as code.
+  type: open-source
+  added: *id001

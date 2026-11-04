@@ -4,145 +4,154 @@ emoji: 🔒
 order: 16
 description: Protect your accounts, data and devices, and learn security hands-on.
 items:
-  - name: Bitwarden
-    url: https://bitwarden.com
-    desc: Open-source password manager with a free plan on every device.
-    type: open-source
-    github: bitwarden/clients
-    gold: true
-  - name: uBlock Origin
-    url: https://github.com/gorhill/uBlock
-    desc: Efficient, lightweight ad and tracker blocker.
-    type: open-source
-    gold: true
-  - name: Firefox
-    url: https://www.mozilla.org/firefox/
-    desc: Independent open-source browser with strong tracking protection.
-    type: open-source
-  - name: Signal
-    url: https://signal.org
-    desc: End-to-end encrypted messaging and calls.
-    type: open-source
-  - name: KeePassXC
-    url: https://keepassxc.org
-    desc: Offline open-source password manager.
-    type: open-source
-    github: keepassxreboot/keepassxc
-  - name: Ente Auth
-    url: https://ente.io/auth/
-    desc: Open-source 2FA authenticator with end-to-end encrypted backups.
-    type: open-source
-    github: ente/ente
-  - name: Aegis Authenticator
-    url: https://getaegis.app
-    desc: Secure open-source 2FA app for Android with encrypted backups.
-    type: open-source
-    github: beemdevelopment/Aegis
-  - name: VeraCrypt
-    url: https://www.veracrypt.fr
-    desc: Encrypt whole drives or create encrypted containers for sensitive files.
-    type: open-source
-    github: veracrypt/VeraCrypt
-  - name: Tailscale
-    url: https://tailscale.com
-    desc: Zero-config private network between your devices, free for personal use.
-    type: free-tier
-  - name: Proton Mail
-    url: https://proton.me/mail
-    desc: Encrypted email with a free plan.
-    type: free-tier
-  - name: Have I Been Pwned
-    url: https://haveibeenpwned.com
-    desc: Check whether your email address appeared in a data breach.
-    type: free
-  - name: Privacy Guides
-    url: https://www.privacyguides.org
-    desc: Independent, non-profit recommendations for privacy tools.
-    type: free
-  - name: OWASP Top 10
-    url: https://owasp.org/www-project-top-ten/
-    desc: The most critical web application security risks every developer should know.
-    type: free
-  - name: TryHackMe
-    url: https://tryhackme.com
-    desc: Learn cybersecurity through guided, hands-on labs in the browser.
-    type: free-tier
-  - name: OverTheWire Wargames
-    url: https://overthewire.org/wargames/
-    desc: Learn Linux and security concepts through progressively harder games.
-    type: free
-  - name: The Book of Secret Knowledge
-    url: https://github.com/trimstray/the-book-of-secret-knowledge
-    desc: Huge collection of sysadmin, security and command-line cheatsheets.
-    type: open-source
-  - name: Wireshark
-    url: https://www.wireshark.org
-    desc: The standard tool to capture and inspect network traffic.
-    type: open-source
-    github: wireshark/wireshark
-    added: 2026-10-28
-  - name: Pi-hole
-    url: https://pi-hole.net
-    desc: Network-wide ad and tracker blocking via your own DNS.
-    type: open-source
-    github: pi-hole/pi-hole
-    added: 2026-10-28
-  - name: Vaultwarden
-    url: https://github.com/dani-garcia/vaultwarden
-    desc: Lightweight self-hosted server compatible with Bitwarden apps.
-    type: open-source
-    github: dani-garcia/vaultwarden
-    added: 2026-10-28
-  - name: PortSwigger Web Security Academy
-    url: https://portswigger.net/web-security
-    desc: Free hands-on labs for every major web vulnerability.
-    type: free
-    gold: true
-    added: 2026-10-28
-  - name: CyberChef
-    url: https://gchq.github.io/CyberChef/
-    desc: The cyber Swiss Army knife for encoding, decoding and analysis.
-    type: open-source
-    github: gchq/CyberChef
-    added: 2026-10-28
-  - name: Ghidra
-    url: https://ghidra-sre.org
-    desc: NSA's software reverse engineering suite.
-    type: open-source
-    github: NationalSecurityAgency/ghidra
-    added: 2026-10-28
-  - name: PayloadsAllTheThings
-    url: https://github.com/swisskyrepo/PayloadsAllTheThings
-    desc: Payloads and bypasses for web application security testing.
-    type: open-source
-    github: swisskyrepo/PayloadsAllTheThings
-    added: 2026-10-28
-  - name: Nuclei
-    url: https://github.com/projectdiscovery/nuclei
-    desc: Fast, template-based vulnerability scanner.
-    type: open-source
-    github: projectdiscovery/nuclei
-    added: 2026-10-28
-  - name: RuView
-    url: https://Cognitum.One/RuView
-    desc: Turns commodity WiFi signals into real-time spatial intelligence and presence detection.
-    type: open-source
-    github: ruvnet/RuView
-    added: 2026-11-01
-  - name: Strix
-    url: https://www.strix.ai/
-    desc: Open-source autonomous AI penetration testing tool that finds application vulnerabilities.
-    type: open-source
-    github: usestrix/strix
-    added: 2026-11-01
-  - name: Maigret
-    url: https://maigret.app/gh
-    desc: OSINT investigation tool that collects dossiers on usernames across 6,000 websites.
-    type: open-source
-    github: soxoj/maigret
-    added: 2026-11-03
-  - name: CloakBrowser
-    url: https://github.com/CloakHQ/CloakBrowser
-    desc: Anti-detect Chromium browser engine built to pass advanced bot mitigation checks.
-    type: open-source
-    added: 2026-11-03
+- name: Bitwarden
+  url: https://bitwarden.com
+  desc: Open-source password manager with a free plan on every device.
+  type: open-source
+  github: bitwarden/clients
+  gold: true
+- name: uBlock Origin
+  url: https://github.com/gorhill/uBlock
+  desc: Efficient, lightweight ad and tracker blocker.
+  type: open-source
+  gold: true
+- name: Firefox
+  url: https://www.mozilla.org/firefox/
+  desc: Independent open-source browser with strong tracking protection.
+  type: open-source
+- name: Signal
+  url: https://signal.org
+  desc: End-to-end encrypted messaging and calls.
+  type: open-source
+- name: KeePassXC
+  url: https://keepassxc.org
+  desc: Offline open-source password manager.
+  type: open-source
+  github: keepassxreboot/keepassxc
+- name: Ente Auth
+  url: https://ente.io/auth/
+  desc: Open-source 2FA authenticator with end-to-end encrypted backups.
+  type: open-source
+  github: ente/ente
+- name: Aegis Authenticator
+  url: https://getaegis.app
+  desc: Secure open-source 2FA app for Android with encrypted backups.
+  type: open-source
+  github: beemdevelopment/Aegis
+- name: VeraCrypt
+  url: https://www.veracrypt.fr
+  desc: Encrypt whole drives or create encrypted containers for sensitive files.
+  type: open-source
+  github: veracrypt/VeraCrypt
+- name: Tailscale
+  url: https://tailscale.com
+  desc: Zero-config private network between your devices, free for personal use.
+  type: free-tier
+- name: Proton Mail
+  url: https://proton.me/mail
+  desc: Encrypted email with a free plan.
+  type: free-tier
+- name: Have I Been Pwned
+  url: https://haveibeenpwned.com
+  desc: Check whether your email address appeared in a data breach.
+  type: free
+- name: Privacy Guides
+  url: https://www.privacyguides.org
+  desc: Independent, non-profit recommendations for privacy tools.
+  type: free
+- name: OWASP Top 10
+  url: https://owasp.org/www-project-top-ten/
+  desc: The most critical web application security risks every developer should know.
+  type: free
+- name: TryHackMe
+  url: https://tryhackme.com
+  desc: Learn cybersecurity through guided, hands-on labs in the browser.
+  type: free-tier
+- name: OverTheWire Wargames
+  url: https://overthewire.org/wargames/
+  desc: Learn Linux and security concepts through progressively harder games.
+  type: free
+- name: The Book of Secret Knowledge
+  url: https://github.com/trimstray/the-book-of-secret-knowledge
+  desc: Huge collection of sysadmin, security and command-line cheatsheets.
+  type: open-source
+- name: Wireshark
+  url: https://www.wireshark.org
+  desc: The standard tool to capture and inspect network traffic.
+  type: open-source
+  github: wireshark/wireshark
+  added: 2026-10-28
+- name: Pi-hole
+  url: https://pi-hole.net
+  desc: Network-wide ad and tracker blocking via your own DNS.
+  type: open-source
+  github: pi-hole/pi-hole
+  added: 2026-10-28
+- name: Vaultwarden
+  url: https://github.com/dani-garcia/vaultwarden
+  desc: Lightweight self-hosted server compatible with Bitwarden apps.
+  type: open-source
+  github: dani-garcia/vaultwarden
+  added: 2026-10-28
+- name: PortSwigger Web Security Academy
+  url: https://portswigger.net/web-security
+  desc: Free hands-on labs for every major web vulnerability.
+  type: free
+  gold: true
+  added: 2026-10-28
+- name: CyberChef
+  url: https://gchq.github.io/CyberChef/
+  desc: The cyber Swiss Army knife for encoding, decoding and analysis.
+  type: open-source
+  github: gchq/CyberChef
+  added: 2026-10-28
+- name: Ghidra
+  url: https://ghidra-sre.org
+  desc: NSA's software reverse engineering suite.
+  type: open-source
+  github: NationalSecurityAgency/ghidra
+  added: 2026-10-28
+- name: PayloadsAllTheThings
+  url: https://github.com/swisskyrepo/PayloadsAllTheThings
+  desc: Payloads and bypasses for web application security testing.
+  type: open-source
+  github: swisskyrepo/PayloadsAllTheThings
+  added: 2026-10-28
+- name: Nuclei
+  url: https://github.com/projectdiscovery/nuclei
+  desc: Fast, template-based vulnerability scanner.
+  type: open-source
+  github: projectdiscovery/nuclei
+  added: 2026-10-28
+- name: RuView
+  url: https://Cognitum.One/RuView
+  desc: Turns commodity WiFi signals into real-time spatial intelligence and presence
+    detection.
+  type: open-source
+  github: ruvnet/RuView
+  added: 2026-11-01
+- name: Strix
+  url: https://www.strix.ai/
+  desc: Open-source autonomous AI penetration testing tool that finds application
+    vulnerabilities.
+  type: open-source
+  github: usestrix/strix
+  added: 2026-11-01
+- name: Maigret
+  url: https://maigret.app/gh
+  desc: OSINT investigation tool that collects dossiers on usernames across 6,000
+    websites.
+  type: open-source
+  github: soxoj/maigret
+  added: 2026-11-03
+- name: CloakBrowser
+  url: https://github.com/CloakHQ/CloakBrowser
+  desc: Anti-detect Chromium browser engine built to pass advanced bot mitigation
+    checks.
+  type: open-source
+  added: 2026-11-03
+- name: WhatsMyName
+  url: https://github.com/WebBreacher/WhatsMyName
+  desc: OSINT username reconnaissance tool searching across 700+ websites and platforms.
+  type: open-source
+  added: 2026-11-04

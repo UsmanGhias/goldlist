@@ -111,8 +111,13 @@ def classify_repo(r):
     return "dev-tools"
 
 def main():
-    with open("/tmp/starred_all.json") as f:
-        repos = json.load(f)
+    print("Fetching all starred repositories from GitHub...")
+    cmd = ["gh", "api", "--paginate", "user/starred"]
+    res = subprocess.run(cmd, capture_output=True, text=True)
+    if res.returncode != 0:
+        print(f"Error fetching starred repos: {res.stderr}")
+        sys.exit(1)
+    repos = json.loads(res.stdout)
 
     print(f"Loaded {len(repos)} starred repositories.")
     success_count = 0

@@ -2,149 +2,189 @@ title: Productivity & Everyday Apps
 short: Productivity
 emoji: ⚡
 order: 13
-description: Notes, office apps and utilities, mostly open-source alternatives to paid apps.
+description: Notes, office apps and utilities, mostly open-source alternatives to
+  paid apps.
 items:
-  - name: Obsidian
-    url: https://obsidian.md
-    desc: Local-first markdown notes with backlinks and a huge plugin ecosystem.
-    type: free
-    gold: true
-  - name: LocalSend
-    url: https://localsend.org
-    desc: Share files between nearby devices with no internet or account.
-    type: open-source
-    github: localsend/localsend
-    gold: true
-  - name: Logseq
-    url: https://logseq.com
-    desc: Open-source outliner for notes, journals and knowledge graphs.
-    type: open-source
-    github: logseq/logseq
-  - name: Joplin
-    url: https://joplinapp.org
-    desc: Open-source note app with end-to-end encrypted sync.
-    type: open-source
-    github: laurent22/joplin
-  - name: AppFlowy
-    url: https://appflowy.io
-    desc: Open-source alternative to Notion that you can self-host.
-    type: open-source
-    github: AppFlowy-IO/AppFlowy
-  - name: Super Productivity
-    url: https://super-productivity.com
-    desc: To-do list with time tracking, timeboxing and Jira/GitHub integration.
-    type: open-source
-    github: super-productivity/super-productivity
-  - name: LibreOffice
-    url: https://www.libreoffice.org
-    desc: Full office suite for documents, spreadsheets and slides.
-    type: open-source
-  - name: Thunderbird
-    url: https://www.thunderbird.net
-    desc: Email, calendar and contacts in one open-source app.
-    type: open-source
-  - name: Syncthing
-    url: https://syncthing.net
-    desc: Sync folders between your devices privately, with no cloud in between.
-    type: open-source
-    github: syncthing/syncthing
-  - name: Espanso
-    url: https://espanso.org
-    desc: Cross-platform text expander that saves you from typing the same things again.
-    type: open-source
-    github: espanso/espanso
-  - name: Flameshot
-    url: https://flameshot.org
-    desc: Screenshot tool with instant annotation, arrows and blur.
-    type: open-source
-    github: flameshot-org/flameshot
-  - name: ShareX
-    url: https://getsharex.com
-    desc: Windows power tool for screenshots, screen recording and instant sharing.
-    type: open-source
-    github: ShareX/ShareX
-  - name: Rectangle
-    url: https://rectangleapp.com
-    desc: Snap and arrange macOS windows with keyboard shortcuts.
-    type: open-source
-    github: rxhanson/Rectangle
-  - name: PowerToys
-    url: https://github.com/microsoft/PowerToys
-    desc: Microsoft's power-user utilities for Windows.
-    type: open-source
-  - name: 7-Zip
-    url: https://www.7-zip.org
-    desc: File archiver with a high compression ratio that opens almost any archive.
-    type: open-source
-  - name: AFFiNE
-    url: https://affine.pro
-    desc: Docs, whiteboards and databases in one, a Notion + Miro alternative.
-    type: open-source
-    github: toeverything/AFFiNE
-    added: 2026-10-28
-  - name: Anytype
-    url: https://anytype.io
-    desc: Local-first, encrypted, everything app for notes and knowledge.
-    type: open-source
-    github: anyproto/anytype-ts
-    added: 2026-10-28
-  - name: Stirling-PDF
-    url: https://www.stirlingpdf.com
-    desc: Self-hosted toolkit to merge, split, sign, OCR and edit PDFs.
-    type: open-source
-    github: Stirling-Tools/Stirling-PDF
-    gold: true
-    added: 2026-10-28
-  - name: Raycast
-    url: https://www.raycast.com
-    desc: Fast launcher for Mac with extensions, clipboard history and snippets.
-    type: free
-    added: 2026-10-28
-  - name: Everything
-    url: https://www.voidtools.com
-    desc: Find any file on Windows instantly by name.
-    type: free
-    added: 2026-10-28
-  - name: Nextcloud
-    url: https://nextcloud.com
-    desc: Self-hosted cloud for files, calendar, contacts and office.
-    type: open-source
-    github: nextcloud/server
-    added: 2026-10-28
-  - name: Puter
-    url: https://puter.com
-    desc: Open-source desktop operating system in the browser with personal cloud storage.
-    type: open-source
-    github: HeyPuter/puter
-    added: 2026-11-02
-  - name: Calibre
-    url: https://calibre-ebook.com
-    desc: Manage, convert and read your entire ebook library, and sync it to any e-reader.
-    type: open-source
-    github: kovidgoyal/calibre
-    added: 2026-10-27
-  - name: RustDesk
-    url: https://github.com/rustdesk/rustdesk
-    desc: Open-source virtual and remote desktop infrastructure with full self-hosting.
-    type: open-source
-    added: 2026-11-03
-  - name: Puter
-    url: https://github.com/HeyPuter/puter
-    desc: Open-source browser desktop operating system with personal cloud storage.
-    type: open-source
-    added: 2026-11-03
-  - name: Meetily
-    url: https://github.com/Zackriya-Solutions/meetily
-    desc: Local-first open-source AI meeting transcription and automated note taker.
-    type: open-source
-    added: 2026-11-03
-  - name: Documenso
-    url: https://github.com/documenso/documenso
-    desc: Open-source digital signature alternative for document verification and signing.
-    type: open-source
-    added: 2026-11-03
-  - name: 9Drive
-    url: https://github.com/zenhosta/9drive
-    desc: Self-hosted storage gateway web application connecting multiple cloud drives.
-    type: open-source
-    added: 2026-11-03
+- name: Obsidian
+  url: https://obsidian.md
+  desc: Local-first markdown notes with backlinks and a huge plugin ecosystem.
+  type: free
+  gold: true
+- name: LocalSend
+  url: https://localsend.org
+  desc: Share files between nearby devices with no internet or account.
+  type: open-source
+  github: localsend/localsend
+  gold: true
+- name: Logseq
+  url: https://logseq.com
+  desc: Open-source outliner for notes, journals and knowledge graphs.
+  type: open-source
+  github: logseq/logseq
+- name: Joplin
+  url: https://joplinapp.org
+  desc: Open-source note app with end-to-end encrypted sync.
+  type: open-source
+  github: laurent22/joplin
+- name: AppFlowy
+  url: https://appflowy.io
+  desc: Open-source alternative to Notion that you can self-host.
+  type: open-source
+  github: AppFlowy-IO/AppFlowy
+- name: Super Productivity
+  url: https://super-productivity.com
+  desc: To-do list with time tracking, timeboxing and Jira/GitHub integration.
+  type: open-source
+  github: super-productivity/super-productivity
+- name: LibreOffice
+  url: https://www.libreoffice.org
+  desc: Full office suite for documents, spreadsheets and slides.
+  type: open-source
+- name: Thunderbird
+  url: https://www.thunderbird.net
+  desc: Email, calendar and contacts in one open-source app.
+  type: open-source
+- name: Syncthing
+  url: https://syncthing.net
+  desc: Sync folders between your devices privately, with no cloud in between.
+  type: open-source
+  github: syncthing/syncthing
+- name: Espanso
+  url: https://espanso.org
+  desc: Cross-platform text expander that saves you from typing the same things again.
+  type: open-source
+  github: espanso/espanso
+- name: Flameshot
+  url: https://flameshot.org
+  desc: Screenshot tool with instant annotation, arrows and blur.
+  type: open-source
+  github: flameshot-org/flameshot
+- name: ShareX
+  url: https://getsharex.com
+  desc: Windows power tool for screenshots, screen recording and instant sharing.
+  type: open-source
+  github: ShareX/ShareX
+- name: Rectangle
+  url: https://rectangleapp.com
+  desc: Snap and arrange macOS windows with keyboard shortcuts.
+  type: open-source
+  github: rxhanson/Rectangle
+- name: PowerToys
+  url: https://github.com/microsoft/PowerToys
+  desc: Microsoft's power-user utilities for Windows.
+  type: open-source
+- name: 7-Zip
+  url: https://www.7-zip.org
+  desc: File archiver with a high compression ratio that opens almost any archive.
+  type: open-source
+- name: AFFiNE
+  url: https://affine.pro
+  desc: Docs, whiteboards and databases in one, a Notion + Miro alternative.
+  type: open-source
+  github: toeverything/AFFiNE
+  added: 2026-10-28
+- name: Anytype
+  url: https://anytype.io
+  desc: Local-first, encrypted, everything app for notes and knowledge.
+  type: open-source
+  github: anyproto/anytype-ts
+  added: 2026-10-28
+- name: Stirling-PDF
+  url: https://www.stirlingpdf.com
+  desc: Self-hosted toolkit to merge, split, sign, OCR and edit PDFs.
+  type: open-source
+  github: Stirling-Tools/Stirling-PDF
+  gold: true
+  added: 2026-10-28
+- name: Raycast
+  url: https://www.raycast.com
+  desc: Fast launcher for Mac with extensions, clipboard history and snippets.
+  type: free
+  added: 2026-10-28
+- name: Everything
+  url: https://www.voidtools.com
+  desc: Find any file on Windows instantly by name.
+  type: free
+  added: 2026-10-28
+- name: Nextcloud
+  url: https://nextcloud.com
+  desc: Self-hosted cloud for files, calendar, contacts and office.
+  type: open-source
+  github: nextcloud/server
+  added: 2026-10-28
+- name: Puter
+  url: https://puter.com
+  desc: Open-source desktop operating system in the browser with personal cloud storage.
+  type: open-source
+  github: HeyPuter/puter
+  added: 2026-11-02
+- name: Calibre
+  url: https://calibre-ebook.com
+  desc: Manage, convert and read your entire ebook library, and sync it to any e-reader.
+  type: open-source
+  github: kovidgoyal/calibre
+  added: 2026-10-27
+- name: RustDesk
+  url: https://github.com/rustdesk/rustdesk
+  desc: Open-source virtual and remote desktop infrastructure with full self-hosting.
+  type: open-source
+  added: 2026-11-03
+- name: Puter
+  url: https://github.com/HeyPuter/puter
+  desc: Open-source browser desktop operating system with personal cloud storage.
+  type: open-source
+  added: 2026-11-03
+- name: Meetily
+  url: https://github.com/Zackriya-Solutions/meetily
+  desc: Local-first open-source AI meeting transcription and automated note taker.
+  type: open-source
+  added: 2026-11-03
+- name: Documenso
+  url: https://github.com/documenso/documenso
+  desc: Open-source digital signature alternative for document verification and signing.
+  type: open-source
+  added: 2026-11-03
+- name: 9Drive
+  url: https://github.com/zenhosta/9drive
+  desc: Self-hosted storage gateway web application connecting multiple cloud drives.
+  type: open-source
+  added: 2026-11-03
+- name: zoxide
+  url: https://github.com/ajeetdsouza/zoxide
+  desc: Smarter cd command that learns navigation habits and jumps across folders
+    fast.
+  type: open-source
+  added: &id001 2026-11-04
+  gold: true
+- name: Coucou
+  url: https://github.com/Louis-CFM/coucou
+  desc: Mac notch and Lock Screen monitor for autonomous coding agents with one-click
+    review.
+  type: open-source
+  added: *id001
+- name: PDF Arranger
+  url: https://github.com/pdfarranger/pdfarranger
+  desc: Lightweight utility to merge, split, rotate, crop, and reorder PDF pages.
+  type: open-source
+  added: *id001
+- name: APITable
+  url: https://github.com/apitable/apitable
+  desc: API-oriented open-source low-code collaborative spreadsheet and database.
+  type: open-source
+  added: *id001
+- name: Beamer
+  url: https://github.com/kalkman-code/beamer
+  desc: Share one keyboard and mouse across Mac and Windows PC over local network.
+  type: open-source
+  added: *id001
+- name: OpenGym
+  url: https://github.com/DuarteSantos8/openGym
+  desc: Open-source privacy-focused workout, bodyweight, and gym routine tracker.
+  type: open-source
+  added: *id001
+- name: No AI Slop
+  url: https://github.com/petergyang/no-ai-slop
+  desc: CLI and prompt tool that strips 20+ patterns of AI filler and buzzwords from
+    prose.
+  type: open-source
+  added: *id001

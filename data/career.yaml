@@ -2,76 +2,91 @@ title: Career & Interviews
 short: Career
 emoji: 🧭
 order: 2
-description: Resumes, interview prep and salary data to land the offer and negotiate it.
+description: Resumes, interview prep and salary data to land the offer and negotiate
+  it.
 items:
-  - name: Tech Interview Handbook
-    url: https://www.techinterviewhandbook.org
-    desc: Concise interview prep covering algorithm cheatsheets, behavioral questions and resume tips.
-    type: open-source
-    github: yangshun/tech-interview-handbook
-    gold: true
-  - name: System Design Primer
-    url: https://github.com/donnemartin/system-design-primer
-    desc: The classic guide to designing large-scale systems, with Anki flashcards.
-    type: open-source
-    gold: true
-  - name: Reactive Resume
-    url: https://rxresu.me
-    desc: Open-source resume builder with no ads or tracking, exporting to PDF.
-    type: open-source
-    github: reactive-resume/reactive-resume
-    gold: true
-  - name: Grind 75
-    url: https://www.techinterviewhandbook.org/grind75
-    desc: Customizable week-by-week LeetCode study plan from the author of Blind 75.
-    type: free
-  - name: Coding Interview University
-    url: https://github.com/jwasham/coding-interview-university
-    desc: Multi-month self-study plan for becoming a software engineer.
-    type: open-source
-  - name: NeetCode
-    url: https://neetcode.io
-    desc: Structured LeetCode roadmap with free video explanations for every problem.
-    type: free-tier
-  - name: LeetCode
-    url: https://leetcode.com
-    desc: The standard platform for practicing coding interview problems.
-    type: free-tier
-  - name: Resume Matcher
-    url: https://github.com/srbhr/Resume-Matcher
-    desc: Compares your resume with a job description and suggests keywords to improve your match.
-    type: open-source
-  - name: JSON Resume
-    url: https://jsonresume.org
-    desc: Open standard for writing your resume as JSON, with themes to render it.
-    type: open-source
-  - name: Overleaf CV Templates
-    url: https://www.overleaf.com/latex/templates/tagged/cv
-    desc: Professional LaTeX CV templates you can edit right in the browser.
-    type: free-tier
-  - name: Big-O Cheat Sheet
-    url: https://www.bigocheatsheet.com
-    desc: Time and space complexity of common algorithms and data structures on one page.
-    type: free
-  - name: Levels.fyi
-    url: https://www.levels.fyi
-    desc: Crowdsourced compensation data by company, level and location.
-    type: free
-  - name: Awesome System Design Resources
-    url: https://github.com/ashishps1/awesome-system-design-resources
-    desc: Free resources to learn system design concepts and prep interviews.
-    type: open-source
-    github: ashishps1/awesome-system-design-resources
-    added: 2026-10-28
-  - name: The Algorithms (Python)
-    url: https://github.com/TheAlgorithms/Python
-    desc: Every classic algorithm implemented in Python.
-    type: open-source
-    github: TheAlgorithms/Python
-    added: 2026-10-28
-  - name: JavaScript Algorithms
-    url: https://github.com/trekhleb/javascript-algorithms
-    desc: Algorithms and data structures in JavaScript with explanations.
-    type: open-source
-    github: trekhleb/javascript-algorithms
-    added: 2026-10-28
+- name: Tech Interview Handbook
+  url: https://www.techinterviewhandbook.org
+  desc: Concise interview prep covering algorithm cheatsheets, behavioral questions
+    and resume tips.
+  type: open-source
+  github: yangshun/tech-interview-handbook
+  gold: true
+- name: System Design Primer
+  url: https://github.com/donnemartin/system-design-primer
+  desc: The classic guide to designing large-scale systems, with Anki flashcards.
+  type: open-source
+  gold: true
+- name: Reactive Resume
+  url: https://rxresu.me
+  desc: Open-source resume builder with no ads or tracking, exporting to PDF.
+  type: open-source
+  github: reactive-resume/reactive-resume
+  gold: true
+- name: Grind 75
+  url: https://www.techinterviewhandbook.org/grind75
+  desc: Customizable week-by-week LeetCode study plan from the author of Blind 75.
+  type: free
+- name: Coding Interview University
+  url: https://github.com/jwasham/coding-interview-university
+  desc: Multi-month self-study plan for becoming a software engineer.
+  type: open-source
+- name: NeetCode
+  url: https://neetcode.io
+  desc: Structured LeetCode roadmap with free video explanations for every problem.
+  type: free-tier
+- name: LeetCode
+  url: https://leetcode.com
+  desc: The standard platform for practicing coding interview problems.
+  type: free-tier
+- name: Resume Matcher
+  url: https://github.com/srbhr/Resume-Matcher
+  desc: Compares your resume with a job description and suggests keywords to improve
+    your match.
+  type: open-source
+- name: JSON Resume
+  url: https://jsonresume.org
+  desc: Open standard for writing your resume as JSON, with themes to render it.
+  type: open-source
+- name: Overleaf CV Templates
+  url: https://www.overleaf.com/latex/templates/tagged/cv
+  desc: Professional LaTeX CV templates you can edit right in the browser.
+  type: free-tier
+- name: Big-O Cheat Sheet
+  url: https://www.bigocheatsheet.com
+  desc: Time and space complexity of common algorithms and data structures on one
+    page.
+  type: free
+- name: Levels.fyi
+  url: https://www.levels.fyi
+  desc: Crowdsourced compensation data by company, level and location.
+  type: free
+- name: Awesome System Design Resources
+  url: https://github.com/ashishps1/awesome-system-design-resources
+  desc: Free resources to learn system design concepts and prep interviews.
+  type: open-source
+  github: ashishps1/awesome-system-design-resources
+  added: 2026-10-28
+- name: The Algorithms (Python)
+  url: https://github.com/TheAlgorithms/Python
+  desc: Every classic algorithm implemented in Python.
+  type: open-source
+  github: TheAlgorithms/Python
+  added: 2026-10-28
+- name: JavaScript Algorithms
+  url: https://github.com/trekhleb/javascript-algorithms
+  desc: Algorithms and data structures in JavaScript with explanations.
+  type: open-source
+  github: trekhleb/javascript-algorithms
+  added: 2026-10-28
+- name: Developer Portfolios
+  url: https://github.com/emmabostian/developer-portfolios
+  desc: Curated showcase of stellar software developer portfolio websites for inspiration.
+  type: open-source
+  added: &id001 2026-11-04
+- name: Data Science Interview Q&A
+  url: https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers
+  desc: Curated preparation questions and answers covering data science and machine
+    learning.
+  type: open-source
+  added: *id001
