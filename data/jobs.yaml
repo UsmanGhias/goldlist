@@ -4,6 +4,19 @@ emoji: 💼
 order: 1
 description: Where real openings get posted first, from remote boards to curated GitHub lists.
 items:
+  - name: Clivora Web
+    url: https://clivora.io
+    desc: Open-source freelancer OS with zero-commission milestone escrow and automated remote job crawler.
+    type: open-source
+    gold: true
+    github: UsmanGhias/clivora-web
+    added: 2026-11-04
+  - name: Clivora App
+    url: https://github.com/UsmanGhias/clivora
+    desc: Open-source offline-first mobile app for freelance CRM, client portals, and milestone invoicing.
+    type: open-source
+    gold: true
+    added: 2026-11-04
   - name: freehire
     url: https://freehire.me
     desc: IT job postings from many boards in one search, each linked back to the original posting.

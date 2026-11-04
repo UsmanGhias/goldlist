@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 468,
+  "total": 470,
   "categories": [
     {
       "slug": "jobs",
@@ -10,6 +10,24 @@
       "emoji": "💼",
       "description": "Where real openings get posted first, from remote boards to curated GitHub lists.",
       "items": [
+        {
+          "name": "Clivora Web",
+          "url": "https://clivora.io",
+          "description": "Open-source freelancer OS with zero-commission milestone escrow and automated remote job crawler.",
+          "type": "open-source",
+          "gold": true,
+          "github": "UsmanGhias/clivora-web",
+          "added": "2026-11-04"
+        },
+        {
+          "name": "Clivora App",
+          "url": "https://github.com/UsmanGhias/clivora",
+          "description": "Open-source offline-first mobile app for freelance CRM, client portals, and milestone invoicing.",
+          "type": "open-source",
+          "gold": true,
+          "github": "UsmanGhias/clivora",
+          "added": "2026-11-04"
+        },
         {
           "name": "freehire",
           "url": "https://freehire.me",

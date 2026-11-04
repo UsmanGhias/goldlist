@@ -510,6 +510,113 @@
     }
     .stat-star-link:hover { color: var(--text); }
 
+    /* Featured Clivora Spotlight Card */
+    .spotlight-card {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      max-width: 960px;
+      margin: 14px auto 0;
+      padding: 12px 18px;
+      background: linear-gradient(135deg, rgba(217, 119, 6, 0.06), rgba(15, 23, 42, 0.02));
+      border: 1px solid rgba(217, 119, 6, 0.35);
+      border-radius: 12px;
+      box-shadow: 0 2px 12px rgba(217, 119, 6, 0.08);
+      box-sizing: border-box;
+      width: 100%;
+    }
+    .spotlight-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      font-size: 10.5px;
+      font-weight: 700;
+      color: var(--gold-dark);
+      background: var(--gold-bg);
+      border: 1px solid var(--gold-border);
+      padding: 3px 8px;
+      border-radius: 6px;
+      letter-spacing: 0.5px;
+      flex-shrink: 0;
+    }
+    .spotlight-body {
+      flex: 1;
+      min-width: 0;
+      text-align: left;
+    }
+    .spotlight-title {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 3px;
+    }
+    .spotlight-name {
+      font-weight: 700;
+      font-size: 14.5px;
+      color: var(--text);
+    }
+    .spotlight-desc {
+      font-size: 12.5px;
+      color: var(--text-muted);
+      margin: 0;
+      line-height: 1.4;
+    }
+    .spotlight-cta {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+    .spotlight-primary-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: var(--gold);
+      color: #000;
+      font-weight: 600;
+      font-size: 12px;
+      padding: 6px 14px;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: background 0.15s ease, transform 0.15s ease;
+    }
+    .spotlight-primary-btn:hover {
+      background: var(--gold-light);
+      transform: translateY(-1px);
+    }
+    .spotlight-secondary-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: var(--surface);
+      color: var(--text);
+      border: 1px solid var(--border);
+      font-weight: 600;
+      font-size: 12px;
+      padding: 6px 12px;
+      border-radius: 8px;
+      text-decoration: none;
+      transition: border-color 0.15s ease, color 0.15s ease;
+    }
+    .spotlight-secondary-btn:hover {
+      border-color: var(--text);
+      color: var(--text);
+    }
+    @media (max-width: 768px) {
+      .spotlight-card {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+        padding: 12px 14px;
+      }
+      .spotlight-cta {
+        width: 100%;
+        justify-content: flex-start;
+      }
+    }
+
     /* Section Tag: // Section Name */
     .section-header {
       display: flex;
@@ -1140,7 +1247,7 @@
         <span>LINK-CHECKED WEEKLY &bull; ZERO ADS &bull; 100% FREE</span>
       </div>
       <h1>Every elite tool, <br><span class="gradient">straight from the source.</span></h1>
-      <p class="lead">468 verified open-source tools, AI coding agents, skills, and developer tiers.</p>
+      <p class="lead">470 verified open-source tools, AI coding agents, skills, and developer tiers.</p>
 
       <!-- Signature Floating Search Bar (Freehire-style) -->
       <div class="search-container" role="search">
@@ -1160,18 +1267,43 @@
 
       <!-- Compact Single-Line Stats Strip -->
       <div class="stats-pills font-mono">
-        <span><strong id="stat-total">468</strong> tools</span>
+        <span><strong id="stat-total">470</strong> tools</span>
         <span class="stat-sep">&bull;</span>
         <span><strong id="stat-cats">16</strong> categories</span>
         <span class="stat-sep">&bull;</span>
-        <span><strong id="stat-oss">340</strong> open source</span>
+        <span><strong id="stat-oss">342</strong> open source</span>
         <span class="stat-sep">&bull;</span>
-        <span><strong id="stat-gold">66</strong> gold picks</span>
+        <span><strong id="stat-gold">68</strong> gold picks</span>
         <span class="stat-sep">&bull;</span>
         <a href="https://github.com/UsmanGhias/goldlist" target="_blank" rel="noopener" class="stat-star-link">
           <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>
           <span>Star on GitHub</span>
         </a>
+      </div>
+
+      <!-- Featured Clivora Spotlight Card -->
+      <div class="spotlight-card">
+        <div class="spotlight-badge font-mono">★ SPOTLIGHT</div>
+        <div class="spotlight-body">
+          <div class="spotlight-title">
+            <span class="spotlight-name">Clivora Freelancer OS</span>
+            <span class="type-pill open-source"><span class="dot"></span>Open source</span>
+            <span class="gold-badge">★ Top Pick</span>
+          </div>
+          <p class="spotlight-desc">
+            Zero-commission freelance client portal, automated remote job crawler indexing 13,800+ live positions, milestone escrow, and offline-first mobile app.
+          </p>
+        </div>
+        <div class="spotlight-cta">
+          <a href="https://clivora.io" target="_blank" rel="noopener" class="spotlight-primary-btn">
+            <span>Open Clivora Web</span>
+            <span class="arrow">&nearr;</span>
+          </a>
+          <a href="https://github.com/UsmanGhias/clivora" target="_blank" rel="noopener" class="spotlight-secondary-btn">
+            <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2A10 10 0 0 0 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.1-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2z"/></svg>
+            <span>Clivora App</span>
+          </a>
+        </div>
       </div>
     </div>
   </section>
@@ -1577,7 +1709,10 @@
             $("repo-stars").textContent = fmt(s.repoStars);
             $("repo-stars").hidden = false;
             const fs = $("floating-stars");
-            if (fs) fs.textContent = fmt(s.repoStars);
+            if (fs) {
+              fs.textContent = fmt(s.repoStars);
+              fs.hidden = false;
+            }
           }
         }
       } catch {}
@@ -1610,7 +1745,7 @@
   <a class="floating-star" href="https://github.com/UsmanGhias/goldlist" target="_blank" rel="noopener" aria-label="Star GoldList on GitHub">
     <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2L15.09 8.26L22 9.27L17 14.14L18.18 21.02L12 17.77L5.82 21.02L7 14.14L2 9.27L8.91 8.26L12 2Z"/></svg>
     <span>Star on GitHub</span>
-    <span class="star-pill font-mono" id="floating-stars">400+</span>
+    <span class="star-pill font-mono" id="floating-stars" hidden></span>
   </a>
 </body>
 </html>

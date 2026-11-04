@@ -11,13 +11,13 @@
 <h3>Only the gold. Everything else is noise.</h3>
 
 <p>
-  <b>468 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
+  <b>470 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
   learning, building products, and staying secure. Sorted across 16 categories and verified every week.
 </p>
 
-[![Entries](https://img.shields.io/badge/entries-468-d4af37?style=flat-square&labelColor=24292f)](#contents)
-[![Gold picks](https://img.shields.io/badge/gold_picks-66-d4af37?style=flat-square&labelColor=24292f)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-340-2ea44f?style=flat-square&labelColor=24292f)](#contents)
+[![Entries](https://img.shields.io/badge/entries-470-d4af37?style=flat-square&labelColor=24292f)](#contents)
+[![Gold picks](https://img.shields.io/badge/gold_picks-68-d4af37?style=flat-square&labelColor=24292f)](#gold-picks)
+[![Open source](https://img.shields.io/badge/open_source-342-2ea44f?style=flat-square&labelColor=24292f)](#contents)
 [![Web Directory](https://img.shields.io/badge/web_directory-live-d4af37?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=24292f)](https://goldlist-seven.vercel.app/)
 [![Weekly Check](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square&labelColor=24292f)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
 [![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=24292f&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
@@ -29,10 +29,10 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>468</h3><sub>verified resources</sub></td>
+<td align="center" width="25%"><h3>470</h3><sub>verified resources</sub></td>
 <td align="center" width="25%"><h3>16</h3><sub>curated topics</sub></td>
-<td align="center" width="25%"><h3>340</h3><sub>open-source repos</sub></td>
-<td align="center" width="25%"><h3>66</h3><sub>elite gold picks</sub></td>
+<td align="center" width="25%"><h3>342</h3><sub>open-source repos</sub></td>
+<td align="center" width="25%"><h3>68</h3><sub>elite gold picks</sub></td>
 </tr>
 </table>
 
@@ -42,7 +42,7 @@
 
 <br><br>
 
-**[🔎 Search &amp; filter all 468 resources on the live website →](https://usmanghias.github.io/goldlist/)**
+**[🔎 Search &amp; filter all 470 resources on the live website →](https://usmanghias.github.io/goldlist/)**
 
 <sub>⭐ <b>Star this repository</b> to keep it one click away. Updated weekly.</sub>
 
@@ -137,10 +137,22 @@ The best of the best. If you only open a few links today, make it these.
 <table>
 <tr>
 <td width="33%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=clivora.io&sz=64" width="16" height="16"> <b><a href="https://clivora.io">Clivora Web</a></b><br>
+<sub>Open-source freelancer OS with zero-commission milestone escrow and automated remote job crawler.</sub><br>
+<sub><a href="#jobs">💼 Jobs</a></sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://github.com/UsmanGhias.png?size=64" width="16" height="16"> <b><a href="https://github.com/UsmanGhias/clivora">Clivora App</a></b><br>
+<sub>Open-source offline-first mobile app for freelance CRM, client portals, and milestone invoicing.</sub><br>
+<sub><a href="#jobs">💼 Jobs</a></sub>
+</td>
+<td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=freehire.me&sz=64" width="16" height="16"> <b><a href="https://freehire.me">freehire</a></b><br>
 <sub>IT job postings from many boards in one search, each linked back to the original posting.</sub><br>
 <sub><a href="#jobs">💼 Jobs</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=64" width="16" height="16"> <b><a href="https://news.ycombinator.com/submitted?id=whoishiring">Hacker News: Who is Hiring</a></b><br>
 <sub>Monthly thread where startups post real openings, often remote and often from founders directly.</sub><br>
@@ -151,13 +163,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Daily-updated list of tech internships in the US, Canada and remote.</sub><br>
 <sub><a href="#jobs">💼 Jobs</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www.techinterviewhandbook.org&sz=64" width="16" height="16"> <b><a href="https://www.techinterviewhandbook.org">Tech Interview Handbook</a></b><br>
 <sub>Concise interview prep covering algorithm cheatsheets, behavioral questions and resume tips.</sub><br>
 <sub><a href="#career">🧭 Career</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/donnemartin.png?size=64" width="16" height="16"> <b><a href="https://github.com/donnemartin/system-design-primer">System Design Primer</a></b><br>
 <sub>The classic guide to designing large-scale systems, with Anki flashcards.</sub><br>
@@ -168,13 +180,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Open-source resume builder with no ads or tracking, exporting to PDF.</sub><br>
 <sub><a href="#career">🧭 Career</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www.eacea.ec.europa.eu&sz=64" width="16" height="16"> <b><a href="https://www.eacea.ec.europa.eu/scholarships/erasmus-mundus-catalogue_en">Erasmus Mundus Catalogue</a></b><br>
 <sub>Fully funded joint master's programmes taught across several European universities.</sub><br>
 <sub><a href="#scholarships">🎓 Scholarships</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www2.daad.de&sz=64" width="16" height="16"> <b><a href="https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/">DAAD Scholarship Database</a></b><br>
 <sub>Search funding for studying or doing research in Germany.</sub><br>
@@ -185,13 +197,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Full-stack curriculum with free certifications and thousands of exercises.</sub><br>
 <sub><a href="#learning">📚 Learning</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=cs50.harvard.edu&sz=64" width="16" height="16"> <b><a href="https://cs50.harvard.edu/x/">CS50x</a></b><br>
 <sub>Harvard's famous intro to computer science, free online.</sub><br>
 <sub><a href="#learning">📚 Learning</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=roadmap.sh&sz=64" width="16" height="16"> <b><a href="https://roadmap.sh">roadmap.sh</a></b><br>
 <sub>Step-by-step learning roadmaps for every developer role and technology.</sub><br>
@@ -202,13 +214,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>The reference for HTML, CSS, JavaScript and web APIs.</sub><br>
 <sub><a href="#learning">📚 Learning</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/rasbt.png?size=64" width="16" height="16"> <b><a href="https://github.com/rasbt/LLMs-from-scratch">LLMs from Scratch</a></b><br>
 <sub>Build a ChatGPT-like LLM in PyTorch step by step.</sub><br>
 <sub><a href="#learning">📚 Learning</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/karpathy.png?size=64" width="16" height="16"> <b><a href="https://github.com/karpathy/nanoGPT">nanoGPT</a></b><br>
 <sub>Simplest, fastest repository for training and finetuning medium GPTs by Andrej Karpathy.</sub><br>
@@ -219,13 +231,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Official educational courses and notebooks for prompt engineering and Claude development.</sub><br>
 <sub><a href="#learning">📚 Learning</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=education.github.com&sz=64" width="16" height="16"> <b><a href="https://education.github.com/pack">GitHub Student Developer Pack</a></b><br>
 <sub>Free access to dozens of paid developer tools while you study.</sub><br>
 <sub><a href="#students">🧑‍🎓 Students</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=summerofcode.withgoogle.com&sz=64" width="16" height="16"> <b><a href="https://summerofcode.withgoogle.com">Google Summer of Code</a></b><br>
 <sub>Paid, mentored program for contributing to open-source projects.</sub><br>
@@ -236,13 +248,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Hundreds of SaaS, PaaS and IaaS services with free tiers for developers.</sub><br>
 <sub><a href="#dev-tools">🛠️ Dev Tools</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/public-apis.png?size=64" width="16" height="16"> <b><a href="https://github.com/public-apis/public-apis">public-apis</a></b><br>
 <sub>Collective list of free APIs to build projects on.</sub><br>
 <sub><a href="#dev-tools">🛠️ Dev Tools</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=supabase.com&sz=64" width="16" height="16"> <b><a href="https://supabase.com">Supabase</a></b><br>
 <sub>Open-source Postgres backend with auth, storage and realtime, plus a free tier.</sub><br>
@@ -253,13 +265,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Terminal UI for git that makes staging, rebasing and stashing painless.</sub><br>
 <sub><a href="#dev-tools">🛠️ Dev Tools</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/astral-sh.png?size=64" width="16" height="16"> <b><a href="https://github.com/astral-sh/uv">uv</a></b><br>
 <sub>Extremely fast Python package installer and resolver written in Rust.</sub><br>
 <sub><a href="#dev-tools">🛠️ Dev Tools</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/astral-sh.png?size=64" width="16" height="16"> <b><a href="https://github.com/astral-sh/ruff">Ruff</a></b><br>
 <sub>Extremely fast Python linter and code formatter written in Rust.</sub><br>
@@ -270,13 +282,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Open source realtime backend in 1 portable Go binary with embedded SQLite.</sub><br>
 <sub><a href="#dev-tools">🛠️ Dev Tools</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/fastapi.png?size=64" width="16" height="16"> <b><a href="https://github.com/fastapi/fastapi">FastAPI</a></b><br>
 <sub>High-performance web framework for building APIs with Python and type hints.</sub><br>
 <sub><a href="#dev-tools">🛠️ Dev Tools</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=ollama.com&sz=64" width="16" height="16"> <b><a href="https://ollama.com">Ollama</a></b><br>
 <sub>Run open LLMs locally with a single command.</sub><br>
@@ -287,13 +299,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Try Gemini models and get a free API key in minutes.</sub><br>
 <sub><a href="#ai-tools">🤖 AI Tools</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=browser-use.com&sz=64" width="16" height="16"> <b><a href="https://browser-use.com">Browser Use</a></b><br>
 <sub>Let AI agents control a real web browser to finish tasks.</sub><br>
 <sub><a href="#ai-tools">🤖 AI Tools</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/microsoft.png?size=64" width="16" height="16"> <b><a href="https://github.com/microsoft/markitdown">MarkItDown</a></b><br>
 <sub>Convert PDFs, Office files and more to Markdown for LLMs.</sub><br>
@@ -304,13 +316,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Turn entire websites into clean LLM-ready markdown or structured data with one call.</sub><br>
 <sub><a href="#ai-tools">🤖 AI Tools</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/google-gemini.png?size=64" width="16" height="16"> <b><a href="https://github.com/google-gemini/gemini-cli">Gemini CLI</a></b><br>
 <sub>Google's open-source AI agent for the terminal, with a generous free tier.</sub><br>
 <sub><a href="#ai-coding">🧠 AI Coding</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/github.png?size=64" width="16" height="16"> <b><a href="https://github.com/github/spec-kit">Spec Kit</a></b><br>
 <sub>GitHub's toolkit for spec-driven development that turns specs into plans and tasks for agents.</sub><br>
@@ -321,13 +333,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Autonomous coding agent inside VS Code that plans, edits and runs commands.</sub><br>
 <sub><a href="#ai-coding">🧠 AI Coding</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/opensandbox-group.png?size=64" width="16" height="16"> <b><a href="https://github.com/opensandbox-group/OpenSandbox">OpenSandbox</a></b><br>
 <sub>Secure and lightweight sandbox runtime for autonomous AI coding agents.</sub><br>
 <sub><a href="#ai-coding">🧠 AI Coding</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/NVIDIA.png?size=64" width="16" height="16"> <b><a href="https://github.com/NVIDIA/OpenShell">OpenShell</a></b><br>
 <sub>Safe, private runtime and sandbox for autonomous AI agent execution by NVIDIA.</sub><br>
@@ -338,13 +350,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Autonomous multi-agent operating system and framework for interactive agents.</sub><br>
 <sub><a href="#ai-coding">🧠 AI Coding</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/DietrichGebert.png?size=64" width="16" height="16"> <b><a href="https://github.com/DietrichGebert/ponytail">Ponytail</a></b><br>
 <sub>Makes your coding agent favor the simplest working solution and write less, leaner code.</sub><br>
 <sub><a href="#agent-skills">🧩 Skills</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/obra.png?size=64" width="16" height="16"> <b><a href="https://github.com/obra/superpowers">Superpowers</a></b><br>
 <sub>Skills framework that gives agents a disciplined workflow of brainstorming, planning, TDD and review.</sub><br>
@@ -355,13 +367,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Design-intelligence skill that helps AI coding agents build polished, professional UI.</sub><br>
 <sub><a href="#agent-skills">🧩 Skills</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/mukul975.png?size=64" width="16" height="16"> <b><a href="https://github.com/mukul975/Anthropic-Cybersecurity-Skills">Anthropic Cybersecurity Skills</a></b><br>
 <sub>817 structured cybersecurity and penetration testing skills for AI coding agents.</sub><br>
 <sub><a href="#agent-skills">🧩 Skills</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/modelcontextprotocol.png?size=64" width="16" height="16"> <b><a href="https://github.com/modelcontextprotocol/servers">MCP Reference Servers</a></b><br>
 <sub>Reference Model Context Protocol servers that connect AI agents to tools and data.</sub><br>
@@ -372,13 +384,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Feeds your agent up-to-date, version-specific library docs so it stops guessing APIs.</sub><br>
 <sub><a href="#mcp">🔌 MCP</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/microsoft.png?size=64" width="16" height="16"> <b><a href="https://github.com/microsoft/playwright-mcp">Playwright MCP</a></b><br>
 <sub>Lets agents drive a real browser to test, click through and read web pages.</sub><br>
 <sub><a href="#mcp">🔌 MCP</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/ChromeDevTools.png?size=64" width="16" height="16"> <b><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp">Chrome DevTools MCP</a></b><br>
 <sub>Let agents debug, profile and test pages in a live Chrome.</sub><br>
@@ -389,13 +401,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Open-source design and prototyping tool, an alternative to Figma.</sub><br>
 <sub><a href="#design">🎨 Design</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=ui.shadcn.com&sz=64" width="16" height="16"> <b><a href="https://ui.shadcn.com">shadcn/ui</a></b><br>
 <sub>Beautiful, accessible React components you copy into your project.</sub><br>
 <sub><a href="#design">🎨 Design</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/tldraw.png?size=64" width="16" height="16"> <b><a href="https://github.com/tldraw/tldraw">tldraw</a></b><br>
 <sub>Infinite canvas SDK and collaborative digital whiteboard for React applications.</sub><br>
@@ -406,13 +418,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Virtual collaborative whiteboard for sketching hand-drawn diagrams and wireframes.</sub><br>
 <sub><a href="#design">🎨 Design</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www.blackmagicdesign.com&sz=64" width="16" height="16"> <b><a href="https://www.blackmagicdesign.com/products/davinciresolve">DaVinci Resolve</a></b><br>
 <sub>Hollywood-grade video editing and color grading, with a very capable free version.</sub><br>
 <sub><a href="#media">🎬 Media</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=obsproject.com&sz=64" width="16" height="16"> <b><a href="https://obsproject.com">OBS Studio</a></b><br>
 <sub>Screen recording and live streaming.</sub><br>
@@ -423,13 +435,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>The Swiss Army knife for converting and editing audio and video.</sub><br>
 <sub><a href="#media">🎬 Media</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=immich.app&sz=64" width="16" height="16"> <b><a href="https://immich.app">Immich</a></b><br>
 <sub>Self-hosted Google Photos alternative with mobile backup.</sub><br>
 <sub><a href="#media">🎬 Media</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/alyssaxuu.png?size=64" width="16" height="16"> <b><a href="https://github.com/alyssaxuu/screenity">Screenity</a></b><br>
 <sub>Privacy-friendly browser screen recorder and annotation tool with zero limits.</sub><br>
@@ -440,13 +452,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Local-first markdown notes with backlinks and a huge plugin ecosystem.</sub><br>
 <sub><a href="#productivity">⚡ Productivity</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=localsend.org&sz=64" width="16" height="16"> <b><a href="https://localsend.org">LocalSend</a></b><br>
 <sub>Share files between nearby devices with no internet or account.</sub><br>
 <sub><a href="#productivity">⚡ Productivity</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www.stirlingpdf.com&sz=64" width="16" height="16"> <b><a href="https://www.stirlingpdf.com">Stirling-PDF</a></b><br>
 <sub>Self-hosted toolkit to merge, split, sign, OCR and edit PDFs.</sub><br>
@@ -457,13 +469,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Smarter cd command that learns navigation habits and jumps across folders fast.</sub><br>
 <sub><a href="#productivity">⚡ Productivity</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www.zotero.org&sz=64" width="16" height="16"> <b><a href="https://www.zotero.org">Zotero</a></b><br>
 <sub>Collect, organize and cite research papers, with one-click capture from your browser.</sub><br>
 <sub><a href="#research">🔬 Research</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www.overleaf.com&sz=64" width="16" height="16"> <b><a href="https://www.overleaf.com">Overleaf</a></b><br>
 <sub>Collaborative LaTeX editor in the browser for papers and theses.</sub><br>
@@ -474,13 +486,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Free Jupyter notebooks in the cloud with GPU access.</sub><br>
 <sub><a href="#research">🔬 Research</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www.startupschool.org&sz=64" width="16" height="16"> <b><a href="https://www.startupschool.org">YC Startup School</a></b><br>
 <sub>Y Combinator's free course on how to start a startup, plus co-founder matching.</sub><br>
 <sub><a href="#startups">🚀 Startups</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=posthog.com&sz=64" width="16" height="16"> <b><a href="https://posthog.com">PostHog</a></b><br>
 <sub>Open-source product analytics, session replay and feature flags with a big free tier.</sub><br>
@@ -491,13 +503,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Modern financial analytics terminal offering market data and investment research.</sub><br>
 <sub><a href="#startups">🚀 Startups</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=bitwarden.com&sz=64" width="16" height="16"> <b><a href="https://bitwarden.com">Bitwarden</a></b><br>
 <sub>Open-source password manager with a free plan on every device.</sub><br>
 <sub><a href="#privacy-security">🔒 Privacy</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/gorhill.png?size=64" width="16" height="16"> <b><a href="https://github.com/gorhill/uBlock">uBlock Origin</a></b><br>
 <sub>Efficient, lightweight ad and tracker blocker.</sub><br>
@@ -515,6 +527,8 @@ The best of the best. If you only open a few links today, make it these.
 
 ## 🆕 Recently Added
 
+- **[Clivora Web](https://clivora.io)**: Open-source freelancer OS with zero-commission milestone escrow and automated remote job crawler. <sub>[💼 Jobs](#jobs) · 2026-11-04</sub>
+- **[Clivora App](https://github.com/UsmanGhias/clivora)**: Open-source offline-first mobile app for freelance CRM, client portals, and milestone invoicing. <sub>[💼 Jobs](#jobs) · 2026-11-04</sub>
 - **[Developer Portfolios](https://github.com/emmabostian/developer-portfolios)**: Curated showcase of stellar software developer portfolio websites for inspiration. <sub>[🧭 Career](#career) · 2026-11-04</sub>
 - **[Data Science Interview Q&A](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers)**: Curated preparation questions and answers covering data science and machine learning. <sub>[🧭 Career](#career) · 2026-11-04</sub>
 - **[nanoGPT](https://github.com/karpathy/nanoGPT)**: Simplest, fastest repository for training and finetuning medium GPTs by Andrej Karpathy. <sub>[📚 Learning](#learning) · 2026-11-04</sub>
@@ -523,8 +537,6 @@ The best of the best. If you only open a few links today, make it these.
 - **[Awesome](https://github.com/sindresorhus/awesome)**: The definitive curated index of awesome lists covering programming and technology. <sub>[📚 Learning](#learning) · 2026-11-04</sub>
 - **[Koodo Reader](https://github.com/koodo-reader/koodo-reader)**: Cross-platform open-source ebook manager and reader supporting EPUB, PDF, and MOBI. <sub>[📚 Learning](#learning) · 2026-11-04</sub>
 - **[Exercises Dataset](https://github.com/hasaneyldrm/exercises-dataset)**: Comprehensive dataset of 1,324 fitness exercises with animated thumbnails. <sub>[📚 Learning](#learning) · 2026-11-04</sub>
-- **[uv](https://github.com/astral-sh/uv)**: Extremely fast Python package installer and resolver written in Rust. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-04</sub>
-- **[Ruff](https://github.com/astral-sh/ruff)**: Extremely fast Python linter and code formatter written in Rust. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-04</sub>
 
 <a id="contents"></a>
 
@@ -532,7 +544,7 @@ The best of the best. If you only open a few links today, make it these.
 
 | | Category | What's inside | Picks |
 | :-: | :--- | :--- | :-: |
-| 💼 | **[Jobs & Freelancing](#jobs)** | Where real openings get posted first, from remote boards to curated GitHub lists. | 20 |
+| 💼 | **[Jobs & Freelancing](#jobs)** | Where real openings get posted first, from remote boards to curated GitHub lists. | 22 |
 | 🧭 | **[Career & Interviews](#career)** | Resumes, interview prep and salary data to land the offer and negotiate it. | 17 |
 | 🎓 | **[Scholarships & Research Funding](#scholarships)** | Funded master's, PhDs and fellowships, so you can study without paying for it. | 22 |
 | 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 36 |
@@ -558,10 +570,12 @@ The best of the best. If you only open a few links today, make it these.
 ## 💼 Jobs & Freelancing
 
 > Where real openings get posted first, from remote boards to curated GitHub lists.<br>
-> <sub>20 picks · 3 gold</sub>
+> <sub>22 picks · 5 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
+| <img src="https://www.google.com/s2/favicons?domain=clivora.io&sz=64" width="20" height="20"> | **[Clivora Web](https://clivora.io)** 🏆 | Open-source freelancer OS with zero-commission milestone escrow and automated remote job crawler. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/UsmanGhias/clivora-web?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/UsmanGhias/clivora-web) |
+| <img src="https://github.com/UsmanGhias.png?size=64" width="20" height="20"> | **[Clivora App](https://github.com/UsmanGhias/clivora)** 🏆 | Open-source offline-first mobile app for freelance CRM, client portals, and milestone invoicing. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/UsmanGhias/clivora?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/UsmanGhias/clivora) |
 | <img src="https://www.google.com/s2/favicons?domain=freehire.me&sz=64" width="20" height="20"> | **[freehire](https://freehire.me)** 🏆 | IT job postings from many boards in one search, each linked back to the original posting. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=64" width="20" height="20"> | **[Hacker News: Who is Hiring](https://news.ycombinator.com/submitted?id=whoishiring)** 🏆 | Monthly thread where startups post real openings, often remote and often from founders directly. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://github.com/SimplifyJobs.png?size=64" width="20" height="20"> | **[Simplify Summer 2027 Internships](https://github.com/SimplifyJobs/Summer2027-Internships)** 🏆 | Daily-updated list of tech internships in the US, Canada and remote. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/SimplifyJobs/Summer2027-Internships?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/SimplifyJobs/Summer2027-Internships) |
