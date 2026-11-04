@@ -510,110 +510,117 @@
     }
     .stat-star-link:hover { color: var(--text); }
 
-    /* Featured Clivora Spotlight Card */
-    .spotlight-card {
+    /* Catalogue Layout & Dedicated Sidebar */
+    .catalogue-layout {
+      display: flex;
+      gap: 24px;
+      align-items: flex-start;
+      width: 100%;
+    }
+    .catalogue-main {
+      flex: 1;
+      min-width: 0;
+    }
+    .catalogue-sidebar {
+      width: 290px;
+      flex-shrink: 0;
+      position: sticky;
+      top: 76px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+    .sidebar-card {
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 16px;
+      box-shadow: var(--shadow-card);
+      box-sizing: border-box;
+      transition: border-color 0.15s ease;
+    }
+    .sidebar-card:hover {
+      border-color: var(--border-strong);
+    }
+    .sidebar-header {
       display: flex;
       align-items: center;
       justify-content: space-between;
-      gap: 16px;
-      max-width: 960px;
-      margin: 14px auto 0;
-      padding: 12px 18px;
-      background: linear-gradient(135deg, rgba(217, 119, 6, 0.06), rgba(15, 23, 42, 0.02));
-      border: 1px solid rgba(217, 119, 6, 0.35);
-      border-radius: 12px;
-      box-shadow: 0 2px 12px rgba(217, 119, 6, 0.08);
-      box-sizing: border-box;
-      width: 100%;
+      gap: 8px;
+      margin-bottom: 8px;
     }
-    .spotlight-badge {
-      display: inline-flex;
-      align-items: center;
-      gap: 4px;
+    .sidebar-kicker {
       font-size: 10.5px;
       font-weight: 700;
-      color: var(--gold-dark);
-      background: var(--gold-bg);
-      border: 1px solid var(--gold-border);
-      padding: 3px 8px;
-      border-radius: 6px;
+      color: var(--gold);
       letter-spacing: 0.5px;
-      flex-shrink: 0;
     }
-    .spotlight-body {
-      flex: 1;
-      min-width: 0;
-      text-align: left;
-    }
-    .spotlight-title {
-      display: flex;
-      align-items: center;
-      gap: 8px;
-      flex-wrap: wrap;
-      margin-bottom: 3px;
-    }
-    .spotlight-name {
+    .sidebar-title {
+      font-size: 15px;
       font-weight: 700;
-      font-size: 14.5px;
       color: var(--text);
+      margin-bottom: 6px;
+      line-height: 1.3;
     }
-    .spotlight-desc {
+    .sidebar-desc {
       font-size: 12.5px;
       color: var(--text-muted);
-      margin: 0;
-      line-height: 1.4;
+      line-height: 1.45;
+      margin-bottom: 12px;
     }
-    .spotlight-cta {
+    .sidebar-actions {
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .sidebar-primary-btn {
       display: flex;
       align-items: center;
-      gap: 8px;
-      flex-shrink: 0;
-    }
-    .spotlight-primary-btn {
-      display: inline-flex;
-      align-items: center;
-      gap: 5px;
+      justify-content: center;
+      gap: 6px;
       background: var(--gold);
-      color: #000;
+      color: var(--gold-ink);
       font-weight: 600;
       font-size: 12px;
-      padding: 6px 14px;
-      border-radius: 8px;
+      padding: 8px 14px;
+      border-radius: var(--radius-sm);
       text-decoration: none;
       transition: background 0.15s ease, transform 0.15s ease;
     }
-    .spotlight-primary-btn:hover {
-      background: var(--gold-light);
+    .sidebar-primary-btn:hover {
+      background: var(--gold-soft);
       transform: translateY(-1px);
     }
-    .spotlight-secondary-btn {
-      display: inline-flex;
+    .sidebar-secondary-btn {
+      display: flex;
       align-items: center;
-      gap: 5px;
-      background: var(--surface);
+      justify-content: center;
+      gap: 6px;
+      background: var(--surface-2);
       color: var(--text);
       border: 1px solid var(--border);
-      font-weight: 600;
-      font-size: 12px;
-      padding: 6px 12px;
-      border-radius: 8px;
+      font-weight: 500;
+      font-size: 11.5px;
+      padding: 6px 10px;
+      border-radius: var(--radius-sm);
       text-decoration: none;
-      transition: border-color 0.15s ease, color 0.15s ease;
+      transition: border-color 0.15s ease, background 0.15s ease;
     }
-    .spotlight-secondary-btn:hover {
-      border-color: var(--text);
-      color: var(--text);
+    .sidebar-secondary-btn:hover {
+      border-color: var(--border-strong);
+      background: var(--surface-hover);
     }
-    @media (max-width: 768px) {
-      .spotlight-card {
+    @media (max-width: 1040px) {
+      .catalogue-layout {
         flex-direction: column;
-        align-items: flex-start;
-        gap: 10px;
-        padding: 12px 14px;
       }
-      .spotlight-cta {
+      .catalogue-sidebar {
         width: 100%;
-        justify-content: flex-start;
+        position: static;
+        margin-top: 24px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 14px;
       }
     }
 
@@ -1280,66 +1287,93 @@
           <span>Star on GitHub</span>
         </a>
       </div>
-
-      <!-- Featured Clivora Spotlight Card -->
-      <div class="spotlight-card">
-        <div class="spotlight-badge font-mono">★ SPOTLIGHT</div>
-        <div class="spotlight-body">
-          <div class="spotlight-title">
-            <span class="spotlight-name">Clivora Freelancer OS</span>
-            <span class="type-pill open-source"><span class="dot"></span>Open source</span>
-            <span class="gold-badge">★ Top Pick</span>
-          </div>
-          <p class="spotlight-desc">
-            Zero-commission freelance client portal, automated remote job crawler indexing 13,800+ live positions, milestone escrow, and offline-first mobile app.
-          </p>
-        </div>
-        <div class="spotlight-cta">
-          <a href="https://clivora.io" target="_blank" rel="noopener" class="spotlight-primary-btn">
-            <span>Open Clivora Web</span>
-            <span class="arrow">&nearr;</span>
-          </a>
-          <a href="https://github.com/UsmanGhias/clivora" target="_blank" rel="noopener" class="spotlight-secondary-btn">
-            <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2A10 10 0 0 0 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.1-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2z"/></svg>
-            <span>Clivora App</span>
-          </a>
-        </div>
-      </div>
     </div>
   </section>
 
-  <!-- Catalogue Filter Bar & Grid (Placed Immediately After Hero) -->
-  <main class="wrap" id="catalogue" style="margin-top: 14px;">
-    <div class="section-header">
-      <h2 class="section-tag"><span class="slash">//</span> curated catalogue</h2>
-      <div id="count-line" class="nav-link font-mono" style="font-size:12px;"></div>
-    </div>
+  <!-- Catalogue Filter Bar & Grid with Dedicated Sidebar -->
+  <main class="wrap" id="catalogue" style="margin-top: 18px;">
+    <div class="catalogue-layout">
+      <div class="catalogue-main">
+        <div class="section-header">
+          <h2 class="section-tag"><span class="slash">//</span> curated catalogue</h2>
+          <div id="count-line" class="nav-link font-mono" style="font-size:12px;"></div>
+        </div>
 
-    <!-- Filter Controls Bar -->
-    <div class="controls-bar">
-      <div class="seg-group" id="types" role="group" aria-label="Filter by license type">
-        <button type="button" class="seg-btn" data-type="all" aria-pressed="true">All</button>
-        <button type="button" class="seg-btn" data-type="open-source" aria-pressed="false"><span class="seg-dot open"></span>Open source</button>
-        <button type="button" class="seg-btn" data-type="free" aria-pressed="false"><span class="seg-dot free"></span>Free</button>
-        <button type="button" class="seg-btn" data-type="free-tier" aria-pressed="false"><span class="seg-dot tier"></span>Free tier</button>
+        <!-- Filter Controls Bar -->
+        <div class="controls-bar">
+          <div class="seg-group" id="types" role="group" aria-label="Filter by license type">
+            <button type="button" class="seg-btn" data-type="all" aria-pressed="true">All</button>
+            <button type="button" class="seg-btn" data-type="open-source" aria-pressed="false"><span class="seg-dot open"></span>Open source</button>
+            <button type="button" class="seg-btn" data-type="free" aria-pressed="false"><span class="seg-dot free"></span>Free</button>
+            <button type="button" class="seg-btn" data-type="free-tier" aria-pressed="false"><span class="seg-dot tier"></span>Free tier</button>
+          </div>
+
+          <div class="control-extras">
+            <label class="gold-toggle">
+              <input type="checkbox" id="gold">
+              <span>🏆 Gold picks only</span>
+            </label>
+            <select id="sort" class="sort-select" aria-label="Sort order">
+              <option value="curated">Curated Order</option>
+              <option value="stars">Most GitHub Stars</option>
+              <option value="newest">Recently Added</option>
+              <option value="az">A &ndash; Z</option>
+            </select>
+          </div>
+        </div>
+
+        <!-- Results Grid Container -->
+        <div id="results"></div>
       </div>
 
-      <div class="control-extras">
-        <label class="gold-toggle">
-          <input type="checkbox" id="gold">
-          <span>🏆 Gold picks only</span>
-        </label>
-        <select id="sort" class="sort-select" aria-label="Sort order">
-          <option value="curated">Curated Order</option>
-          <option value="stars">Most GitHub Stars</option>
-          <option value="newest">Recently Added</option>
-          <option value="az">A &ndash; Z</option>
-        </select>
-      </div>
-    </div>
+      <!-- Separate Dedicated Sidebar: Featured Free Open-Source Ecosystem -->
+      <aside class="catalogue-sidebar" aria-label="Featured open-source freelance tools">
+        <div class="sidebar-card">
+          <div class="sidebar-header">
+            <span class="sidebar-kicker font-mono">// OPEN SOURCE OS</span>
+            <span class="type-pill open-source"><span class="dot"></span>100% Free</span>
+          </div>
+          <h3 class="sidebar-title">Clivora Freelance OS</h3>
+          <p class="sidebar-desc">
+            Free, completely open-source freelance operating system for clients and independent developers. Manage client portals, milestone escrow, contracts, invoices, and offline mobile sync with zero platform commissions.
+          </p>
+          <div class="sidebar-actions">
+            <a href="https://clivora.io" target="_blank" rel="noopener" class="sidebar-primary-btn">
+              <span>Open Web Portal</span>
+              <span class="arrow">&nearr;</span>
+            </a>
+            <div style="display: flex; gap: 6px;">
+              <a href="https://github.com/UsmanGhias/clivora" target="_blank" rel="noopener" class="sidebar-secondary-btn" style="flex:1;" title="Flutter Mobile App on GitHub">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2A10 10 0 0 0 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.1-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2z"/></svg>
+                <span>Mobile App</span>
+              </a>
+              <a href="https://github.com/UsmanGhias/clivora-web" target="_blank" rel="noopener" class="sidebar-secondary-btn" style="flex:1;" title="Web Portal Repository on GitHub">
+                <svg width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2A10 10 0 0 0 2 12c0 4.42 2.87 8.17 6.84 9.5.5.08.66-.23.66-.5v-1.69c-2.77.6-3.36-1.34-3.36-1.34-.46-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.6.07-.6 1 .07 1.53 1.03 1.53 1.03.87 1.52 2.34 1.07 2.91.83.1-.65.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.92 0-1.11.38-2 1.03-2.71-.1-.25-.45-1.29.1-2.64 0 0 .84-.27 2.75 1.02.79-.22 1.65-.33 2.5-.33.85 0 1.71.11 2.5.33 1.91-1.29 2.75-1.02 2.75-1.02.55 1.35.2 2.39.1 2.64.65.71 1.03 1.6 1.03 2.71 0 3.82-2.34 4.66-4.57 4.91.36.31.69.92.69 1.85V21c0 .27.16.59.67.5C19.14 20.16 22 16.42 22 12A10 10 0 0 0 12 2z"/></svg>
+                <span>Web Repo</span>
+              </a>
+            </div>
+          </div>
+        </div>
 
-    <!-- Results Grid Container -->
-    <div id="results"></div>
+        <!-- Terminal Quick Access Card -->
+        <div class="sidebar-card">
+          <div class="sidebar-header">
+            <span class="sidebar-kicker font-mono">// TERMINAL ACCESS</span>
+            <span class="font-mono" style="font-size:10.5px; color:var(--text-muted);">JSON</span>
+          </div>
+          <p class="sidebar-desc" style="font-size:12px; margin-bottom:8px;">
+            Zero rate-limits. Query all 470 developer tools directly via CLI.
+          </p>
+          <div class="code-box" style="margin-top:4px;">
+            <div class="code-header">
+              <span>bash</span>
+              <button type="button" class="copy-btn" id="copy-sidebar-curl">copy</button>
+            </div>
+            <div class="code-body font-mono" style="font-size:11px; padding:8px 10px; word-break:break-all;">curl -sL https://goldlist-seven.vercel.app/api/goldlist.json | jq .</div>
+          </div>
+        </div>
+      </aside>
+    </div>
   </main>
 
   <!-- "Take it with you" Developer Integrations (Freehire-style, clean at bottom) -->
@@ -1483,6 +1517,12 @@
       navigator.clipboard.writeText("curl -sL https://raw.githubusercontent.com/UsmanGhias/goldlist/main/api/goldlist.json | jq .");
       $("copy-curl").textContent = "copied!";
       setTimeout(() => $("copy-curl").textContent = "copy", 1800);
+    });
+
+    $("copy-sidebar-curl")?.addEventListener("click", () => {
+      navigator.clipboard.writeText("curl -sL https://goldlist-seven.vercel.app/api/goldlist.json | jq .");
+      $("copy-sidebar-curl").textContent = "copied!";
+      setTimeout(() => $("copy-sidebar-curl").textContent = "copy", 1800);
     });
 
     $("copy-mcp")?.addEventListener("click", () => {

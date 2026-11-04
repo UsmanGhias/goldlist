@@ -138,12 +138,12 @@ The best of the best. If you only open a few links today, make it these.
 <tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=clivora.io&sz=64" width="16" height="16"> <b><a href="https://clivora.io">Clivora Web</a></b><br>
-<sub>Open-source freelancer OS with zero-commission milestone escrow and automated remote job crawler.</sub><br>
+<sub>Free open-source freelance OS for clients and freelancers with portals, contracts, escrow, and invoicing.</sub><br>
 <sub><a href="#jobs">💼 Jobs</a></sub>
 </td>
 <td width="33%" valign="top">
 <img src="https://github.com/UsmanGhias.png?size=64" width="16" height="16"> <b><a href="https://github.com/UsmanGhias/clivora">Clivora App</a></b><br>
-<sub>Open-source offline-first mobile app for freelance CRM, client portals, and milestone invoicing.</sub><br>
+<sub>Free open-source offline-first mobile app for freelance client portals, contracts, and milestone invoicing.</sub><br>
 <sub><a href="#jobs">💼 Jobs</a></sub>
 </td>
 <td width="33%" valign="top">
@@ -527,8 +527,8 @@ The best of the best. If you only open a few links today, make it these.
 
 ## 🆕 Recently Added
 
-- **[Clivora Web](https://clivora.io)**: Open-source freelancer OS with zero-commission milestone escrow and automated remote job crawler. <sub>[💼 Jobs](#jobs) · 2026-11-04</sub>
-- **[Clivora App](https://github.com/UsmanGhias/clivora)**: Open-source offline-first mobile app for freelance CRM, client portals, and milestone invoicing. <sub>[💼 Jobs](#jobs) · 2026-11-04</sub>
+- **[Clivora Web](https://clivora.io)**: Free open-source freelance OS for clients and freelancers with portals, contracts, escrow, and invoicing. <sub>[💼 Jobs](#jobs) · 2026-11-04</sub>
+- **[Clivora App](https://github.com/UsmanGhias/clivora)**: Free open-source offline-first mobile app for freelance client portals, contracts, and milestone invoicing. <sub>[💼 Jobs](#jobs) · 2026-11-04</sub>
 - **[Developer Portfolios](https://github.com/emmabostian/developer-portfolios)**: Curated showcase of stellar software developer portfolio websites for inspiration. <sub>[🧭 Career](#career) · 2026-11-04</sub>
 - **[Data Science Interview Q&A](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers)**: Curated preparation questions and answers covering data science and machine learning. <sub>[🧭 Career](#career) · 2026-11-04</sub>
 - **[nanoGPT](https://github.com/karpathy/nanoGPT)**: Simplest, fastest repository for training and finetuning medium GPTs by Andrej Karpathy. <sub>[📚 Learning](#learning) · 2026-11-04</sub>
@@ -574,8 +574,8 @@ The best of the best. If you only open a few links today, make it these.
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
-| <img src="https://www.google.com/s2/favicons?domain=clivora.io&sz=64" width="20" height="20"> | **[Clivora Web](https://clivora.io)** 🏆 | Open-source freelancer OS with zero-commission milestone escrow and automated remote job crawler. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/UsmanGhias/clivora-web?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/UsmanGhias/clivora-web) |
-| <img src="https://github.com/UsmanGhias.png?size=64" width="20" height="20"> | **[Clivora App](https://github.com/UsmanGhias/clivora)** 🏆 | Open-source offline-first mobile app for freelance CRM, client portals, and milestone invoicing. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/UsmanGhias/clivora?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/UsmanGhias/clivora) |
+| <img src="https://www.google.com/s2/favicons?domain=clivora.io&sz=64" width="20" height="20"> | **[Clivora Web](https://clivora.io)** 🏆 | Free open-source freelance OS for clients and freelancers with portals, contracts, escrow, and invoicing. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/UsmanGhias/clivora-web?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/UsmanGhias/clivora-web) |
+| <img src="https://github.com/UsmanGhias.png?size=64" width="20" height="20"> | **[Clivora App](https://github.com/UsmanGhias/clivora)** 🏆 | Free open-source offline-first mobile app for freelance client portals, contracts, and milestone invoicing. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/UsmanGhias/clivora?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/UsmanGhias/clivora) |
 | <img src="https://www.google.com/s2/favicons?domain=freehire.me&sz=64" width="20" height="20"> | **[freehire](https://freehire.me)** 🏆 | IT job postings from many boards in one search, each linked back to the original posting. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://www.google.com/s2/favicons?domain=news.ycombinator.com&sz=64" width="20" height="20"> | **[Hacker News: Who is Hiring](https://news.ycombinator.com/submitted?id=whoishiring)** 🏆 | Monthly thread where startups post real openings, often remote and often from founders directly. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 | <img src="https://github.com/SimplifyJobs.png?size=64" width="20" height="20"> | **[Simplify Summer 2027 Internships](https://github.com/SimplifyJobs/Summer2027-Internships)** 🏆 | Daily-updated list of tech internships in the US, Canada and remote. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/SimplifyJobs/Summer2027-Internships?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/SimplifyJobs/Summer2027-Internships) |

@@ -13,7 +13,7 @@
         {
           "name": "Clivora Web",
           "url": "https://clivora.io",
-          "description": "Open-source freelancer OS with zero-commission milestone escrow and automated remote job crawler.",
+          "description": "Free open-source freelance OS for clients and freelancers with portals, contracts, escrow, and invoicing.",
           "type": "open-source",
           "gold": true,
           "github": "UsmanGhias/clivora-web",
@@ -22,7 +22,7 @@
         {
           "name": "Clivora App",
           "url": "https://github.com/UsmanGhias/clivora",
-          "description": "Open-source offline-first mobile app for freelance CRM, client portals, and milestone invoicing.",
+          "description": "Free open-source offline-first mobile app for freelance client portals, contracts, and milestone invoicing.",
           "type": "open-source",
           "gold": true,
           "github": "UsmanGhias/clivora",
