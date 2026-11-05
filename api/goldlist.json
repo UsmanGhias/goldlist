@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 476,
+  "total": 481,
   "categories": [
     {
       "slug": "jobs",
@@ -1584,6 +1584,15 @@
           "gold": false,
           "github": "pastelsky/bundlephobia",
           "added": "2026-11-05"
+        },
+        {
+          "name": "Anyps5",
+          "url": "https://boykopovar.github.io/AnyPS5/",
+          "description": "Tool for automatic PS5 executables porting to Linux and Windows.",
+          "type": "open-source",
+          "gold": false,
+          "github": "boykopovar/AnyPS5",
+          "added": "2026-11-05"
         }
       ]
     },
@@ -1908,6 +1917,24 @@
           "gold": false,
           "github": "Niko1221/Strata",
           "added": "2026-11-04"
+        },
+        {
+          "name": "Mathmodelagent",
+          "url": "https://mathmodel.top/home",
+          "description": "Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文.",
+          "type": "free",
+          "gold": false,
+          "github": "jihe520/MathModelAgent",
+          "added": "2026-11-05"
+        },
+        {
+          "name": "Openmed",
+          "url": "https://openmed.life/",
+          "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical.",
+          "type": "open-source",
+          "gold": false,
+          "github": "maziyarpanahi/openmed",
+          "added": "2026-11-05"
         }
       ]
     },
@@ -2286,6 +2313,15 @@
           "gold": false,
           "github": "pingdotgg/t3code",
           "added": "2026-11-04"
+        },
+        {
+          "name": "Cleanyourtv",
+          "url": "https://cleanyour.tv",
+          "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+          "type": "free",
+          "gold": false,
+          "github": "Gathin23/cleanyourtv",
+          "added": "2026-11-05"
         }
       ]
     },
@@ -4158,6 +4194,15 @@
           "gold": false,
           "github": "bagisto/opensource-ecommerce-mobile-app",
           "added": "2026-11-04"
+        },
+        {
+          "name": "Everything",
+          "url": "https://github.com/HeyPuter/everything",
+          "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+          "type": "open-source",
+          "gold": false,
+          "github": "HeyPuter/everything",
+          "added": "2026-11-05"
         }
       ]
     },
