@@ -148,3 +148,8 @@ items:
   desc: Open-source Flutter mobile e-commerce application for the Bagisto ecosystem.
   type: open-source
   added: 2026-11-04
+- name: Everything
+  url: https://github.com/HeyPuter/everything
+  desc: We're rebuilding and open-sourcing the world’s software from scratch.
+  type: open-source
+  added: 2026-11-05
