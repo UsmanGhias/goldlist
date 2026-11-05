@@ -27,7 +27,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 
 import yaml
 from build import DATA_DIR, GITHUB_REPO_RE, MAX_DESC, TYPES, load_categories, normalize_url, validate
-from add_entry import clean_github, clean_text, clean_url, render_item, yaml_scalar
+from add_entry import clean_github, clean_text, clean_url, detect_indent, render_item, yaml_scalar
 
 # Emoji, bracket notes, and hype removal regexes
 EMOJI_RE = re.compile(
@@ -562,12 +562,13 @@ def apply_entries(entries, categories):
     for cat_slug, items in by_category.items():
         path = DATA_DIR / f"{cat_slug}.yaml"
         original = path.read_text(encoding="utf-8")
+        indent = detect_indent(original)
         blocks = []
         for item in items:
             clean_item = {k: v for k, v in item.items() if not k.startswith("_")}
             if clean_item.get("github") and normalize_url(clean_item["url"]) == f"https://github.com/{clean_item['github'].lower()}":
                 clean_item.pop("github", None)
-            blocks.append(render_item(clean_item))
+            blocks.append(render_item(clean_item, indent=indent))
         path.write_text(original.rstrip("\n") + "\n" + "".join(blocks), encoding="utf-8")
         print(f"Appended {len(items)} item(s) to data/{cat_slug}.yaml")
 

@@ -196,89 +196,120 @@ items:
   url: https://github.com/astral-sh/uv
   desc: Extremely fast Python package installer and resolver written in Rust.
   type: open-source
-  added: &id001 2026-11-04
+  added: 2026-11-04
   gold: true
 - name: Ruff
   url: https://github.com/astral-sh/ruff
   desc: Extremely fast Python linter and code formatter written in Rust.
   type: open-source
-  added: *id001
+  added: 2026-11-04
   gold: true
 - name: PocketBase
   url: https://github.com/pocketbase/pocketbase
   desc: Open source realtime backend in 1 portable Go binary with embedded SQLite.
   type: open-source
-  added: *id001
+  added: 2026-11-04
   gold: true
 - name: fd
   url: https://github.com/sharkdp/fd
   desc: Simple, fast, and user-friendly command-line alternative to find.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: FastAPI
   url: https://github.com/fastapi/fastapi
   desc: High-performance web framework for building APIs with Python and type hints.
   type: open-source
-  added: *id001
+  added: 2026-11-04
   gold: true
 - name: tRPC
   url: https://github.com/trpc/trpc
   desc: End-to-end typesafe APIs without code generation or runtime schema bloat.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Biome
   url: https://github.com/biomejs/biome
   desc: Fast toolchain for JavaScript and TypeScript that formats and lints in milliseconds.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Dokploy
   url: https://github.com/Dokploy/dokploy
   desc: Lightweight self-hostable PaaS alternative to Heroku, Vercel, and Coolify.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Gum
   url: https://github.com/charmbracelet/gum
   desc: Tool for glamorous interactive shell scripts and terminal prompts.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Glow
   url: https://github.com/charmbracelet/glow
   desc: Terminal markdown renderer with styled pager, colors, and syntax highlighting.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Camofox
   url: https://github.com/jo-inc/camofox-browser
   desc: Stealth headless browser for AI agents that bypasses anti-bot detections.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Public APIs
   url: https://github.com/marcelscruz/public-apis
   desc: Curated collaborative directory of public APIs for developers across 52 categories.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: API Mega List
   url: https://github.com/cporter202/API-mega-list
   desc: Comprehensive collection of free public APIs for rapid application prototyping.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: ChangeDetection.io
   url: https://github.com/dgtlmoon/changedetection.io
   desc: Self-hosted website change detection, monitoring, and notification service.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: APKEditor
   url: https://github.com/REAndroid/APKEditor
   desc: Android APK reverse engineering and resource modification tool.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: FreeRDP
   url: https://github.com/FreeRDP/FreeRDP
   desc: Free and open-source Remote Desktop Protocol client and library implementation.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: LordOS
   url: https://github.com/lordbasex/LordOS
   desc: Lightweight Debian Linux distribution with Wayland compositor and QuickJS
     UI.
   type: open-source
-  added: *id001
+  added: 2026-11-04
+- name: Can I use
+  url: https://caniuse.com
+  desc: Up-to-date browser feature support tables for modern HTML, CSS, JavaScript, and Web APIs.
+  type: open-source
+  github: fyrd/caniuse
+  gold: true
+  added: 2026-11-05
+- name: Crontab.guru
+  url: https://crontab.guru
+  desc: Interactive cron schedule expression editor with human-readable plain English definitions.
+  type: free
+  added: 2026-11-05
+- name: JSON Crack
+  url: https://jsoncrack.com
+  desc: Interactive visual graph and hierarchical tree viewer for complex JSON structures.
+  type: open-source
+  github: AykutSarac/jsoncrack.com
+  gold: true
+  added: 2026-11-05
+- name: Ray.so
+  url: https://ray.so
+  desc: Generate beautiful code snippet screenshots with syntax themes, padding, and dark mode.
+  type: open-source
+  github: raycast/ray-so
+  added: 2026-11-05
+- name: Bundlephobia
+  url: https://bundlephobia.com
+  desc: Find the bundle size and download impact of npm packages before adding them to projects.
+  type: open-source
+  github: pastelsky/bundlephobia
+  added: 2026-11-05

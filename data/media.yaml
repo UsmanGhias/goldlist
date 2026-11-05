@@ -141,31 +141,31 @@ items:
   url: https://github.com/alyssaxuu/screenity
   desc: Privacy-friendly browser screen recorder and annotation tool with zero limits.
   type: open-source
-  added: &id001 2026-11-04
+  added: 2026-11-04
   gold: true
 - name: PhotoCraft
   url: https://github.com/storytold/photocraft
   desc: Fast photo editor and image manipulation utility written from scratch in pure
     Rust.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Openverse
   url: https://github.com/WordPress/openverse
   desc: Search engine for over 700 million openly licensed images and audio tracks.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Stickman Video Director
   url: https://github.com/kaomei/stickman-video-director
   desc: Generate multi-style animated stickman explainer videos directly from scripts.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Open Generative AI
   url: https://github.com/Anil-matcha/Open-Generative-AI
   desc: Open-source suite for generative video and image generation pipelines.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Pixelle Video
   url: https://github.com/ATH-MaaS/Pixelle-Video
   desc: Automated engine generating short-form videos with narration and visuals.
   type: open-source
-  added: *id001
+  added: 2026-11-04

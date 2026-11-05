@@ -202,37 +202,37 @@ items:
   url: https://github.com/opensandbox-group/OpenSandbox
   desc: Secure and lightweight sandbox runtime for autonomous AI coding agents.
   type: open-source
-  added: &id001 2026-11-04
+  added: 2026-11-04
   gold: true
 - name: OpenShell
   url: https://github.com/NVIDIA/OpenShell
   desc: Safe, private runtime and sandbox for autonomous AI agent execution by NVIDIA.
   type: open-source
-  added: *id001
+  added: 2026-11-04
   gold: true
 - name: Eliza
   url: https://github.com/elizaOS/eliza
   desc: Autonomous multi-agent operating system and framework for interactive agents.
   type: open-source
-  added: *id001
+  added: 2026-11-04
   gold: true
 - name: Agno
   url: https://github.com/agno-agi/agno
   desc: Lightweight framework for building multi-modal AI agents with memory and tools.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: CopilotKit
   url: https://github.com/CopilotKit/CopilotKit
   desc: Open-source framework to embed custom AI copilots and in-app agent sidebars.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: 9Router
   url: https://github.com/decolua/9router
   desc: Multi-provider routing gateway connecting Claude Code, Codex, and Cursor.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: T3 Code
   url: https://github.com/pingdotgg/t3code
   desc: Full-stack web application scaffolding and agentic code generator by Theo.
   type: open-source
-  added: *id001
+  added: 2026-11-04

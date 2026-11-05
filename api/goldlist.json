@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 470,
+  "total": 476,
   "categories": [
     {
       "slug": "jobs",
@@ -1539,6 +1539,51 @@
           "gold": false,
           "github": "lordbasex/LordOS",
           "added": "2026-11-04"
+        },
+        {
+          "name": "Can I use",
+          "url": "https://caniuse.com",
+          "description": "Up-to-date browser feature support tables for modern HTML, CSS, JavaScript, and Web APIs.",
+          "type": "open-source",
+          "gold": true,
+          "github": "fyrd/caniuse",
+          "added": "2026-11-05"
+        },
+        {
+          "name": "Crontab.guru",
+          "url": "https://crontab.guru",
+          "description": "Interactive cron schedule expression editor with human-readable plain English definitions.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-11-05"
+        },
+        {
+          "name": "JSON Crack",
+          "url": "https://jsoncrack.com",
+          "description": "Interactive visual graph and hierarchical tree viewer for complex JSON structures.",
+          "type": "open-source",
+          "gold": true,
+          "github": "AykutSarac/jsoncrack.com",
+          "added": "2026-11-05"
+        },
+        {
+          "name": "Ray.so",
+          "url": "https://ray.so",
+          "description": "Generate beautiful code snippet screenshots with syntax themes, padding, and dark mode.",
+          "type": "open-source",
+          "gold": false,
+          "github": "raycast/ray-so",
+          "added": "2026-11-05"
+        },
+        {
+          "name": "Bundlephobia",
+          "url": "https://bundlephobia.com",
+          "description": "Find the bundle size and download impact of npm packages before adding them to projects.",
+          "type": "open-source",
+          "gold": false,
+          "github": "pastelsky/bundlephobia",
+          "added": "2026-11-05"
         }
       ]
     },
@@ -3060,6 +3105,15 @@
           "gold": false,
           "github": "alexgreensh/anidoodle",
           "added": "2026-11-04"
+        },
+        {
+          "name": "SVG Repo",
+          "url": "https://www.svgrepo.com",
+          "description": "Search and download 500,000+ free vector SVG icons and illustrations with CC0 license.",
+          "type": "free",
+          "gold": false,
+          "github": null,
+          "added": "2026-11-05"
         }
       ]
     },

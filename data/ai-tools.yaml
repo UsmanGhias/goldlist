@@ -179,16 +179,16 @@ items:
   desc: Turn entire websites into clean LLM-ready markdown or structured data with
     one call.
   type: open-source
-  added: &id001 2026-11-04
+  added: 2026-11-04
   gold: true
 - name: Jina Reader
   url: https://github.com/jina-ai/reader
   desc: Convert any webpage into clean markdown for LLMs by prefixing r.jina.ai to
     the URL.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Strata
   url: https://github.com/Niko1221/Strata
   desc: Run high-performance open LLMs on consumer GPUs with one-click desktop setup.
   type: open-source
-  added: *id001
+  added: 2026-11-04

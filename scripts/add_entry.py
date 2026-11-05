@@ -80,18 +80,27 @@ def yaml_scalar(value):
     return yaml.safe_dump({"v": value}, allow_unicode=True, width=10**6)[3:].rstrip("\n")
 
 
-def render_item(entry):
+def detect_indent(content: str) -> int:
+    """Detect whether items in the YAML file use 0 or 2 spaces indentation."""
+    for line in content.splitlines():
+        if line.lstrip().startswith("- name:"):
+            return len(line) - len(line.lstrip())
+    return 0
+
+
+def render_item(entry, indent: int = 0):
+    prefix = " " * indent
     lines = [
-        f"  - name: {yaml_scalar(entry['name'])}",
-        f"    url: {yaml_scalar(entry['url'])}",
-        f"    desc: {yaml_scalar(entry['desc'])}",
-        f"    type: {entry['type']}",
+        f"{prefix}- name: {yaml_scalar(entry['name'])}",
+        f"{prefix}  url: {yaml_scalar(entry['url'])}",
+        f"{prefix}  desc: {yaml_scalar(entry['desc'])}",
+        f"{prefix}  type: {entry['type']}",
     ]
     if entry.get("github"):
-        lines.append(f"    github: {entry['github']}")
+        lines.append(f"{prefix}  github: {entry['github']}")
     if entry.get("gold"):
-        lines.append("    gold: true")
-    lines.append(f"    added: {entry['added']}")
+        lines.append(f"{prefix}  gold: true")
+    lines.append(f"{prefix}  added: {entry['added']}")
     return "\n".join(lines) + "\n"
 
 
@@ -149,13 +158,14 @@ def main():
     raw = parse_issue_form(os.environ.get("ISSUE_BODY", "")) if args.from_issue else vars(args)
     categories = load_categories()
     category, entry = build_entry(raw, categories)
-    block = render_item(entry)
+    path = DATA_DIR / f"{category['slug']}.yaml"
+    original = path.read_text(encoding="utf-8")
+    indent = detect_indent(original)
+    block = render_item(entry, indent=indent)
     if args.dry_run:
         print(f"# would append to data/{category['slug']}.yaml\n{block}", end="")
         return 0
 
-    path = DATA_DIR / f"{category['slug']}.yaml"
-    original = path.read_text(encoding="utf-8")
     path.write_text(original.rstrip("\n") + "\n" + block, encoding="utf-8")
     errors = validate(load_categories())
     if errors:

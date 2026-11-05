@@ -177,21 +177,21 @@ items:
   url: https://github.com/AgriciDaniel/claude-ads
   desc: Paid-media operations and ad management skill for Claude Code across 12 platforms.
   type: open-source
-  added: &id001 2026-11-04
+  added: 2026-11-04
 - name: Anthropic Cybersecurity Skills
   url: https://github.com/mukul975/Anthropic-Cybersecurity-Skills
   desc: 817 structured cybersecurity and penetration testing skills for AI coding
     agents.
   type: open-source
-  added: *id001
+  added: 2026-11-04
   gold: true
 - name: Book to Skill
   url: https://github.com/virgiliojr94/book-to-skill
   desc: Turn any technical book PDF into an indexed Claude Code skill ready for queries.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: I Have ADHD
   url: https://github.com/ayghri/i-have-adhd
   desc: Agent skill that keeps AI coding outputs concise, structured, and slop-free.
   type: open-source
-  added: *id001
+  added: 2026-11-04

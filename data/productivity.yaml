@@ -154,37 +154,37 @@ items:
   desc: Smarter cd command that learns navigation habits and jumps across folders
     fast.
   type: open-source
-  added: &id001 2026-11-04
+  added: 2026-11-04
   gold: true
 - name: Coucou
   url: https://github.com/Louis-CFM/coucou
   desc: Mac notch and Lock Screen monitor for autonomous coding agents with one-click
     review.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: PDF Arranger
   url: https://github.com/pdfarranger/pdfarranger
   desc: Lightweight utility to merge, split, rotate, crop, and reorder PDF pages.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: APITable
   url: https://github.com/apitable/apitable
   desc: API-oriented open-source low-code collaborative spreadsheet and database.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Beamer
   url: https://github.com/kalkman-code/beamer
   desc: Share one keyboard and mouse across Mac and Windows PC over local network.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: OpenGym
   url: https://github.com/DuarteSantos8/openGym
   desc: Open-source privacy-focused workout, bodyweight, and gym routine tracker.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: No AI Slop
   url: https://github.com/petergyang/no-ai-slop
   desc: CLI and prompt tool that strips 20+ patterns of AI filler and buzzwords from
     prose.
   type: open-source
-  added: *id001
+  added: 2026-11-04

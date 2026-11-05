@@ -131,36 +131,41 @@ items:
   url: https://github.com/tldraw/tldraw
   desc: Infinite canvas SDK and collaborative digital whiteboard for React applications.
   type: open-source
-  added: &id001 2026-11-04
+  added: 2026-11-04
   gold: true
 - name: Excalidraw
   url: https://github.com/excalidraw/excalidraw
   desc: Virtual collaborative whiteboard for sketching hand-drawn diagrams and wireframes.
   type: open-source
-  added: *id001
+  added: 2026-11-04
   gold: true
 - name: Open Design
   url: https://github.com/nexu-io/open-design
   desc: Collaborative local-first AI design agent workspace and canvas.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Text to CAD
   url: https://github.com/earthtojake/text-to-cad
   desc: Generate physical 3D CAD models and mechanical parts from text descriptions.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Scroll World
   url: https://github.com/oso95/scroll-world
   desc: Agent skill that turns any brand into an immersive scrollable 3D world.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Goldie
   url: https://github.com/software-mansion-labs/goldie
   desc: Agentic automated app store screenshot and preview asset generator.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Anidoodle
   url: https://github.com/alexgreensh/anidoodle
   desc: Art, animation, and interactive motion graphics written purely as code.
   type: open-source
-  added: *id001
+  added: 2026-11-04
+- name: SVG Repo
+  url: https://www.svgrepo.com
+  desc: Search and download 500,000+ free vector SVG icons and illustrations with CC0 license.
+  type: free
+  added: 2026-11-05

@@ -83,10 +83,10 @@ items:
   url: https://github.com/emmabostian/developer-portfolios
   desc: Curated showcase of stellar software developer portfolio websites for inspiration.
   type: open-source
-  added: &id001 2026-11-04
+  added: 2026-11-04
 - name: Data Science Interview Q&A
   url: https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers
   desc: Curated preparation questions and answers covering data science and machine
     learning.
   type: open-source
-  added: *id001
+  added: 2026-11-04

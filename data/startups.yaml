@@ -120,31 +120,31 @@ items:
   url: https://github.com/Fincept-Corporation/FinceptTerminal
   desc: Modern financial analytics terminal offering market data and investment research.
   type: open-source
-  added: &id001 2026-11-04
+  added: 2026-11-04
   gold: true
 - name: Evershop
   url: https://github.com/evershopcommerce/evershop
   desc: Modern modular open-source TypeScript headless e-commerce platform.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: StoreCraft
   url: https://github.com/store-craft/storecraft
   desc: Rapid headless e-commerce backend framework built with TypeScript and modular
     storage.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Open SEO
   url: https://github.com/every-app/open-seo
   desc: Open-source keyword tracking and backlink intelligence alternative to Semrush.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Roast Room
   url: https://github.com/nateherkai/roast-room
   desc: Live business decision debate simulator with 7 AI advisors in Claude Code.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Bagisto Mobile App
   url: https://github.com/bagisto/opensource-ecommerce-mobile-app
   desc: Open-source Flutter mobile e-commerce application for the Bagisto ecosystem.
   type: open-source
-  added: *id001
+  added: 2026-11-04

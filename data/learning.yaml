@@ -163,33 +163,33 @@ items:
   desc: Simplest, fastest repository for training and finetuning medium GPTs by Andrej
     Karpathy.
   type: open-source
-  added: &id001 2026-11-04
+  added: 2026-11-04
   gold: true
 - name: Anthropic Courses
   url: https://github.com/anthropics/courses
   desc: Official educational courses and notebooks for prompt engineering and Claude
     development.
   type: open-source
-  added: *id001
+  added: 2026-11-04
   gold: true
 - name: HelloGitHub
   url: https://github.com/521xueweihan/HelloGitHub
   desc: Curated monthly showcase of interesting, entry-level open-source projects.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Awesome
   url: https://github.com/sindresorhus/awesome
   desc: The definitive curated index of awesome lists covering programming and technology.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Koodo Reader
   url: https://github.com/koodo-reader/koodo-reader
   desc: Cross-platform open-source ebook manager and reader supporting EPUB, PDF,
     and MOBI.
   type: open-source
-  added: *id001
+  added: 2026-11-04
 - name: Exercises Dataset
   url: https://github.com/hasaneyldrm/exercises-dataset
   desc: Comprehensive dataset of 1,324 fitness exercises with animated thumbnails.
   type: open-source
-  added: *id001
+  added: 2026-11-04

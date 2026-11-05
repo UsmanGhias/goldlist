@@ -11,13 +11,13 @@
 <h3>Only the gold. Everything else is noise.</h3>
 
 <p>
-  <b>470 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
+  <b>476 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
   learning, building products, and staying secure. Sorted across 16 categories and verified every week.
 </p>
 
-[![Entries](https://img.shields.io/badge/entries-470-d4af37?style=flat-square&labelColor=24292f)](#contents)
-[![Gold picks](https://img.shields.io/badge/gold_picks-68-d4af37?style=flat-square&labelColor=24292f)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-342-2ea44f?style=flat-square&labelColor=24292f)](#contents)
+[![Entries](https://img.shields.io/badge/entries-476-d4af37?style=flat-square&labelColor=24292f)](#contents)
+[![Gold picks](https://img.shields.io/badge/gold_picks-70-d4af37?style=flat-square&labelColor=24292f)](#gold-picks)
+[![Open source](https://img.shields.io/badge/open_source-346-2ea44f?style=flat-square&labelColor=24292f)](#contents)
 [![Web Directory](https://img.shields.io/badge/web_directory-live-d4af37?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=24292f)](https://goldlist-seven.vercel.app/)
 [![Weekly Check](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square&labelColor=24292f)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
 [![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=24292f&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
@@ -29,10 +29,10 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>470</h3><sub>verified resources</sub></td>
+<td align="center" width="25%"><h3>476</h3><sub>verified resources</sub></td>
 <td align="center" width="25%"><h3>16</h3><sub>curated topics</sub></td>
-<td align="center" width="25%"><h3>342</h3><sub>open-source repos</sub></td>
-<td align="center" width="25%"><h3>68</h3><sub>elite gold picks</sub></td>
+<td align="center" width="25%"><h3>346</h3><sub>open-source repos</sub></td>
+<td align="center" width="25%"><h3>70</h3><sub>elite gold picks</sub></td>
 </tr>
 </table>
 
@@ -42,7 +42,7 @@
 
 <br><br>
 
-**[🔎 Search &amp; filter all 470 resources on the live website →](https://usmanghias.github.io/goldlist/)**
+**[🔎 Search &amp; filter all 476 resources on the live website →](https://usmanghias.github.io/goldlist/)**
 
 <sub>⭐ <b>Star this repository</b> to keep it one click away. Updated weekly.</sub>
 
@@ -290,10 +290,22 @@ The best of the best. If you only open a few links today, make it these.
 </tr>
 <tr>
 <td width="33%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=caniuse.com&sz=64" width="16" height="16"> <b><a href="https://caniuse.com">Can I use</a></b><br>
+<sub>Up-to-date browser feature support tables for modern HTML, CSS, JavaScript, and Web APIs.</sub><br>
+<sub><a href="#dev-tools">🛠️ Dev Tools</a></sub>
+</td>
+<td width="33%" valign="top">
+<img src="https://www.google.com/s2/favicons?domain=jsoncrack.com&sz=64" width="16" height="16"> <b><a href="https://jsoncrack.com">JSON Crack</a></b><br>
+<sub>Interactive visual graph and hierarchical tree viewer for complex JSON structures.</sub><br>
+<sub><a href="#dev-tools">🛠️ Dev Tools</a></sub>
+</td>
+<td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=ollama.com&sz=64" width="16" height="16"> <b><a href="https://ollama.com">Ollama</a></b><br>
 <sub>Run open LLMs locally with a single command.</sub><br>
 <sub><a href="#ai-tools">🤖 AI Tools</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=64" width="16" height="16"> <b><a href="https://aistudio.google.com">Google AI Studio</a></b><br>
 <sub>Try Gemini models and get a free API key in minutes.</sub><br>
@@ -304,13 +316,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Let AI agents control a real web browser to finish tasks.</sub><br>
 <sub><a href="#ai-tools">🤖 AI Tools</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/microsoft.png?size=64" width="16" height="16"> <b><a href="https://github.com/microsoft/markitdown">MarkItDown</a></b><br>
 <sub>Convert PDFs, Office files and more to Markdown for LLMs.</sub><br>
 <sub><a href="#ai-tools">🤖 AI Tools</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/mendableai.png?size=64" width="16" height="16"> <b><a href="https://github.com/mendableai/firecrawl">Firecrawl</a></b><br>
 <sub>Turn entire websites into clean LLM-ready markdown or structured data with one call.</sub><br>
@@ -321,13 +333,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Google's open-source AI agent for the terminal, with a generous free tier.</sub><br>
 <sub><a href="#ai-coding">🧠 AI Coding</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/github.png?size=64" width="16" height="16"> <b><a href="https://github.com/github/spec-kit">Spec Kit</a></b><br>
 <sub>GitHub's toolkit for spec-driven development that turns specs into plans and tasks for agents.</sub><br>
 <sub><a href="#ai-coding">🧠 AI Coding</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=cline.bot&sz=64" width="16" height="16"> <b><a href="https://cline.bot">Cline</a></b><br>
 <sub>Autonomous coding agent inside VS Code that plans, edits and runs commands.</sub><br>
@@ -338,13 +350,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Secure and lightweight sandbox runtime for autonomous AI coding agents.</sub><br>
 <sub><a href="#ai-coding">🧠 AI Coding</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/NVIDIA.png?size=64" width="16" height="16"> <b><a href="https://github.com/NVIDIA/OpenShell">OpenShell</a></b><br>
 <sub>Safe, private runtime and sandbox for autonomous AI agent execution by NVIDIA.</sub><br>
 <sub><a href="#ai-coding">🧠 AI Coding</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/elizaOS.png?size=64" width="16" height="16"> <b><a href="https://github.com/elizaOS/eliza">Eliza</a></b><br>
 <sub>Autonomous multi-agent operating system and framework for interactive agents.</sub><br>
@@ -355,13 +367,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Makes your coding agent favor the simplest working solution and write less, leaner code.</sub><br>
 <sub><a href="#agent-skills">🧩 Skills</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/obra.png?size=64" width="16" height="16"> <b><a href="https://github.com/obra/superpowers">Superpowers</a></b><br>
 <sub>Skills framework that gives agents a disciplined workflow of brainstorming, planning, TDD and review.</sub><br>
 <sub><a href="#agent-skills">🧩 Skills</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/nextlevelbuilder.png?size=64" width="16" height="16"> <b><a href="https://github.com/nextlevelbuilder/ui-ux-pro-max-skill">UI UX Pro Max Skill</a></b><br>
 <sub>Design-intelligence skill that helps AI coding agents build polished, professional UI.</sub><br>
@@ -372,13 +384,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>817 structured cybersecurity and penetration testing skills for AI coding agents.</sub><br>
 <sub><a href="#agent-skills">🧩 Skills</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/modelcontextprotocol.png?size=64" width="16" height="16"> <b><a href="https://github.com/modelcontextprotocol/servers">MCP Reference Servers</a></b><br>
 <sub>Reference Model Context Protocol servers that connect AI agents to tools and data.</sub><br>
 <sub><a href="#mcp">🔌 MCP</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/upstash.png?size=64" width="16" height="16"> <b><a href="https://github.com/upstash/context7">Context7</a></b><br>
 <sub>Feeds your agent up-to-date, version-specific library docs so it stops guessing APIs.</sub><br>
@@ -389,13 +401,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Lets agents drive a real browser to test, click through and read web pages.</sub><br>
 <sub><a href="#mcp">🔌 MCP</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/ChromeDevTools.png?size=64" width="16" height="16"> <b><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp">Chrome DevTools MCP</a></b><br>
 <sub>Let agents debug, profile and test pages in a live Chrome.</sub><br>
 <sub><a href="#mcp">🔌 MCP</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=penpot.app&sz=64" width="16" height="16"> <b><a href="https://penpot.app">Penpot</a></b><br>
 <sub>Open-source design and prototyping tool, an alternative to Figma.</sub><br>
@@ -406,13 +418,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Beautiful, accessible React components you copy into your project.</sub><br>
 <sub><a href="#design">🎨 Design</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/tldraw.png?size=64" width="16" height="16"> <b><a href="https://github.com/tldraw/tldraw">tldraw</a></b><br>
 <sub>Infinite canvas SDK and collaborative digital whiteboard for React applications.</sub><br>
 <sub><a href="#design">🎨 Design</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/excalidraw.png?size=64" width="16" height="16"> <b><a href="https://github.com/excalidraw/excalidraw">Excalidraw</a></b><br>
 <sub>Virtual collaborative whiteboard for sketching hand-drawn diagrams and wireframes.</sub><br>
@@ -423,13 +435,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Hollywood-grade video editing and color grading, with a very capable free version.</sub><br>
 <sub><a href="#media">🎬 Media</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=obsproject.com&sz=64" width="16" height="16"> <b><a href="https://obsproject.com">OBS Studio</a></b><br>
 <sub>Screen recording and live streaming.</sub><br>
 <sub><a href="#media">🎬 Media</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=ffmpeg.org&sz=64" width="16" height="16"> <b><a href="https://ffmpeg.org">FFmpeg</a></b><br>
 <sub>The Swiss Army knife for converting and editing audio and video.</sub><br>
@@ -440,13 +452,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Self-hosted Google Photos alternative with mobile backup.</sub><br>
 <sub><a href="#media">🎬 Media</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/alyssaxuu.png?size=64" width="16" height="16"> <b><a href="https://github.com/alyssaxuu/screenity">Screenity</a></b><br>
 <sub>Privacy-friendly browser screen recorder and annotation tool with zero limits.</sub><br>
 <sub><a href="#media">🎬 Media</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=obsidian.md&sz=64" width="16" height="16"> <b><a href="https://obsidian.md">Obsidian</a></b><br>
 <sub>Local-first markdown notes with backlinks and a huge plugin ecosystem.</sub><br>
@@ -457,13 +469,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Share files between nearby devices with no internet or account.</sub><br>
 <sub><a href="#productivity">⚡ Productivity</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www.stirlingpdf.com&sz=64" width="16" height="16"> <b><a href="https://www.stirlingpdf.com">Stirling-PDF</a></b><br>
 <sub>Self-hosted toolkit to merge, split, sign, OCR and edit PDFs.</sub><br>
 <sub><a href="#productivity">⚡ Productivity</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/ajeetdsouza.png?size=64" width="16" height="16"> <b><a href="https://github.com/ajeetdsouza/zoxide">zoxide</a></b><br>
 <sub>Smarter cd command that learns navigation habits and jumps across folders fast.</sub><br>
@@ -474,13 +486,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Collect, organize and cite research papers, with one-click capture from your browser.</sub><br>
 <sub><a href="#research">🔬 Research</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=www.overleaf.com&sz=64" width="16" height="16"> <b><a href="https://www.overleaf.com">Overleaf</a></b><br>
 <sub>Collaborative LaTeX editor in the browser for papers and theses.</sub><br>
 <sub><a href="#research">🔬 Research</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=colab.research.google.com&sz=64" width="16" height="16"> <b><a href="https://colab.research.google.com">Google Colab</a></b><br>
 <sub>Free Jupyter notebooks in the cloud with GPU access.</sub><br>
@@ -491,13 +503,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Y Combinator's free course on how to start a startup, plus co-founder matching.</sub><br>
 <sub><a href="#startups">🚀 Startups</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=posthog.com&sz=64" width="16" height="16"> <b><a href="https://posthog.com">PostHog</a></b><br>
 <sub>Open-source product analytics, session replay and feature flags with a big free tier.</sub><br>
 <sub><a href="#startups">🚀 Startups</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/Fincept-Corporation.png?size=64" width="16" height="16"> <b><a href="https://github.com/Fincept-Corporation/FinceptTerminal">FinceptTerminal</a></b><br>
 <sub>Modern financial analytics terminal offering market data and investment research.</sub><br>
@@ -508,13 +520,13 @@ The best of the best. If you only open a few links today, make it these.
 <sub>Open-source password manager with a free plan on every device.</sub><br>
 <sub><a href="#privacy-security">🔒 Privacy</a></sub>
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top">
 <img src="https://github.com/gorhill.png?size=64" width="16" height="16"> <b><a href="https://github.com/gorhill/uBlock">uBlock Origin</a></b><br>
 <sub>Efficient, lightweight ad and tracker blocker.</sub><br>
 <sub><a href="#privacy-security">🔒 Privacy</a></sub>
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 <img src="https://www.google.com/s2/favicons?domain=portswigger.net&sz=64" width="16" height="16"> <b><a href="https://portswigger.net/web-security">PortSwigger Web Security Academy</a></b><br>
 <sub>Free hands-on labs for every major web vulnerability.</sub><br>
@@ -527,16 +539,16 @@ The best of the best. If you only open a few links today, make it these.
 
 ## 🆕 Recently Added
 
+- **[Can I use](https://caniuse.com)**: Up-to-date browser feature support tables for modern HTML, CSS, JavaScript, and Web APIs. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
+- **[Crontab.guru](https://crontab.guru)**: Interactive cron schedule expression editor with human-readable plain English definitions. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
+- **[JSON Crack](https://jsoncrack.com)**: Interactive visual graph and hierarchical tree viewer for complex JSON structures. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
+- **[Ray.so](https://ray.so)**: Generate beautiful code snippet screenshots with syntax themes, padding, and dark mode. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
+- **[Bundlephobia](https://bundlephobia.com)**: Find the bundle size and download impact of npm packages before adding them to projects. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
+- **[SVG Repo](https://www.svgrepo.com)**: Search and download 500,000+ free vector SVG icons and illustrations with CC0 license. <sub>[🎨 Design](#design) · 2026-11-05</sub>
 - **[Clivora Web](https://clivora.io)**: Free open-source freelance OS for clients and freelancers with portals, contracts, escrow, and invoicing. <sub>[💼 Jobs](#jobs) · 2026-11-04</sub>
 - **[Clivora App](https://github.com/UsmanGhias/clivora)**: Free open-source offline-first mobile app for freelance client portals, contracts, and milestone invoicing. <sub>[💼 Jobs](#jobs) · 2026-11-04</sub>
 - **[Developer Portfolios](https://github.com/emmabostian/developer-portfolios)**: Curated showcase of stellar software developer portfolio websites for inspiration. <sub>[🧭 Career](#career) · 2026-11-04</sub>
 - **[Data Science Interview Q&A](https://github.com/youssefHosni/Data-Science-Interview-Questions-Answers)**: Curated preparation questions and answers covering data science and machine learning. <sub>[🧭 Career](#career) · 2026-11-04</sub>
-- **[nanoGPT](https://github.com/karpathy/nanoGPT)**: Simplest, fastest repository for training and finetuning medium GPTs by Andrej Karpathy. <sub>[📚 Learning](#learning) · 2026-11-04</sub>
-- **[Anthropic Courses](https://github.com/anthropics/courses)**: Official educational courses and notebooks for prompt engineering and Claude development. <sub>[📚 Learning](#learning) · 2026-11-04</sub>
-- **[HelloGitHub](https://github.com/521xueweihan/HelloGitHub)**: Curated monthly showcase of interesting, entry-level open-source projects. <sub>[📚 Learning](#learning) · 2026-11-04</sub>
-- **[Awesome](https://github.com/sindresorhus/awesome)**: The definitive curated index of awesome lists covering programming and technology. <sub>[📚 Learning](#learning) · 2026-11-04</sub>
-- **[Koodo Reader](https://github.com/koodo-reader/koodo-reader)**: Cross-platform open-source ebook manager and reader supporting EPUB, PDF, and MOBI. <sub>[📚 Learning](#learning) · 2026-11-04</sub>
-- **[Exercises Dataset](https://github.com/hasaneyldrm/exercises-dataset)**: Comprehensive dataset of 1,324 fitness exercises with animated thumbnails. <sub>[📚 Learning](#learning) · 2026-11-04</sub>
 
 <a id="contents"></a>
 
@@ -549,12 +561,12 @@ The best of the best. If you only open a few links today, make it these.
 | 🎓 | **[Scholarships & Research Funding](#scholarships)** | Funded master's, PhDs and fellowships, so you can study without paying for it. | 22 |
 | 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 36 |
 | 🧑‍🎓 | **[Students & Programs](#students)** | Free licenses, credits and paid programs available only while you're a student or newcomer. | 16 |
-| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 52 |
+| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 57 |
 | 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 35 |
 | 🧠 | **[AI Coding Agents & Tools](#ai-coding)** | Terminal coding agents, spec-driven workflows and the tools that make Claude Code better. | 41 |
 | 🧩 | **[Claude & Agent Skills](#agent-skills)** | Drop-in skills and plugins that give Claude Code, Codex, Gemini CLI and Antigravity new abilities. | 35 |
 | 🔌 | **[MCP Servers](#mcp)** | Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases. | 21 |
-| 🎨 | **[Design & UI](#design)** | Icons, fonts, photos and design tools that look premium and cost nothing. | 32 |
+| 🎨 | **[Design & UI](#design)** | Icons, fonts, photos and design tools that look premium and cost nothing. | 33 |
 | 🎬 | **[Video, Audio & Media](#media)** | Studio-grade editing, recording and stock media at zero cost. | 31 |
 | ⚡ | **[Productivity & Everyday Apps](#productivity)** | Notes, office apps and utilities, mostly open-source alternatives to paid apps. | 35 |
 | 🔬 | **[Research & Writing](#research)** | Find papers, manage references and write better, for students and researchers. | 19 |
@@ -743,7 +755,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🛠️ Developer Tools & Free Tiers
 
 > Build, host and ship without a credit card.<br>
-> <sub>52 picks · 8 gold</sub>
+> <sub>57 picks · 10 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -799,6 +811,11 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/REAndroid.png?size=64" width="20" height="20"> | **[APKEditor](https://github.com/REAndroid/APKEditor)** | Android APK reverse engineering and resource modification tool. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/REAndroid/APKEditor?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/REAndroid/APKEditor) |
 | <img src="https://github.com/FreeRDP.png?size=64" width="20" height="20"> | **[FreeRDP](https://github.com/FreeRDP/FreeRDP)** | Free and open-source Remote Desktop Protocol client and library implementation. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/FreeRDP/FreeRDP?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/FreeRDP/FreeRDP) |
 | <img src="https://github.com/lordbasex.png?size=64" width="20" height="20"> | **[LordOS](https://github.com/lordbasex/LordOS)** | Lightweight Debian Linux distribution with Wayland compositor and QuickJS UI. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/lordbasex/LordOS?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/lordbasex/LordOS) |
+| <img src="https://www.google.com/s2/favicons?domain=caniuse.com&sz=64" width="20" height="20"> | **[Can I use](https://caniuse.com)** 🏆 | Up-to-date browser feature support tables for modern HTML, CSS, JavaScript, and Web APIs. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/fyrd/caniuse?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/fyrd/caniuse) |
+| <img src="https://www.google.com/s2/favicons?domain=crontab.guru&sz=64" width="20" height="20"> | **[Crontab.guru](https://crontab.guru)** | Interactive cron schedule expression editor with human-readable plain English definitions. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
+| <img src="https://www.google.com/s2/favicons?domain=jsoncrack.com&sz=64" width="20" height="20"> | **[JSON Crack](https://jsoncrack.com)** 🏆 | Interactive visual graph and hierarchical tree viewer for complex JSON structures. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/AykutSarac/jsoncrack.com?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/AykutSarac/jsoncrack.com) |
+| <img src="https://www.google.com/s2/favicons?domain=ray.so&sz=64" width="20" height="20"> | **[Ray.so](https://ray.so)** | Generate beautiful code snippet screenshots with syntax themes, padding, and dark mode. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/raycast/ray-so?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/raycast/ray-so) |
+| <img src="https://www.google.com/s2/favicons?domain=bundlephobia.com&sz=64" width="20" height="20"> | **[Bundlephobia](https://bundlephobia.com)** | Find the bundle size and download impact of npm packages before adding them to projects. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/pastelsky/bundlephobia?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/pastelsky/bundlephobia) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -987,7 +1004,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🎨 Design & UI
 
 > Icons, fonts, photos and design tools that look premium and cost nothing.<br>
-> <sub>32 picks · 4 gold</sub>
+> <sub>33 picks · 4 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -1023,6 +1040,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/oso95.png?size=64" width="20" height="20"> | **[Scroll World](https://github.com/oso95/scroll-world)** | Agent skill that turns any brand into an immersive scrollable 3D world. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/oso95/scroll-world?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/oso95/scroll-world) |
 | <img src="https://github.com/software-mansion-labs.png?size=64" width="20" height="20"> | **[Goldie](https://github.com/software-mansion-labs/goldie)** | Agentic automated app store screenshot and preview asset generator. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/software-mansion-labs/goldie?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/software-mansion-labs/goldie) |
 | <img src="https://github.com/alexgreensh.png?size=64" width="20" height="20"> | **[Anidoodle](https://github.com/alexgreensh/anidoodle)** | Art, animation, and interactive motion graphics written purely as code. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/alexgreensh/anidoodle?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/alexgreensh/anidoodle) |
+| <img src="https://www.google.com/s2/favicons?domain=www.svgrepo.com&sz=64" width="20" height="20"> | **[SVG Repo](https://www.svgrepo.com)** | Search and download 500,000+ free vector SVG icons and illustrations with CC0 license. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) |  |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
