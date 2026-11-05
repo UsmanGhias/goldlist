@@ -192,3 +192,15 @@ items:
   desc: Run high-performance open LLMs on consumer GPUs with one-click desktop setup.
   type: open-source
   added: 2026-11-04
+- name: Mathmodelagent
+  url: https://mathmodel.top/home
+  desc: Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文.
+  type: free
+  github: jihe520/MathModelAgent
+  added: 2026-11-05
+- name: Openmed
+  url: https://openmed.life/
+  desc: 'Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical.'
+  type: open-source
+  github: maziyarpanahi/openmed
+  added: 2026-11-05

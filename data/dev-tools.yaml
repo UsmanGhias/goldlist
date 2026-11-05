@@ -313,3 +313,9 @@ items:
   type: open-source
   github: pastelsky/bundlephobia
   added: 2026-11-05
+- name: Anyps5
+  url: https://boykopovar.github.io/AnyPS5/
+  desc: Tool for automatic PS5 executables porting to Linux and Windows.
+  type: open-source
+  github: boykopovar/AnyPS5
+  added: 2026-11-05

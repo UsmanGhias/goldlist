@@ -236,3 +236,9 @@ items:
   desc: Full-stack web application scaffolding and agentic code generator by Theo.
   type: open-source
   added: 2026-11-04
+- name: Cleanyourtv
+  url: https://cleanyour.tv
+  desc: Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.
+  type: free
+  github: Gathin23/cleanyourtv
+  added: 2026-11-05
