@@ -11,13 +11,13 @@
 <h3>Only the gold. Everything else is noise.</h3>
 
 <p>
-  <b>481 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
+  <b>486 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
   learning, building products, and staying secure. Sorted across 16 categories and verified every week.
 </p>
 
-[![Entries](https://img.shields.io/badge/entries-481-d4af37?style=flat-square&labelColor=24292f)](#contents)
+[![Entries](https://img.shields.io/badge/entries-486-d4af37?style=flat-square&labelColor=24292f)](#contents)
 [![Gold picks](https://img.shields.io/badge/gold_picks-70-d4af37?style=flat-square&labelColor=24292f)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-349-2ea44f?style=flat-square&labelColor=24292f)](#contents)
+[![Open source](https://img.shields.io/badge/open_source-351-2ea44f?style=flat-square&labelColor=24292f)](#contents)
 [![Web Directory](https://img.shields.io/badge/web_directory-live-d4af37?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=24292f)](https://goldlist-seven.vercel.app/)
 [![Weekly Check](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square&labelColor=24292f)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
 [![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=24292f&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
@@ -30,9 +30,9 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>481</h3><sub>verified resources</sub></td>
+<td align="center" width="25%"><h3>486</h3><sub>verified resources</sub></td>
 <td align="center" width="25%"><h3>16</h3><sub>curated topics</sub></td>
-<td align="center" width="25%"><h3>349</h3><sub>open-source repos</sub></td>
+<td align="center" width="25%"><h3>351</h3><sub>open-source repos</sub></td>
 <td align="center" width="25%"><h3>70</h3><sub>elite gold picks</sub></td>
 </tr>
 </table>
@@ -43,7 +43,7 @@
 
 <br><br>
 
-**[🔎 Search &amp; filter all 481 resources on the live website →](https://goldlist-seven.vercel.app/)**
+**[🔎 Search &amp; filter all 486 resources on the live website →](https://goldlist-seven.vercel.app/)**
 
 <sub>⭐ <b>Star this repository</b> to keep it one click away. Updated weekly.</sub>
 
@@ -540,16 +540,16 @@ The best of the best. If you only open a few links today, make it these.
 
 ## 🆕 Recently Added
 
+- **[Cheating Daddy](https://cheatingdaddy.com)**: A free and opensource app that lets you gain an unfair advantage. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-06</sub>
+- **[Football Analytics](https://www.eddwebster.com)**: A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-06</sub>
+- **[App Odoo](https://www.odooai.cn)**: Odoo Free Addon for 20,19,18,17,16,15,14,13,12,11,10, CE and EE and SH. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-06</sub>
+- **[Awesome Harness Engineering](https://github.com/ai-boost/awesome-harness-engineering)**: Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability. <sub>[🔌 MCP](#mcp) · 2026-11-06</sub>
+- **[Django Two Factor Auth](https://github.com/jazzband/django-two-factor-auth)**: Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects. <sub>[🔒 Privacy](#privacy-security) · 2026-11-06</sub>
 - **[Can I use](https://caniuse.com)**: Up-to-date browser feature support tables for modern HTML, CSS, JavaScript, and Web APIs. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
 - **[Crontab.guru](https://crontab.guru)**: Interactive cron schedule expression editor with human-readable plain English definitions. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
 - **[JSON Crack](https://jsoncrack.com)**: Interactive visual graph and hierarchical tree viewer for complex JSON structures. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
 - **[Ray.so](https://ray.so)**: Generate beautiful code snippet screenshots with syntax themes, padding, and dark mode. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
 - **[Bundlephobia](https://bundlephobia.com)**: Find the bundle size and download impact of npm packages before adding them to projects. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
-- **[Anyps5](https://boykopovar.github.io/AnyPS5/)**: Tool for automatic PS5 executables porting to Linux and Windows. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
-- **[Mathmodelagent](https://mathmodel.top/home)**: Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文. <sub>[🤖 AI Tools](#ai-tools) · 2026-11-05</sub>
-- **[Openmed](https://openmed.life/)**: Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical. <sub>[🤖 AI Tools](#ai-tools) · 2026-11-05</sub>
-- **[Cleanyourtv](https://cleanyour.tv)**: Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. <sub>[🧠 AI Coding](#ai-coding) · 2026-11-05</sub>
-- **[SVG Repo](https://www.svgrepo.com)**: Search and download 500,000+ free vector SVG icons and illustrations with CC0 license. <sub>[🎨 Design](#design) · 2026-11-05</sub>
 
 <a id="contents"></a>
 
@@ -562,17 +562,17 @@ The best of the best. If you only open a few links today, make it these.
 | 🎓 | **[Scholarships & Research Funding](#scholarships)** | Funded master's, PhDs and fellowships, so you can study without paying for it. | 22 |
 | 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 36 |
 | 🧑‍🎓 | **[Students & Programs](#students)** | Free licenses, credits and paid programs available only while you're a student or newcomer. | 16 |
-| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 58 |
+| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 61 |
 | 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 37 |
 | 🧠 | **[AI Coding Agents & Tools](#ai-coding)** | Terminal coding agents, spec-driven workflows and the tools that make Claude Code better. | 42 |
 | 🧩 | **[Claude & Agent Skills](#agent-skills)** | Drop-in skills and plugins that give Claude Code, Codex, Gemini CLI and Antigravity new abilities. | 35 |
-| 🔌 | **[MCP Servers](#mcp)** | Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases. | 21 |
+| 🔌 | **[MCP Servers](#mcp)** | Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases. | 22 |
 | 🎨 | **[Design & UI](#design)** | Icons, fonts, photos and design tools that look premium and cost nothing. | 33 |
 | 🎬 | **[Video, Audio & Media](#media)** | Studio-grade editing, recording and stock media at zero cost. | 31 |
 | ⚡ | **[Productivity & Everyday Apps](#productivity)** | Notes, office apps and utilities, mostly open-source alternatives to paid apps. | 35 |
 | 🔬 | **[Research & Writing](#research)** | Find papers, manage references and write better, for students and researchers. | 19 |
 | 🚀 | **[Startups & Business](#startups)** | Launch and run a product, with free credits, analytics, CRM and support tools. | 28 |
-| 🔒 | **[Privacy & Security](#privacy-security)** | Protect your accounts, data and devices, and learn security hands-on. | 29 |
+| 🔒 | **[Privacy & Security](#privacy-security)** | Protect your accounts, data and devices, and learn security hands-on. | 30 |
 
 **Legend:** ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) source code is public · ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) free to use · ![Free tier](https://img.shields.io/badge/Free%20tier-bf8700?style=flat-square) generous free tier, paid upgrades · 🏆 gold pick
 
@@ -756,7 +756,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🛠️ Developer Tools & Free Tiers
 
 > Build, host and ship without a credit card.<br>
-> <sub>58 picks · 10 gold</sub>
+> <sub>61 picks · 10 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -818,6 +818,9 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=ray.so&sz=64" width="20" height="20"> | **[Ray.so](https://ray.so)** | Generate beautiful code snippet screenshots with syntax themes, padding, and dark mode. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/raycast/ray-so?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/raycast/ray-so) |
 | <img src="https://www.google.com/s2/favicons?domain=bundlephobia.com&sz=64" width="20" height="20"> | **[Bundlephobia](https://bundlephobia.com)** | Find the bundle size and download impact of npm packages before adding them to projects. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/pastelsky/bundlephobia?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/pastelsky/bundlephobia) |
 | <img src="https://www.google.com/s2/favicons?domain=boykopovar.github.io&sz=64" width="20" height="20"> | **[Anyps5](https://boykopovar.github.io/AnyPS5/)** | Tool for automatic PS5 executables porting to Linux and Windows. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/boykopovar/AnyPS5?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/boykopovar/AnyPS5) |
+| <img src="https://www.google.com/s2/favicons?domain=cheatingdaddy.com&sz=64" width="20" height="20"> | **[Cheating Daddy](https://cheatingdaddy.com)** | A free and opensource app that lets you gain an unfair advantage. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/sohzm/cheating-daddy?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/sohzm/cheating-daddy) |
+| <img src="https://www.google.com/s2/favicons?domain=www.eddwebster.com&sz=64" width="20" height="20"> | **[Football Analytics](https://www.eddwebster.com)** | A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/eddwebster/football_analytics?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/eddwebster/football_analytics) |
+| <img src="https://www.google.com/s2/favicons?domain=www.odooai.cn&sz=64" width="20" height="20"> | **[App Odoo](https://www.odooai.cn)** | Odoo Free Addon for 20,19,18,17,16,15,14,13,12,11,10, CE and EE and SH. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/guohuadeng/app-odoo?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/guohuadeng/app-odoo) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -976,7 +979,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🔌 MCP Servers
 
 > Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases.<br>
-> <sub>21 picks · 4 gold</sub>
+> <sub>22 picks · 4 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -1001,6 +1004,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/modelcontextprotocol.png?size=64" width="20" height="20"> | **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** | Official TypeScript SDK for building MCP servers and clients. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/typescript-sdk?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/modelcontextprotocol/typescript-sdk) |
 | <img src="https://github.com/modelcontextprotocol.png?size=64" width="20" height="20"> | **[MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)** | Official Python SDK for building MCP servers and clients. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/python-sdk?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/modelcontextprotocol/python-sdk) |
 | <img src="https://www.google.com/s2/favicons?domain=worldmonitor.app&sz=64" width="20" height="20"> | **[WorldMonitor](https://worldmonitor.app)** | Real-time global intelligence dashboard with AI news aggregation and OSINT monitoring. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/koala73/worldmonitor) |
+| <img src="https://github.com/ai-boost.png?size=64" width="20" height="20"> | **[Awesome Harness Engineering](https://github.com/ai-boost/awesome-harness-engineering)** | Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ai-boost/awesome-harness-engineering?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ai-boost/awesome-harness-engineering) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -1215,7 +1219,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🔒 Privacy & Security
 
 > Protect your accounts, data and devices, and learn security hands-on.<br>
-> <sub>29 picks · 3 gold</sub>
+> <sub>30 picks · 3 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -1248,6 +1252,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=maigret.app&sz=64" width="20" height="20"> | **[Maigret](https://maigret.app/gh)** | OSINT investigation tool that collects dossiers on usernames across 6,000 websites. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/soxoj/maigret?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/soxoj/maigret) |
 | <img src="https://github.com/CloakHQ.png?size=64" width="20" height="20"> | **[CloakBrowser](https://github.com/CloakHQ/CloakBrowser)** | Anti-detect Chromium browser engine built to pass advanced bot mitigation checks. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/CloakHQ/CloakBrowser?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/CloakHQ/CloakBrowser) |
 | <img src="https://github.com/WebBreacher.png?size=64" width="20" height="20"> | **[WhatsMyName](https://github.com/WebBreacher/WhatsMyName)** | OSINT username reconnaissance tool searching across 700+ websites and platforms. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/WebBreacher/WhatsMyName?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/WebBreacher/WhatsMyName) |
+| <img src="https://github.com/jazzband.png?size=64" width="20" height="20"> | **[Django Two Factor Auth](https://github.com/jazzband/django-two-factor-auth)** | Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/jazzband/django-two-factor-auth?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/jazzband/django-two-factor-auth) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
