@@ -23,6 +23,7 @@
 [![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=24292f&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square&labelColor=24292f)](CONTRIBUTING.md)
 [![AI reviewed](https://img.shields.io/badge/reviewed_by-CodeRabbit-ff570a?style=flat-square&labelColor=24292f)](#how-it-works)
+[![XERJ Corpus Hub](https://hub.xerj.org/contributors/UsmanGhias/badge.svg)](https://hub.xerj.org/contributors/UsmanGhias)
 [![License: CC0](https://img.shields.io/badge/license-CC0-lightgrey?style=flat-square&labelColor=24292f)](LICENSE)
 
 <br>
@@ -42,7 +43,7 @@
 
 <br><br>
 
-**[🔎 Search &amp; filter all {{TOTAL}} resources on the live website →](https://usmanghias.github.io/goldlist/)**
+**[🔎 Search &amp; filter all {{TOTAL}} resources on the live website →](https://goldlist-seven.vercel.app/)**
 
 <sub>⭐ <b>Star this repository</b> to keep it one click away. Updated weekly.</sub>
 
@@ -172,7 +173,8 @@ flowchart LR
 - **AI review:** [CodeRabbit](https://coderabbit.ai) reviews every pull request against the [quality bar](CONTRIBUTING.md#the-bar).
 - **Strict validation:** CI rejects duplicates, broken links, missing fields, and over-long descriptions.
 - **Self-cleaning:** a weekly job checks every link and opens an issue if anything breaks.
-- **Interactive web directory:** [usmanghias.github.io/goldlist](https://usmanghias.github.io/goldlist/) is rebuilt from the same data on every change.
+- **Interactive web directory:** [goldlist-seven.vercel.app](https://goldlist-seven.vercel.app/) is rebuilt from the same data on every change.
+- **AI agent reference memory:** indexed in the [XERJ Corpus Hub](https://hub.xerj.org/corpus/usmanghias--goldlist) as a verified, pinned reference corpus for AI coding agents.
 
 ---
 
