@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 481,
+  "total": 486,
   "categories": [
     {
       "slug": "jobs",
@@ -1593,6 +1593,33 @@
           "gold": false,
           "github": "boykopovar/AnyPS5",
           "added": "2026-11-05"
+        },
+        {
+          "name": "Cheating Daddy",
+          "url": "https://cheatingdaddy.com",
+          "description": "A free and opensource app that lets you gain an unfair advantage.",
+          "type": "open-source",
+          "gold": false,
+          "github": "sohzm/cheating-daddy",
+          "added": "2026-11-06"
+        },
+        {
+          "name": "Football Analytics",
+          "url": "https://www.eddwebster.com",
+          "description": "A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated.",
+          "type": "free",
+          "gold": false,
+          "github": "eddwebster/football_analytics",
+          "added": "2026-11-06"
+        },
+        {
+          "name": "App Odoo",
+          "url": "https://www.odooai.cn",
+          "description": "Odoo Free Addon for 20,19,18,17,16,15,14,13,12,11,10, CE and EE and SH.",
+          "type": "free",
+          "gold": false,
+          "github": "guohuadeng/app-odoo",
+          "added": "2026-11-06"
         }
       ]
     },
@@ -2844,6 +2871,15 @@
           "gold": false,
           "github": "koala73/worldmonitor",
           "added": "2026-11-01"
+        },
+        {
+          "name": "Awesome Harness Engineering",
+          "url": "https://github.com/ai-boost/awesome-harness-engineering",
+          "description": "Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability.",
+          "type": "free",
+          "gold": false,
+          "github": "ai-boost/awesome-harness-engineering",
+          "added": "2026-11-06"
         }
       ]
     },
@@ -4473,6 +4509,15 @@
           "gold": false,
           "github": "WebBreacher/WhatsMyName",
           "added": "2026-11-04"
+        },
+        {
+          "name": "Django Two Factor Auth",
+          "url": "https://github.com/jazzband/django-two-factor-auth",
+          "description": "Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects.",
+          "type": "open-source",
+          "gold": false,
+          "github": "jazzband/django-two-factor-auth",
+          "added": "2026-11-06"
         }
       ]
     }
