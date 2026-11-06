@@ -155,3 +155,8 @@ items:
   desc: OSINT username reconnaissance tool searching across 700+ websites and platforms.
   type: open-source
   added: 2026-11-04
+- name: Django Two Factor Auth
+  url: https://github.com/jazzband/django-two-factor-auth
+  desc: Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects.
+  type: open-source
+  added: 2026-11-06

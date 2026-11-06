@@ -122,3 +122,8 @@ items:
     type: open-source
     github: koala73/worldmonitor
     added: 2026-11-01
+  - name: Awesome Harness Engineering
+    url: https://github.com/ai-boost/awesome-harness-engineering
+    desc: 'Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability.'
+    type: free
+    added: 2026-11-06
