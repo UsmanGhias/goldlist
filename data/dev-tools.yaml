@@ -319,3 +319,21 @@ items:
   type: open-source
   github: boykopovar/AnyPS5
   added: 2026-11-05
+- name: Cheating Daddy
+  url: https://cheatingdaddy.com
+  desc: A free and opensource app that lets you gain an unfair advantage.
+  type: open-source
+  github: sohzm/cheating-daddy
+  added: 2026-11-06
+- name: Football Analytics
+  url: https://www.eddwebster.com
+  desc: A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated.
+  type: free
+  github: eddwebster/football_analytics
+  added: 2026-11-06
+- name: App Odoo
+  url: https://www.odooai.cn
+  desc: Odoo Free Addon for 20,19,18,17,16,15,14,13,12,11,10, CE and EE and SH.
+  type: free
+  github: guohuadeng/app-odoo
+  added: 2026-11-06
