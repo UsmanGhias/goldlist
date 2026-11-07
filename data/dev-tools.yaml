@@ -337,3 +337,24 @@ items:
   type: free
   github: guohuadeng/app-odoo
   added: 2026-11-06
+- name: Logpress Public
+  url: https://github.com/hasaneyldrm/logpress-public
+  desc: AI-powered workout tracker for iOS & Android , React Native app with AI fitness scoring, workout logging.
+  type: open-source
+  added: 2026-11-07
+- name: Tasker
+  url: https://github.com/ErfanRht/Tasker
+  desc: An open source task manager (todo list) app, developed using Dart language and Flutter framework.
+  type: open-source
+  added: 2026-11-07
+- name: Inlark
+  url: https://inlark.com
+  desc: Beautiful email. For everyone.
+  type: open-source
+  github: inlark/inlark
+  added: 2026-11-07
+- name: Odoo Jsonrpc With Flutter
+  url: https://github.com/mustafal/Odoo-JsonRpc-with-Flutter
+  desc: A Framework for odoo mobile with Flutter.
+  type: free
+  added: 2026-11-07

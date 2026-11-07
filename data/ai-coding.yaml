@@ -242,3 +242,9 @@ items:
   type: free
   github: Gathin23/cleanyourtv
   added: 2026-11-05
+- name: Builder
+  url: https://builder.puter.com
+  desc: AI Builder For Creating Sites and Apps! An open-source alternative to Lovable, Replit, v0, and similar platforms.
+  type: open-source
+  github: HeyPuter/builder
+  added: 2026-11-07
