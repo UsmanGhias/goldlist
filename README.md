@@ -11,13 +11,13 @@
 <h3>Only the gold. Everything else is noise.</h3>
 
 <p>
-  <b>486 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
+  <b>491 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
   learning, building products, and staying secure. Sorted across 16 categories and verified every week.
 </p>
 
-[![Entries](https://img.shields.io/badge/entries-486-d4af37?style=flat-square&labelColor=24292f)](#contents)
+[![Entries](https://img.shields.io/badge/entries-491-d4af37?style=flat-square&labelColor=24292f)](#contents)
 [![Gold picks](https://img.shields.io/badge/gold_picks-70-d4af37?style=flat-square&labelColor=24292f)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-351-2ea44f?style=flat-square&labelColor=24292f)](#contents)
+[![Open source](https://img.shields.io/badge/open_source-355-2ea44f?style=flat-square&labelColor=24292f)](#contents)
 [![Web Directory](https://img.shields.io/badge/web_directory-live-d4af37?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=24292f)](https://goldlist-seven.vercel.app/)
 [![Weekly Check](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square&labelColor=24292f)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
 [![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=24292f&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
@@ -30,9 +30,9 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>486</h3><sub>verified resources</sub></td>
+<td align="center" width="25%"><h3>491</h3><sub>verified resources</sub></td>
 <td align="center" width="25%"><h3>16</h3><sub>curated topics</sub></td>
-<td align="center" width="25%"><h3>351</h3><sub>open-source repos</sub></td>
+<td align="center" width="25%"><h3>355</h3><sub>open-source repos</sub></td>
 <td align="center" width="25%"><h3>70</h3><sub>elite gold picks</sub></td>
 </tr>
 </table>
@@ -43,7 +43,7 @@
 
 <br><br>
 
-**[🔎 Search &amp; filter all 486 resources on the live website →](https://goldlist-seven.vercel.app/)**
+**[🔎 Search &amp; filter all 491 resources on the live website →](https://goldlist-seven.vercel.app/)**
 
 <sub>⭐ <b>Star this repository</b> to keep it one click away. Updated weekly.</sub>
 
@@ -540,16 +540,16 @@ The best of the best. If you only open a few links today, make it these.
 
 ## 🆕 Recently Added
 
+- **[Logpress Public](https://github.com/hasaneyldrm/logpress-public)**: AI-powered workout tracker for iOS & Android , React Native app with AI fitness scoring, workout logging. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-07</sub>
+- **[Tasker](https://github.com/ErfanRht/Tasker)**: An open source task manager (todo list) app, developed using Dart language and Flutter framework. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-07</sub>
+- **[Inlark](https://inlark.com)**: Beautiful email. For everyone. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-07</sub>
+- **[Odoo Jsonrpc With Flutter](https://github.com/mustafal/Odoo-JsonRpc-with-Flutter)**: A Framework for odoo mobile with Flutter. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-07</sub>
+- **[Builder](https://builder.puter.com)**: AI Builder For Creating Sites and Apps! An open-source alternative to Lovable, Replit, v0, and similar platforms. <sub>[🧠 AI Coding](#ai-coding) · 2026-11-07</sub>
 - **[Cheating Daddy](https://cheatingdaddy.com)**: A free and opensource app that lets you gain an unfair advantage. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-06</sub>
 - **[Football Analytics](https://www.eddwebster.com)**: A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-06</sub>
 - **[App Odoo](https://www.odooai.cn)**: Odoo Free Addon for 20,19,18,17,16,15,14,13,12,11,10, CE and EE and SH. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-06</sub>
 - **[Awesome Harness Engineering](https://github.com/ai-boost/awesome-harness-engineering)**: Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability. <sub>[🔌 MCP](#mcp) · 2026-11-06</sub>
 - **[Django Two Factor Auth](https://github.com/jazzband/django-two-factor-auth)**: Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects. <sub>[🔒 Privacy](#privacy-security) · 2026-11-06</sub>
-- **[Can I use](https://caniuse.com)**: Up-to-date browser feature support tables for modern HTML, CSS, JavaScript, and Web APIs. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
-- **[Crontab.guru](https://crontab.guru)**: Interactive cron schedule expression editor with human-readable plain English definitions. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
-- **[JSON Crack](https://jsoncrack.com)**: Interactive visual graph and hierarchical tree viewer for complex JSON structures. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
-- **[Ray.so](https://ray.so)**: Generate beautiful code snippet screenshots with syntax themes, padding, and dark mode. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
-- **[Bundlephobia](https://bundlephobia.com)**: Find the bundle size and download impact of npm packages before adding them to projects. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-05</sub>
 
 <a id="contents"></a>
 
@@ -562,9 +562,9 @@ The best of the best. If you only open a few links today, make it these.
 | 🎓 | **[Scholarships & Research Funding](#scholarships)** | Funded master's, PhDs and fellowships, so you can study without paying for it. | 22 |
 | 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 36 |
 | 🧑‍🎓 | **[Students & Programs](#students)** | Free licenses, credits and paid programs available only while you're a student or newcomer. | 16 |
-| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 61 |
+| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 65 |
 | 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 37 |
-| 🧠 | **[AI Coding Agents & Tools](#ai-coding)** | Terminal coding agents, spec-driven workflows and the tools that make Claude Code better. | 42 |
+| 🧠 | **[AI Coding Agents & Tools](#ai-coding)** | Terminal coding agents, spec-driven workflows and the tools that make Claude Code better. | 43 |
 | 🧩 | **[Claude & Agent Skills](#agent-skills)** | Drop-in skills and plugins that give Claude Code, Codex, Gemini CLI and Antigravity new abilities. | 35 |
 | 🔌 | **[MCP Servers](#mcp)** | Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases. | 22 |
 | 🎨 | **[Design & UI](#design)** | Icons, fonts, photos and design tools that look premium and cost nothing. | 33 |
@@ -756,7 +756,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🛠️ Developer Tools & Free Tiers
 
 > Build, host and ship without a credit card.<br>
-> <sub>61 picks · 10 gold</sub>
+> <sub>65 picks · 10 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -821,6 +821,10 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=cheatingdaddy.com&sz=64" width="20" height="20"> | **[Cheating Daddy](https://cheatingdaddy.com)** | A free and opensource app that lets you gain an unfair advantage. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/sohzm/cheating-daddy?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/sohzm/cheating-daddy) |
 | <img src="https://www.google.com/s2/favicons?domain=www.eddwebster.com&sz=64" width="20" height="20"> | **[Football Analytics](https://www.eddwebster.com)** | A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/eddwebster/football_analytics?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/eddwebster/football_analytics) |
 | <img src="https://www.google.com/s2/favicons?domain=www.odooai.cn&sz=64" width="20" height="20"> | **[App Odoo](https://www.odooai.cn)** | Odoo Free Addon for 20,19,18,17,16,15,14,13,12,11,10, CE and EE and SH. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/guohuadeng/app-odoo?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/guohuadeng/app-odoo) |
+| <img src="https://github.com/hasaneyldrm.png?size=64" width="20" height="20"> | **[Logpress Public](https://github.com/hasaneyldrm/logpress-public)** | AI-powered workout tracker for iOS & Android , React Native app with AI fitness scoring, workout logging. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/hasaneyldrm/logpress-public?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/hasaneyldrm/logpress-public) |
+| <img src="https://github.com/ErfanRht.png?size=64" width="20" height="20"> | **[Tasker](https://github.com/ErfanRht/Tasker)** | An open source task manager (todo list) app, developed using Dart language and Flutter framework. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ErfanRht/Tasker?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ErfanRht/Tasker) |
+| <img src="https://www.google.com/s2/favicons?domain=inlark.com&sz=64" width="20" height="20"> | **[Inlark](https://inlark.com)** | Beautiful email. For everyone. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/inlark/inlark?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/inlark/inlark) |
+| <img src="https://github.com/mustafal.png?size=64" width="20" height="20"> | **[Odoo Jsonrpc With Flutter](https://github.com/mustafal/Odoo-JsonRpc-with-Flutter)** | A Framework for odoo mobile with Flutter. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/mustafal/Odoo-JsonRpc-with-Flutter?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/mustafal/Odoo-JsonRpc-with-Flutter) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -878,7 +882,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🧠 AI Coding Agents & Tools
 
 > Terminal coding agents, spec-driven workflows and the tools that make Claude Code better.<br>
-> <sub>42 picks · 6 gold</sub>
+> <sub>43 picks · 6 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -924,6 +928,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/decolua.png?size=64" width="20" height="20"> | **[9Router](https://github.com/decolua/9router)** | Multi-provider routing gateway connecting Claude Code, Codex, and Cursor. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/decolua/9router?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/decolua/9router) |
 | <img src="https://github.com/pingdotgg.png?size=64" width="20" height="20"> | **[T3 Code](https://github.com/pingdotgg/t3code)** | Full-stack web application scaffolding and agentic code generator by Theo. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/pingdotgg/t3code?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/pingdotgg/t3code) |
 | <img src="https://www.google.com/s2/favicons?domain=cleanyour.tv&sz=64" width="20" height="20"> | **[Cleanyourtv](https://cleanyour.tv)** | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/Gathin23/cleanyourtv?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/Gathin23/cleanyourtv) |
+| <img src="https://www.google.com/s2/favicons?domain=builder.puter.com&sz=64" width="20" height="20"> | **[Builder](https://builder.puter.com)** | AI Builder For Creating Sites and Apps! An open-source alternative to Lovable, Replit, v0, and similar platforms. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/HeyPuter/builder?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/HeyPuter/builder) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 

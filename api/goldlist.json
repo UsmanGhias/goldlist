@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 486,
+  "total": 491,
   "categories": [
     {
       "slug": "jobs",
@@ -1620,6 +1620,42 @@
           "gold": false,
           "github": "guohuadeng/app-odoo",
           "added": "2026-11-06"
+        },
+        {
+          "name": "Logpress Public",
+          "url": "https://github.com/hasaneyldrm/logpress-public",
+          "description": "AI-powered workout tracker for iOS & Android , React Native app with AI fitness scoring, workout logging.",
+          "type": "open-source",
+          "gold": false,
+          "github": "hasaneyldrm/logpress-public",
+          "added": "2026-11-07"
+        },
+        {
+          "name": "Tasker",
+          "url": "https://github.com/ErfanRht/Tasker",
+          "description": "An open source task manager (todo list) app, developed using Dart language and Flutter framework.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ErfanRht/Tasker",
+          "added": "2026-11-07"
+        },
+        {
+          "name": "Inlark",
+          "url": "https://inlark.com",
+          "description": "Beautiful email. For everyone.",
+          "type": "open-source",
+          "gold": false,
+          "github": "inlark/inlark",
+          "added": "2026-11-07"
+        },
+        {
+          "name": "Odoo Jsonrpc With Flutter",
+          "url": "https://github.com/mustafal/Odoo-JsonRpc-with-Flutter",
+          "description": "A Framework for odoo mobile with Flutter.",
+          "type": "free",
+          "gold": false,
+          "github": "mustafal/Odoo-JsonRpc-with-Flutter",
+          "added": "2026-11-07"
         }
       ]
     },
@@ -2349,6 +2385,15 @@
           "gold": false,
           "github": "Gathin23/cleanyourtv",
           "added": "2026-11-05"
+        },
+        {
+          "name": "Builder",
+          "url": "https://builder.puter.com",
+          "description": "AI Builder For Creating Sites and Apps! An open-source alternative to Lovable, Replit, v0, and similar platforms.",
+          "type": "open-source",
+          "gold": false,
+          "github": "HeyPuter/builder",
+          "added": "2026-11-07"
         }
       ]
     },
