@@ -358,3 +358,14 @@ items:
   desc: A Framework for odoo mobile with Flutter.
   type: free
   added: 2026-11-07
+- name: Officeops Wps
+  url: https://officeops.onrender.com/
+  desc: OfficeOps is a powerful Django-based Workforce Productivity Suite designed to simplify HR and office management. It.
+  type: open-source
+  github: Gaurav241/OfficeOps-WPS
+  added: 2026-11-08
+- name: Arena
+  url: https://github.com/arena-ai/arena
+  desc: A place to evaluate public models.
+  type: open-source
+  added: 2026-11-08
