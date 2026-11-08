@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 491,
+  "total": 493,
   "categories": [
     {
       "slug": "jobs",
@@ -1656,6 +1656,24 @@
           "gold": false,
           "github": "mustafal/Odoo-JsonRpc-with-Flutter",
           "added": "2026-11-07"
+        },
+        {
+          "name": "Officeops Wps",
+          "url": "https://officeops.onrender.com/",
+          "description": "OfficeOps is a powerful Django-based Workforce Productivity Suite designed to simplify HR and office management. It.",
+          "type": "open-source",
+          "gold": false,
+          "github": "Gaurav241/OfficeOps-WPS",
+          "added": "2026-11-08"
+        },
+        {
+          "name": "Arena",
+          "url": "https://github.com/arena-ai/arena",
+          "description": "A place to evaluate public models.",
+          "type": "open-source",
+          "gold": false,
+          "github": "arena-ai/arena",
+          "added": "2026-11-08"
         }
       ]
     },

@@ -11,13 +11,13 @@
 <h3>Only the gold. Everything else is noise.</h3>
 
 <p>
-  <b>491 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
+  <b>493 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
   learning, building products, and staying secure. Sorted across 16 categories and verified every week.
 </p>
 
-[![Entries](https://img.shields.io/badge/entries-491-d4af37?style=flat-square&labelColor=24292f)](#contents)
+[![Entries](https://img.shields.io/badge/entries-493-d4af37?style=flat-square&labelColor=24292f)](#contents)
 [![Gold picks](https://img.shields.io/badge/gold_picks-70-d4af37?style=flat-square&labelColor=24292f)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-355-2ea44f?style=flat-square&labelColor=24292f)](#contents)
+[![Open source](https://img.shields.io/badge/open_source-357-2ea44f?style=flat-square&labelColor=24292f)](#contents)
 [![Web Directory](https://img.shields.io/badge/web_directory-live-d4af37?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=24292f)](https://goldlist-seven.vercel.app/)
 [![Weekly Check](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square&labelColor=24292f)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
 [![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=24292f&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
@@ -30,9 +30,9 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>491</h3><sub>verified resources</sub></td>
+<td align="center" width="25%"><h3>493</h3><sub>verified resources</sub></td>
 <td align="center" width="25%"><h3>16</h3><sub>curated topics</sub></td>
-<td align="center" width="25%"><h3>355</h3><sub>open-source repos</sub></td>
+<td align="center" width="25%"><h3>357</h3><sub>open-source repos</sub></td>
 <td align="center" width="25%"><h3>70</h3><sub>elite gold picks</sub></td>
 </tr>
 </table>
@@ -43,7 +43,7 @@
 
 <br><br>
 
-**[🔎 Search &amp; filter all 491 resources on the live website →](https://goldlist-seven.vercel.app/)**
+**[🔎 Search &amp; filter all 493 resources on the live website →](https://goldlist-seven.vercel.app/)**
 
 <sub>⭐ <b>Star this repository</b> to keep it one click away. Updated weekly.</sub>
 
@@ -540,6 +540,8 @@ The best of the best. If you only open a few links today, make it these.
 
 ## 🆕 Recently Added
 
+- **[Officeops Wps](https://officeops.onrender.com/)**: OfficeOps is a powerful Django-based Workforce Productivity Suite designed to simplify HR and office management. It. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-08</sub>
+- **[Arena](https://github.com/arena-ai/arena)**: A place to evaluate public models. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-08</sub>
 - **[Logpress Public](https://github.com/hasaneyldrm/logpress-public)**: AI-powered workout tracker for iOS & Android , React Native app with AI fitness scoring, workout logging. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-07</sub>
 - **[Tasker](https://github.com/ErfanRht/Tasker)**: An open source task manager (todo list) app, developed using Dart language and Flutter framework. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-07</sub>
 - **[Inlark](https://inlark.com)**: Beautiful email. For everyone. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-07</sub>
@@ -548,8 +550,6 @@ The best of the best. If you only open a few links today, make it these.
 - **[Cheating Daddy](https://cheatingdaddy.com)**: A free and opensource app that lets you gain an unfair advantage. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-06</sub>
 - **[Football Analytics](https://www.eddwebster.com)**: A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-06</sub>
 - **[App Odoo](https://www.odooai.cn)**: Odoo Free Addon for 20,19,18,17,16,15,14,13,12,11,10, CE and EE and SH. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-06</sub>
-- **[Awesome Harness Engineering](https://github.com/ai-boost/awesome-harness-engineering)**: Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability. <sub>[🔌 MCP](#mcp) · 2026-11-06</sub>
-- **[Django Two Factor Auth](https://github.com/jazzband/django-two-factor-auth)**: Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects. <sub>[🔒 Privacy](#privacy-security) · 2026-11-06</sub>
 
 <a id="contents"></a>
 
@@ -562,7 +562,7 @@ The best of the best. If you only open a few links today, make it these.
 | 🎓 | **[Scholarships & Research Funding](#scholarships)** | Funded master's, PhDs and fellowships, so you can study without paying for it. | 22 |
 | 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 36 |
 | 🧑‍🎓 | **[Students & Programs](#students)** | Free licenses, credits and paid programs available only while you're a student or newcomer. | 16 |
-| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 65 |
+| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 67 |
 | 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 37 |
 | 🧠 | **[AI Coding Agents & Tools](#ai-coding)** | Terminal coding agents, spec-driven workflows and the tools that make Claude Code better. | 43 |
 | 🧩 | **[Claude & Agent Skills](#agent-skills)** | Drop-in skills and plugins that give Claude Code, Codex, Gemini CLI and Antigravity new abilities. | 35 |
@@ -756,7 +756,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🛠️ Developer Tools & Free Tiers
 
 > Build, host and ship without a credit card.<br>
-> <sub>65 picks · 10 gold</sub>
+> <sub>67 picks · 10 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -825,6 +825,8 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/ErfanRht.png?size=64" width="20" height="20"> | **[Tasker](https://github.com/ErfanRht/Tasker)** | An open source task manager (todo list) app, developed using Dart language and Flutter framework. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ErfanRht/Tasker?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ErfanRht/Tasker) |
 | <img src="https://www.google.com/s2/favicons?domain=inlark.com&sz=64" width="20" height="20"> | **[Inlark](https://inlark.com)** | Beautiful email. For everyone. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/inlark/inlark?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/inlark/inlark) |
 | <img src="https://github.com/mustafal.png?size=64" width="20" height="20"> | **[Odoo Jsonrpc With Flutter](https://github.com/mustafal/Odoo-JsonRpc-with-Flutter)** | A Framework for odoo mobile with Flutter. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/mustafal/Odoo-JsonRpc-with-Flutter?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/mustafal/Odoo-JsonRpc-with-Flutter) |
+| <img src="https://www.google.com/s2/favicons?domain=officeops.onrender.com&sz=64" width="20" height="20"> | **[Officeops Wps](https://officeops.onrender.com/)** | OfficeOps is a powerful Django-based Workforce Productivity Suite designed to simplify HR and office management. It. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/Gaurav241/OfficeOps-WPS?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/Gaurav241/OfficeOps-WPS) |
+| <img src="https://github.com/arena-ai.png?size=64" width="20" height="20"> | **[Arena](https://github.com/arena-ai/arena)** | A place to evaluate public models. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/arena-ai/arena?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/arena-ai/arena) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
