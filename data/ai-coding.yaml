@@ -248,3 +248,9 @@ items:
   type: open-source
   github: HeyPuter/builder
   added: 2026-11-07
+- name: agent-qa
+  url: https://vostride.com
+  desc: Web/mobile QA with persistent memory and validated self-improvement. FSL-1.1-ALv2; model costs separate.
+  type: free
+  github: vostride/agent-qa
+  added: 2026-11-08
