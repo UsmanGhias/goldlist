@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 493,
+  "total": 494,
   "categories": [
     {
       "slug": "jobs",
@@ -2016,6 +2016,15 @@
           "gold": false,
           "github": "maziyarpanahi/openmed",
           "added": "2026-11-05"
+        },
+        {
+          "name": "Openshell",
+          "url": "https://docs.nvidia.com/openshell/latest/",
+          "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+          "type": "open-source",
+          "gold": false,
+          "github": "ai-openshell/openshell",
+          "added": "2026-11-21"
         }
       ]
     },

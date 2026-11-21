@@ -11,13 +11,13 @@
 <h3>Only the gold. Everything else is noise.</h3>
 
 <p>
-  <b>493 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
+  <b>494 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
   learning, building products, and staying secure. Sorted across 16 categories and verified every week.
 </p>
 
-[![Entries](https://img.shields.io/badge/entries-493-d4af37?style=flat-square&labelColor=24292f)](#contents)
+[![Entries](https://img.shields.io/badge/entries-494-d4af37?style=flat-square&labelColor=24292f)](#contents)
 [![Gold picks](https://img.shields.io/badge/gold_picks-70-d4af37?style=flat-square&labelColor=24292f)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-357-2ea44f?style=flat-square&labelColor=24292f)](#contents)
+[![Open source](https://img.shields.io/badge/open_source-358-2ea44f?style=flat-square&labelColor=24292f)](#contents)
 [![Web Directory](https://img.shields.io/badge/web_directory-live-d4af37?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=24292f)](https://goldlist-seven.vercel.app/)
 [![Weekly Check](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square&labelColor=24292f)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
 [![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=24292f&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
@@ -30,9 +30,9 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>493</h3><sub>verified resources</sub></td>
+<td align="center" width="25%"><h3>494</h3><sub>verified resources</sub></td>
 <td align="center" width="25%"><h3>16</h3><sub>curated topics</sub></td>
-<td align="center" width="25%"><h3>357</h3><sub>open-source repos</sub></td>
+<td align="center" width="25%"><h3>358</h3><sub>open-source repos</sub></td>
 <td align="center" width="25%"><h3>70</h3><sub>elite gold picks</sub></td>
 </tr>
 </table>
@@ -43,7 +43,7 @@
 
 <br><br>
 
-**[🔎 Search &amp; filter all 493 resources on the live website →](https://goldlist-seven.vercel.app/)**
+**[🔎 Search &amp; filter all 494 resources on the live website →](https://goldlist-seven.vercel.app/)**
 
 <sub>⭐ <b>Star this repository</b> to keep it one click away. Updated weekly.</sub>
 
@@ -540,6 +540,7 @@ The best of the best. If you only open a few links today, make it these.
 
 ## 🆕 Recently Added
 
+- **[Openshell](https://docs.nvidia.com/openshell/latest/)**: OpenShell is the safe, private runtime for autonomous AI agents. <sub>[🤖 AI Tools](#ai-tools) · 2026-11-21</sub>
 - **[Officeops Wps](https://officeops.onrender.com/)**: OfficeOps is a powerful Django-based Workforce Productivity Suite designed to simplify HR and office management. It. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-08</sub>
 - **[Arena](https://github.com/arena-ai/arena)**: A place to evaluate public models. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-08</sub>
 - **[Logpress Public](https://github.com/hasaneyldrm/logpress-public)**: AI-powered workout tracker for iOS & Android , React Native app with AI fitness scoring, workout logging. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-07</sub>
@@ -549,7 +550,6 @@ The best of the best. If you only open a few links today, make it these.
 - **[Builder](https://builder.puter.com)**: AI Builder For Creating Sites and Apps! An open-source alternative to Lovable, Replit, v0, and similar platforms. <sub>[🧠 AI Coding](#ai-coding) · 2026-11-07</sub>
 - **[Cheating Daddy](https://cheatingdaddy.com)**: A free and opensource app that lets you gain an unfair advantage. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-06</sub>
 - **[Football Analytics](https://www.eddwebster.com)**: A collection of football analytics projects, data, and analysis by Edd Webster (@eddwebster), including a curated. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-06</sub>
-- **[App Odoo](https://www.odooai.cn)**: Odoo Free Addon for 20,19,18,17,16,15,14,13,12,11,10, CE and EE and SH. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-06</sub>
 
 <a id="contents"></a>
 
@@ -563,7 +563,7 @@ The best of the best. If you only open a few links today, make it these.
 | 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 36 |
 | 🧑‍🎓 | **[Students & Programs](#students)** | Free licenses, credits and paid programs available only while you're a student or newcomer. | 16 |
 | 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 67 |
-| 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 37 |
+| 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 38 |
 | 🧠 | **[AI Coding Agents & Tools](#ai-coding)** | Terminal coding agents, spec-driven workflows and the tools that make Claude Code better. | 43 |
 | 🧩 | **[Claude & Agent Skills](#agent-skills)** | Drop-in skills and plugins that give Claude Code, Codex, Gemini CLI and Antigravity new abilities. | 35 |
 | 🔌 | **[MCP Servers](#mcp)** | Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases. | 22 |
@@ -835,7 +835,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🤖 AI Tools & Models
 
 > Run models locally, build AI apps and automate your work.<br>
-> <sub>37 picks · 5 gold</sub>
+> <sub>38 picks · 5 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -876,6 +876,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/Niko1221.png?size=64" width="20" height="20"> | **[Strata](https://github.com/Niko1221/Strata)** | Run high-performance open LLMs on consumer GPUs with one-click desktop setup. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/Niko1221/Strata?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/Niko1221/Strata) |
 | <img src="https://www.google.com/s2/favicons?domain=mathmodel.top&sz=64" width="20" height="20"> | **[Mathmodelagent](https://mathmodel.top/home)** | Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/jihe520/MathModelAgent?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/jihe520/MathModelAgent) |
 | <img src="https://www.google.com/s2/favicons?domain=openmed.life&sz=64" width="20" height="20"> | **[Openmed](https://openmed.life/)** | Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/maziyarpanahi/openmed?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/maziyarpanahi/openmed) |
+| <img src="https://www.google.com/s2/favicons?domain=docs.nvidia.com&sz=64" width="20" height="20"> | **[Openshell](https://docs.nvidia.com/openshell/latest/)** | OpenShell is the safe, private runtime for autonomous AI agents. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ai-openshell/openshell?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ai-openshell/openshell) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
