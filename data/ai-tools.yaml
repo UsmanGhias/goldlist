@@ -204,3 +204,9 @@ items:
   type: open-source
   github: maziyarpanahi/openmed
   added: 2026-11-05
+- name: Openshell
+  url: https://docs.nvidia.com/openshell/latest/
+  desc: OpenShell is the safe, private runtime for autonomous AI agents.
+  type: open-source
+  github: ai-openshell/openshell
+  added: 2026-11-21
