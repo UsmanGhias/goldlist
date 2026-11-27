@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 494,
+  "total": 499,
   "categories": [
     {
       "slug": "jobs",
@@ -1674,6 +1674,33 @@
           "gold": false,
           "github": "arena-ai/arena",
           "added": "2026-11-08"
+        },
+        {
+          "name": "Craft Anything",
+          "url": "https://github.com/storytold/craft-anything",
+          "description": "Craft Anything: understand how any software works, and craft your own.",
+          "type": "open-source",
+          "gold": false,
+          "github": "storytold/craft-anything",
+          "added": "2026-11-27"
+        },
+        {
+          "name": "Deepinfer",
+          "url": "https://github.com/deepseek-ai/DeepInfer",
+          "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models.",
+          "type": "open-source",
+          "gold": false,
+          "github": "deepseek-ai/DeepInfer",
+          "added": "2026-11-27"
+        },
+        {
+          "name": "Dsh Superagent Prototype",
+          "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+          "description": "Towards a More Autonomous Agent System.",
+          "type": "open-source",
+          "gold": false,
+          "github": "deepseek-ai/dsh-superagent-prototype",
+          "added": "2026-11-27"
         }
       ]
     },
@@ -2745,6 +2772,15 @@
           "gold": false,
           "github": "ayghri/i-have-adhd",
           "added": "2026-11-04"
+        },
+        {
+          "name": "Anatomy",
+          "url": "https://skills.wheresryan.sh/anatomy",
+          "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.",
+          "type": "open-source",
+          "gold": false,
+          "github": "wheresryan22/anatomy",
+          "added": "2026-11-27"
         }
       ]
     },
@@ -2952,6 +2988,15 @@
           "gold": false,
           "github": "ai-boost/awesome-harness-engineering",
           "added": "2026-11-06"
+        },
+        {
+          "name": "Artex",
+          "url": "https://github.com/BaaRai/ARTEX",
+          "description": "Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed.",
+          "type": "open-source",
+          "gold": false,
+          "github": "BaaRai/ARTEX",
+          "added": "2026-11-27"
         }
       ]
     },
