@@ -369,3 +369,18 @@ items:
   desc: A place to evaluate public models.
   type: open-source
   added: 2026-11-08
+- name: Craft Anything
+  url: https://github.com/storytold/craft-anything
+  desc: 'Craft Anything: understand how any software works, and craft your own.'
+  type: open-source
+  added: 2026-11-27
+- name: Deepinfer
+  url: https://github.com/deepseek-ai/DeepInfer
+  desc: 'DeepInfer: High-performance, large-scale inference framework for DeepSeek models.'
+  type: open-source
+  added: 2026-11-27
+- name: Dsh Superagent Prototype
+  url: https://github.com/deepseek-ai/dsh-superagent-prototype
+  desc: Towards a More Autonomous Agent System.
+  type: open-source
+  added: 2026-11-27
