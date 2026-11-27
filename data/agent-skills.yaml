@@ -195,3 +195,9 @@ items:
   desc: Agent skill that keeps AI coding outputs concise, structured, and slop-free.
   type: open-source
   added: 2026-11-04
+- name: Anatomy
+  url: https://skills.wheresryan.sh/anatomy
+  desc: An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.
+  type: open-source
+  github: wheresryan22/anatomy
+  added: 2026-11-27

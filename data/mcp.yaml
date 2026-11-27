@@ -127,3 +127,8 @@ items:
     desc: 'Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability.'
     type: free
     added: 2026-11-06
+  - name: Artex
+    url: https://github.com/BaaRai/ARTEX
+    desc: 'Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed.'
+    type: open-source
+    added: 2026-11-27
