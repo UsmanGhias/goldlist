@@ -132,3 +132,9 @@ items:
     desc: 'Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed.'
     type: open-source
     added: 2026-11-27
+  - name: Solidcraft
+    url: https://solidcraft.io
+    desc: 'SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.'
+    type: open-source
+    github: tangency-labs/solidcraft
+    added: 2026-11-28

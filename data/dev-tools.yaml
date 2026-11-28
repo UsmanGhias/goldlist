@@ -384,3 +384,8 @@ items:
   desc: Towards a More Autonomous Agent System.
   type: open-source
   added: 2026-11-27
+- name: Unslop
+  url: https://github.com/heydamir/unslop
+  desc: A Claude skill that turns vibecoded, AI-looking UI into a designed interface.
+  type: open-source
+  added: 2026-11-28

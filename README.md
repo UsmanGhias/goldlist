@@ -11,13 +11,13 @@
 <h3>Only the gold. Everything else is noise.</h3>
 
 <p>
-  <b>499 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
+  <b>501 hand-picked free and open-source resources</b> for finding jobs, AI coding, winning scholarships,<br>
   learning, building products, and staying secure. Sorted across 16 categories and verified every week.
 </p>
 
-[![Entries](https://img.shields.io/badge/entries-499-d4af37?style=flat-square&labelColor=24292f)](#contents)
+[![Entries](https://img.shields.io/badge/entries-501-d4af37?style=flat-square&labelColor=24292f)](#contents)
 [![Gold picks](https://img.shields.io/badge/gold_picks-70-d4af37?style=flat-square&labelColor=24292f)](#gold-picks)
-[![Open source](https://img.shields.io/badge/open_source-363-2ea44f?style=flat-square&labelColor=24292f)](#contents)
+[![Open source](https://img.shields.io/badge/open_source-365-2ea44f?style=flat-square&labelColor=24292f)](#contents)
 [![Web Directory](https://img.shields.io/badge/web_directory-live-d4af37?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=24292f)](https://goldlist-seven.vercel.app/)
 [![Weekly Check](https://img.shields.io/github/actions/workflow/status/UsmanGhias/goldlist/links.yml?label=links&style=flat-square&labelColor=24292f)](https://github.com/UsmanGhias/goldlist/actions/workflows/links.yml)
 [![Stars](https://img.shields.io/github/stars/UsmanGhias/goldlist?style=flat-square&logo=github&labelColor=24292f&color=d4af37)](https://github.com/UsmanGhias/goldlist/stargazers)
@@ -30,9 +30,9 @@
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>499</h3><sub>verified resources</sub></td>
+<td align="center" width="25%"><h3>501</h3><sub>verified resources</sub></td>
 <td align="center" width="25%"><h3>16</h3><sub>curated topics</sub></td>
-<td align="center" width="25%"><h3>363</h3><sub>open-source repos</sub></td>
+<td align="center" width="25%"><h3>365</h3><sub>open-source repos</sub></td>
 <td align="center" width="25%"><h3>70</h3><sub>elite gold picks</sub></td>
 </tr>
 </table>
@@ -43,7 +43,7 @@
 
 <br><br>
 
-**[🔎 Search &amp; filter all 499 resources on the live website →](https://goldlist-seven.vercel.app/)**
+**[🔎 Search &amp; filter all 501 resources on the live website →](https://goldlist-seven.vercel.app/)**
 
 <sub>⭐ <b>Star this repository</b> to keep it one click away. Updated weekly.</sub>
 
@@ -540,6 +540,8 @@ The best of the best. If you only open a few links today, make it these.
 
 ## 🆕 Recently Added
 
+- **[Unslop](https://github.com/heydamir/unslop)**: A Claude skill that turns vibecoded, AI-looking UI into a designed interface. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-28</sub>
+- **[Solidcraft](https://solidcraft.io)**: SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. <sub>[🔌 MCP](#mcp) · 2026-11-28</sub>
 - **[Craft Anything](https://github.com/storytold/craft-anything)**: Craft Anything: understand how any software works, and craft your own. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-27</sub>
 - **[Deepinfer](https://github.com/deepseek-ai/DeepInfer)**: DeepInfer: High-performance, large-scale inference framework for DeepSeek models. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-27</sub>
 - **[Dsh Superagent Prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)**: Towards a More Autonomous Agent System. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-27</sub>
@@ -548,8 +550,6 @@ The best of the best. If you only open a few links today, make it these.
 - **[Openshell](https://docs.nvidia.com/openshell/latest/)**: OpenShell is the safe, private runtime for autonomous AI agents. <sub>[🤖 AI Tools](#ai-tools) · 2026-11-21</sub>
 - **[Officeops Wps](https://officeops.onrender.com/)**: OfficeOps is a powerful Django-based Workforce Productivity Suite designed to simplify HR and office management. It. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-08</sub>
 - **[Arena](https://github.com/arena-ai/arena)**: A place to evaluate public models. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-08</sub>
-- **[Logpress Public](https://github.com/hasaneyldrm/logpress-public)**: AI-powered workout tracker for iOS & Android , React Native app with AI fitness scoring, workout logging. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-07</sub>
-- **[Tasker](https://github.com/ErfanRht/Tasker)**: An open source task manager (todo list) app, developed using Dart language and Flutter framework. <sub>[🛠️ Dev Tools](#dev-tools) · 2026-11-07</sub>
 
 <a id="contents"></a>
 
@@ -562,11 +562,11 @@ The best of the best. If you only open a few links today, make it these.
 | 🎓 | **[Scholarships & Research Funding](#scholarships)** | Funded master's, PhDs and fellowships, so you can study without paying for it. | 22 |
 | 📚 | **[Learning & Courses](#learning)** | Free courses and books that are as good as paid ones, often better. | 36 |
 | 🧑‍🎓 | **[Students & Programs](#students)** | Free licenses, credits and paid programs available only while you're a student or newcomer. | 16 |
-| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 70 |
+| 🛠️ | **[Developer Tools & Free Tiers](#dev-tools)** | Build, host and ship without a credit card. | 71 |
 | 🤖 | **[AI Tools & Models](#ai-tools)** | Run models locally, build AI apps and automate your work. | 38 |
 | 🧠 | **[AI Coding Agents & Tools](#ai-coding)** | Terminal coding agents, spec-driven workflows and the tools that make Claude Code better. | 43 |
 | 🧩 | **[Claude & Agent Skills](#agent-skills)** | Drop-in skills and plugins that give Claude Code, Codex, Gemini CLI and Antigravity new abilities. | 36 |
-| 🔌 | **[MCP Servers](#mcp)** | Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases. | 23 |
+| 🔌 | **[MCP Servers](#mcp)** | Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases. | 24 |
 | 🎨 | **[Design & UI](#design)** | Icons, fonts, photos and design tools that look premium and cost nothing. | 33 |
 | 🎬 | **[Video, Audio & Media](#media)** | Studio-grade editing, recording and stock media at zero cost. | 31 |
 | ⚡ | **[Productivity & Everyday Apps](#productivity)** | Notes, office apps and utilities, mostly open-source alternatives to paid apps. | 35 |
@@ -756,7 +756,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🛠️ Developer Tools & Free Tiers
 
 > Build, host and ship without a credit card.<br>
-> <sub>70 picks · 10 gold</sub>
+> <sub>71 picks · 10 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -830,6 +830,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://github.com/storytold.png?size=64" width="20" height="20"> | **[Craft Anything](https://github.com/storytold/craft-anything)** | Craft Anything: understand how any software works, and craft your own. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/storytold/craft-anything?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/storytold/craft-anything) |
 | <img src="https://github.com/deepseek-ai.png?size=64" width="20" height="20"> | **[Deepinfer](https://github.com/deepseek-ai/DeepInfer)** | DeepInfer: High-performance, large-scale inference framework for DeepSeek models. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/DeepInfer?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/deepseek-ai/DeepInfer) |
 | <img src="https://github.com/deepseek-ai.png?size=64" width="20" height="20"> | **[Dsh Superagent Prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)** | Towards a More Autonomous Agent System. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/dsh-superagent-prototype?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/deepseek-ai/dsh-superagent-prototype) |
+| <img src="https://github.com/heydamir.png?size=64" width="20" height="20"> | **[Unslop](https://github.com/heydamir/unslop)** | A Claude skill that turns vibecoded, AI-looking UI into a designed interface. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/heydamir/unslop?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/heydamir/unslop) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
@@ -991,7 +992,7 @@ The best of the best. If you only open a few links today, make it these.
 ## 🔌 MCP Servers
 
 > Model Context Protocol servers that plug your AI agent into docs, browsers, GitHub, design files and databases.<br>
-> <sub>23 picks · 4 gold</sub>
+> <sub>24 picks · 4 gold</sub>
 
 | | Resource | Why it's gold | Type | GitHub |
 | :-: | :--- | :--- | :-- | :-- |
@@ -1018,6 +1019,7 @@ The best of the best. If you only open a few links today, make it these.
 | <img src="https://www.google.com/s2/favicons?domain=worldmonitor.app&sz=64" width="20" height="20"> | **[WorldMonitor](https://worldmonitor.app)** | Real-time global intelligence dashboard with AI news aggregation and OSINT monitoring. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/koala73/worldmonitor?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/koala73/worldmonitor) |
 | <img src="https://github.com/ai-boost.png?size=64" width="20" height="20"> | **[Awesome Harness Engineering](https://github.com/ai-boost/awesome-harness-engineering)** | Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability. | ![Free](https://img.shields.io/badge/Free-0969da?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/ai-boost/awesome-harness-engineering?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/ai-boost/awesome-harness-engineering) |
 | <img src="https://github.com/BaaRai.png?size=64" width="20" height="20"> | **[Artex](https://github.com/BaaRai/ARTEX)** | Actively maintained ARTEX: AI autonomous penetration testing system. Self-hosted, model-agnostic, evidence-backed. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/BaaRai/ARTEX?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/BaaRai/ARTEX) |
+| <img src="https://www.google.com/s2/favicons?domain=solidcraft.io&sz=64" width="20" height="20"> | **[Solidcraft](https://solidcraft.io)** | SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP. | ![Open source](https://img.shields.io/badge/Open%20source-2ea44f?style=flat-square) | [![GitHub stars](https://img.shields.io/github/stars/tangency-labs/solidcraft?style=flat-square&logo=github&label=&labelColor=1f2328&color=d4af37)](https://github.com/tangency-labs/solidcraft) |
 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
