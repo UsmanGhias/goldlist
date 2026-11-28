@@ -1,7 +1,7 @@
 {
   "name": "GoldList",
   "repository": "https://github.com/UsmanGhias/goldlist",
-  "total": 499,
+  "total": 501,
   "categories": [
     {
       "slug": "jobs",
@@ -1701,6 +1701,15 @@
           "gold": false,
           "github": "deepseek-ai/dsh-superagent-prototype",
           "added": "2026-11-27"
+        },
+        {
+          "name": "Unslop",
+          "url": "https://github.com/heydamir/unslop",
+          "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface.",
+          "type": "open-source",
+          "gold": false,
+          "github": "heydamir/unslop",
+          "added": "2026-11-28"
         }
       ]
     },
@@ -2997,6 +3006,15 @@
           "gold": false,
           "github": "BaaRai/ARTEX",
           "added": "2026-11-27"
+        },
+        {
+          "name": "Solidcraft",
+          "url": "https://solidcraft.io",
+          "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+          "type": "open-source",
+          "gold": false,
+          "github": "tangency-labs/solidcraft",
+          "added": "2026-11-28"
         }
       ]
     },
